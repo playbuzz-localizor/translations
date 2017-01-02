@@ -1,3 +1,5 @@
+#!/usr/bin/env groovy
+
 node {
    // Mark the code checkout 'stage'....
    //stage 'Checkout'
