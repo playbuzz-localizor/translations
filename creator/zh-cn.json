@@ -1,7 +1,7 @@
 {
     "ActionType": "操作类型",
     "AddAnswer": "添加选项",
-    "AddCredentials": "添加凭证",
+    "AddCredentials": "添加图片出处",
     "AddCta": "添加操作命令",
     "AddImage": "添加图片",
     "AddPhoto": "添加照片",
@@ -120,7 +120,7 @@
     "NewsTag": "新闻",
     "Next": "下一页",
     "No": "否",
-    "NoCredentials": "无凭证",
+    "NoCredentials": "无出处",
     "NoResults": "无结果",
     "NotSoFast": "请耐心等待",
     "ofDimensions": "尺寸要求：",
@@ -335,5 +335,8 @@
     "CreatorTitle": "",
     "PoweredByPlaybuzz1": "",
     "ProgressBarNewPersonalityQuiz": "",
-    "ProgressBarNewTrivia": ""
+    "ProgressBarNewTrivia": "",
+    "leikj rewo8wer eliowersdfl i sdwr wqeoriwer": {
+        "add my term original text temporary cool!": ""
+    }
 }
