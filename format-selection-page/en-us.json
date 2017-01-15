@@ -71,9 +71,9 @@
     "LoginTitle": "Sign in to Playbuzz",
     "LoginTypeEmail": "Please type your email below.",
     "LoginSendingPassword": "The new password will be sent to your email.",
-    "SignInText": "Already a member? &nbsp;",
+    "SignInText": "Already a member?",
     "SignInLink": "Sign in",
-    "SignUpText": "New to Playbuzz? &nbsp;",
+    "SignUpText": "New to Playbuzz?",
     "SignUpLink": "Join now",
     "LoginFacebookUser": "Connect with facebook",
     "LoginGoogleUser": "Connect with Google+",
@@ -119,5 +119,11 @@
     "FilterFoodRecipes": "Food recipes",
     "FilterLectures": "Lectures",
     "FilterOmgTvHighlights": "OMG TV highlights",
-    "FilterVideoRiddles": "Video Riddles"
+    "FilterVideoRiddles": "Video Riddles",
+    "LoginRegisterTitle": "Join Playbuzz,\nStart Creating",
+    "LoginSignInTitle": "Sign in to Playbuzz,\nStart Creating",
+    "ProgressBarNew": "Working on a new ",
+    "ProgressBarAcademy": "Playbuzz Academy",
+    "FooterTitle": "Want to Know More?",
+    "FooterSubtitle": "Dive deeper into the world of Playbuzz"
 }
