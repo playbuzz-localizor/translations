@@ -1,16 +1,19 @@
 {
-    "Tell your story": "Tell your story!",
+    "TITLE_PLACEHOLDER": "",
+    "DESCRIPTION_PLACEHOLDER": "",
     "ACTION_PANE": {
-        "PUBLISH_BTN": "Publish",
-        "SAVE_BTN": "Save Draft"
+        "PUBLISH_BUT": "Publish",
+        "SAVE_BUT": "Save Draft"
     },
     "LEFT_PANE": {
         "MAP": {
+            "TOOLTIP": "",
             "TITLE": "",
             "EMPTY_TITLE": "",
             "EMPTY_DESCRIPTION": ""
         },
         "VISIBILITY": {
+            "TOOLTIP": "",
             "TITLE": "",
             "DESCRIPTION": "",
             "LANGUAGE_TITLE": "",
@@ -20,16 +23,19 @@
             "SPONSORED_CHECKBOX_LABEL": ""
         },
         "TAGS": {
+            "TOOLTIP": "",
             "TITLE": "",
             "DESCRIPTION": "",
             "NEW_TAGS_PLACEHOLDER": "",
             "NEW_TAGS_DESCRIPTION": ""
         },
         "SOCIAL": {
+            "TOOLTIP": "",
             "TITLE": "",
             "DESCRIPTION": ""
         },
         "HELP": {
+            "TOOLTIP": "",
             "TITLE": "",
             "DESCRIPTION": "",
             "STEP_1": "",
@@ -39,5 +45,16 @@
             "QUESTIONS_TITLE": "",
             "QUESTIONS_DESCRIPTION": ""
         }
+    },
+    "SECTIONS_LOBBY": {
+        "TITLE": "",
+        "TEXT_TOOLTIP": "",
+        "IMAGE_TOOLTIP": "",
+        "QUOTE_TOOLTIP": "",
+        "CONVO_TOOLTIP": "",
+        "SUMMARY_TOOLTIP": "",
+        "EMBED_TOOLTIP": "",
+        "FLIP_CARD_TOOLTIP": "",
+        "POLL_TOOLTIP": ""
     }
 }
