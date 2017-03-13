@@ -3,5 +3,41 @@
     "ACTION_PANE": {
         "PUBLISH_BTN": "Publish",
         "SAVE_BTN": "Save Draft"
+    },
+    "LEFT_PANE": {
+        "MAP": {
+            "TITLE": "",
+            "EMPTY_TITLE": "",
+            "EMPTY_DESCRIPTION": ""
+        },
+        "VISIBILITY": {
+            "TITLE": "",
+            "DESCRIPTION": "",
+            "LANGUAGE_TITLE": "",
+            "LANGUAGE_DESCRIPTION": "",
+            "LANGUAGE_CHECKBOX_LABEL": "",
+            "SPONSORED_TITLE": "",
+            "SPONSORED_CHECKBOX_LABEL": ""
+        },
+        "TAGS": {
+            "TITLE": "",
+            "DESCRIPTION": "",
+            "NEW_TAGS_PLACEHOLDER": "",
+            "NEW_TAGS_DESCRIPTION": ""
+        },
+        "SOCIAL": {
+            "TITLE": "",
+            "DESCRIPTION": ""
+        },
+        "HELP": {
+            "TITLE": "",
+            "DESCRIPTION": "",
+            "STEP_1": "",
+            "STEP_2": "",
+            "STEP_3": "",
+            "STEP_4": "",
+            "QUESTIONS_TITLE": "",
+            "QUESTIONS_DESCRIPTION": ""
+        }
     }
 }
