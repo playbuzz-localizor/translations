@@ -5,8 +5,8 @@
         "PUBLISH_BUT": "",
         "SAVE_BUT": "",
         "PREVIEW_BTN": "",
-        "ERROR_MESSAGE": "",
-        "Test1": ""
+        "ERROR_MESSAGE": "Error",
+        "Test1": "test translation"
     },
     "LEFT_PANE": {
         "MAP": {
