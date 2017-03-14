@@ -5,7 +5,8 @@
         "PREVIEW_BTN": "",
         "PUBLISH_BUT": "",
         "SAVE_BUT": "",
-        "ERROR_MESSAGE": ""
+        "ERROR_MESSAGE": "",
+        "ERROR_MESSAGE2": ""
     },
     "LEFT_PANE": {
         "MAP": {
