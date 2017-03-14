@@ -4,7 +4,8 @@
         "SAVE_BTN": "Save",
         "PREVIEW_BTN": "Preview",
         "PUBLISH_BUT": "",
-        "SAVE_BUT": ""
+        "SAVE_BUT": "",
+        "ERROR_MESSAGE": ""
     },
     "LEFT_PANE": {
         "MAP": {
