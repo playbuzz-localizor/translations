@@ -57,6 +57,14 @@
             "TEXT_PLACEHOLDER": "",
             "QUOTEE_PLACEHOLDER": "",
             "ADDITIONAL_TEXT_PLACEHOLDER": ""
+        },
+        "CONVO": {
+            "NAME": "Quote",
+            "TITLE_PLACEHOLDER": "",
+            "PARTICIPANT_PLACEHOLDER": "",
+            "BUBBLE_CONTENT_PLACEHOLDER": "",
+            "ADD_BUBBLE_TOOLTIP": "",
+            "ADD_PARTICIPANT_TOOLTIP": ""
         }
     }
 }
