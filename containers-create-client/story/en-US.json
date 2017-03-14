@@ -48,7 +48,8 @@
             "TOOLTIP": "About"
         }
     },
-    "TITLE_PLACEHOLDER": "Story title",
+    "STORY_TITLE_PLACEHOLDER": "Story title",
+    "SECTION_TITLE_PLACEHOLDER": "Title",
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
     "SECTIONS": {
