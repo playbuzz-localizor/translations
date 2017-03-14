@@ -2,17 +2,17 @@
     "ACTION_PANE": {
         "PUBLISH_BTN": "Publish",
         "SAVE_BTN": "Save",
-        "PUBLISH_BUT": "",
-        "SAVE_BUT": "",
-        "PREVIEW_BTN": "",
-        "ERROR_MESSAGE": ""
+        "PUBLISH_BUT": "Publish",
+        "SAVE_BUT": "Save",
+        "PREVIEW_BTN": "Preview",
+        "ERROR_MESSAGE": "Error"
     },
     "LEFT_PANE": {
         "MAP": {
             "TITLE": "Map",
             "EMPTY_TITLE": "Get Started!",
             "EMPTY_DESCRIPTION": "Create and arrange your Story\n",
-            "TOOLTIP": ""
+            "TOOLTIP": "Map"
         },
         "VISIBILITY": {
             "TITLE": "Visibility",
@@ -29,37 +29,29 @@
             "DESCRIPTION": "Make your Story more discoverable using tags",
             "NEW_TAGS_PLACEHOLDER": "Enter your own tags...",
             "NEW_TAGS_DESCRIPTION": "Separated by comma",
-            "TOOLTIP": ""
+            "TOOLTIP": "Tags"
         },
         "SOCIAL": {
-            "TITLE": "",
-            "DESCRIPTION": "",
-            "TOOLTIP": ""
+            "TITLE": "Social appearance",
+            "DESCRIPTION": "How your Story will appear on social networks",
+            "TOOLTIP": "Social appearance"
         },
         "ABOUT": {
-            "TITLE": "",
-            "DESCRIPTION": "",
-            "STEP_1": "",
-            "STEP_2": "",
-            "STEP_3": "",
-            "STEP_4": "",
-            "QUESTIONS_TITLE": "",
-            "QUESTIONS_DESCRIPTION": "",
-            "TOOLTIP": ""
+            "TITLE": "What is Story?",
+            "DESCRIPTION": "Story is the first-ever article creator that enables editorial teams to break their narratives into engaging particles and deliver an interactive, visually-stunning journey to readers.",
+            "STEP_1": "Write your Story",
+            "STEP_2": "Publish!",
+            "STEP_3": "Share or instantly embed to your site",
+            "STEP_4": "Done",
+            "QUESTIONS_TITLE": "Have any questions?",
+            "QUESTIONS_DESCRIPTION": "We're here!",
+            "TOOLTIP": "About"
         }
     },
-    "TITLE_PLACEHOLDER": "",
-    "DESCRIPTION_PLACEHOLDER": "",
+    "TITLE_PLACEHOLDER": "Story title",
+    "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY": {
-        "TITLE": "",
-        "TEXT_TOOLTIP": "",
-        "IMAGE_TOOLTIP": "",
-        "QUOTE_TOOLTIP": "",
-        "CONVO_TOOLTIP": "",
-        "SUMMARY_TOOLTIP": "",
-        "EMBED_TOOLTIP": "",
-        "FLIP_CARD_TOOLTIP": "",
-        "POLL_TOOLTIP": ""
+        "TITLE": ""
     },
     "SECTIONS": {
         "QUOTE": {
@@ -68,5 +60,14 @@
             "QUOTEE_PLACEHOLDER": "",
             "ADDITIONAL_TEXT_PLACEHOLDER": ""
         }
+        "TITLE": "Tell Your Story",
+        "TEXT_TOOLTIP": "Text",
+        "IMAGE_TOOLTIP": "Image",
+        "QUOTE_TOOLTIP": "Quote",
+        "CONVO_TOOLTIP": "Convo",
+        "SUMMARY_TOOLTIP": "Summary",
+        "EMBED_TOOLTIP": "From the web",
+        "FLIP_CARD_TOOLTIP": "Flip Card",
+        "POLL_TOOLTIP": "Poll"
     }
 }
