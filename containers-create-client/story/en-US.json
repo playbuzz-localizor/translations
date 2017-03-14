@@ -2,10 +2,10 @@
     "ACTION_PANE": {
         "PUBLISH_BTN": "Publish",
         "SAVE_BTN": "Save",
-        "PREVIEW_BTN": "",
         "PUBLISH_BUT": "",
         "SAVE_BUT": "",
-        "ERROR_MESSAGE": ""
+        "PREVIEW_BTN": "",
+        "ERROR_MESSAGE": "Error"
     },
     "LEFT_PANE": {
         "MAP": {
