@@ -50,9 +50,7 @@
     },
     "TITLE_PLACEHOLDER": "Story title",
     "DESCRIPTION_PLACEHOLDER": "Description",
-    "SECTIONS_LOBBY": {
-        "TITLE": ""
-    },
+    "SECTIONS_LOBBY_TITLE": "",
     "SECTIONS": {
         "QUOTE": {
             "NAME": "",
@@ -60,14 +58,5 @@
             "QUOTEE_PLACEHOLDER": "",
             "ADDITIONAL_TEXT_PLACEHOLDER": ""
         }
-        "TITLE": "Tell Your Story",
-        "TEXT_TOOLTIP": "Text",
-        "IMAGE_TOOLTIP": "Image",
-        "QUOTE_TOOLTIP": "Quote",
-        "CONVO_TOOLTIP": "Convo",
-        "SUMMARY_TOOLTIP": "Summary",
-        "EMBED_TOOLTIP": "From the web",
-        "FLIP_CARD_TOOLTIP": "Flip Card",
-        "POLL_TOOLTIP": "Poll"
     }
 }
