@@ -50,10 +50,10 @@
     },
     "TITLE_PLACEHOLDER": "Story title",
     "DESCRIPTION_PLACEHOLDER": "Description",
-    "SECTIONS_LOBBY_TITLE": "",
+    "SECTIONS_LOBBY_TITLE": "Tell Your Story",
     "SECTIONS": {
         "QUOTE": {
-            "NAME": "",
+            "NAME": "Quote",
             "TEXT_PLACEHOLDER": "",
             "QUOTEE_PLACEHOLDER": "",
             "ADDITIONAL_TEXT_PLACEHOLDER": ""
