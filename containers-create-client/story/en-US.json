@@ -60,5 +60,13 @@
         "EMBED_TOOLTIP": "",
         "FLIP_CARD_TOOLTIP": "",
         "POLL_TOOLTIP": ""
+    },
+    "SECTIONS": {
+        "QUOTE": {
+            "NAME": "",
+            "TEXT_PLACEHOLDER": "",
+            "QUOTEE_PLACEHOLDER": "",
+            "ADDITIONAL_TEXT_PLACEHOLDER": ""
+        }
     }
 }
