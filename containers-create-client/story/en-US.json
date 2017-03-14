@@ -48,8 +48,6 @@
             "TOOLTIP": "About"
         }
     },
-    "STORY_TITLE_PLACEHOLDER": "Story title",
-    "SECTION_TITLE_PLACEHOLDER": "Title",
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
     "SECTIONS": {
@@ -66,5 +64,7 @@
             "ADD_BUBBLE_TOOLTIP": "",
             "ADD_PARTICIPANT_TOOLTIP": ""
         }
-    }
+    },
+    "STORY_TITLE_PLACEHOLDER": "Story title",
+    "SECTION_TITLE_PLACEHOLDER": ""
 }
