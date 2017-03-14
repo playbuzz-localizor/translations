@@ -2,7 +2,7 @@
     "ACTION_PANE": {
         "PUBLISH_BTN": "Publish",
         "SAVE_BTN": "Save",
-        "PREVIEW_BTN": "Preview",
+        "PREVIEW_BTN": "",
         "PUBLISH_BUT": "",
         "SAVE_BUT": ""
     },
@@ -21,7 +21,7 @@
             "LANGUAGE_CHECKBOX_LABEL": "Enable translation to other languages",
             "SPONSORED_TITLE": "Sponsored Content",
             "SPONSORED_CHECKBOX_LABEL": "This is a sponsored Story",
-            "TOOLTIP": ""
+            "TOOLTIP": "Visibility: {{viewPermission}}"
         },
         "TAGS": {
             "TITLE": "Tags",
