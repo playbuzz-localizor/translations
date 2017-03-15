@@ -1,3 +1,72 @@
 {
-    "Tell your story": "Conte sua história"
+    "ACTION_PANE": {
+        "PUBLISH_BTN": "Publicar",
+        "SAVE_BTN": "Salvar",
+        "PUBLISH_BUT": "Publicar",
+        "SAVE_BUT": "Salvar",
+        "PREVIEW_BTN": "Pré-visualizar",
+        "ERROR_MESSAGE": ""
+    },
+    "LEFT_PANE": {
+        "MAP": {
+            "TITLE": "Mapa de navegação",
+            "EMPTY_TITLE": "Vamos começar!",
+            "EMPTY_DESCRIPTION": "Crie e organize o seu Story",
+            "TOOLTIP": "Mapa de navegação"
+        },
+        "VISIBILITY": {
+            "TITLE": "Visualização",
+            "DESCRIPTION": "Quem pode ver o seu Story",
+            "LANGUAGE_TITLE": "Idioma",
+            "LANGUAGE_DESCRIPTION": "Selecione o idioma do Story",
+            "LANGUAGE_CHECKBOX_LABEL": "Permitir tradução para outros idiomas",
+            "SPONSORED_TITLE": "Conteúdo patrocinado",
+            "SPONSORED_CHECKBOX_LABEL": "Este Story é patrocinado",
+            "TOOLTIP": ""
+        },
+        "TAGS": {
+            "TITLE": "Tags",
+            "DESCRIPTION": "Faça o seu conteúdo ser encontrado usando tags",
+            "NEW_TAGS_PLACEHOLDER": "Escreva as suas próprias tags",
+            "NEW_TAGS_DESCRIPTION": "Separadas por vírgula ",
+            "TOOLTIP": "Tags"
+        },
+        "SOCIAL": {
+            "TITLE": "Visualização nas mídias sociais",
+            "DESCRIPTION": "Como o seu Story aparecerá nas redes sociais",
+            "TOOLTIP": "Visualização nas mídias sociais"
+        },
+        "ABOUT": {
+            "TITLE": "O que é o Story",
+            "DESCRIPTION": "O Story é um recurso exclusivo para transformar longas narrativas em engajadores blocos de conteúdo, possibilitando uma experiência interativa e visualmente agradável aos leitores. ",
+            "STEP_1": "Escreva o seu Story",
+            "STEP_2": "Publicar",
+            "STEP_3": "Compartilhe ou embede diretamente no seu site",
+            "STEP_4": "Feito!",
+            "QUESTIONS_TITLE": "Ficou com alguma dúvida?",
+            "QUESTIONS_DESCRIPTION": "Conte com a gente. ",
+            "TOOLTIP": ""
+        }
+    },
+    "DESCRIPTION_PLACEHOLDER": "Descrição",
+    "SECTIONS_LOBBY_TITLE": "Conte a sua história",
+    "SECTIONS": {
+        "QUOTE": {
+            "NAME": "Quote",
+            "TEXT_PLACEHOLDER": "Escreva a citação",
+            "QUOTEE_PLACEHOLDER": "Quem disse isso...",
+            "ADDITIONAL_TEXT_PLACEHOLDER": "Fale um pouco mais..."
+        },
+        "CONVO": {
+            "NAME": "Convo",
+            "PARTICIPANT_PLACEHOLDER": "Participante",
+            "BUBBLE_CONTENT_PLACEHOLDER": "Escreva o texto...",
+            "ADD_BUBBLE_TOOLTIP": "Adicionar participante",
+            "ADD_PARTICIPANT_TOOLTIP": "Adicionar participante",
+            "DELETE_MESSAGE": ""
+        }
+    },
+    "STORY_TITLE_PLACEHOLDER": "Título do Story",
+    "SECTION_TITLE_PLACEHOLDER": "Título",
+    "DELETE_SECTION_MESSAGE": ""
 }
