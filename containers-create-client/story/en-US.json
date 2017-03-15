@@ -62,7 +62,8 @@
             "PARTICIPANT_PLACEHOLDER": "",
             "BUBBLE_CONTENT_PLACEHOLDER": "",
             "ADD_BUBBLE_TOOLTIP": "",
-            "ADD_PARTICIPANT_TOOLTIP": ""
+            "ADD_PARTICIPANT_TOOLTIP": "",
+            "DELETE_MESSAGE": ""
         }
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
