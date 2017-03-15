@@ -1,3 +1,72 @@
 {
-    "Tell your story": "Cuente su historia"
+    "ACTION_PANE": {
+        "PUBLISH_BTN": "",
+        "SAVE_BTN": "",
+        "PUBLISH_BUT": "",
+        "SAVE_BUT": "",
+        "PREVIEW_BTN": "",
+        "ERROR_MESSAGE": ""
+    },
+    "LEFT_PANE": {
+        "MAP": {
+            "TITLE": "",
+            "EMPTY_TITLE": "",
+            "EMPTY_DESCRIPTION": "",
+            "TOOLTIP": ""
+        },
+        "VISIBILITY": {
+            "TITLE": "",
+            "DESCRIPTION": "",
+            "LANGUAGE_TITLE": "",
+            "LANGUAGE_DESCRIPTION": "",
+            "LANGUAGE_CHECKBOX_LABEL": "",
+            "SPONSORED_TITLE": "",
+            "SPONSORED_CHECKBOX_LABEL": "",
+            "TOOLTIP": ""
+        },
+        "TAGS": {
+            "TITLE": "",
+            "DESCRIPTION": "",
+            "NEW_TAGS_PLACEHOLDER": "",
+            "NEW_TAGS_DESCRIPTION": "",
+            "TOOLTIP": ""
+        },
+        "SOCIAL": {
+            "TITLE": "",
+            "DESCRIPTION": "",
+            "TOOLTIP": ""
+        },
+        "ABOUT": {
+            "TITLE": "",
+            "DESCRIPTION": "",
+            "STEP_1": "",
+            "STEP_2": "",
+            "STEP_3": "",
+            "STEP_4": "",
+            "QUESTIONS_TITLE": "",
+            "QUESTIONS_DESCRIPTION": "",
+            "TOOLTIP": ""
+        }
+    },
+    "DESCRIPTION_PLACEHOLDER": "",
+    "SECTIONS_LOBBY_TITLE": "",
+    "SECTIONS": {
+        "QUOTE": {
+            "NAME": "",
+            "TEXT_PLACEHOLDER": "",
+            "QUOTEE_PLACEHOLDER": "",
+            "ADDITIONAL_TEXT_PLACEHOLDER": ""
+        },
+        "CONVO": {
+            "NAME": "",
+            "PARTICIPANT_PLACEHOLDER": "",
+            "BUBBLE_CONTENT_PLACEHOLDER": "",
+            "ADD_BUBBLE_TOOLTIP": "",
+            "ADD_PARTICIPANT_TOOLTIP": "",
+            "DELETE_MESSAGE": ""
+        }
+    },
+    "STORY_TITLE_PLACEHOLDER": "",
+    "SECTION_TITLE_PLACEHOLDER": "",
+    "DELETE_SECTION_MESSAGE": ""
 }
