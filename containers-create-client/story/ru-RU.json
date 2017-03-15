@@ -64,7 +64,16 @@
             "ADD_BUBBLE_TOOLTIP": "",
             "ADD_PARTICIPANT_TOOLTIP": "Добавить участника",
             "DELETE_MESSAGE": ""
-        }
+        },
+        "EMBED": {
+            "DESCRIPTION_PLACEHOLDER": ""
+        },
+        "IMAGE": {
+            "CAPTION": ""
+        },
+        "PARAGRAPH": {
+            "EDITOR_PLACEHOLDER": ""
+        }                  
     },
     "STORY_TITLE_PLACEHOLDER": "Название Истории",
     "SECTION_TITLE_PLACEHOLDER": "Заголовок",
