@@ -48,6 +48,15 @@
             "TOOLTIP": "About"
         }
     },
+    "TEXT_EDITOR": {
+        "WORD": "",
+        "WORDS": "",
+        "GOOD": "",
+        "NORMAL": "",
+        "BAD": "",
+        "BOLD_TOOLTIP": ""
+        
+    },
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
     "SECTIONS": {
