@@ -98,7 +98,8 @@
                 "ENABLE_VOTING_SWITCH": "",
                 "TOTAL_VOTES_SWITCH": "",
                 "DISPLAY_LOGO_SWITCH": "",
-                "DISPLAY_LOGO_DESCRIPTION": "",
+                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "",
+                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": "",
                 "END_CARD_SWITCH": "",
                 "END_CARD_DESCRIPTION": ""
             }                       
