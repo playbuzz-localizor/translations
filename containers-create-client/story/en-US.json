@@ -51,11 +51,9 @@
     "TEXT_EDITOR": {
         "WORD": "",
         "WORDS": "",
-        "GOOD": "",
-        "NORMAL": "",
-        "BAD": "",
-        "BOLD_TOOLTIP": ""
-        
+        "GOOD_INDICATION": "",
+        "NORMAL_INDICATION": "",
+        "BAD_INDICATION": ""       
     },
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
