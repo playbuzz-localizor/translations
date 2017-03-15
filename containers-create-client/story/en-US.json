@@ -85,8 +85,8 @@
         "POLL": {
             "BACKGROUND_TEMPLATE_TOOLTIP": "",
             "COVER_TEMPLATE_TOOLTIP": "",
-            "CLASSIC_TEMPLATE_TOOLTIP": "",
-            "GRID_TEMPLATE_TOOLTIP": "",
+            "CLASSIC_LAYOUT_TOOLTIP": "",
+            "GRID_LAYOUT_TOOLTIP": "",
             "SETTINGS_TOOLTIP": "", 
             "TITLE_PLACEHOLDER": "",
             "OPTION_PLACEHOLDER": "",
