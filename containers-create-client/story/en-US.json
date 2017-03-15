@@ -81,7 +81,28 @@
         },
         "PARAGRAPH": {
             "EDITOR_PLACEHOLDER": ""
-        }   
+        },
+        "POLL": {
+            "BACKGROUND_TEMPLATE_TOOLTIP": "",
+            "COVER_TEMPLATE_TOOLTIP: "",
+            "CLASSIC_TEMPLATE_TOOLTIP": "",
+            "GRID_TEMPLATE_TOOLTIP": "",
+            "SETTINGS_TOOLTIP": "", 
+            "TITLE_PLACEHOLDER": "",
+            "OPTION_PLACEHOLDER": "",
+            "ADD_OPTION_BUT": "",
+            "SETTINGS": {          
+                "TITLE": "",
+                "HERE_LINK": "",
+                "BACK_BUTTON": "",
+                "ENABLE_VOTING_SWITCH": "",
+                "TOTAL_VOTES_SWITCH": "",
+                "DISPLAY_LOGO_SWITCH": "",
+                "DISPLAY_LOGO_DESCRIPTION": "",
+                "END_CARD_SWITCH": "",
+                "END_CARD_DESCRIPTION": ""
+            }                       
+        }
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
     "SECTION_TITLE_PLACEHOLDER": "Title",
