@@ -64,7 +64,16 @@
             "ADD_BUBBLE_TOOLTIP": "Add Bubble",
             "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
             "DELETE_MESSAGE": "Are you sure?"
-        }
+        },
+        "EMBED": {
+            "DESCRIPTION_PLACEHOLDER": ""
+        },
+        "IMAGE": {
+            "CAPTION": ""
+        },
+        "PARAGRAPH": {
+            "EDITOR_PLACEHOLDER": ""
+        }   
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
     "SECTION_TITLE_PLACEHOLDER": "Title",
