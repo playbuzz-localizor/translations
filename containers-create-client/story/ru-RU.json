@@ -1,3 +1,72 @@
 {
-    "Tell your story": "Расскажите свою историю"
+    "ACTION_PANE": {
+        "PUBLISH_BTN": "Опубликовать",
+        "SAVE_BTN": "Сохранить",
+        "PUBLISH_BUT": "Опубликовать",
+        "SAVE_BUT": "Сохранить",
+        "PREVIEW_BTN": "Предварительный просмотр",
+        "ERROR_MESSAGE": ""
+    },
+    "LEFT_PANE": {
+        "MAP": {
+            "TITLE": "Карта",
+            "EMPTY_TITLE": "Начните здесь!",
+            "EMPTY_DESCRIPTION": "Создайте и оформите вашу Историю ",
+            "TOOLTIP": "Карта"
+        },
+        "VISIBILITY": {
+            "TITLE": "Видимость",
+            "DESCRIPTION": "Кто может просматривать вашу Историю",
+            "LANGUAGE_TITLE": "Язык",
+            "LANGUAGE_DESCRIPTION": "Выберите язык Истории",
+            "LANGUAGE_CHECKBOX_LABEL": "Разрешить перевод на другие языки ",
+            "SPONSORED_TITLE": "Спонсорский контент",
+            "SPONSORED_CHECKBOX_LABEL": "Это спонсорская История",
+            "TOOLTIP": ""
+        },
+        "TAGS": {
+            "TITLE": "Теги",
+            "DESCRIPTION": "При помощи тегов вашу Историю проще найти ",
+            "NEW_TAGS_PLACEHOLDER": "Задайте собственные теги...",
+            "NEW_TAGS_DESCRIPTION": "Теги разделяются запятыми",
+            "TOOLTIP": "Теги"
+        },
+        "SOCIAL": {
+            "TITLE": "Внешний вид в соцсетях ",
+            "DESCRIPTION": "Как будет выглядеть ваша История в соцсетях ",
+            "TOOLTIP": "Внешний вид в соцсетях "
+        },
+        "ABOUT": {
+            "TITLE": "Что такое История?",
+            "DESCRIPTION": "История (Story) – это первый в мире инструмент для создания статей, который позволяет авторам\n разбить повествование на увлекательные фрагменты и предложить \nчитателям визуализированное, интерактивное, захватывающее путешествие. ",
+            "STEP_1": "Запишите свою Историю",
+            "STEP_2": "Опубликуйте",
+            "STEP_3": "Поделитесь или разместите на своем сайте",
+            "STEP_4": "Готово",
+            "QUESTIONS_TITLE": "Остались вопросы?",
+            "QUESTIONS_DESCRIPTION": "Задайте их нам ",
+            "TOOLTIP": ""
+        }
+    },
+    "DESCRIPTION_PLACEHOLDER": "Описание",
+    "SECTIONS_LOBBY_TITLE": "Расскажите свою историю",
+    "SECTIONS": {
+        "QUOTE": {
+            "NAME": "Quote",
+            "TEXT_PLACEHOLDER": "Вставьте цитату...",
+            "QUOTEE_PLACEHOLDER": "Кто это сказал?",
+            "ADDITIONAL_TEXT_PLACEHOLDER": "Расскажите подробней..."
+        },
+        "CONVO": {
+            "NAME": "Convo",
+            "PARTICIPANT_PLACEHOLDER": "Участник",
+            "BUBBLE_CONTENT_PLACEHOLDER": "Введите текст...",
+            "ADD_BUBBLE_TOOLTIP": "",
+            "ADD_PARTICIPANT_TOOLTIP": "Добавить участника",
+            "DELETE_MESSAGE": ""
+        }
+    },
+    "STORY_TITLE_PLACEHOLDER": "Название Истории",
+    "SECTION_TITLE_PLACEHOLDER": "Заголовок",
+    "DELETE_SECTION_MESSAGE": ""
 }
