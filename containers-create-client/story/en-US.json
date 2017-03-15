@@ -51,6 +51,7 @@
     "TEXT_EDITOR": {
         "WORD": "",
         "WORDS": "",
+        "MINIMUM_READ_TIME_LABEL": "",
         "GOOD_INDICATION": "",
         "NORMAL_INDICATION": "",
         "BAD_INDICATION": ""       
