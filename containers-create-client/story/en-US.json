@@ -1,4 +1,9 @@
 {
+    "DESCRIPTION_PLACEHOLDER": "Description",
+    "SECTIONS_LOBBY_TITLE": "Tell Your Story",
+    "STORY_TITLE_PLACEHOLDER": "Story title",
+    "SECTION_TITLE_PLACEHOLDER": "",
+    "DELETE_SECTION_MESSAGE": "",
     "ACTION_PANE": {
         "PUBLISH_BTN": "Publish",
         "SAVE_BTN": "Save",
@@ -47,9 +52,7 @@
             "QUESTIONS_DESCRIPTION": "We're here!",
             "TOOLTIP": "About"
         }
-    },
-    "DESCRIPTION_PLACEHOLDER": "Description",
-    "SECTIONS_LOBBY_TITLE": "Tell Your Story",
+    },   
     "SECTIONS": {
         "QUOTE": {
             "NAME": "Quote",
@@ -65,7 +68,5 @@
             "ADD_PARTICIPANT_TOOLTIP": "",
             "DELETE_MESSAGE": ""
         }
-    },
-    "STORY_TITLE_PLACEHOLDER": "Story title",
-    "SECTION_TITLE_PLACEHOLDER": ""
+    }
 }
