@@ -81,15 +81,8 @@
             "NO_EFFECT": "",
             "FADE_EFFECT": ""
         },
-        "FLIP_CARD": {
-            "FRONT_BUT": "",
-            "BACK_BUT": "",
-            "LANDSCAPE_BUT": "",
-            "SQUARE_BUT": "",
-            "FRONT_CARD_LABEL": "",
-            "BACK_CARD_LABEL": "",
-            "MEDIA_POPOVER": "",
-            "TEXT_POPOVER": ""                                  
+        "VIDEO_PLAYER": {
+            "DESCRIPTION_PLACEHOLDER": ""
         },
         "POLL": {
             "BACKGROUND_TEMPLATE_TOOLTIP": "",
