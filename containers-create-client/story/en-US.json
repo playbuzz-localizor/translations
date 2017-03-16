@@ -84,6 +84,14 @@
         "VIDEO_PLAYER": {
             "DESCRIPTION_PLACEHOLDER": ""
         },
+        "CTA": {
+            "NO_EFFECT": "",
+            "PULSE_EFFECT": "",
+            "FLOATING_EFFECT": "",
+            "BUTTON_TEXT": "",
+            "LINK_PLACEHOLDER": "",
+            "TEST_LINK_TOOLTIP": ""
+        },
         "POLL": {
             "BACKGROUND_TEMPLATE_TOOLTIP": "",
             "COVER_TEMPLATE_TOOLTIP": "",
