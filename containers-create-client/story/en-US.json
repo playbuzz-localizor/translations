@@ -48,14 +48,6 @@
             "TOOLTIP": "About"
         }
     },
-    "TEXT_EDITOR": {
-        "WORD": "",
-        "WORDS": "",
-        "MINIMUM_READ_TIME_LABEL": "",
-        "GOOD_INDICATION": "",
-        "NORMAL_INDICATION": "",
-        "BAD_INDICATION": ""       
-    },
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
     "SECTIONS": {
@@ -74,7 +66,7 @@
             "DELETE_MESSAGE": "Are you sure?"
         },
         "EMBED": {
-            "DESCRIPTION_PLACEHOLDER": ""
+            "DESCRIPTION_PLACEHOLDER": "Desc"
         },
         "IMAGE": {
             "CAPTION": ""
@@ -85,27 +77,42 @@
         "POLL": {
             "BACKGROUND_TEMPLATE_TOOLTIP": "",
             "COVER_TEMPLATE_TOOLTIP": "",
-            "CLASSIC_LAYOUT_TOOLTIP": "",
-            "GRID_LAYOUT_TOOLTIP": "",
-            "SETTINGS_TOOLTIP": "", 
+            "CLASSIC_TEMPLATE_TOOLTIP": "",
+            "GRID_TEMPLATE_TOOLTIP": "",
+            "SETTINGS_TOOLTIP": "",
             "TITLE_PLACEHOLDER": "",
-            "OPTION_PLACEHOLDER": "",
+            "OPTION_PLACEHOLDER": "Option {{index}}",
             "ADD_OPTION_BUT": "",
-            "SETTINGS": {          
+            "SETTINGS": {
                 "TITLE": "",
                 "HERE_LINK": "",
                 "BACK_BUTTON": "",
                 "ENABLE_VOTING_SWITCH": "",
                 "TOTAL_VOTES_SWITCH": "",
                 "DISPLAY_LOGO_SWITCH": "",
-                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "",
-                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": "",
+                "DISPLAY_LOGO_DESCRIPTION": "",
                 "END_CARD_SWITCH": "",
-                "END_CARD_DESCRIPTION": ""
-            }                       
+                "END_CARD_DESCRIPTION": "",
+                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "",
+                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": ""
+            },
+            "CLASSIC_LAYOUT_TOOLTIP": "",
+            "GRID_LAYOUT_TOOLTIP": ""
         }
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
     "SECTION_TITLE_PLACEHOLDER": "Title",
-    "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?"
+    "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
+    "TEXT_EDITOR": {
+        "WORD": "",
+        "WORDS": "",
+        "GOOD": "",
+        "NORMAL": "",
+        "BAD": "",
+        "BOLD_TOOLTIP": "",
+        "GOOD_INDICATION": "",
+        "NORMAL_INDICATION": "",
+        "BAD_INDICATION": "",
+        "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
+    }
 }
