@@ -74,6 +74,13 @@
         "PARAGRAPH": {
             "EDITOR_PLACEHOLDER": ""
         },
+        "SUMMARY": {
+            "ADD_ROW": "",
+            "SUBTITLE_PLACEHOLDER": "",
+            "ROW_PLACEHOLDER":, "",
+            "NO_EFFECT": "",
+            "FADE_EFFECT": ""
+        },
         "POLL": {
             "BACKGROUND_TEMPLATE_TOOLTIP": "",
             "COVER_TEMPLATE_TOOLTIP": "",
