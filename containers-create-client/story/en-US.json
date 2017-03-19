@@ -1,10 +1,15 @@
 {
     "ACTION_PANE": {
-        "PUBLISH_BTN": "Publish",
-        "SAVE_BTN": "Save",
         "PUBLISH_BUT": "Publish",
-        "SAVE_BUT": "Save",
-        "PREVIEW_BTN": "Preview",
+        "PUBLISH_BUT_PENDING": "",
+        "SAVE_BTN": "Save",      
+        "PREVIEW_BUT": "Preview",
+        "PREVIEW_BTN_PENDING": "",
+        "SAVED_NOTIFICATION": "",
+        "VIEW_LINK": "",
+        "SAVE_BUT": "",
+        "SAVE_BUT_NEW_ITEM": "",
+        "SAVE_BUT_PENDING": "",
         "ERROR_MESSAGE": "Error"
     },
     "LEFT_PANE": {
