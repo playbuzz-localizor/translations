@@ -1,21 +1,24 @@
 {
     "ACTION_PANE": {
+        "PUBLISH_BTN": "Publish",
+        "SAVE_BTN": "Save",
         "PUBLISH_BUT": "Publish",
-        "PUBLISH_BUT_PENDING": "",
-        "SAVE_BUT": "Save",      
+        "SAVE_BUT": "Save",
+        "PREVIEW_BTN": "Preview",
+        "ERROR_MESSAGE": "Error",
+        "PUBLISH_BUT_PENDING": "Publishing...",
         "PREVIEW_BUT": "Preview",
-        "PREVIEW_BUT_PENDING": "",
-        "SAVED_NOTIFICATION": "",
-        "VIEW_LINK": "",
-        "SAVE_BUT": "",
-        "SAVE_BUT_NEW_ITEM": "",
-        "SAVE_BUT_PENDING": "",
+        "PREVIEW_BTN_PENDING": "Preparing...",
+        "SAVED_NOTIFICATION": "Saved",
+        "VIEW_LINK": "view",
+        "SAVE_BUT_NEW_ITEM": "Save Draft",
+        "SAVE_BUT_PENDING": "Saving...",
         "ERROR": {
-            "MISSING_REQUIREMENTS": "",
-            "LOGED_OUT": "",
-            "SAVING_DISABLED": "",
-            "OUTDATED": "",
-            "SAVE_FAILED": ""
+            "MISSING_REQUIREMENTS": "Some requirements are missing",
+            "LOGED_OUT": "Please re-login",
+            "SAVING_DISABLED": "Saving is disabled. Please try again in 5 minutes",
+            "OUTDATED": "Item is outdated",
+            "SAVE_FAILED": "Failed to Save"
         }
     },
     "LEFT_PANE": {
