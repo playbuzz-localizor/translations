@@ -10,7 +10,13 @@
         "SAVE_BUT": "",
         "SAVE_BUT_NEW_ITEM": "",
         "SAVE_BUT_PENDING": "",
-        "ERROR_MESSAGE": "Error"
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "",
+            "LOGED_OUT": "",
+            "SAVING_DISABLED": "",
+            "OUTDATED": "",
+            "SAVE_FAILED": ""
+        }
     },
     "LEFT_PANE": {
         "MAP": {
