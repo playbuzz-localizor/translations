@@ -74,24 +74,6 @@
         "PARAGRAPH": {
             "EDITOR_PLACEHOLDER": ""
         },
-        "SUMMARY": {
-            "ADD_ROW": "",
-            "SUBTITLE_PLACEHOLDER": "",
-            "ROW_PLACEHOLDER": "",
-            "NO_EFFECT": "",
-            "FADE_EFFECT": ""
-        },
-        "VIDEO_PLAYER": {
-            "DESCRIPTION_PLACEHOLDER": ""
-        },
-        "CTA": {
-            "NO_EFFECT": "",
-            "PULSE_EFFECT": "",
-            "FLOATING_EFFECT": "",
-            "BUTTON_TEXT": "",
-            "LINK_PLACEHOLDER": "",
-            "TEST_LINK_TOOLTIP": ""
-        },
         "POLL": {
             "BACKGROUND_TEMPLATE_TOOLTIP": "",
             "COVER_TEMPLATE_TOOLTIP": "",
@@ -116,6 +98,34 @@
             },
             "CLASSIC_LAYOUT_TOOLTIP": "",
             "GRID_LAYOUT_TOOLTIP": ""
+        },
+        "SUMMARY": {
+            "ADD_ROW": "",
+            "SUBTITLE_PLACEHOLDER": "",
+            "ROW_PLACEHOLDER": "",
+            "NO_EFFECT": "",
+            "FADE_EFFECT": ""
+        },
+        "FLIP_CARD": {
+            "FRONT_BUT": "",
+            "BACK_BUT": "",
+            "LANDSCAPE_BUT": "",
+            "SQUARE_BUT": "",
+            "FRONT_CARD_LABEL": "",
+            "BACK_CARD_LABEL": "",
+            "MEDIA_POPOVER": "",
+            "TEXT_POPOVER": ""
+        },
+        "VIDEO_PLAYER": {
+            "DESCRIPTION_PLACEHOLDER": ""
+        },
+        "CTA": {
+            "NO_EFFECT": "",
+            "PULSE_EFFECT": "",
+            "FLOATING_EFFECT": "",
+            "BUTTON_TEXT": "",
+            "LINK_PLACEHOLDER": "",
+            "TEST_LINK_TOOLTIP": ""
         }
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
