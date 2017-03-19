@@ -2,9 +2,9 @@
     "ACTION_PANE": {
         "PUBLISH_BUT": "Publish",
         "PUBLISH_BUT_PENDING": "",
-        "SAVE_BTN": "Save",      
+        "SAVE_BUT": "Save",      
         "PREVIEW_BUT": "Preview",
-        "PREVIEW_BTN_PENDING": "",
+        "PREVIEW_BUT_PENDING": "",
         "SAVED_NOTIFICATION": "",
         "VIEW_LINK": "",
         "SAVE_BUT": "",
