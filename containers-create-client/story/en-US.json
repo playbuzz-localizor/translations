@@ -36,7 +36,12 @@
             "LANGUAGE_CHECKBOX_LABEL": "Enable translation to other languages",
             "SPONSORED_TITLE": "Sponsored Content",
             "SPONSORED_CHECKBOX_LABEL": "This is a sponsored Story",
-            "TOOLTIP": "Visibility: {{viewPermission}}"
+            "TOOLTIP": "Visibility: {{viewPermission}}",
+            "VIEW_PERMISSIONS_DROPDOWN": {
+                "PUBLIC": "",
+                "ONLY_ME": "",
+                "ONLY_DIRECT_LINK": ""
+            }
         },
         "TAGS": {
             "TITLE": "Tags",
