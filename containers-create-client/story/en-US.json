@@ -1,4 +1,9 @@
 {
+    "MODAL_LANGUAGE": {
+        "NEW_LABEL": "",
+        "TITLE": "",        
+        "DONE_BUT": ""
+    },
     "ACTION_PANE": {
         "PUBLISH_BTN": "Publish",
         "SAVE_BTN": "Save",
