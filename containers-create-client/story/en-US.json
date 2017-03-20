@@ -167,10 +167,6 @@
     "MODAL_LANGUAGE": {
         "NEW_LABEL": "New xxxx",
         "TITLE": "Title xxxx",
-        "DONE_BUT": "",
-        "ENGLISH": "",
-        "SPANISH": "",
-        "PORTUGAZE": "",
-        "RUSSIAN": ""
+        "DONE_BUT": ""
     }
 }
