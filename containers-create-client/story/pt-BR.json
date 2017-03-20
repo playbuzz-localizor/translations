@@ -4,8 +4,7 @@
         "SAVE_BTN": "Salvar",
         "PUBLISH_BUT": "Publicar",
         "SAVE_BUT": "Salvar",
-        "PREVIEW_BTN": "Pré-visualizar",
-        "ERROR_MESSAGE": ""
+        "PREVIEW_BTN": "Pré-visualizar"
     },
     "LEFT_PANE": {
         "MAP": {
@@ -21,8 +20,7 @@
             "LANGUAGE_DESCRIPTION": "Selecione o idioma do Story",
             "LANGUAGE_CHECKBOX_LABEL": "Permitir tradução para outros idiomas",
             "SPONSORED_TITLE": "Conteúdo patrocinado",
-            "SPONSORED_CHECKBOX_LABEL": "Este Story é patrocinado",
-            "TOOLTIP": ""
+            "SPONSORED_CHECKBOX_LABEL": "Este Story é patrocinado"
         },
         "TAGS": {
             "TITLE": "Tags",
@@ -44,8 +42,7 @@
             "STEP_3": "Compartilhe ou embede diretamente no seu site",
             "STEP_4": "Feito!",
             "QUESTIONS_TITLE": "Ficou com alguma dúvida?",
-            "QUESTIONS_DESCRIPTION": "Conte com a gente. ",
-            "TOOLTIP": ""
+            "QUESTIONS_DESCRIPTION": "Conte com a gente. "
         }
     },
     "DESCRIPTION_PLACEHOLDER": "Descrição",
@@ -62,11 +59,9 @@
             "PARTICIPANT_PLACEHOLDER": "Participante",
             "BUBBLE_CONTENT_PLACEHOLDER": "Escreva o texto...",
             "ADD_BUBBLE_TOOLTIP": "Adicionar participante",
-            "ADD_PARTICIPANT_TOOLTIP": "Adicionar participante",
-            "DELETE_MESSAGE": ""
+            "ADD_PARTICIPANT_TOOLTIP": "Adicionar participante"
         }
     },
     "STORY_TITLE_PLACEHOLDER": "Título do Story",
-    "SECTION_TITLE_PLACEHOLDER": "Título",
-    "DELETE_SECTION_MESSAGE": ""
+    "SECTION_TITLE_PLACEHOLDER": "Título"
 }
