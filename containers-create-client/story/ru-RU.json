@@ -5,7 +5,21 @@
         "PUBLISH_BUT": "Опубликовать",
         "SAVE_BUT": "Сохранить",
         "PREVIEW_BTN": "Предварительный просмотр",
-        "ERROR_MESSAGE": ""
+        "ERROR_MESSAGE": "",
+        "PUBLISH_BUT_PENDING": "",
+        "PREVIEW_BUT": "",
+        "PREVIEW_BTN_PENDING": "",
+        "SAVED_NOTIFICATION": "",
+        "VIEW_LINK": "",
+        "SAVE_BUT_NEW_ITEM": "",
+        "SAVE_BUT_PENDING": "",
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "",
+            "LOGED_OUT": "",
+            "SAVING_DISABLED": "",
+            "OUTDATED": "",
+            "SAVE_FAILED": ""
+        }
     },
     "LEFT_PANE": {
         "MAP": {
@@ -22,14 +36,21 @@
             "LANGUAGE_CHECKBOX_LABEL": "Разрешить перевод на другие языки ",
             "SPONSORED_TITLE": "Спонсорский контент",
             "SPONSORED_CHECKBOX_LABEL": "Это спонсорская История",
-            "TOOLTIP": ""
+            "TOOLTIP": "",
+            "VIEW_PERMISSIONS_DROPDOWN": {
+                "PUBLIC": "",
+                "ONLY_ME": "",
+                "ONLY_DIRECT_LINK": ""
+            }
         },
         "TAGS": {
             "TITLE": "Теги",
             "DESCRIPTION": "При помощи тегов вашу Историю проще найти ",
             "NEW_TAGS_PLACEHOLDER": "Задайте собственные теги...",
             "NEW_TAGS_DESCRIPTION": "Теги разделяются запятыми",
-            "TOOLTIP": "Теги"
+            "TOOLTIP": "Теги",
+            "NEW_TAG_PLACEHOLDER": "",
+            "NEW_TAG_DESCRIPTION": ""
         },
         "SOCIAL": {
             "TITLE": "Внешний вид в соцсетях ",
@@ -73,9 +94,74 @@
         },
         "PARAGRAPH": {
             "EDITOR_PLACEHOLDER": ""
-        }                  
+        },
+        "POLL": {
+            "BACKGROUND_TEMPLATE_TOOLTIP": "",
+            "COVER_TEMPLATE_TOOLTIP": "",
+            "CLASSIC_TEMPLATE_TOOLTIP": "",
+            "GRID_TEMPLATE_TOOLTIP": "",
+            "SETTINGS_TOOLTIP": "",
+            "TITLE_PLACEHOLDER": "",
+            "OPTION_PLACEHOLDER": "",
+            "ADD_OPTION_BUT": "",
+            "SETTINGS": {
+                "TITLE": "",
+                "HERE_LINK": "",
+                "BACK_BUTTON": "",
+                "ENABLE_VOTING_SWITCH": "",
+                "TOTAL_VOTES_SWITCH": "",
+                "DISPLAY_LOGO_SWITCH": "",
+                "DISPLAY_LOGO_DESCRIPTION": "",
+                "END_CARD_SWITCH": "",
+                "END_CARD_DESCRIPTION": "",
+                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "",
+                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": ""
+            },
+            "CLASSIC_LAYOUT_TOOLTIP": "",
+            "GRID_LAYOUT_TOOLTIP": ""
+        },
+        "SUMMARY": {
+            "ADD_ROW": "",
+            "SUBTITLE_PLACEHOLDER": "",
+            "ROW_PLACEHOLDER": "",
+            "NO_EFFECT": "",
+            "FADE_EFFECT": ""
+        },
+        "FLIP_CARD": {
+            "FRONT_BUT": "",
+            "BACK_BUT": "",
+            "LANDSCAPE_BUT": "",
+            "SQUARE_BUT": "",
+            "FRONT_CARD_LABEL": "",
+            "BACK_CARD_LABEL": "",
+            "MEDIA_POPOVER": "",
+            "TEXT_POPOVER": ""
+        },
+        "VIDEO_PLAYER": {
+            "DESCRIPTION_PLACEHOLDER": ""
+        },
+        "CTA": {
+            "NO_EFFECT": "",
+            "PULSE_EFFECT": "",
+            "FLOATING_EFFECT": "",
+            "BUTTON_TEXT": "",
+            "LINK_PLACEHOLDER": "",
+            "TEST_LINK_TOOLTIP": ""
+        }
     },
     "STORY_TITLE_PLACEHOLDER": "Название Истории",
     "SECTION_TITLE_PLACEHOLDER": "Заголовок",
-    "DELETE_SECTION_MESSAGE": ""
+    "DELETE_SECTION_MESSAGE": "",
+    "TEXT_EDITOR": {
+        "WORD": "",
+        "WORDS": "",
+        "GOOD": "",
+        "NORMAL": "",
+        "BAD": "",
+        "BOLD_TOOLTIP": "",
+        "GOOD_INDICATION": "",
+        "NORMAL_INDICATION": "",
+        "BAD_INDICATION": "",
+        "MINIMUM_READ_TIME_LABEL": ""
+    }
 }
