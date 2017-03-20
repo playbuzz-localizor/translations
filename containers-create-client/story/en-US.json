@@ -165,8 +165,8 @@
         "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
     },
     "MODAL_LANGUAGE": {
-        "NEW_LABEL": "",
-        "TITLE": "",
+        "NEW_LABEL": "New xxxx",
+        "TITLE": "Title xxxx",
         "DONE_BUT": "",
         "ENGLISH": "",
         "SPANISH": "",
