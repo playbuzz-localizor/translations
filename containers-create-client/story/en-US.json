@@ -2,7 +2,11 @@
     "MODAL_LANGUAGE": {
         "NEW_LABEL": "",
         "TITLE": "",        
-        "DONE_BUT": ""
+        "DONE_BUT": "",
+        "ENGLISH": "",
+        "SPANISH": "",
+        "PORTUGAZE": "",
+        "RUSSIAN": ""
     },
     "ACTION_PANE": {
         "PUBLISH_BTN": "Publish",
