@@ -1,13 +1,4 @@
 {
-    "MODAL_LANGUAGE": {
-        "NEW_LABEL": "",
-        "TITLE": "",        
-        "DONE_BUT": "",
-        "ENGLISH": "",
-        "SPANISH": "",
-        "PORTUGAZE": "",
-        "RUSSIAN": ""
-    },
     "ACTION_PANE": {
         "PUBLISH_BTN": "Publish",
         "SAVE_BTN": "Save",
@@ -172,5 +163,14 @@
         "NORMAL_INDICATION": "O.K",
         "BAD_INDICATION": "LITTLE TOO LONG",
         "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
+    },
+    "MODAL_LANGUAGE": {
+        "NEW_LABEL": "",
+        "TITLE": "",
+        "DONE_BUT": "",
+        "ENGLISH": "",
+        "SPANISH": "",
+        "PORTUGAZE": "",
+        "RUSSIAN": ""
     }
 }
