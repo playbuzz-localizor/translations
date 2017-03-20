@@ -163,5 +163,14 @@
         "NORMAL_INDICATION": "",
         "BAD_INDICATION": "",
         "MINIMUM_READ_TIME_LABEL": ""
+    },
+    "MODAL_LANGUAGE": {
+        "NEW_LABEL": "",
+        "TITLE": "",
+        "DONE_BUT": "",
+        "ENGLISH": "",
+        "SPANISH": "",
+        "PORTUGAZE": "",
+        "RUSSIAN": ""
     }
 }
