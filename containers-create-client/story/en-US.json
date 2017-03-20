@@ -38,9 +38,9 @@
             "SPONSORED_CHECKBOX_LABEL": "This is a sponsored Story",
             "TOOLTIP": "Visibility: {{viewPermission}}",
             "VIEW_PERMISSIONS_DROPDOWN": {
-                "PUBLIC": "",
-                "ONLY_ME": "",
-                "ONLY_DIRECT_LINK": ""
+                "PUBLIC": "Public (recommended)",
+                "ONLY_ME": "Only Me",
+                "ONLY_DIRECT_LINK": "Direct Link Only"
             }
         },
         "TAGS": {
@@ -87,81 +87,81 @@
             "DELETE_MESSAGE": "Are you sure?"
         },
         "EMBED": {
-            "DESCRIPTION_PLACEHOLDER": ""
+            "DESCRIPTION_PLACEHOLDER": "From the web"
         },
         "IMAGE": {
-            "CAPTION": ""
+            "CAPTION": "Image"
         },
         "PARAGRAPH": {
-            "EDITOR_PLACEHOLDER": ""
+            "EDITOR_PLACEHOLDER": "Paragraph"
         },
         "POLL": {
-            "BACKGROUND_TEMPLATE_TOOLTIP": "",
-            "COVER_TEMPLATE_TOOLTIP": "",
-            "CLASSIC_TEMPLATE_TOOLTIP": "",
-            "GRID_TEMPLATE_TOOLTIP": "",
-            "SETTINGS_TOOLTIP": "",
-            "TITLE_PLACEHOLDER": "",
+            "BACKGROUND_TEMPLATE_TOOLTIP": "Background image ",
+            "COVER_TEMPLATE_TOOLTIP": "Cover image ",
+            "CLASSIC_TEMPLATE_TOOLTIP": "Classic results",
+            "GRID_TEMPLATE_TOOLTIP": "Grid results ",
+            "SETTINGS_TOOLTIP": "Poll settings",
+            "TITLE_PLACEHOLDER": "Question ",
             "OPTION_PLACEHOLDER": "Option {{index}}",
-            "ADD_OPTION_BUT": "",
+            "ADD_OPTION_BUT": "Add option",
             "SETTINGS": {
-                "TITLE": "",
-                "HERE_LINK": "",
-                "BACK_BUTTON": "",
-                "ENABLE_VOTING_SWITCH": "",
-                "TOTAL_VOTES_SWITCH": "",
-                "DISPLAY_LOGO_SWITCH": "",
-                "DISPLAY_LOGO_DESCRIPTION": "",
-                "END_CARD_SWITCH": "",
-                "END_CARD_DESCRIPTION": "",
-                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "",
-                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": ""
+                "TITLE": "POLL SETTINGS",
+                "HERE_LINK": "here",
+                "BACK_BUTTON": "Back to edit",
+                "ENABLE_VOTING_SWITCH": "Enable Voting",
+                "TOTAL_VOTES_SWITCH": "Show Total Votes",
+                "DISPLAY_LOGO_SWITCH": "Display Logo",
+                "DISPLAY_LOGO_DESCRIPTION": "Apply additional customization by adding your logo.\nChange your display picture",
+                "END_CARD_SWITCH": "End Card",
+                "END_CARD_DESCRIPTION": "Drive more shares and engagement using End Card",
+                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "Apply additional customization by adding your logo.",
+                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": "Change your display picture"
             },
-            "CLASSIC_LAYOUT_TOOLTIP": "",
-            "GRID_LAYOUT_TOOLTIP": ""
+            "CLASSIC_LAYOUT_TOOLTIP": "Classic results template",
+            "GRID_LAYOUT_TOOLTIP": "Grid results template "
         },
         "SUMMARY": {
-            "ADD_ROW": "",
-            "SUBTITLE_PLACEHOLDER": "",
-            "ROW_PLACEHOLDER": "",
-            "NO_EFFECT": "",
-            "FADE_EFFECT": ""
+            "ADD_ROW": "Add row ",
+            "SUBTITLE_PLACEHOLDER": "Subtitle",
+            "ROW_PLACEHOLDER": "Enter text...",
+            "NO_EFFECT": "None",
+            "FADE_EFFECT": "Fade In"
         },
         "FLIP_CARD": {
-            "FRONT_BUT": "",
-            "BACK_BUT": "",
-            "LANDSCAPE_BUT": "",
-            "SQUARE_BUT": "",
-            "FRONT_CARD_LABEL": "",
-            "BACK_CARD_LABEL": "",
-            "MEDIA_POPOVER": "",
-            "TEXT_POPOVER": ""
+            "FRONT_BUT": "Front ",
+            "BACK_BUT": "Back",
+            "LANDSCAPE_BUT": "Landscape",
+            "SQUARE_BUT": "Square ",
+            "FRONT_CARD_LABEL": "Front Card",
+            "BACK_CARD_LABEL": "Back Card",
+            "MEDIA_POPOVER": "Select media",
+            "TEXT_POPOVER": "Text card"
         },
         "VIDEO_PLAYER": {
-            "DESCRIPTION_PLACEHOLDER": ""
+            "DESCRIPTION_PLACEHOLDER": "Description "
         },
         "CTA": {
-            "NO_EFFECT": "",
-            "PULSE_EFFECT": "",
-            "FLOATING_EFFECT": "",
-            "BUTTON_TEXT": "",
-            "LINK_PLACEHOLDER": "",
-            "TEST_LINK_TOOLTIP": ""
+            "NO_EFFECT": "None",
+            "PULSE_EFFECT": "Pulse ",
+            "FLOATING_EFFECT": "Floating ",
+            "BUTTON_TEXT": "Enter text...",
+            "LINK_PLACEHOLDER": "Enter link...",
+            "TEST_LINK_TOOLTIP": "Test link"
         }
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
     "SECTION_TITLE_PLACEHOLDER": "Title",
     "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
     "TEXT_EDITOR": {
-        "WORD": "",
-        "WORDS": "",
-        "GOOD": "",
-        "NORMAL": "",
-        "BAD": "",
-        "BOLD_TOOLTIP": "",
-        "GOOD_INDICATION": "",
-        "NORMAL_INDICATION": "",
-        "BAD_INDICATION": "",
+        "WORD": "WORD",
+        "WORDS": "WORDS",
+        "GOOD": "GOOD",
+        "NORMAL": "O.K",
+        "BAD": "LITTLE TOO LONG",
+        "BOLD_TOOLTIP": "Bold",
+        "GOOD_INDICATION": "GOOD",
+        "NORMAL_INDICATION": "O.K",
+        "BAD_INDICATION": "LITTLE TOO LONG",
         "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
     }
 }
