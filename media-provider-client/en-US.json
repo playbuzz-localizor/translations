@@ -45,7 +45,9 @@
             "IMPORT": {
                 "DROP_FILE_DESC": "",
                 "LINK_PLACEHOLDER": "",
-                "INFO_LABEL": ""                
+                "INFO_LABEL": "",
+                "SUBMIT_BUT: "",
+                "IMPORT_DESC: ""
             }            
         }
     }
