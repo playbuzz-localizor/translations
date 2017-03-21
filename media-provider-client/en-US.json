@@ -26,7 +26,8 @@
                 "LINK_LABEL": ""
             },
             "GETTY": {
-                "LOGIN _DESC": "",
+                "LOGIN_DESC_FIRST_ROW": "",
+                "LOGIN_DESC_SECOND_ROW": "",
                 "LOGIN_FORM_DESC": "",
                 "USERNAME_LABEL": "",
                 "USERNAME_PLACEHOLDER": "",
