@@ -39,12 +39,18 @@
                     "CONNECTED_USER": "logged in as {{user}}",
                     "POWERED_BY_LABEL": "powered_by_label",
                     "LOGIN_LINK": "login_link",
-                    "LOGOUT_LINK": "logout_link"
+                    "LOGOUT_LINK": "logout_link",
+                    "RESULTS_COUNT_LABEL": "results_count_label"
+                },
+                "YOUTUBE": {
+                    "RESULTS_COUNT_LABEL": "results_count_label"
+                },
+                "GIPHY": {
+                    "RESULTS_COUNT_LABEL": "results_count_label"
                 },
                 "SEARCH": {
-                    "SEARCH_PLACEHOLDER": "",
-                    "LOAD_MORE_BUT": "",
-                    "RESULTS_COUNT_LABEL": "results"
+                    "SEARCH_PLACEHOLDER": "search_placeholder",
+                    "LOAD_MORE_BUT": "load_more_but",
                 },
                 "IMPORT": {
                     "DROP_FILE_DESC": "",
