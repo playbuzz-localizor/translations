@@ -169,10 +169,6 @@
     "MODAL_LANGUAGE": {
         "NEW_LABEL": "NEW",
         "TITLE": "Select your preferred creation language",
-        "DONE_BUT": "Done",
-        "ENGLISH": "",
-        "SPANISH": "",
-        "PORTUGAZE": "",
-        "RUSSIAN": ""
+        "DONE_BUT": "Done"
     }
 }
