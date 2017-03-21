@@ -14,8 +14,10 @@
             "TEXT_PLACEHOLDER": "",
             "DELETE_TOOLTIP": ""           
         },
-        "ADD_MODAL": {
-            "TITLE": "",
+        "MODAL": {
+            "ADD_TITLE": "",
+            "EDIT_IMAGE_TITLE": "",
+            "EDIT_VIDEO_TITLE": "",
             "LEFT_NAV": {
                 "SEARCH_TITLE": "",
                 "IMPORT_TITLE": "",
@@ -48,7 +50,14 @@
                 "INFO_LABEL": "",
                 "SUBMIT_BUT": "",
                 "IMPORT_DESC": ""
-            }            
+            },
+            "CREDIT_PLACEHOLDER": "",
+            "DONE_EDIT_BUT": ""                        
+        },
+        "POPOVER_MENU": {
+            "EDIT_LABEL": "",
+            "REPLACE_LABEL": "",
+            "DELETE_LABEL": ""
         }
     }
 }
