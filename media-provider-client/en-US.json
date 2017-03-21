@@ -20,8 +20,8 @@
             "EDIT_IMAGE_TITLE": "",
             "EDIT_VIDEO_TITLE": "",
             "MENU": {
-                "SEARCH_TITLE": "",
-                "IMPORT_TITLE": "",
+                "SEARCH_GROUP_TITLE": "",
+                "IMPORT_GROUP_TITLE": "",
                 "UPLOAD_LABEL": "",
                 "WEB_LABEL": ""
             },
