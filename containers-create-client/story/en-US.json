@@ -33,7 +33,7 @@
             "DESCRIPTION": "Who can view your Story",
             "LANGUAGE_TITLE": "Language",
             "LANGUAGE_DESCRIPTION": "Select Story Language\n",
-            "LANGUAGE_CHECKBOX_LABEL": "Enable translation to other languages",           
+            "LANGUAGE_CHECKBOX_LABEL": "Enable translation to other languages",
             "SPONSORED_TITLE": "Sponsored Content",
             "SPONSORED_CHECKBOX_LABEL": "This is a sponsored Story",
             "TOOLTIP": "Visibility: {{viewPermission}}",
@@ -41,7 +41,9 @@
                 "PUBLIC": "Public (recommended)",
                 "ONLY_ME": "Only Me",
                 "ONLY_DIRECT_LINK": "Direct Link Only"
-            }
+            },
+            "CREATOR_LANGUAGE_TITLE": "",
+            "CREATOR_EDIT_BUTTON": ""
         },
         "TAGS": {
             "TITLE": "Tags",
@@ -165,8 +167,12 @@
         "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
     },
     "MODAL_LANGUAGE": {
-        "NEW_LABEL": "New xxxx",
-        "TITLE": "Title xxxx",
-        "DONE_BUT": ""
+        "NEW_LABEL": "NEW",
+        "TITLE": "Select your preferred creation language",
+        "DONE_BUT": "Done",
+        "ENGLISH": "",
+        "SPANISH": "",
+        "PORTUGAZE": "",
+        "RUSSIAN": ""
     }
 }
