@@ -8,7 +8,8 @@
             "FRONT_TITLE": "",
             "BACK_TITLE": "",
             "MEDIA_TOOLTIP": "",
-            "TEXT_TOOLTIP": ""        
+            "TEXT_TOOLTIP": "",
+            "IMAGE_CAPTION_PLACEHOLDER": ""
         },
         "TEXT_CARD": {
             "TEXT_PLACEHOLDER": "",
