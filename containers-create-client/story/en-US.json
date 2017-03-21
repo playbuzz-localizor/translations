@@ -34,6 +34,8 @@
             "LANGUAGE_TITLE": "Language",
             "LANGUAGE_DESCRIPTION": "Select Story Language\n",
             "LANGUAGE_CHECKBOX_LABEL": "Enable translation to other languages",
+            "CREATOR_LANGUAGE_TITLE": "",
+            "CREATOR_EDIT_BUTTON": "",
             "SPONSORED_TITLE": "Sponsored Content",
             "SPONSORED_CHECKBOX_LABEL": "This is a sponsored Story",
             "TOOLTIP": "Visibility: {{viewPermission}}",
