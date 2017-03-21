@@ -44,7 +44,7 @@
                 "SEARCH": {
                     "SEARCH_PLACEHOLDER": "",
                     "LOAD_MORE_BUT": "",
-                    "RESULTS_COUNT_LABEL": ""
+                    "RESULTS_COUNT_LABEL": "{{resultCount}} results"
                 },
                 "IMPORT": {
                     "DROP_FILE_DESC": "",
