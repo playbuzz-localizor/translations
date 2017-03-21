@@ -1,3 +1,12 @@
 {
-    "Upload": "Upload!"
+    "FLIP_CARD": {
+        "FRONT_BUT": "",
+        "BACK_BUT": "",
+        "LANDSACPE_LABEL": "",
+        "SQURE_LABEL": "",
+        "FRONT_TITLE": "",
+        "BACK_TITLE": "",
+        "MEDIA_TOOLTIP": "",
+        "TEXT_TOOLTIP": ""        
+    }
 }
