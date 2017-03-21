@@ -1,65 +1,65 @@
 {
-    "MP": {
-        "FLIP_CARD": {
-            "FRONT_BUT": "",
-            "BACK_BUT": "",
-            "LANDSCAPE_RATIO": "",
-            "SQUARE_RATIO": "",
-            "FRONT_TITLE": "",
-            "BACK_TITLE": "",
-            "MEDIA_TOOLTIP": "",
-            "TEXT_TOOLTIP": "",
-            "IMAGE_CAPTION_PLACEHOLDER": ""
-        },
-        "TEXT_CARD": {
-            "TEXT_PLACEHOLDER": "",
-            "DELETE_TOOLTIP": ""           
-        },
-        "MODAL": {
-            "ADD_TITLE": "",
-            "EDIT_IMAGE_TITLE": "",
-            "EDIT_VIDEO_TITLE": "",
-            "MENU": {
-                "SEARCH_GROUP_TITLE": "",
-                "IMPORT_GROUP_TITLE": "",
-                "FILE_LABEL": "",
-                "LINK_LABEL": ""
+        "MP": {
+            "FLIP_CARD": {
+                "FRONT_BUT": "",
+                "BACK_BUT": "",
+                "LANDSCAPE_RATIO": "",
+                "SQUARE_RATIO": "",
+                "FRONT_TITLE": "",
+                "BACK_TITLE": "",
+                "MEDIA_TOOLTIP": "",
+                "TEXT_TOOLTIP": "",
+                "IMAGE_CAPTION_PLACEHOLDER": ""
             },
-            "GETTY": {
-                "LOGIN_DESC_FIRST_ROW": "",
-                "LOGIN_DESC_SECOND_ROW": "",
-                "LOGIN_FORM_DESC": "",
-                "USERNAME_LABEL": "",
-                "USERNAME_PLACEHOLDER": "",
-                "PASSWORD_LABEL": "",
-                "PASSWORD_PLACEHOLDER": "",
-                "SUBMIT_BUT": "",
-                "CANCEL_BUT": "",
-                "LOGIN_ERROR": "",
-                "LOGOUT_DESC": "",
-                "POWERED_BY_LABEL": "",
-                "LOGIN_LINK": "",
-                "LOGOUT_LINK": ""
+            "TEXT_CARD": {
+                "TEXT_PLACEHOLDER": "",
+                "DELETE_TOOLTIP": ""
             },
-            "SEARCH": {
-                "SEARCH_PLACEHOLDER": "",
-                "LOAD_MORE_BUT": "",
-                "RESULTS_COUNT_LABEL": ""                   
+            "MODAL": {
+                "ADD_TITLE": "add_title",
+                "EDIT_IMAGE_TITLE": "edit_image_title",
+                "EDIT_VIDEO_TITLE": "edit_video_title",
+                "MENU": {
+                    "SEARCH_GROUP_TITLE": "search_group_title",
+                    "IMPORT_GROUP_TITLE": "import_group_title",
+                    "FILE_LABEL": "file_label",
+                    "LINK_LABEL": "link_label"
+                },
+                "GETTY": {
+                    "LOGIN_DESC_FIRST_ROW": "login_desc_first_row",
+                    "LOGIN_DESC_SECOND_ROW": "login_desc_second_row",
+                    "LOGIN_FORM_DESC": "login_form_desc",
+                    "USERNAME_LABEL": "username_label",
+                    "USERNAME_PLACEHOLDER": "username_placeholder",
+                    "PASSWORD_LABEL": "password_label",
+                    "PASSWORD_PLACEHOLDER": "password_placeholder",
+                    "SUBMIT_BUT": "submit_but",
+                    "CANCEL_BUT": "cancel_but",
+                    "LOGIN_ERROR": "login_error",
+                    "CONNECTED_USER": "logged in as {{user}}",
+                    "POWERED_BY_LABEL": "powered_by_label",
+                    "LOGIN_LINK": "login_link",
+                    "LOGOUT_LINK": "logout_link"
+                },
+                "SEARCH": {
+                    "SEARCH_PLACEHOLDER": "",
+                    "LOAD_MORE_BUT": "",
+                    "RESULTS_COUNT_LABEL": ""
+                },
+                "IMPORT": {
+                    "DROP_FILE_DESC": "",
+                    "LINK_PLACEHOLDER": "",
+                    "INFO_LABEL": "",
+                    "SUBMIT_BUT": "",
+                    "IMPORT_DESC": ""
+                },
+                "CREDIT_PLACEHOLDER": "",
+                "DONE_EDIT_BUT": ""
             },
-            "IMPORT": {
-                "DROP_FILE_DESC": "",
-                "LINK_PLACEHOLDER": "",
-                "INFO_LABEL": "",
-                "SUBMIT_BUT": "",
-                "IMPORT_DESC": ""
-            },
-            "CREDIT_PLACEHOLDER": "",
-            "DONE_EDIT_BUT": ""                        
-        },
-        "POPOVER_MENU": {
-            "EDIT_LABEL": "",
-            "REPLACE_LABEL": "",
-            "DELETE_LABEL": ""
+            "POPOVER_MENU": {
+                "EDIT_LABEL": "",
+                "REPLACE_LABEL": "",
+                "DELETE_LABEL": ""
+            }
         }
     }
-}
