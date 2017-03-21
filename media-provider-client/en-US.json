@@ -9,6 +9,44 @@
             "BACK_TITLE": "",
             "MEDIA_TOOLTIP": "",
             "TEXT_TOOLTIP": ""        
+        },
+        "TEXT_CARD": {
+            "TEXT_PLACEHOLDER": "",
+            "DELETE_TOOLTIP": ""           
+        },
+        "ADD_MODAL": {
+            "TITLE": "",
+            "LEFT_NAV": {
+                "SEARCH_TITLE": "",
+                "IMPORT_TITLE": "",
+                "UPLOAD_LABEL": "",
+                "WEB_LABEL": ""
+            },
+            "GETTY": {
+                "LOGIN _DESC": "",
+                "LOGIN_FORM_DESC": "",
+                "USERNAME_LABEL": "",
+                "USERNAME_PLACEHOLDER": "",
+                "PASSWORD_LABEL": "",
+                "PASSWORD_PLACEHOLDER": "",
+                "SUBMIT_BUT": "",
+                "CANCEL_BUT": "",
+                "LOGIN_ERROR": "",
+                "LOGOUT_DESC": "",
+                "POWERED_BY_LABEL": "",
+                "LOGIN_LINK": "",
+                "LOGOUT_LINK": ""
+            },
+            "SEARCH": {
+                "SEARCH_PLACEHOLDER": "",
+                "LOAD_MORE_BUT": "",
+                "RESULTS_COUNT_LABEL": ""                   
+            },
+            "IMPORT": {
+                "DROP_FILE_DESC": "",
+                "LINK_PLACEHOLDER": "",
+                "INFO_LABEL": ""                
+            }            
         }
     }
 }
