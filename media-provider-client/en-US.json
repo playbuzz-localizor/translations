@@ -22,8 +22,8 @@
             "MENU": {
                 "SEARCH_GROUP_TITLE": "",
                 "IMPORT_GROUP_TITLE": "",
-                "UPLOAD_LABEL": "",
-                "WEB_LABEL": ""
+                "FILE_LABEL": "",
+                "LINK_LABEL": ""
             },
             "GETTY": {
                 "LOGIN _DESC": "",
