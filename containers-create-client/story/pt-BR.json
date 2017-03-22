@@ -4,7 +4,22 @@
         "SAVE_BTN": "Salvar",
         "PUBLISH_BUT": "Publicar",
         "SAVE_BUT": "Salvar",
-        "PREVIEW_BTN": "Pré-visualizar"
+        "PREVIEW_BTN": "Pré-visualizar",
+        "ERROR_MESSAGE": "Erro",
+        "PUBLISH_BUT_PENDING": "Publicando...",
+        "PREVIEW_BUT": "Prévia",
+        "PREVIEW_BTN_PENDING": "Preparando...",
+        "SAVED_NOTIFICATION": "Salvo",
+        "VIEW_LINK": "visualizar",
+        "SAVE_BUT_NEW_ITEM": "Salvar Rascunho",
+        "SAVE_BUT_PENDING": "Salvando...",
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "Alguns requisitos estão faltando",
+            "LOGED_OUT": "Faça o login novamente",
+            "SAVING_DISABLED": "O salvamento está desativado. Tente novamente em 5 minutos",
+            "OUTDATED": "Item desatualizado",
+            "SAVE_FAILED": "Falha ao Salvar"
+        }
     },
     "LEFT_PANE": {
         "MAP": {
@@ -20,7 +35,13 @@
             "LANGUAGE_DESCRIPTION": "Selecione o idioma do Story",
             "LANGUAGE_CHECKBOX_LABEL": "Permitir tradução para outros idiomas",
             "SPONSORED_TITLE": "Conteúdo patrocinado",
-            "SPONSORED_CHECKBOX_LABEL": "Este Story é patrocinado"
+            "SPONSORED_CHECKBOX_LABEL": "Este Story é patrocinado",
+            "TOOLTIP": "Visibilidade: {{viewPermission}}",
+            "VIEW_PERMISSIONS_DROPDOWN": {
+                "PUBLIC": "Público (recomendado)",
+                "ONLY_ME": "Somente Eu",
+                "ONLY_DIRECT_LINK": "Apenas Link Direto"
+            }
         },
         "TAGS": {
             "TITLE": "Tags",
@@ -42,7 +63,8 @@
             "STEP_3": "Compartilhe ou embede diretamente no seu site",
             "STEP_4": "Feito!",
             "QUESTIONS_TITLE": "Ficou com alguma dúvida?",
-            "QUESTIONS_DESCRIPTION": "Conte com a gente. "
+            "QUESTIONS_DESCRIPTION": "Conte com a gente. ",
+            "TOOLTIP": "Sobre"
         }
     },
     "DESCRIPTION_PLACEHOLDER": "Descrição",
@@ -59,9 +81,90 @@
             "PARTICIPANT_PLACEHOLDER": "Participante",
             "BUBBLE_CONTENT_PLACEHOLDER": "Escreva o texto...",
             "ADD_BUBBLE_TOOLTIP": "Adicionar participante",
-            "ADD_PARTICIPANT_TOOLTIP": "Adicionar participante"
+            "ADD_PARTICIPANT_TOOLTIP": "Adicionar participante",
+            "DELETE_MESSAGE": "Você está certo?"
+        },
+        "EMBED": {
+            "DESCRIPTION_PLACEHOLDER": "Da web"
+        },
+        "IMAGE": {
+            "CAPTION": "Imagem"
+        },
+        "PARAGRAPH": {
+            "EDITOR_PLACEHOLDER": "Parágrafo"
+        },
+        "POLL": {
+            "BACKGROUND_TEMPLATE_TOOLTIP": "Imagem de fundo",
+            "COVER_TEMPLATE_TOOLTIP": "Imagem de capa",
+            "CLASSIC_TEMPLATE_TOOLTIP": "Resultados clássicos",
+            "GRID_TEMPLATE_TOOLTIP": "Resultados em grade",
+            "SETTINGS_TOOLTIP": "Resultados da pesquisa",
+            "TITLE_PLACEHOLDER": "Pergunta",
+            "OPTION_PLACEHOLDER": "Opção {{index}}",
+            "ADD_OPTION_BUT": "Acrescentar opção",
+            "SETTINGS": {
+                "TITLE": "CONFIGURAÇÕES DA PESQUISA",
+                "HERE_LINK": "aqui",
+                "BACK_BUTTON": "Voltar para edição",
+                "ENABLE_VOTING_SWITCH": "Habilitar votação",
+                "TOTAL_VOTES_SWITCH": "Mostrar total de votos",
+                "DISPLAY_LOGO_SWITCH": "Mostrar logo",
+                "DISPLAY_LOGO_DESCRIPTION": "Aplique customizações adicionais acrescentando seu logo.\nAltere a sua imagem de exibição",
+                "END_CARD_SWITCH": "End Card",
+                "END_CARD_DESCRIPTION": "Usar um End Card atrai mais compartilhamentos e engajamento",
+                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "Aplique customização adicional acrescentando o seu logo",
+                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": "Altere sua imagem de exibição"
+            },
+            "CLASSIC_LAYOUT_TOOLTIP": "Modelo de resultados clássico",
+            "GRID_LAYOUT_TOOLTIP": "Modelo de resultados em grade"
+        },
+        "SUMMARY": {
+            "ADD_ROW": "Acrescentar linha",
+            "SUBTITLE_PLACEHOLDER": "Subtítulo",
+            "ROW_PLACEHOLDER": "Escreva o texto...",
+            "NO_EFFECT": "Nenhum",
+            "FADE_EFFECT": "Fade In"
+        },
+        "FLIP_CARD": {
+            "FRONT_BUT": "Frente",
+            "BACK_BUT": "Verso",
+            "LANDSCAPE_BUT": "Paisagem",
+            "SQUARE_BUT": "Quadrado",
+            "FRONT_CARD_LABEL": "Cartão Frente",
+            "BACK_CARD_LABEL": "Cartão Verso",
+            "MEDIA_POPOVER": "Selecionar mídia",
+            "TEXT_POPOVER": "Cartão de texto"
+        },
+        "VIDEO_PLAYER": {
+            "DESCRIPTION_PLACEHOLDER": "Descrição"
+        },
+        "CTA": {
+            "NO_EFFECT": "Nenhum",
+            "PULSE_EFFECT": "Pulso",
+            "FLOATING_EFFECT": "Flutuante",
+            "BUTTON_TEXT": "Inserir texto...",
+            "LINK_PLACEHOLDER": "Inserir link...",
+            "TEST_LINK_TOOLTIP": "Testar link"
         }
     },
     "STORY_TITLE_PLACEHOLDER": "Título do Story",
-    "SECTION_TITLE_PLACEHOLDER": "Título"
+    "SECTION_TITLE_PLACEHOLDER": "Título",
+    "DELETE_SECTION_MESSAGE": "Tem certeza que quer apagar isso?",
+    "TEXT_EDITOR": {
+        "WORD": "PALAVRA",
+        "WORDS": "PALAVRAS",
+        "GOOD": "BOM",
+        "NORMAL": "OK",
+        "BAD": "LONGO DEMAIS",
+        "BOLD_TOOLTIP": "Negrito",
+        "GOOD_INDICATION": "BOM",
+        "NORMAL_INDICATION": "OK",
+        "BAD_INDICATION": "LONGO DEMAIS",
+        "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. leitura"
+    },
+    "MODAL_LANGUAGE": {
+        "NEW_LABEL": "NOVO",
+        "TITLE": "Selecione seu idioma preferido para criação",
+        "DONE_BUT": "Pronto"
+    }
 }
