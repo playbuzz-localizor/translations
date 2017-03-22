@@ -1,74 +1,74 @@
 {
-        "MP": {
-            "OEMBED_ERROR": "Sorry, could not load this item. please try again.",
-            "FLIP_CARD": {
-                "FRONT_BUT": "FRONT",
-                "BACK_BUT": "BACK",
-                "LANDSCAPE_RATIO": "LANDSCAPE",
-                "SQUARE_RATIO": "SQUARE",
-                "FRONT_TITLE": "Front Card",
-                "BACK_TITLE": "Back Card",
-                "MEDIA_TOOLTIP": "Select Media",
-                "TEXT_TOOLTIP": "Text Card",
-                "IMAGE_CAPTION_PLACEHOLDER": "Add caption..."
+    "MP": {
+        "OEMBED_ERROR": "Sorry, could not load this item. please try again.",
+        "FLIP_CARD": {
+            "FRONT_BUT": "FRONT",
+            "BACK_BUT": "BACK",
+            "LANDSCAPE_RATIO": "LANDSCAPE",
+            "SQUARE_RATIO": "SQUARE",
+            "FRONT_TITLE": "Front Card",
+            "BACK_TITLE": "Back Card",
+            "MEDIA_TOOLTIP": "Select Media",
+            "TEXT_TOOLTIP": "Text Card",
+            "IMAGE_CAPTION_PLACEHOLDER": "Add caption..."
+        },
+        "TEXT_CARD": {
+            "TEXT_PLACEHOLDER": "Write something inspiring...",
+            "DELETE_TOOLTIP": "Delete text card"
+        },
+        "MODAL": {
+            "RESULT_ERROR": "Oops! This couldn’t be uploaded",
+            "ADD_TITLE": "Add Media",
+            "EDIT_IMAGE_TITLE": "Crop Image",
+            "EDIT_VIDEO_TITLE": "Edit Video",
+            "MENU": {
+                "SEARCH_GROUP_TITLE": "SEARCH",
+                "IMPORT_GROUP_TITLE": "IMPORT",
+                "FILE_LABEL": "Upload",
+                "LINK_LABEL": "From the Web"
             },
-            "TEXT_CARD": {
-                "TEXT_PLACEHOLDER": "Write something inspiring...",
-                "DELETE_TOOLTIP": "Delete text card"
+            "GETTY": {
+                "LOGIN_DESC_FIRST_ROW": "Search Playbuzz’s Getty Images library or",
+                "LOGIN_DESC_SECOND_ROW": "to your own Getty Images account",
+                "LOGIN_FORM_DESC": "Login to your account",
+                "USERNAME_LABEL": "Username",
+                "USERNAME_PLACEHOLDER": "Username",
+                "PASSWORD_LABEL": "Password",
+                "PASSWORD_PLACEHOLDER": "Password",
+                "SUBMIT_BUT": "Sign In",
+                "CANCEL_BUT": "Cancel",
+                "LOGIN_ERROR": "Username/Password incorrect",
+                "CONNECTED_USER": "Logged in as {{user}}",
+                "POWERED_BY_LABEL": "Powered by",
+                "LOGIN_LINK": "login",
+                "LOGOUT_LINK": "Logout",
+                "RESULTS_COUNT_LABEL": "results"
             },
-            "MODAL": {
-                "RESULT_ERROR": "Oops! This couldn’t be uploaded",
-                "ADD_TITLE": "Add Media",
-                "EDIT_IMAGE_TITLE": "Crop Image",
-                "EDIT_VIDEO_TITLE": "Edit Video",
-                "MENU": {
-                    "SEARCH_GROUP_TITLE": "SEARCH",
-                    "IMPORT_GROUP_TITLE": "IMPORT",
-                    "FILE_LABEL": "Upload",
-                    "LINK_LABEL": "From the Web"
-                },
-                "GETTY": {
-                    "LOGIN_DESC_FIRST_ROW": "Search Playbuzz’s Getty Images library or",
-                    "LOGIN_DESC_SECOND_ROW": "to your own Getty Images account",
-                    "LOGIN_FORM_DESC": "Login to your account",
-                    "USERNAME_LABEL": "Username",
-                    "USERNAME_PLACEHOLDER": "Username",
-                    "PASSWORD_LABEL": "Password",
-                    "PASSWORD_PLACEHOLDER": "Password",
-                    "SUBMIT_BUT": "Sign In",
-                    "CANCEL_BUT": "Cancel",
-                    "LOGIN_ERROR": "Username/Password incorrect",
-                    "CONNECTED_USER": "Logged in as {{user}}",
-                    "POWERED_BY_LABEL": "Powered by",
-                    "LOGIN_LINK": "login",
-                    "LOGOUT_LINK": "Logout",
-                    "RESULTS_COUNT_LABEL": "results"
-                },
-                "YOUTUBE": {
-                    "RESULTS_COUNT_LABEL": "results"
-                },
-                "GIPHY": {
-                    "RESULTS_COUNT_LABEL": "results"
-                },
-                "SEARCH": {
-                    "SEARCH_PLACEHOLDER": "Search...",
-                    "LOAD_MORE_BUT": "Load more"
-                },
-                "IMPORT": {
-                    "UPLOAD_LINK": "Upload",
-                    "DROP_FILE_TITLE": "or drop a file",
-                    "LINK_PLACEHOLDER": "Got a direct media link?",
-                    "INFO_LABEL": "Media recommendations",
-                    "SUBMIT_BUT": "Go",
-                    "LINK_PAGE_TITLE": "Import from the web"
-                },
-                "CREDIT_PLACEHOLDER": "Type image credits...",
-                "DONE_EDIT_BUT": "Done"
+            "YOUTUBE": {
+                "RESULTS_COUNT_LABEL": "results"
             },
-            "POPOVER_MENU": {
-                "EDIT_LABEL": "Edit",
-                "REPLACE_LABEL": "Replace",
-                "DELETE_LABEL": "Delete"
-            }
+            "GIPHY": {
+                "RESULTS_COUNT_LABEL": "results"
+            },
+            "SEARCH": {
+                "SEARCH_PLACEHOLDER": "Search...",
+                "LOAD_MORE_BUT": "Load more"
+            },
+            "IMPORT": {
+                "UPLOAD_LINK": "Upload",
+                "DROP_FILE_TITLE": "or drop a file",
+                "LINK_PLACEHOLDER": "Got a direct media link?",
+                "INFO_LABEL": "Media recommendations",
+                "SUBMIT_BUT": "Go",
+                "LINK_PAGE_TITLE": "Import from the web"
+            },
+            "CREDIT_PLACEHOLDER": "Type image credits...",
+            "DONE_EDIT_BUT": "Done"
+        },
+        "POPOVER_MENU": {
+            "EDIT_LABEL": "Edit",
+            "REPLACE_LABEL": "Replace",
+            "DELETE_LABEL": "Delete"
         }
     }
+}
