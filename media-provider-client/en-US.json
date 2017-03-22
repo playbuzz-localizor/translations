@@ -50,7 +50,7 @@
                 },
                 "SEARCH": {
                     "SEARCH_PLACEHOLDER": "search_placeholder",
-                    "LOAD_MORE_BUT": "load_more_but",
+                    "LOAD_MORE_BUT": "load_more_but"
                 },
                 "IMPORT": {
                     "DROP_FILE_DESC": "",
