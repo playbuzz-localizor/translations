@@ -53,7 +53,8 @@
                     "LOAD_MORE_BUT": "load_more_but"
                 },
                 "IMPORT": {
-                    "DROP_FILE_DESC": "",
+                    "UPLOAD_LINK": "",
+                    "DROP_TITLE": "",
                     "LINK_PLACEHOLDER": "",
                     "INFO_LABEL": "",
                     "SUBMIT_BUT": "",
