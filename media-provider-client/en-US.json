@@ -53,12 +53,12 @@
                     "LOAD_MORE_BUT": "load_more_but"
                 },
                 "IMPORT": {
-                    "UPLOAD_LINK": "",
-                    "DROP_TITLE": "",
-                    "LINK_PLACEHOLDER": "",
-                    "INFO_LABEL": "",
-                    "SUBMIT_BUT": "",
-                    "IMPORT_DESC": ""
+                    "UPLOAD_LINK": "Upload",
+                    "DROP_FILE_TITLE": "drop_file_title",
+                    "LINK_PLACEHOLDER": "link_placeholder",
+                    "INFO_LABEL": "info_label",
+                    "SUBMIT_BUT": "submit_but",
+                    "LINK_PAGE_TITLE": "link_page_title"
                 },
                 "CREDIT_PLACEHOLDER": "",
                 "DONE_EDIT_BUT": ""
