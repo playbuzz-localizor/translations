@@ -74,14 +74,12 @@
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
     "SECTIONS": {
-        "QUOTE": {
-            "NAME": "Quote",
+        "QUOTE": {            
             "TEXT_PLACEHOLDER": "Enter quote...",
             "QUOTEE_PLACEHOLDER": "Who said it?",
             "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more..."
         },
-        "CONVO": {
-            "NAME": "Convo",
+        "CONVO": {            
             "PARTICIPANT_PLACEHOLDER": "Participant",
             "BUBBLE_CONTENT_PLACEHOLDER": "Enter text...",
             "ADD_BUBBLE_TOOLTIP": "Add Bubble",
@@ -128,17 +126,7 @@
             "ROW_PLACEHOLDER": "Enter text...",
             "NO_EFFECT": "None",
             "FADE_EFFECT": "Fade In"
-        },
-        "FLIP_CARD": {
-            "FRONT_BUT": "Front ",
-            "BACK_BUT": "Back",
-            "LANDSCAPE_BUT": "Landscape",
-            "SQUARE_BUT": "Square ",
-            "FRONT_CARD_LABEL": "Front Card",
-            "BACK_CARD_LABEL": "Back Card",
-            "MEDIA_POPOVER": "Select media",
-            "TEXT_POPOVER": "Text card"
-        },
+        },       
         "VIDEO_PLAYER": {
             "DESCRIPTION_PLACEHOLDER": "Description "
         },
