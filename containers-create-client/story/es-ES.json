@@ -1,167 +1,174 @@
 {
     "ACTION_PANE": {
-        "PUBLISH_BTN": "",
-        "SAVE_BTN": "",
-        "PUBLISH_BUT": "",
-        "SAVE_BUT": "",
-        "PREVIEW_BTN": "",
-        "ERROR_MESSAGE": "",
-        "PUBLISH_BUT_PENDING": "",
-        "PREVIEW_BUT": "",
-        "PREVIEW_BTN_PENDING": "",
-        "SAVED_NOTIFICATION": "",
-        "VIEW_LINK": "",
-        "SAVE_BUT_NEW_ITEM": "",
-        "SAVE_BUT_PENDING": "",
+        "PUBLISH_BTN": "Publicar",
+        "SAVE_BTN": "Guardar",
+        "PUBLISH_BUT": "Publicar",
+        "SAVE_BUT": "Guardar",
+        "PREVIEW_BTN": "Vista previa",
+        "ERROR_MESSAGE": "Error",
+        "PUBLISH_BUT_PENDING": "Publicando...",
+        "PREVIEW_BUT": "Vista previa",
+        "PREVIEW_BTN_PENDING": "Preparando...",
+        "SAVED_NOTIFICATION": "Guardado",
+        "VIEW_LINK": "vista",
+        "SAVE_BUT_NEW_ITEM": "Guardar borrador",
+        "SAVE_BUT_PENDING": "Guardando...",
         "ERROR": {
-            "MISSING_REQUIREMENTS": "",
-            "LOGED_OUT": "",
-            "SAVING_DISABLED": "",
-            "OUTDATED": "",
-            "SAVE_FAILED": ""
+            "MISSING_REQUIREMENTS": "Faltan algunos requisitos",
+            "LOGED_OUT": "Por favor, vuelve a iniciar sesión",
+            "SAVING_DISABLED": "No se puede guardar. Por favor, inténtalo de nuevo dentro de 5 minutos",
+            "OUTDATED": "El artículo no está actualizado",
+            "SAVE_FAILED": "No se ha podido guardar"
         }
     },
     "LEFT_PANE": {
         "MAP": {
-            "TITLE": "",
-            "EMPTY_TITLE": "",
-            "EMPTY_DESCRIPTION": "",
-            "TOOLTIP": ""
+            "TITLE": "Mapa",
+            "EMPTY_TITLE": "¡Comenzar!",
+            "EMPTY_DESCRIPTION": "Crea y adapta tu artículo",
+            "TOOLTIP": "Mapa"
         },
         "VISIBILITY": {
-            "TITLE": "",
-            "DESCRIPTION": "",
-            "LANGUAGE_TITLE": "",
-            "LANGUAGE_DESCRIPTION": "",
-            "LANGUAGE_CHECKBOX_LABEL": "",
-            "SPONSORED_TITLE": "",
-            "SPONSORED_CHECKBOX_LABEL": "",
-            "TOOLTIP": "",
+            "TITLE": "Visibilidad",
+            "DESCRIPTION": "Quién puede ver tu artículo",
+            "LANGUAGE_TITLE": "Idioma",
+            "LANGUAGE_DESCRIPTION": "Seleccionar idioma del artículo",
+            "LANGUAGE_CHECKBOX_LABEL": "Habilitar traducción a otros idiomas",
+            "SPONSORED_TITLE": "Contenido patrocinado",
+            "SPONSORED_CHECKBOX_LABEL": "Este es un artículo patrocinado",
+            "TOOLTIP": "Visibilidad: {{viewPermission}}",
             "VIEW_PERMISSIONS_DROPDOWN": {
-                "PUBLIC": "",
-                "ONLY_ME": "",
-                "ONLY_DIRECT_LINK": ""
-            }
+                "PUBLIC": "Público (recomendado)",
+                "ONLY_ME": "Solo yo",
+                "ONLY_DIRECT_LINK": "Solo enlace directo"
+            },
+            "CREATOR_LANGUAGE_TITLE": "",
+            "CREATOR_EDIT_BUTTON": ""
         },
         "TAGS": {
-            "TITLE": "",
-            "DESCRIPTION": "",
-            "NEW_TAGS_PLACEHOLDER": "",
-            "NEW_TAGS_DESCRIPTION": "",
-            "TOOLTIP": "",
+            "TITLE": "Etiquetas",
+            "DESCRIPTION": "Haz que tu artículo pueda ser descubierto más fácilmente utilizando etiquetas",
+            "NEW_TAGS_PLACEHOLDER": "Introduce tus propias etiquetas...",
+            "NEW_TAGS_DESCRIPTION": "Separadas por comas",
+            "TOOLTIP": "Etiquetas",
             "NEW_TAG_PLACEHOLDER": "",
             "NEW_TAG_DESCRIPTION": ""
         },
         "SOCIAL": {
-            "TITLE": "",
-            "DESCRIPTION": "",
-            "TOOLTIP": ""
+            "TITLE": "Apariencia social",
+            "DESCRIPTION": "Cómo se mostrará tu artículo en las redes sociales",
+            "TOOLTIP": "Apariencia social"
         },
         "ABOUT": {
-            "TITLE": "",
-            "DESCRIPTION": "",
-            "STEP_1": "",
-            "STEP_2": "",
-            "STEP_3": "",
-            "STEP_4": "",
-            "QUESTIONS_TITLE": "",
-            "QUESTIONS_DESCRIPTION": "",
-            "TOOLTIP": ""
+            "TITLE": "¿Qué es Story?",
+            "DESCRIPTION": "Story es el primer creador de artículos que permite a los equipos editoriales dividir sus narrativas en partículas atrayentes y ofrecer a los lectores un viaje interactivo y visualmente espectacular.",
+            "STEP_1": "Escribe tu artículo",
+            "STEP_2": "¡Publicar!",
+            "STEP_3": "Compartir o incorporar al instante en tu web",
+            "STEP_4": "Hecho",
+            "QUESTIONS_TITLE": "¿Tienes alguna pregunta?",
+            "QUESTIONS_DESCRIPTION": "¡Estamos aquí!",
+            "TOOLTIP": "Acerca de"
         }
     },
-    "DESCRIPTION_PLACEHOLDER": "",
-    "SECTIONS_LOBBY_TITLE": "",
+    "DESCRIPTION_PLACEHOLDER": "Descripción",
+    "SECTIONS_LOBBY_TITLE": "Haz tu crónica",
     "SECTIONS": {
         "QUOTE": {
-            "NAME": "",
-            "TEXT_PLACEHOLDER": "",
-            "QUOTEE_PLACEHOLDER": "",
-            "ADDITIONAL_TEXT_PLACEHOLDER": ""
+            "NAME": "Citar",
+            "TEXT_PLACEHOLDER": "Introducir cita...",
+            "QUOTEE_PLACEHOLDER": "¿Quién lo dijo?",
+            "ADDITIONAL_TEXT_PLACEHOLDER": "Cuéntanos más..."
         },
         "CONVO": {
-            "NAME": "",
-            "PARTICIPANT_PLACEHOLDER": "",
-            "BUBBLE_CONTENT_PLACEHOLDER": "",
-            "ADD_BUBBLE_TOOLTIP": "",
-            "ADD_PARTICIPANT_TOOLTIP": "",
-            "DELETE_MESSAGE": ""
+            "NAME": "Conversación",
+            "PARTICIPANT_PLACEHOLDER": "Participante",
+            "BUBBLE_CONTENT_PLACEHOLDER": "Introducir texto...",
+            "ADD_BUBBLE_TOOLTIP": "Añadir Bocadillo",
+            "ADD_PARTICIPANT_TOOLTIP": "Añadir Participante",
+            "DELETE_MESSAGE": "¿Estás seguro/a?"
         },
         "EMBED": {
-            "DESCRIPTION_PLACEHOLDER": ""
+            "DESCRIPTION_PLACEHOLDER": "Desde la web"
         },
         "IMAGE": {
-            "CAPTION": ""
+            "CAPTION": "Imagen"
         },
         "PARAGRAPH": {
-            "EDITOR_PLACEHOLDER": ""
+            "EDITOR_PLACEHOLDER": "Párrafo"
         },
         "POLL": {
-            "BACKGROUND_TEMPLATE_TOOLTIP": "",
-            "COVER_TEMPLATE_TOOLTIP": "",
-            "CLASSIC_TEMPLATE_TOOLTIP": "",
-            "GRID_TEMPLATE_TOOLTIP": "",
-            "SETTINGS_TOOLTIP": "",
-            "TITLE_PLACEHOLDER": "",
-            "OPTION_PLACEHOLDER": "",
-            "ADD_OPTION_BUT": "",
+            "BACKGROUND_TEMPLATE_TOOLTIP": "Imagen de fondo",
+            "COVER_TEMPLATE_TOOLTIP": "Imagen de portada",
+            "CLASSIC_TEMPLATE_TOOLTIP": "Resultados clásicos",
+            "GRID_TEMPLATE_TOOLTIP": "Resultados en rejilla",
+            "SETTINGS_TOOLTIP": "Ajustes de encuesta",
+            "TITLE_PLACEHOLDER": "Pregunta",
+            "OPTION_PLACEHOLDER": "Opción {{index}}",
+            "ADD_OPTION_BUT": "Añadir opción",
             "SETTINGS": {
-                "TITLE": "",
-                "HERE_LINK": "",
-                "BACK_BUTTON": "",
-                "ENABLE_VOTING_SWITCH": "",
-                "TOTAL_VOTES_SWITCH": "",
-                "DISPLAY_LOGO_SWITCH": "",
-                "DISPLAY_LOGO_DESCRIPTION": "",
-                "END_CARD_SWITCH": "",
-                "END_CARD_DESCRIPTION": "",
-                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "",
-                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": ""
+                "TITLE": "AJUSTES DE ENCUESTA",
+                "HERE_LINK": "aquí",
+                "BACK_BUTTON": "Volver a editar",
+                "ENABLE_VOTING_SWITCH": "Habilitar votación",
+                "TOTAL_VOTES_SWITCH": "Mostrar votos totales",
+                "DISPLAY_LOGO_SWITCH": "Mostrar logotipo",
+                "DISPLAY_LOGO_DESCRIPTION": "Aplica personalización adicional añadiendo tu logotipo.\nCambia la imagen que se muestra sobre ti",
+                "END_CARD_SWITCH": "Tarjeta de fin",
+                "END_CARD_DESCRIPTION": "Ayuda a que se comparta más y fomenta la fidelización utilizando la tarjeta de fin",
+                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "Aplica personalización adicional añadiendo tu logotipo.",
+                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": "Cambia la imagen que se muestra sobre ti"
             },
-            "CLASSIC_LAYOUT_TOOLTIP": "",
-            "GRID_LAYOUT_TOOLTIP": ""
+            "CLASSIC_LAYOUT_TOOLTIP": "Plantilla para resultados clásicos",
+            "GRID_LAYOUT_TOOLTIP": "Plantilla para resultados en rejilla"
         },
         "SUMMARY": {
-            "ADD_ROW": "",
-            "SUBTITLE_PLACEHOLDER": "",
-            "ROW_PLACEHOLDER": "",
-            "NO_EFFECT": "",
-            "FADE_EFFECT": ""
+            "ADD_ROW": "Añadir fila",
+            "SUBTITLE_PLACEHOLDER": "Subtítulo",
+            "ROW_PLACEHOLDER": "Introduce texto...",
+            "NO_EFFECT": "Ninguno",
+            "FADE_EFFECT": "Aparecer gradualmente"
         },
         "FLIP_CARD": {
-            "FRONT_BUT": "",
-            "BACK_BUT": "",
-            "LANDSCAPE_BUT": "",
-            "SQUARE_BUT": "",
-            "FRONT_CARD_LABEL": "",
-            "BACK_CARD_LABEL": "",
-            "MEDIA_POPOVER": "",
-            "TEXT_POPOVER": ""
+            "FRONT_BUT": "Parte delantera",
+            "BACK_BUT": "Parte trasera",
+            "LANDSCAPE_BUT": "Apaisado",
+            "SQUARE_BUT": "Cuadrado",
+            "FRONT_CARD_LABEL": "Tarjeta frontal",
+            "BACK_CARD_LABEL": "Tarjeta trasera",
+            "MEDIA_POPOVER": "Selecciona medios",
+            "TEXT_POPOVER": "Tarjeta de texto"
         },
         "VIDEO_PLAYER": {
-            "DESCRIPTION_PLACEHOLDER": ""
+            "DESCRIPTION_PLACEHOLDER": "Descripción"
         },
         "CTA": {
-            "NO_EFFECT": "",
-            "PULSE_EFFECT": "",
-            "FLOATING_EFFECT": "",
-            "BUTTON_TEXT": "",
-            "LINK_PLACEHOLDER": "",
-            "TEST_LINK_TOOLTIP": ""
+            "NO_EFFECT": "Ninguno",
+            "PULSE_EFFECT": "Pulso",
+            "FLOATING_EFFECT": "Flotante",
+            "BUTTON_TEXT": "Introduce texto...",
+            "LINK_PLACEHOLDER": "Introduce enlace...",
+            "TEST_LINK_TOOLTIP": "Probar enlace"
         }
     },
-    "STORY_TITLE_PLACEHOLDER": "",
-    "SECTION_TITLE_PLACEHOLDER": "",
-    "DELETE_SECTION_MESSAGE": "",
+    "STORY_TITLE_PLACEHOLDER": "Título del artículo",
+    "SECTION_TITLE_PLACEHOLDER": "Título",
+    "DELETE_SECTION_MESSAGE": "¿Seguro que quieres eliminar esto?",
     "TEXT_EDITOR": {
-        "WORD": "",
-        "WORDS": "",
-        "GOOD": "",
-        "NORMAL": "",
-        "BAD": "",
-        "BOLD_TOOLTIP": "",
-        "GOOD_INDICATION": "",
-        "NORMAL_INDICATION": "",
-        "BAD_INDICATION": "",
-        "MINIMUM_READ_TIME_LABEL": ""
+        "WORD": "PALABRA",
+        "WORDS": "PALABRAS",
+        "GOOD": "BUENO",
+        "NORMAL": "DE ACUERDO",
+        "BAD": "UN POCO LARGO",
+        "BOLD_TOOLTIP": "Negrita",
+        "GOOD_INDICATION": "BUENO",
+        "NORMAL_INDICATION": "DE ACUERDO",
+        "BAD_INDICATION": "UN POCO LARGO",
+        "MINIMUM_READ_TIME_LABEL": "{{readTime}} mín. de lectura"
+    },
+    "MODAL_LANGUAGE": {
+        "NEW_LABEL": "NUEVO",
+        "TITLE": "Escoge tu idioma favorito para la creación",
+        "DONE_BUT": "Hecho"
     }
 }
