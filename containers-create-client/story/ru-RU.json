@@ -5,20 +5,20 @@
         "PUBLISH_BUT": "Опубликовать",
         "SAVE_BUT": "Сохранить",
         "PREVIEW_BTN": "Предварительный просмотр",
-        "ERROR_MESSAGE": "",
-        "PUBLISH_BUT_PENDING": "",
-        "PREVIEW_BUT": "",
-        "PREVIEW_BTN_PENDING": "",
-        "SAVED_NOTIFICATION": "",
-        "VIEW_LINK": "",
-        "SAVE_BUT_NEW_ITEM": "",
-        "SAVE_BUT_PENDING": "",
+        "ERROR_MESSAGE": "Ошибка",
+        "PUBLISH_BUT_PENDING": "Публикация...",
+        "PREVIEW_BUT": "Предпросмотр",
+        "PREVIEW_BTN_PENDING": "Подготовка...",
+        "SAVED_NOTIFICATION": "Сохранено",
+        "VIEW_LINK": "просмотр",
+        "SAVE_BUT_NEW_ITEM": "Сохранить черновик",
+        "SAVE_BUT_PENDING": "Сохранение...",
         "ERROR": {
-            "MISSING_REQUIREMENTS": "",
-            "LOGED_OUT": "",
-            "SAVING_DISABLED": "",
-            "OUTDATED": "",
-            "SAVE_FAILED": ""
+            "MISSING_REQUIREMENTS": "Требуемые параметры отсутствуют",
+            "LOGED_OUT": "Пожалуйста, войдите снова",
+            "SAVING_DISABLED": "Сохранение отключено. Пожалуйста, повторите попытку через 5 минут",
+            "OUTDATED": "Пункт устарел",
+            "SAVE_FAILED": "Не удалось сохранить"
         }
     },
     "LEFT_PANE": {
@@ -36,12 +36,14 @@
             "LANGUAGE_CHECKBOX_LABEL": "Разрешить перевод на другие языки ",
             "SPONSORED_TITLE": "Спонсорский контент",
             "SPONSORED_CHECKBOX_LABEL": "Это спонсорская История",
-            "TOOLTIP": "",
+            "TOOLTIP": "Видимость: {{viewPermission}}",
             "VIEW_PERMISSIONS_DROPDOWN": {
-                "PUBLIC": "",
-                "ONLY_ME": "",
-                "ONLY_DIRECT_LINK": ""
-            }
+                "PUBLIC": "Все (рекомендовано)",
+                "ONLY_ME": "Только я",
+                "ONLY_DIRECT_LINK": "Только по прямой ссылке"
+            },
+            "CREATOR_LANGUAGE_TITLE": "",
+            "CREATOR_EDIT_BUTTON": ""
         },
         "TAGS": {
             "TITLE": "Теги",
@@ -66,7 +68,7 @@
             "STEP_4": "Готово",
             "QUESTIONS_TITLE": "Остались вопросы?",
             "QUESTIONS_DESCRIPTION": "Задайте их нам ",
-            "TOOLTIP": ""
+            "TOOLTIP": "О нас"
         }
     },
     "DESCRIPTION_PLACEHOLDER": "Описание",
@@ -82,95 +84,91 @@
             "NAME": "Convo",
             "PARTICIPANT_PLACEHOLDER": "Участник",
             "BUBBLE_CONTENT_PLACEHOLDER": "Введите текст...",
-            "ADD_BUBBLE_TOOLTIP": "",
+            "ADD_BUBBLE_TOOLTIP": "Добавить  кружок",
             "ADD_PARTICIPANT_TOOLTIP": "Добавить участника",
-            "DELETE_MESSAGE": ""
+            "DELETE_MESSAGE": "Вы уверены?"
         },
         "EMBED": {
-            "DESCRIPTION_PLACEHOLDER": ""
+            "DESCRIPTION_PLACEHOLDER": "С веб-сайта"
         },
         "IMAGE": {
-            "CAPTION": ""
+            "CAPTION": "Изображение"
         },
         "PARAGRAPH": {
-            "EDITOR_PLACEHOLDER": ""
+            "EDITOR_PLACEHOLDER": "Параграф"
         },
         "POLL": {
-            "BACKGROUND_TEMPLATE_TOOLTIP": "",
-            "COVER_TEMPLATE_TOOLTIP": "",
-            "CLASSIC_TEMPLATE_TOOLTIP": "",
-            "GRID_TEMPLATE_TOOLTIP": "",
-            "SETTINGS_TOOLTIP": "",
-            "TITLE_PLACEHOLDER": "",
-            "OPTION_PLACEHOLDER": "",
-            "ADD_OPTION_BUT": "",
+            "BACKGROUND_TEMPLATE_TOOLTIP": "Фоновое изображение",
+            "COVER_TEMPLATE_TOOLTIP": "Обложка",
+            "CLASSIC_TEMPLATE_TOOLTIP": "Классические результаты",
+            "GRID_TEMPLATE_TOOLTIP": "Результаты в сетке",
+            "SETTINGS_TOOLTIP": "Настройки опроса",
+            "TITLE_PLACEHOLDER": "Вопрос",
+            "OPTION_PLACEHOLDER": "Вариант {{index}}",
+            "ADD_OPTION_BUT": "Добавить вариант",
             "SETTINGS": {
-                "TITLE": "",
-                "HERE_LINK": "",
-                "BACK_BUTTON": "",
-                "ENABLE_VOTING_SWITCH": "",
-                "TOTAL_VOTES_SWITCH": "",
-                "DISPLAY_LOGO_SWITCH": "",
-                "DISPLAY_LOGO_DESCRIPTION": "",
-                "END_CARD_SWITCH": "",
-                "END_CARD_DESCRIPTION": "",
-                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "",
-                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": ""
+                "TITLE": "НАСТРОЙКИ ОПРОСА",
+                "HERE_LINK": "здесь",
+                "BACK_BUTTON": "Назад к редактированию",
+                "ENABLE_VOTING_SWITCH": "Активировать голосование",
+                "TOTAL_VOTES_SWITCH": "Показать общее число голосов",
+                "DISPLAY_LOGO_SWITCH": "Показать логотип",
+                "DISPLAY_LOGO_DESCRIPTION": "Применить дополнительные персональные настройки, добавив ваше лого. \nИзменить ваше изображение",
+                "END_CARD_SWITCH": "Карточка в конце",
+                "END_CARD_DESCRIPTION": "Добиться большего участия и вовлечения с помощью карточки в конце",
+                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "Применить дополнительные персональные настройки, добавив ваше лого",
+                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": "Изменить ваше изображение"
             },
-            "CLASSIC_LAYOUT_TOOLTIP": "",
-            "GRID_LAYOUT_TOOLTIP": ""
+            "CLASSIC_LAYOUT_TOOLTIP": "Классический шаблон результатов",
+            "GRID_LAYOUT_TOOLTIP": "Шаблон результатов в виде сетки"
         },
         "SUMMARY": {
-            "ADD_ROW": "",
-            "SUBTITLE_PLACEHOLDER": "",
-            "ROW_PLACEHOLDER": "",
-            "NO_EFFECT": "",
-            "FADE_EFFECT": ""
+            "ADD_ROW": "Добавить ряд",
+            "SUBTITLE_PLACEHOLDER": "Подзаголовок",
+            "ROW_PLACEHOLDER": "Ввод текста....",
+            "NO_EFFECT": "Нет данных",
+            "FADE_EFFECT": "Проявление"
         },
         "FLIP_CARD": {
-            "FRONT_BUT": "",
-            "BACK_BUT": "",
-            "LANDSCAPE_BUT": "",
-            "SQUARE_BUT": "",
-            "FRONT_CARD_LABEL": "",
-            "BACK_CARD_LABEL": "",
-            "MEDIA_POPOVER": "",
-            "TEXT_POPOVER": ""
+            "FRONT_BUT": "Впереди",
+            "BACK_BUT": "Сзади",
+            "LANDSCAPE_BUT": "Пейзаж",
+            "SQUARE_BUT": "Квадрат",
+            "FRONT_CARD_LABEL": "Карточка в начале",
+            "BACK_CARD_LABEL": "Задняя карта",
+            "MEDIA_POPOVER": "Выбрать медиа",
+            "TEXT_POPOVER": "Текстовая карта"
         },
         "VIDEO_PLAYER": {
-            "DESCRIPTION_PLACEHOLDER": ""
+            "DESCRIPTION_PLACEHOLDER": "Описание"
         },
         "CTA": {
-            "NO_EFFECT": "",
-            "PULSE_EFFECT": "",
-            "FLOATING_EFFECT": "",
-            "BUTTON_TEXT": "",
-            "LINK_PLACEHOLDER": "",
-            "TEST_LINK_TOOLTIP": ""
+            "NO_EFFECT": "Нет",
+            "PULSE_EFFECT": "Пульс",
+            "FLOATING_EFFECT": "Плавающий",
+            "BUTTON_TEXT": "Введите текст...",
+            "LINK_PLACEHOLDER": "Введите ссылку...",
+            "TEST_LINK_TOOLTIP": "Тестировать ссылку"
         }
     },
     "STORY_TITLE_PLACEHOLDER": "Название Истории",
     "SECTION_TITLE_PLACEHOLDER": "Заголовок",
-    "DELETE_SECTION_MESSAGE": "",
+    "DELETE_SECTION_MESSAGE": "Вы уверены, что хотите удалить это содержание?",
     "TEXT_EDITOR": {
-        "WORD": "",
-        "WORDS": "",
-        "GOOD": "",
-        "NORMAL": "",
-        "BAD": "",
-        "BOLD_TOOLTIP": "",
-        "GOOD_INDICATION": "",
-        "NORMAL_INDICATION": "",
-        "BAD_INDICATION": "",
-        "MINIMUM_READ_TIME_LABEL": ""
+        "WORD": "СЛОВО",
+        "WORDS": "СЛОВА",
+        "GOOD": "ХОРОШО",
+        "NORMAL": "ОК",
+        "BAD": "НЕМНОГО ДЛИННЕЕ",
+        "BOLD_TOOLTIP": "Жирный",
+        "GOOD_INDICATION": "ХОРОШО",
+        "NORMAL_INDICATION": "ОК",
+        "BAD_INDICATION": "НЕМНОГО ДЛИННЕЕ",
+        "MINIMUM_READ_TIME_LABEL": "{{readTime}} мин. прочитано"
     },
     "MODAL_LANGUAGE": {
-        "NEW_LABEL": "",
-        "TITLE": "",
-        "DONE_BUT": "",
-        "ENGLISH": "",
-        "SPANISH": "",
-        "PORTUGAZE": "",
-        "RUSSIAN": ""
+        "NEW_LABEL": "НОВОЕ",
+        "TITLE": "Выберите предпочитаемый язык создания",
+        "DONE_BUT": "Готово"
     }
 }
