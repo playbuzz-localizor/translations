@@ -1,1 +1,74 @@
-
+{
+    "MP": {
+        "OEMBED_ERROR": "",
+        "FLIP_CARD": {
+            "FRONT_BUT": "Frente",
+            "BACK_BUT": "Verso",
+            "LANDSCAPE_RATIO": "Paisagem",
+            "SQUARE_RATIO": "",
+            "FRONT_TITLE": "",
+            "BACK_TITLE": "",
+            "MEDIA_TOOLTIP": "",
+            "TEXT_TOOLTIP": "",
+            "IMAGE_CAPTION_PLACEHOLDER": ""
+        },
+        "TEXT_CARD": {
+            "TEXT_PLACEHOLDER": "",
+            "DELETE_TOOLTIP": ""
+        },
+        "MODAL": {
+            "RESULT_ERROR": "",
+            "ADD_TITLE": "",
+            "EDIT_IMAGE_TITLE": "",
+            "EDIT_VIDEO_TITLE": "",
+            "MENU": {
+                "SEARCH_GROUP_TITLE": "",
+                "IMPORT_GROUP_TITLE": "",
+                "FILE_LABEL": "",
+                "LINK_LABEL": ""
+            },
+            "GETTY": {
+                "LOGIN_DESC_FIRST_ROW": "",
+                "LOGIN_DESC_SECOND_ROW": "",
+                "LOGIN_FORM_DESC": "",
+                "USERNAME_LABEL": "",
+                "USERNAME_PLACEHOLDER": "",
+                "PASSWORD_LABEL": "",
+                "PASSWORD_PLACEHOLDER": "",
+                "SUBMIT_BUT": "",
+                "CANCEL_BUT": "",
+                "LOGIN_ERROR": "",
+                "CONNECTED_USER": "",
+                "POWERED_BY_LABEL": "",
+                "LOGIN_LINK": "",
+                "LOGOUT_LINK": "",
+                "RESULTS_COUNT_LABEL": ""
+            },
+            "YOUTUBE": {
+                "RESULTS_COUNT_LABEL": ""
+            },
+            "GIPHY": {
+                "RESULTS_COUNT_LABEL": ""
+            },
+            "SEARCH": {
+                "SEARCH_PLACEHOLDER": "",
+                "LOAD_MORE_BUT": ""
+            },
+            "IMPORT": {
+                "UPLOAD_LINK": "",
+                "DROP_FILE_TITLE": "",
+                "LINK_PLACEHOLDER": "",
+                "INFO_LABEL": "",
+                "SUBMIT_BUT": "",
+                "LINK_PAGE_TITLE": ""
+            },
+            "CREDIT_PLACEHOLDER": "",
+            "DONE_EDIT_BUT": ""
+        },
+        "POPOVER_MENU": {
+            "EDIT_LABEL": "",
+            "REPLACE_LABEL": "",
+            "DELETE_LABEL": ""
+        }
+    }
+}
