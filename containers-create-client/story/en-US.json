@@ -113,11 +113,15 @@
                 "ENABLE_VOTING_SWITCH": "Enable Voting",
                 "TOTAL_VOTES_SWITCH": "Show Total Votes",
                 "DISPLAY_LOGO_SWITCH": "Display Logo",
-                "DISPLAY_LOGO_DESCRIPTION": "Apply additional customization by adding your logo.\nChange your display picture",
+                "DISPLAY_LOGO_DESCRIPTION": "Apply additional customization by adding your logo. Change your display picture",
                 "END_CARD_SWITCH": "End Card",
                 "END_CARD_DESCRIPTION": "Drive more shares and engagement using End Card",
-                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "Apply additional customization by adding your logo.",
-                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": "Change your display picture"
+                "END_CARD": {
+                   "TITLE_LABEL": "Title",
+                   "TITLE_PLACEHOLDER": "Enter title...",
+                   "DESCRIPTION_LABEL": "Description",
+                   "DESCRIPTION_PLACEHOLDER": "Enter description..."
+                }               
             },
             "CLASSIC_LAYOUT_TOOLTIP": "Classic results template",
             "GRID_LAYOUT_TOOLTIP": "Grid results template "
