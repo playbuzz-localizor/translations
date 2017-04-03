@@ -71,13 +71,11 @@
     "SECTIONS_LOBBY_TITLE": "Conte a sua história",
     "SECTIONS": {
         "QUOTE": {
-            "NAME": "Quote",
             "TEXT_PLACEHOLDER": "Escreva a citação",
             "QUOTEE_PLACEHOLDER": "Quem disse isso...",
             "ADDITIONAL_TEXT_PLACEHOLDER": "Fale um pouco mais..."
         },
         "CONVO": {
-            "NAME": "Convo",
             "PARTICIPANT_PLACEHOLDER": "Participante",
             "BUBBLE_CONTENT_PLACEHOLDER": "Escreva o texto...",
             "ADD_BUBBLE_TOOLTIP": "Adicionar participante",
@@ -124,16 +122,6 @@
             "ROW_PLACEHOLDER": "Escreva o texto...",
             "NO_EFFECT": "Nenhum",
             "FADE_EFFECT": "Fade In"
-        },
-        "FLIP_CARD": {
-            "FRONT_BUT": "Frente",
-            "BACK_BUT": "Verso",
-            "LANDSCAPE_BUT": "Paisagem",
-            "SQUARE_BUT": "Quadrado",
-            "FRONT_CARD_LABEL": "Cartão Frente",
-            "BACK_CARD_LABEL": "Cartão Verso",
-            "MEDIA_POPOVER": "Selecionar mídia",
-            "TEXT_POPOVER": "Cartão de texto"
         },
         "VIDEO_PLAYER": {
             "DESCRIPTION_PLACEHOLDER": "Descrição"
