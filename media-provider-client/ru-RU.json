@@ -1,74 +1,74 @@
 {
     "MP": {
-        "OEMBED_ERROR": "Sorry, could not load this item. please try again.",
+        "OEMBED_ERROR": "К сожалению, этот пункт загрузить не удалось. Пожалуйста, повторите попытку.",
         "FLIP_CARD": {
-            "FRONT_BUT": "FRONT",
-            "BACK_BUT": "BACK",
-            "LANDSCAPE_RATIO": "LANDSCAPE",
-            "SQUARE_RATIO": "SQUARE",
-            "FRONT_TITLE": "Front Card",
-            "BACK_TITLE": "Back Card",
-            "MEDIA_TOOLTIP": "Select Media",
-            "TEXT_TOOLTIP": "Text Card",
-            "IMAGE_CAPTION_PLACEHOLDER": "Add caption..."
+            "FRONT_BUT": "ПЕРЕДНЯЯ",
+            "BACK_BUT": "ЗАДНЯЯ",
+            "LANDSCAPE_RATIO": "ЛАНДШАФТ",
+            "SQUARE_RATIO": "КВАДРАТНАЯ",
+            "FRONT_TITLE": "Передняя карточка",
+            "BACK_TITLE": "Задняя карточка",
+            "MEDIA_TOOLTIP": "Выбрать медиа-файл",
+            "TEXT_TOOLTIP": "Текстовая карточка",
+            "IMAGE_CAPTION_PLACEHOLDER": "Добавить подпись..."
         },
         "TEXT_CARD": {
-            "TEXT_PLACEHOLDER": "Write something inspiring...",
-            "DELETE_TOOLTIP": "Delete text card"
+            "TEXT_PLACEHOLDER": "Напишите что-нибудь вдохновляющее...",
+            "DELETE_TOOLTIP": "Удалить текстовую карточку"
         },
         "MODAL": {
-            "RESULT_ERROR": "Oops! This couldn’t be uploaded",
-            "ADD_TITLE": "Add Media",
-            "EDIT_IMAGE_TITLE": "Crop Image",
-            "EDIT_VIDEO_TITLE": "Edit Video",
+            "RESULT_ERROR": "Ой! Это нельзя загрузить",
+            "ADD_TITLE": "Добавить медиа-файл",
+            "EDIT_IMAGE_TITLE": "Кадрирование изображения",
+            "EDIT_VIDEO_TITLE": "Изменить видео",
             "MENU": {
-                "SEARCH_GROUP_TITLE": "SEARCH",
-                "IMPORT_GROUP_TITLE": "IMPORT",
-                "FILE_LABEL": "Upload",
-                "LINK_LABEL": "From the Web"
+                "SEARCH_GROUP_TITLE": "ПОИСК",
+                "IMPORT_GROUP_TITLE": "ИМПОРТ",
+                "FILE_LABEL": "Загрузить",
+                "LINK_LABEL": "Из интернета"
             },
             "GETTY": {
-                "LOGIN_DESC_FIRST_ROW": "Search Playbuzz’s Getty Images library or",
-                "LOGIN_DESC_SECOND_ROW": "to your own Getty Images account",
-                "LOGIN_FORM_DESC": "Login to your account",
-                "USERNAME_LABEL": "Username",
-                "USERNAME_PLACEHOLDER": "Username",
-                "PASSWORD_LABEL": "Password",
-                "PASSWORD_PLACEHOLDER": "Password",
-                "SUBMIT_BUT": "Sign In",
-                "CANCEL_BUT": "Cancel",
-                "LOGIN_ERROR": "Username/Password incorrect",
-                "CONNECTED_USER": "Logged in as {{user}}",
-                "POWERED_BY_LABEL": "Powered by",
-                "LOGIN_LINK": "login",
-                "LOGOUT_LINK": "Logout",
-                "RESULTS_COUNT_LABEL": "results"
+                "LOGIN_DESC_FIRST_ROW": "Поиск по библиотеке Getty Images от Playbuzz или",
+                "LOGIN_DESC_SECOND_ROW": "к вашему собственному аккаунту Getty Images",
+                "LOGIN_FORM_DESC": "Войти в аккаунт",
+                "USERNAME_LABEL": "Имя пользователя",
+                "USERNAME_PLACEHOLDER": "Имя пользователя",
+                "PASSWORD_LABEL": "Пароль",
+                "PASSWORD_PLACEHOLDER": "Пароль",
+                "SUBMIT_BUT": "Вход",
+                "CANCEL_BUT": "Отмена",
+                "LOGIN_ERROR": "Неверное имя пользователя/пароль",
+                "CONNECTED_USER": "Вы вошли как {{user}}",
+                "POWERED_BY_LABEL": "Работает на технологии",
+                "LOGIN_LINK": "вход",
+                "LOGOUT_LINK": "Выход",
+                "RESULTS_COUNT_LABEL": "результаты"
             },
             "YOUTUBE": {
-                "RESULTS_COUNT_LABEL": "results"
+                "RESULTS_COUNT_LABEL": "результаты"
             },
             "GIPHY": {
-                "RESULTS_COUNT_LABEL": "results"
+                "RESULTS_COUNT_LABEL": "результаты"
             },
             "SEARCH": {
-                "SEARCH_PLACEHOLDER": "Search...",
-                "LOAD_MORE_BUT": "Load more"
+                "SEARCH_PLACEHOLDER": "Поиск...",
+                "LOAD_MORE_BUT": "Показать еще"
             },
             "IMPORT": {
-                "UPLOAD_LINK": "Upload",
-                "DROP_FILE_TITLE": "or drop a file",
-                "LINK_PLACEHOLDER": "Got a direct media link?",
-                "INFO_LABEL": "Media recommendations",
-                "SUBMIT_BUT": "Go",
-                "LINK_PAGE_TITLE": "Import from the web"
+                "UPLOAD_LINK": "Загрузите",
+                "DROP_FILE_TITLE": "или перетащите файл",
+                "LINK_PLACEHOLDER": "Есть прямая ссылка на медиа-файл?",
+                "INFO_LABEL": "Рекомендации по медиа-файлам",
+                "SUBMIT_BUT": "Вперед",
+                "LINK_PAGE_TITLE": "Импорт из интернета"
             },
-            "CREDIT_PLACEHOLDER": "Type image credits...",
-            "DONE_EDIT_BUT": "Done"
+            "CREDIT_PLACEHOLDER": "Введите данные изображения...",
+            "DONE_EDIT_BUT": "Готово"
         },
         "POPOVER_MENU": {
-            "EDIT_LABEL": "Edit",
-            "REPLACE_LABEL": "Replace",
-            "DELETE_LABEL": "Delete"
+            "EDIT_LABEL": "Изменить",
+            "REPLACE_LABEL": "Заменить",
+            "DELETE_LABEL": "Удалить"
         }
     }
 }
