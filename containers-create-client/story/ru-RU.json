@@ -42,8 +42,8 @@
                 "ONLY_ME": "Только я",
                 "ONLY_DIRECT_LINK": "Только по прямой ссылке"
             },
-            "CREATOR_LANGUAGE_TITLE": "",
-            "CREATOR_EDIT_BUTTON": ""
+            "CREATOR_LANGUAGE_TITLE": "Language ",
+            "CREATOR_EDIT_BUTTON": "bbb"
         },
         "TAGS": {
             "TITLE": "Теги",
@@ -51,8 +51,8 @@
             "NEW_TAGS_PLACEHOLDER": "Задайте собственные теги...",
             "NEW_TAGS_DESCRIPTION": "Теги разделяются запятыми",
             "TOOLTIP": "Теги",
-            "NEW_TAG_PLACEHOLDER": "",
-            "NEW_TAG_DESCRIPTION": ""
+            "NEW_TAG_PLACEHOLDER": "Enter your own tags",
+            "NEW_TAG_DESCRIPTION": "Separared by comma"
         },
         "SOCIAL": {
             "TITLE": "Внешний вид в соцсетях ",
@@ -75,13 +75,11 @@
     "SECTIONS_LOBBY_TITLE": "Расскажите свою историю",
     "SECTIONS": {
         "QUOTE": {
-            "NAME": "Quote",
             "TEXT_PLACEHOLDER": "Вставьте цитату...",
             "QUOTEE_PLACEHOLDER": "Кто это сказал?",
             "ADDITIONAL_TEXT_PLACEHOLDER": "Расскажите подробней..."
         },
         "CONVO": {
-            "NAME": "Convo",
             "PARTICIPANT_PLACEHOLDER": "Участник",
             "BUBBLE_CONTENT_PLACEHOLDER": "Введите текст...",
             "ADD_BUBBLE_TOOLTIP": "Добавить  кружок",
@@ -128,16 +126,6 @@
             "ROW_PLACEHOLDER": "Ввод текста....",
             "NO_EFFECT": "Нет данных",
             "FADE_EFFECT": "Проявление"
-        },
-        "FLIP_CARD": {
-            "FRONT_BUT": "Впереди",
-            "BACK_BUT": "Сзади",
-            "LANDSCAPE_BUT": "Пейзаж",
-            "SQUARE_BUT": "Квадрат",
-            "FRONT_CARD_LABEL": "Карточка в начале",
-            "BACK_CARD_LABEL": "Задняя карта",
-            "MEDIA_POPOVER": "Выбрать медиа",
-            "TEXT_POPOVER": "Текстовая карта"
         },
         "VIDEO_PLAYER": {
             "DESCRIPTION_PLACEHOLDER": "Описание"
