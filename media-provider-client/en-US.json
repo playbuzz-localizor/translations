@@ -1,5 +1,12 @@
 {
     "MP": {
+        "CROPPING": {
+            "LABEL": "CROPPING RATIO",
+            "LANDSCAPE_RATIO": "Landscape",
+            "SQUARE_RATIO": "Square",
+            "PORTRAIT_RATIO": "Portrait",
+            "FREESTYLE_RATIO": "Freestyle"
+        },
         "OEMBED_ERROR": "Sorry, could not load this item. please try again.",
         "FLIP_CARD": {
             "FRONT_BUT": "FRONT",
