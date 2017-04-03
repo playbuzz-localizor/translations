@@ -27,7 +27,8 @@
             "TITLE": "Map",
             "EMPTY_TITLE": "Get Started!",
             "EMPTY_DESCRIPTION": "Create and arrange your Story\n",
-            "TOOLTIP": "Map"
+            "TOOLTIP": "Map",
+            "MINIMUM_READ_TIME_LABEL": "min. read"
         },
         "VISIBILITY": {
             "TITLE": "Visibility",
