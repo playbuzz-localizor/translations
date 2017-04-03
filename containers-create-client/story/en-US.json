@@ -123,6 +123,7 @@
             "GRID_LAYOUT_TOOLTIP": "Grid results template "
         },
         "SUMMARY": {
+            "TITLE_PLACEHOLDER": "Title",
             "ADD_ROW": "Add row ",
             "SUBTITLE_PLACEHOLDER": "Subtitle",
             "ROW_PLACEHOLDER": "Enter text...",
