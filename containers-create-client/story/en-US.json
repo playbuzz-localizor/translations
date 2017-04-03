@@ -1,4 +1,8 @@
 {
+    "PREVIEW_MODAL": {
+        "TITLE": "Preview",
+        "CLOSE_BUT": "Close"
+    },
     "ACTION_PANE": {
         "PUBLISH_BTN": "Publish",
         "SAVE_BTN": "Save",
