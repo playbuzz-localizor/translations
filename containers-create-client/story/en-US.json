@@ -3,16 +3,13 @@
         "TITLE": "Preview",
         "CLOSE_BUT": "Close"
     },
-    "ACTION_PANE": {
-        "PUBLISH_BTN": "Publish",
-        "SAVE_BTN": "Save",
+    "ACTION_PANE": {               
         "PUBLISH_BUT": "Publish",
-        "SAVE_BUT": "Save",
-        "PREVIEW_BTN": "Preview",
+        "SAVE_BUT": "Save",      
         "ERROR_MESSAGE": "Error",
         "PUBLISH_BUT_PENDING": "Publishing...",
         "PREVIEW_BUT": "Preview",
-        "PREVIEW_BTN_PENDING": "Preparing...",
+        "PREVIEW_BUT_PENDING": "Preparing...",
         "SAVED_NOTIFICATION": "Saved",
         "VIEW_LINK": "view",
         "SAVE_BUT_NEW_ITEM": "Save Draft",
