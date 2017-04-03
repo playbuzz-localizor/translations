@@ -1,74 +1,74 @@
 {
     "MP": {
-        "OEMBED_ERROR": "Sorry, could not load this item. please try again.",
+        "OEMBED_ERROR": "Lo siento, no se puede cargar esta sección. Por favor, inténtelo de nuevo.",
         "FLIP_CARD": {
-            "FRONT_BUT": "FRONT",
-            "BACK_BUT": "BACK",
-            "LANDSCAPE_RATIO": "LANDSCAPE",
-            "SQUARE_RATIO": "SQUARE",
-            "FRONT_TITLE": "Front Card",
-            "BACK_TITLE": "Back Card",
-            "MEDIA_TOOLTIP": "Select Media",
-            "TEXT_TOOLTIP": "Text Card",
-            "IMAGE_CAPTION_PLACEHOLDER": "Add caption..."
+            "FRONT_BUT": "PARTE DELANTERA",
+            "BACK_BUT": "PARTE TRASERA",
+            "LANDSCAPE_RATIO": "VISTA",
+            "SQUARE_RATIO": "CUADRADO",
+            "FRONT_TITLE": "Tarjeta delantera",
+            "BACK_TITLE": "Tarjeta trasera",
+            "MEDIA_TOOLTIP": "Seleccionar medio",
+            "TEXT_TOOLTIP": "Etiqueta",
+            "IMAGE_CAPTION_PLACEHOLDER": "Añada un subtítulo..."
         },
         "TEXT_CARD": {
-            "TEXT_PLACEHOLDER": "Write something inspiring...",
-            "DELETE_TOOLTIP": "Delete text card"
+            "TEXT_PLACEHOLDER": "Escriba algo inspirador...",
+            "DELETE_TOOLTIP": "Eliminar etiqueta"
         },
         "MODAL": {
-            "RESULT_ERROR": "Oops! This couldn’t be uploaded",
-            "ADD_TITLE": "Add Media",
-            "EDIT_IMAGE_TITLE": "Crop Image",
-            "EDIT_VIDEO_TITLE": "Edit Video",
+            "RESULT_ERROR": "¡Ups! No se ha podido realizar la carga",
+            "ADD_TITLE": "Añadir medio",
+            "EDIT_IMAGE_TITLE": "Recortar la imagen",
+            "EDIT_VIDEO_TITLE": "Editar vídeo",
             "MENU": {
-                "SEARCH_GROUP_TITLE": "SEARCH",
-                "IMPORT_GROUP_TITLE": "IMPORT",
-                "FILE_LABEL": "Upload",
-                "LINK_LABEL": "From the Web"
+                "SEARCH_GROUP_TITLE": "BÚSQUEDA",
+                "IMPORT_GROUP_TITLE": "IMPORTAR",
+                "FILE_LABEL": "Cargar",
+                "LINK_LABEL": "Desde la web"
             },
             "GETTY": {
-                "LOGIN_DESC_FIRST_ROW": "Search Playbuzz’s Getty Images library or",
-                "LOGIN_DESC_SECOND_ROW": "to your own Getty Images account",
-                "LOGIN_FORM_DESC": "Login to your account",
-                "USERNAME_LABEL": "Username",
-                "USERNAME_PLACEHOLDER": "Username",
-                "PASSWORD_LABEL": "Password",
-                "PASSWORD_PLACEHOLDER": "Password",
-                "SUBMIT_BUT": "Sign In",
-                "CANCEL_BUT": "Cancel",
-                "LOGIN_ERROR": "Username/Password incorrect",
-                "CONNECTED_USER": "Logged in as {{user}}",
-                "POWERED_BY_LABEL": "Powered by",
-                "LOGIN_LINK": "login",
-                "LOGOUT_LINK": "Logout",
-                "RESULTS_COUNT_LABEL": "results"
+                "LOGIN_DESC_FIRST_ROW": "Busque en la biblioteca de Getty Images de Playbuzz o",
+                "LOGIN_DESC_SECOND_ROW": "a su propia cuenta de Getty Images",
+                "LOGIN_FORM_DESC": "Acceda a su cuenta",
+                "USERNAME_LABEL": "Usuario",
+                "USERNAME_PLACEHOLDER": "Usuario",
+                "PASSWORD_LABEL": "Contraseña",
+                "PASSWORD_PLACEHOLDER": "Contraseña",
+                "SUBMIT_BUT": "Inicie sesión",
+                "CANCEL_BUT": "Cancelar",
+                "LOGIN_ERROR": "Usuario o contraseña incorrectos",
+                "CONNECTED_USER": "Conectado como {{usuario}}",
+                "POWERED_BY_LABEL": "Proporcionado por",
+                "LOGIN_LINK": "acceso",
+                "LOGOUT_LINK": "Cierre de sesión",
+                "RESULTS_COUNT_LABEL": "resultados"
             },
             "YOUTUBE": {
-                "RESULTS_COUNT_LABEL": "results"
+                "RESULTS_COUNT_LABEL": "resultados"
             },
             "GIPHY": {
-                "RESULTS_COUNT_LABEL": "results"
+                "RESULTS_COUNT_LABEL": "resultados"
             },
             "SEARCH": {
-                "SEARCH_PLACEHOLDER": "Search...",
-                "LOAD_MORE_BUT": "Load more"
+                "SEARCH_PLACEHOLDER": "Búsqueda...",
+                "LOAD_MORE_BUT": "Cargar más"
             },
             "IMPORT": {
-                "UPLOAD_LINK": "Upload",
-                "DROP_FILE_TITLE": "or drop a file",
-                "LINK_PLACEHOLDER": "Got a direct media link?",
-                "INFO_LABEL": "Media recommendations",
-                "SUBMIT_BUT": "Go",
-                "LINK_PAGE_TITLE": "Import from the web"
+                "UPLOAD_LINK": "Cargar",
+                "DROP_FILE_TITLE": "o suelte un archivo",
+                "LINK_PLACEHOLDER": "¿Tiene enlace directo al medio?",
+                "INFO_LABEL": "Recomendaciones del medio",
+                "SUBMIT_BUT": "Ir",
+                "LINK_PAGE_TITLE": "Importar desde la web"
             },
-            "CREDIT_PLACEHOLDER": "Type image credits...",
-            "DONE_EDIT_BUT": "Done"
+            "CREDIT_PLACEHOLDER": "Introduzca los créditos de imágenes...",
+            "DONE_EDIT_BUT": "Hecho"
         },
         "POPOVER_MENU": {
-            "EDIT_LABEL": "Edit",
-            "REPLACE_LABEL": "Replace",
-            "DELETE_LABEL": "Delete"
+            "EDIT_LABEL": "Editar",
+            "REPLACE_LABEL": "Reemplazar",
+            "DELETE_LABEL": "Eliminar"
         }
     }
 }
