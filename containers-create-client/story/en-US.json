@@ -42,8 +42,8 @@
                 "ONLY_ME": "Only Me",
                 "ONLY_DIRECT_LINK": "Direct Link Only"
             },
-            "CREATOR_LANGUAGE_TITLE": "",
-            "CREATOR_EDIT_BUTTON": ""
+            "CREATOR_LANGUAGE_TITLE": "Language ",
+            "CREATOR_EDIT_BUTTON": "CREATOR_TEST"
         },
         "TAGS": {
             "TITLE": "Tags",
@@ -51,8 +51,8 @@
             "NEW_TAGS_PLACEHOLDER": "Enter your own tags...",
             "NEW_TAGS_DESCRIPTION": "Separated by comma",
             "TOOLTIP": "Tags",
-            "NEW_TAG_PLACEHOLDER": "",
-            "NEW_TAG_DESCRIPTION": ""
+            "NEW_TAG_PLACEHOLDER": "Enter your own tags",
+            "NEW_TAG_DESCRIPTION": "Separared by comma"
         },
         "SOCIAL": {
             "TITLE": "Social appearance",
@@ -74,12 +74,12 @@
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
     "SECTIONS": {
-        "QUOTE": {            
+        "QUOTE": {
             "TEXT_PLACEHOLDER": "Enter quote...",
             "QUOTEE_PLACEHOLDER": "Who said it?",
             "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more..."
         },
-        "CONVO": {            
+        "CONVO": {
             "PARTICIPANT_PLACEHOLDER": "Participant",
             "BUBBLE_CONTENT_PLACEHOLDER": "Enter text...",
             "ADD_BUBBLE_TOOLTIP": "Add Bubble",
@@ -126,7 +126,7 @@
             "ROW_PLACEHOLDER": "Enter text...",
             "NO_EFFECT": "None",
             "FADE_EFFECT": "Fade In"
-        },       
+        },
         "VIDEO_PLAYER": {
             "DESCRIPTION_PLACEHOLDER": "Description "
         },
