@@ -165,5 +165,8 @@
         "NEW_LABEL": "NEW",
         "TITLE": "Select your preferred creation language",
         "DONE_BUT": "Done"
+    },
+    "ONBOARDING": {
+        "GALLERY_OPEN_LABEL": "See Examples"
     }
 }
