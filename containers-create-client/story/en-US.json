@@ -92,7 +92,12 @@
             "DESCRIPTION_PLACEHOLDER": "From the web"
         },
         "IMAGE": {
-            "CAPTION": "Image"
+            "CAPTION": "Image",
+            "GALLERY": {
+                "TITLE_LABEL": "This is IMAGE title",
+                "TEXT_1_LABEL": "This is IMAGE text 1",
+                "TEXT_2_LABEL": "This is IMAGE text 2"
+            }
         },
         "PARAGRAPH": {
             "EDITOR_PLACEHOLDER": "Paragraph"
