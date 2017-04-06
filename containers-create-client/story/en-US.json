@@ -144,6 +144,30 @@
             "BUTTON_TEXT": "Enter text...",
             "LINK_PLACEHOLDER": "Enter link...",
             "TEST_LINK_TOOLTIP": "Test link"
+        },
+        "VIDEO_CREATOR": {
+            "AUDIO": {
+                "PLAY": "Play",
+                "PAUSE": "Pause",
+                "NONE": "None",
+                "INSPIRATIONAL": "Inspirational",
+                "MELANCHOLIC": "Melancholic",
+                "INTENSE": "Intense",
+                "FUNKY": "Funky",
+                "JAZZ": "Jazz",
+                "ENERGETIC_PIANO": "Energetic Piano",
+                "EMOTIONAL": "Emotional",
+                "THRILLER": "Thriller",
+                "CINEMATIC": "Cinematic",
+                "TRAILER": "Trailer",
+                "GANGSTA": "Gangsta",
+                "ELECTRONIC": "Electronic"
+            },
+            "TEMPLATES": {
+                "GALLERY_TITLE": "Pick a template",
+                "OPEN_TEMPLATES_GALLERY_BUT": "Change Template"                
+            }
+            
         }
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
