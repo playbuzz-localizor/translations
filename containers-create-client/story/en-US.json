@@ -94,7 +94,7 @@
         "IMAGE": {
             "CAPTION": "Image",
             "GALLERY": {
-                "TITLE_LABEL": "This is IMAGE title",
+                "TITLE_LABEL": "Add stunning images and make your visuals stand out by adding a blur or zoom-in effect",
                 "TEXT_1_LABEL": "This is IMAGE text 1",
                 "TEXT_2_LABEL": "This is IMAGE text 2"
             }
