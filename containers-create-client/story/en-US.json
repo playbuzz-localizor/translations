@@ -79,17 +79,38 @@
         "QUOTE": {
             "TEXT_PLACEHOLDER": "Enter quote...",
             "QUOTEE_PLACEHOLDER": "Who said it?",
-            "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more..."
+            "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more...",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3",
+                "TEXT_4_LABEL": "This is text 4"
+            }
         },
         "CONVO": {
             "PARTICIPANT_PLACEHOLDER": "Participant",
             "BUBBLE_CONTENT_PLACEHOLDER": "Enter text...",
             "ADD_BUBBLE_TOOLTIP": "Add Bubble",
             "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
-            "DELETE_MESSAGE": "Are you sure?"
+            "DELETE_MESSAGE": "Are you sure?",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3",
+                "TEXT_4_LABEL": "This is text 4"
+            }
         },
         "EMBED": {
-            "DESCRIPTION_PLACEHOLDER": "From the web"
+            "DESCRIPTION_PLACEHOLDER": "From the web",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3",
+                "TEXT_4_LABEL": "This is text 4"
+            }
         },
         "IMAGE": {
             "CAPTION": "Image",
@@ -102,7 +123,14 @@
             }
         },
         "PARAGRAPH": {
-            "EDITOR_PLACEHOLDER": "Paragraph"
+            "EDITOR_PLACEHOLDER": "Paragraph",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3",
+                "TEXT_4_LABEL": "This is text 4"
+            }
         },
         "POLL": {
             "BACKGROUND_TEMPLATE_TOOLTIP": "Background image ",
@@ -131,7 +159,14 @@
                 }               
             },
             "CLASSIC_LAYOUT_TOOLTIP": "Classic results template",
-            "GRID_LAYOUT_TOOLTIP": "Grid results template "
+            "GRID_LAYOUT_TOOLTIP": "Grid results template ",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3",
+                "TEXT_4_LABEL": "This is text 4"
+            }
         },
         "SUMMARY": {
             "TITLE_PLACEHOLDER": "Title",
@@ -139,10 +174,24 @@
             "SUBTITLE_PLACEHOLDER": "Subtitle",
             "ROW_PLACEHOLDER": "Enter text...",
             "NO_EFFECT": "None",
-            "FADE_EFFECT": "Fade In"
+            "FADE_EFFECT": "Fade In",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3",
+                "TEXT_4_LABEL": "This is text 4"
+            }
         },
         "VIDEO_PLAYER": {
-            "DESCRIPTION_PLACEHOLDER": "Description "
+            "DESCRIPTION_PLACEHOLDER": "Description ",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3",
+                "TEXT_4_LABEL": "This is text 4"
+            }
         },
         "CTA": {
             "NO_EFFECT": "None",
@@ -173,8 +222,14 @@
             "TEMPLATES": {
                 "GALLERY_TITLE": "Pick a template",
                 "OPEN_TEMPLATES_GALLERY_BUT": "Change Template"                
-            }
-            
+            },
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3",
+                "TEXT_4_LABEL": "This is text 4"
+            }            
         }
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
