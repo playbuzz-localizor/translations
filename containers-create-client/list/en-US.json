@@ -1,0 +1,31 @@
+{
+    "PREVIEW_MODAL": {
+        "TITLE": "Preview",
+        "CLOSE_BUT": "Close"
+    },
+    "ACTION_PANE": {
+        "PUBLISH_BUT": "Publish",
+        "SAVE_BUT": "Save",
+        "ERROR_MESSAGE": "Error",
+        "PUBLISH_BUT_PENDING": "Publishing...",
+        "PREVIEW_BUT": "Preview",
+        "PREVIEW_BUT_PENDING": "Preparing...",
+        "SAVED_NOTIFICATION": "Saved",
+        "VIEW_LINK": "view",
+        "SAVE_BUT_NEW_ITEM": "Save Draft",
+        "SAVE_BUT_PENDING": "Saving...",
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "Some requirements are missing",
+            "LOGED_OUT": "Please re-login",
+            "SAVING_DISABLED": "Saving is disabled. Please try again in 5 minutes",
+            "OUTDATED": "Item is outdated",
+            "SAVE_FAILED": "Failed to Save"
+        }
+    },
+    "LEFT_PANE": {
+        "TAGS": {
+            "NEW_TAG_PLACEHOLDER": "Enter your own tags",
+            "NEW_TAG_DESCRIPTION": "Separared by comma"
+        },
+    }
+}
