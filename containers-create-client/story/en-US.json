@@ -221,7 +221,7 @@
                 "ELECTRONIC": "Electronic"
             },
             "TEMPLATES": {
-                "GALLERY_TITLE": "Change Template",
+                "GALLERY_TITLE": "Pick a template",
                 "OPEN_TEMPLATES_GALLERY_BUT": "Change Template"                
             },
             "GALLERY": {
