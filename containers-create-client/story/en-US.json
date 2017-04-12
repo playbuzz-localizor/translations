@@ -203,37 +203,29 @@
             "TEST_LINK_TOOLTIP": "Test link"
         },
         "VIDEO_CREATOR": {
-            "AUDIO": {
-                "PLAY": "Play",
-                "PAUSE": "Pause",
-                "NONE": "None",
-                "INSPIRATIONAL": "Inspirational",
-                "MELANCHOLIC": "Melancholic",
-                "INTENSE": "Intense",
-                "FUNKY": "Funky",
-                "JAZZ": "Jazz",
-                "ENERGETIC_PIANO": "Energetic Piano",
-                "EMOTIONAL": "Emotional",
-                "THRILLER": "Thriller",
-                "CINEMATIC": "Cinematic",
-                "TRAILER": "Trailer",
-                "GANGSTA": "Gangsta",
-                "ELECTRONIC": "Electronic"
-            },
-            "TEMPLATES": {
+                "PLAY": "PLAY",
+                "PAUSE": "PAUSE",
                 "GALLERY_TITLE": "Pick a template",
-                "OPEN_TEMPLATES_GALLERY_BUT": "Change Template"                
-            },
-            "GALLERY": {
-                "TITLE_LABEL": "",
-                "TEXT_1_LABEL": "This is text 1",
-                "TEXT_2_LABEL": "This is text 2",
-                "TEXT_3_LABEL": "This is text 3",
-                "TEXT_4_LABEL": "This is text 4",
-                "TEXT_5_LABEL": "This is text 5",
-                "TEXT_6_LABEL": "This is text 6"
-            }            
-        }
+                "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
+                "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
+                "SETTINGS": {
+                    "TITLE": "Settings",
+                    "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+                    "MUTE_SWITCH_LABEL": "Start Play on Mute",
+                    "LOGO_LABEL": "Custom Logo",
+                    "CLOSE_SETTINGS": "Back to Edit",
+                    "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness"
+                },
+                "GALLERY": {
+                    "TITLE_LABEL": "",
+                    "TEXT_1_LABEL": "This is text 1",
+                    "TEXT_2_LABEL": "This is text 2",
+                    "TEXT_3_LABEL": "This is text 3",
+                    "TEXT_4_LABEL": "This is text 4",
+                    "TEXT_5_LABEL": "This is text 5",
+                    "TEXT_6_LABEL": "This is text 6"
+                }
+            }
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
     "SECTION_TITLE_PLACEHOLDER": "Title",
