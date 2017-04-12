@@ -1,32 +1,11 @@
 {
-    "ACTION_PANE": {
-        "PUBLISH_BTN": "Опубликовать",
-        "SAVE_BTN": "Сохранить",
-        "PUBLISH_BUT": "Опубликовать",
-        "SAVE_BUT": "Сохранить",
-        "PREVIEW_BTN": "Предварительный просмотр",
-        "ERROR_MESSAGE": "Ошибка",
-        "PUBLISH_BUT_PENDING": "Публикация...",
-        "PREVIEW_BUT": "Предпросмотр",
-        "PREVIEW_BTN_PENDING": "Подготовка...",
-        "SAVED_NOTIFICATION": "Сохранено",
-        "VIEW_LINK": "просмотр",
-        "SAVE_BUT_NEW_ITEM": "Сохранить черновик",
-        "SAVE_BUT_PENDING": "Сохранение...",
-        "ERROR": {
-            "MISSING_REQUIREMENTS": "Требуемые параметры отсутствуют",
-            "LOGED_OUT": "Пожалуйста, войдите снова",
-            "SAVING_DISABLED": "Сохранение отключено. Пожалуйста, повторите попытку через 5 минут",
-            "OUTDATED": "Пункт устарел",
-            "SAVE_FAILED": "Не удалось сохранить"
-        }
-    },
     "LEFT_PANE": {
         "MAP": {
             "TITLE": "Карта",
             "EMPTY_TITLE": "Начните здесь!",
             "EMPTY_DESCRIPTION": "Создайте и оформите вашу Историю ",
-            "TOOLTIP": "Карта"
+            "TOOLTIP": "Карта",
+            "MINIMUM_READ_TIME_LABEL": "min. read"
         },
         "VISIBILITY": {
             "TITLE": "Видимость",
@@ -72,6 +51,25 @@
         }
     },
     "DESCRIPTION_PLACEHOLDER": "Описание",
+    "ACTION_PANE": {
+        "PUBLISH_BUT": "Опубликовать",
+        "SAVE_BUT": "Сохранить",
+        "ERROR_MESSAGE": "Ошибка",
+        "PUBLISH_BUT_PENDING": "Публикация...",
+        "PREVIEW_BUT": "Предпросмотр",
+        "SAVED_NOTIFICATION": "Сохранено",
+        "VIEW_LINK": "просмотр",
+        "SAVE_BUT_NEW_ITEM": "Сохранить черновик",
+        "SAVE_BUT_PENDING": "Сохранение...",
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "Требуемые параметры отсутствуют",
+            "LOGED_OUT": "Пожалуйста, войдите снова",
+            "SAVING_DISABLED": "Сохранение отключено. Пожалуйста, повторите попытку через 5 минут",
+            "OUTDATED": "Пункт устарел",
+            "SAVE_FAILED": "Не удалось сохранить"
+        },
+        "PREVIEW_BUT_PENDING": "Preparing..."
+    },
     "SECTIONS_LOBBY_TITLE": "Расскажите свою историю",
     "SECTIONS": {
         "QUOTE": {
@@ -114,8 +112,12 @@
                 "DISPLAY_LOGO_DESCRIPTION": "Применить дополнительные персональные настройки, добавив ваше лого. \nИзменить ваше изображение",
                 "END_CARD_SWITCH": "Карточка в конце",
                 "END_CARD_DESCRIPTION": "Добиться большего участия и вовлечения с помощью карточки в конце",
-                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "Применить дополнительные персональные настройки, добавив ваше лого",
-                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": "Изменить ваше изображение"
+                "END_CARD": {
+                    "TITLE_LABEL": "Title",
+                    "TITLE_PLACEHOLDER": "Enter title...",
+                    "DESCRIPTION_LABEL": "Description",
+                    "DESCRIPTION_PLACEHOLDER": "Enter description..."
+                }
             },
             "CLASSIC_LAYOUT_TOOLTIP": "Классический шаблон результатов",
             "GRID_LAYOUT_TOOLTIP": "Шаблон результатов в виде сетки"
@@ -125,7 +127,8 @@
             "SUBTITLE_PLACEHOLDER": "Подзаголовок",
             "ROW_PLACEHOLDER": "Ввод текста....",
             "NO_EFFECT": "Нет данных",
-            "FADE_EFFECT": "Проявление"
+            "FADE_EFFECT": "Проявление",
+            "TITLE_PLACEHOLDER": "Title"
         },
         "VIDEO_PLAYER": {
             "DESCRIPTION_PLACEHOLDER": "Описание"
@@ -158,5 +161,12 @@
         "NEW_LABEL": "НОВОЕ",
         "TITLE": "Выберите предпочитаемый язык создания",
         "DONE_BUT": "Готово"
+    },
+    "PREVIEW_MODAL": {
+        "TITLE": "Preview",
+        "CLOSE_BUT": "Close"
+    },
+    "ONBOARDING": {
+        "GALLERY_OPEN_LABEL": "See Examples"
     }
 }

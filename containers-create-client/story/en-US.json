@@ -77,23 +77,53 @@
         "QUOTE": {
             "TEXT_PLACEHOLDER": "Enter quote...",
             "QUOTEE_PLACEHOLDER": "Who said it?",
-            "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more..."
+            "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more...",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2"
+            }
         },
         "CONVO": {
             "PARTICIPANT_PLACEHOLDER": "Participant",
             "BUBBLE_CONTENT_PLACEHOLDER": "Enter text...",
             "ADD_BUBBLE_TOOLTIP": "Add Bubble",
             "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
-            "DELETE_MESSAGE": "Are you sure?"
+            "DELETE_MESSAGE": "Are you sure?",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3"
+            }
         },
         "EMBED": {
-            "DESCRIPTION_PLACEHOLDER": "From the web"
+            "DESCRIPTION_PLACEHOLDER": "From the web",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3",
+                "TEXT_4_LABEL": "This is text 4"
+            }
         },
         "IMAGE": {
-            "CAPTION": "Image"
+            "CAPTION": "Image",
+            "GALLERY": {
+                "TITLE_LABEL": "Add stunning images and make your visuals stand out by adding a blur or zoom-in effect",
+                "TEXT_1_LABEL": "This is IMAGE text 1",
+                "TEXT_2_LABEL": "This is IMAGE text 2",
+                "TEXT_3_LABEL": "This is IMAGE text 3"
+            }
         },
         "PARAGRAPH": {
-            "EDITOR_PLACEHOLDER": "Paragraph"
+            "EDITOR_PLACEHOLDER": "Paragraph",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3"
+            }
         },
         "POLL": {
             "BACKGROUND_TEMPLATE_TOOLTIP": "Background image ",
@@ -122,7 +152,15 @@
                 }
             },
             "CLASSIC_LAYOUT_TOOLTIP": "Classic results template",
-            "GRID_LAYOUT_TOOLTIP": "Grid results template "
+            "GRID_LAYOUT_TOOLTIP": "Grid results template ",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3",
+                "TEXT_4_LABEL": "This is text 4",
+                "TEXT_5_LABEL": "This is text 5"
+            }
         },
         "SUMMARY": {
             "TITLE_PLACEHOLDER": "Title",
@@ -130,10 +168,29 @@
             "SUBTITLE_PLACEHOLDER": "Subtitle",
             "ROW_PLACEHOLDER": "Enter text...",
             "NO_EFFECT": "None",
-            "FADE_EFFECT": "Fade In"
+            "FADE_EFFECT": "Fade In",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3"
+            }
         },
         "VIDEO_PLAYER": {
-            "DESCRIPTION_PLACEHOLDER": "Description "
+            "DESCRIPTION_PLACEHOLDER": "Description ",
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2"
+            }
+        },
+        "FLIP_CARD": {            
+            "GALLERY": {
+                "TITLE_LABEL": "",
+                "TEXT_1_LABEL": "This is text 1",
+                "TEXT_2_LABEL": "This is text 2",
+                "TEXT_3_LABEL": "This is text 3"
+            }
         },
         "CTA": {
             "NO_EFFECT": "None",
@@ -142,7 +199,31 @@
             "BUTTON_TEXT": "Enter text...",
             "LINK_PLACEHOLDER": "Enter link...",
             "TEST_LINK_TOOLTIP": "Test link"
-        }
+        },
+        "VIDEO_CREATOR": {
+                "PLAY": "PLAY",
+                "PAUSE": "PAUSE",
+                "GALLERY_TITLE": "Pick a template",
+                "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
+                "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
+                "SETTINGS": {
+                    "TITLE": "Settings",
+                    "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+                    "MUTE_SWITCH_LABEL": "Start Play on Mute",
+                    "LOGO_LABEL": "Custom Logo",
+                    "CLOSE_SETTINGS": "Back to Edit",
+                    "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness"
+                },
+                "GALLERY": {
+                    "TITLE_LABEL": "",
+                    "TEXT_1_LABEL": "This is text 1",
+                    "TEXT_2_LABEL": "This is text 2",
+                    "TEXT_3_LABEL": "This is text 3",
+                    "TEXT_4_LABEL": "This is text 4",
+                    "TEXT_5_LABEL": "This is text 5",
+                    "TEXT_6_LABEL": "This is text 6"
+                }
+            }
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
     "SECTION_TITLE_PLACEHOLDER": "Title",
