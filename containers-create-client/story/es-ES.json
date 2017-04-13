@@ -5,7 +5,7 @@
             "EMPTY_TITLE": "¡Comenzar!",
             "EMPTY_DESCRIPTION": "Crea y adapta tu Story",
             "TOOLTIP": "Mapa",
-            "MINIMUM_READ_TIME_LABEL": "min. read"
+            "MINIMUM_READ_TIME_LABEL": "lectura mínima"
         },
         "VISIBILITY": {
             "TITLE": "Visibilidad",
@@ -21,15 +21,15 @@
                 "ONLY_ME": "Solo yo",
                 "ONLY_DIRECT_LINK": "Solo enlace directo"
             },
-            "CREATOR_LANGUAGE_TITLE": "Language ",
+            "CREATOR_LANGUAGE_TITLE": "Idioma",
             "CREATOR_EDIT_BUTTON": "bbb"
         },
         "TAGS": {
             "TITLE": "Etiquetas",
             "DESCRIPTION": "Haz que tu Story pueda ser descubierto más fácilmente utilizando etiquetas",
             "TOOLTIP": "Etiquetas",
-            "NEW_TAG_PLACEHOLDER": "Enter your own tags",
-            "NEW_TAG_DESCRIPTION": "Separared by comma"
+            "NEW_TAG_PLACEHOLDER": "Introduce tus propias etiquetas",
+            "NEW_TAG_DESCRIPTION": "Separadas por comas"
         },
         "SOCIAL": {
             "TITLE": "Apariencia social",
@@ -66,7 +66,7 @@
             "OUTDATED": "El artículo no está actualizado",
             "SAVE_FAILED": "No se ha podido guardar"
         },
-        "PREVIEW_BUT_PENDING": "Preparing..."
+        "PREVIEW_BUT_PENDING": "Preparando..."
     },
     "SECTIONS_LOBBY_TITLE": "Cuenta tu Story",
     "SECTIONS": {
@@ -75,9 +75,9 @@
             "QUOTEE_PLACEHOLDER": "¿Quién lo dijo?",
             "ADDITIONAL_TEXT_PLACEHOLDER": "Cuéntanos más...",
             "GALLERY": {
-                "TITLE_LABEL": "Highlight words of wisdom by creating a designed quote.",
-                "TEXT_1_LABEL": "Short and sweet; keep your quotes to the point and easy to read. ",
-                "TEXT_2_LABEL": "Include an image of who said it next to the quote to give your readers context and more information."
+                "TITLE_LABEL": "Crea diseños de citas para destacar frases sabias.",
+                "TEXT_1_LABEL": "Breve y amable: haz que tus citas sean directas y fáciles de leer.",
+                "TEXT_2_LABEL": "Incluye una imagen del autor al lado de la cita para ofrecerle contexto y más información a tus lectores."
             }
         },
         "CONVO": {
@@ -87,38 +87,38 @@
             "ADD_PARTICIPANT_TOOLTIP": "Añadir Participante",
             "DELETE_MESSAGE": "¿Estás seguro/a?",
             "GALLERY": {
-                "TITLE_LABEL": "Make readers feel as though they are reading someone’s text messages!",
-                "TEXT_1_LABEL": "Choose the template that enables you to upload images for all of the Convo participants.You can add text and images to each message bubble!",
-                "TEXT_2_LABEL": "Use the Convo template that looks and feels like iOS messenger.",
-                "TEXT_3_LABEL": "Use Convo to create a list or timeline of events. Simply upload a number or date as the image for each “participant”."
+                "TITLE_LABEL": "¡Haz que tus lectores se sientan como si estuvieran leyendo los mensajes de texto de alguien!",
+                "TEXT_1_LABEL": "Elige la plantilla que permite subir imágenes para cada participante de Convo. ¡Así podrás añadir texto e imágenes al lado de cada mensaje!",
+                "TEXT_2_LABEL": "Usa la plantilla de Convo que luce como el servicio de mensajería de iOS.",
+                "TEXT_3_LABEL": "Usa Convo para crear listas o cronologías de eventos. Simplemente sube números o fechas como imagen de cada «participante»."
             }
         },
         "EMBED": {
             "DESCRIPTION_PLACEHOLDER": "Desde la web",
             "GALLERY": {
-                "TITLE_LABEL": "Import media from the web. ",
-                "TEXT_1_LABEL": "Embed Google maps to show your readers a specific location.",
-                "TEXT_2_LABEL": "Include any video from Vimeo in your article.",
-                "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
-                "TEXT_4_LABEL": "Embed Instagram posts to make your content more visually stunning."
+                "TITLE_LABEL": "Importa contenido multimedia desde internet.",
+                "TEXT_1_LABEL": "Inserta Google Maps para mostrarle una ubicación específica a tus lectores.",
+                "TEXT_2_LABEL": "Incluye vídeos de Vimeo en tu artículo.",
+                "TEXT_3_LABEL": "Inserta publicaciones de Twitter para que tu contenido sea más interesante y atractivo.",
+                "TEXT_4_LABEL": "Inserta publicaciones de Instagram para que tu contenido tenga mayor impacto visual."
             }
         },
         "IMAGE": {
             "CAPTION": "Imagen",
             "GALLERY": {
-                "TITLE_LABEL": "Add stunning images and make your visuals stand out by adding a blur or zoom-in effect",
-                "TEXT_1_LABEL": "Surprise your readers by blurring an image. Clicking to reveal the image gives them an interactive and engaging content experience!",
-                "TEXT_2_LABEL": "Draw your readers' attention to the focal point of an image using the Zoom filter.",
-                "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not."
+                "TITLE_LABEL": "Incluye imágenes atractivas y resalta elementos visuales con el efecto de desenfoque o acercamiento",
+                "TEXT_1_LABEL": "Sorprende a tus lectores con una imagen desenfocada. ¡Al hacer clic para descubrir la imagen, disfrutarán de una experiencia de lectura interactiva y atrayente!",
+                "TEXT_2_LABEL": "Dirige la atención de tus lectores hacia el foco de la imagen con el filtro de acercamiento.",
+                "TEXT_3_LABEL": "Ofrécele a tus lectores la posibilidad de decidir si ver o no contenido sensible con el efecto de desenfoque."
             }
         },
         "PARAGRAPH": {
             "EDITOR_PLACEHOLDER": "Párrafo",
             "GALLERY": {
-                "TITLE_LABEL": "Use text to form the base for your Story.",
-                "TEXT_1_LABEL": "Use the text marker to highlight the most important parts in your text.",
-                "TEXT_2_LABEL": "Your reader's’ eye will immediately be drawn to the highlighted text. Make sure to highlight the important parts that they need to read.",
-                "TEXT_3_LABEL": "Include emojis and hyperlinks to make your text more interactive and interesting!"
+                "TITLE_LABEL": "Crea la base de tu historia con texto.",
+                "TEXT_1_LABEL": "Resalta las partes más importantes del texto con el marcador.",
+                "TEXT_2_LABEL": "El texto resaltado atraerá inmediatamente la mirada de tu lector. Asegúrate de resaltar las partes importantes que deban leer.",
+                "TEXT_3_LABEL": "¡Incluye emojis e hipervínculos para que tu texto sea más interesante y atractivo!"
             }
         },
         "POLL": {
@@ -141,20 +141,20 @@
                 "END_CARD_SWITCH": "Tarjeta final",
                 "END_CARD_DESCRIPTION": "Ayuda a que se comparta más utilizando la tarjeta final",
                 "END_CARD": {
-                    "TITLE_LABEL": "Title",
-                    "TITLE_PLACEHOLDER": "Enter title...",
-                    "DESCRIPTION_LABEL": "Description",
-                    "DESCRIPTION_PLACEHOLDER": "Enter description..."
+                    "TITLE_LABEL": "Título",
+                    "TITLE_PLACEHOLDER": "Introduce un título...",
+                    "DESCRIPTION_LABEL": "Descripción",
+                    "DESCRIPTION_PLACEHOLDER": "Introduce una descripción..."
                 }
             },
             "CLASSIC_LAYOUT_TOOLTIP": "Plantilla de resultados clásicos",
             "GRID_LAYOUT_TOOLTIP": "Plantilla para resultados en círculo",
             "GALLERY": {
-                "TITLE_LABEL": "Polls allow readers to express their opinion and respond to the content you create.",
-                "TEXT_1_LABEL": "Use a poll to getting your readers involved. Give them a chance to throw in their 2 cents! For example, asking what they think about something on social media.",
-                "TEXT_2_LABEL": "Use a cover image for your Poll to make your question more visual and exciting.",
-                "TEXT_3_LABEL": "Use a background image and choose the Grid template to create a visually awesome poll that is fun to interact with!",
-                "TEXT_4_LABEL": "Remember to always include a “none of the above” option to give your readers an easy out if none of the options suit them.",
+                "TITLE_LABEL": "Las encuestas le permiten a los lectores expresar su opinión y responder al contenido que creas.",
+                "TEXT_1_LABEL": "Involucra a tus lectores con una encuesta. ¡Permíteles aportar algo! Por ejemplo, les puedes preguntar qué opinan de algo específico en redes sociales.",
+                "TEXT_2_LABEL": "Usa una imagen de portada para que tu encuesta sea más visual y atractiva.",
+                "TEXT_3_LABEL": "¡Usa una imagen de fondo y elige la plantilla de cuadrícula para crear encuestas visualmente impactantes y con las que sea divertido interactuar!",
+                "TEXT_4_LABEL": "Recuerda siempre incluir la opción «ninguna de las anteriores» para que tus lectores tengan una alternativa a la que recurrir su ninguna de las opciones propuestas se ajusta a ellos.",
                 "TEXT_5_LABEL": ""
             }
         },
@@ -164,20 +164,20 @@
             "ROW_PLACEHOLDER": "Introduce texto...",
             "NO_EFFECT": "Ninguno",
             "FADE_EFFECT": "Aparecer gradualmente",
-            "TITLE_PLACEHOLDER": "Title",
+            "TITLE_PLACEHOLDER": "Título",
             "GALLERY": {
-                "TITLE_LABEL": "In the age of TL;DR, Summary gets straight to the point and give readers only the information they need. They can be used in different ways...",
-                "TEXT_1_LABEL": "Use Summary to wrap-up the main points of any topic. Give your audience the big picture in a series of succinct points. Include a cover image to tie the Summary into the topic of your article.",
-                "TEXT_2_LABEL": "Use the Summary template for recipes to include a sidebar for ingredients. Include a beautiful visual to make your Summary more interesting.",
-                "TEXT_3_LABEL": "Use the check-box feature to create a to-do list using Summary."
+                "TITLE_LABEL": "En estos tiempos en los que la gente no suele leer contenido extenso, el Resumen va al grano y le ofrece a los lectores solo la información que necesitan. Los resúmenes pueden usarse de distintas formas.",
+                "TEXT_1_LABEL": "Usa Resumen para presentar los puntos clave de cualquier tema. Ofrécele una visión general al público con varios puntos concisos. Incluye una imagen de portada para vincular el resumen con el tema de tu artículo.",
+                "TEXT_2_LABEL": "Usa la plantilla Resumen para crear recetas e incluir una barra lateral con los ingredientes. Incorpora elementos visuales para que tu resumen sea más atractivo.",
+                "TEXT_3_LABEL": "Crea listas de cosas por hacer en Resumen con la función de casillas de verificación."
             }
         },
         "VIDEO_PLAYER": {
             "DESCRIPTION_PLACEHOLDER": "Descripción",
             "GALLERY": {
-                "TITLE_LABEL": "Enrich your story with videos.",
-                "TEXT_1_LABEL": "Use any video on Vimeo to make your article more interesting.",
-                "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
+                "TITLE_LABEL": "Enriquece tus historias con vídeos.",
+                "TEXT_1_LABEL": "Usa vídeos de Vimeo para que tus artículos sean más interesantes.",
+                "TEXT_2_LABEL": "Usa vídeos de YouTube para que tus artículos sean más interesantes."
             }
         },
         "CTA": {
@@ -190,34 +190,34 @@
         },
         "VIDEO_CREATOR": {
             "GALLERY": {
-                "TITLE_LABEL": "Incorporate video in a more flexible and low-cost manner. Simply customize our readymade templates, choose a color palette and add the right sound.",
-                "TEXT_1_LABEL": "Use the classic template to create a video list with GIFs and images.",
-                "TEXT_2_LABEL": "Use the Vs. template to compare and contrast a topic that your readers care about.",
-                "TEXT_3_LABEL": "Every screen in the Vs. template will compare a subtopic under the larger comparison with text, images and GIFs!",
-                "TEXT_4_LABEL": "Use the Facts template to list facts about something important to your readers. ",
-                "TEXT_5_LABEL": "Each slide in a Facts video has large text over a background image.",
-                "TEXT_6_LABEL": "Use the Swift template to create a quicker video with a an intro screen that automatically pulls visuals from all of your video’s slides."
+                "TITLE_LABEL": "Incluye vídeos de forma más flexible y económica. Simplemente personaliza nuestras plantillas listas para usar, elige una paleta de colores y agrega el sonido adecuado.",
+                "TEXT_1_LABEL": "Usa la plantilla clásica para crear listas de vídeo con archivos GIF e imágenes.",
+                "TEXT_2_LABEL": "Usa la plantilla Vs. para comparar y contrastar temas del interés de tus lectores.",
+                "TEXT_3_LABEL": "¡Todas las pantallas de la plantilla Vs. comparan temas dependientes dentro de la comparación principal con texto, imágenes y archivos GIF!",
+                "TEXT_4_LABEL": "Usa la plantilla Hechos para crear listas de hechos sobre temas importantes para tus lectores.",
+                "TEXT_5_LABEL": "En los vídeos creados con la plantilla Hechos, cada diapositiva incluye un texto largo sobre una imagen de fondo.",
+                "TEXT_6_LABEL": "Usa la plantilla Veloz para crear vídeos más rápidos con una pantalla introductoria que extrae automáticamente imágenes de todas las diapositivas del vídeo."
             },
-            "PLAY": "PLAY",
-            "PAUSE": "PAUSE",
-            "GALLERY_TITLE": "Pick a template",
-            "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
-            "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
+            "PLAY": "REPRODUCIR",
+            "PAUSE": "PAUSA",
+            "GALLERY_TITLE": "Elige una plantilla",
+            "OPEN_TEMPLATES_GALLERY_BUT": "Cambiar plantilla",
+            "CLOSE_TEMPLATES_GALLERY_BUT": "Volver a Edición",
             "SETTINGS": {
-                "TITLE": "Settings",
-                "AUTOPLAY_SWITCH_LABEL": "Autoplay",
-                "MUTE_SWITCH_LABEL": "Start Play on Mute",
-                "LOGO_LABEL": "Custom Logo",
-                "CLOSE_SETTINGS": "Back to Edit",
-                "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness"
+                "TITLE": "Ajustes",
+                "AUTOPLAY_SWITCH_LABEL": "Reproducción automática",
+                "MUTE_SWITCH_LABEL": "Comenzar a reproducir en silencio",
+                "LOGO_LABEL": "Logo personalizado",
+                "CLOSE_SETTINGS": "Volver a Edición",
+                "LOGO_DESCRIPTION": "Sube tu propio logo para crear tu marca e incrementar su notoriedad"
             }
         },
         "FLIP_CARD": {
             "GALLERY": {
-                "TITLE_LABEL": "Surprise your readers by displaying images and text cards that readers can click to flip and reveal the other side.",
+                "TITLE_LABEL": "Sorprende a tus lectores con tarjetas de imágenes y texto que podrán voltear para ver la otra cara.",
                 "TEXT_1_LABEL": "",
-                "TEXT_2_LABEL": "Use flip-card to reveal something to your readers. Surprise, shock, and entertain them! This is also great for “before and after” comparisons!",
-                "TEXT_3_LABEL": "Use Flip-card to filter what your readers see. Give them the choice to decide if they want to see adult content or not. "
+                "TEXT_2_LABEL": "Usa las tarjetas para revelar información a tus lectores. ¡Los podrás sorprender, impresionar y entretener! Esta opción también es perfecta para hacer comparaciones «antes y después».",
+                "TEXT_3_LABEL": "Usa las Tarjetas para filtrar lo que ven tus lectores. Permíteles decidir si ver o no contenido censurado."
             }
         }
     },
@@ -242,10 +242,10 @@
         "DONE_BUT": "Hecho"
     },
     "PREVIEW_MODAL": {
-        "TITLE": "Preview",
-        "CLOSE_BUT": "Close"
+        "TITLE": "Previsualización",
+        "CLOSE_BUT": "Cerrar"
     },
     "ONBOARDING": {
-        "GALLERY_OPEN_LABEL": "See Examples"
+        "GALLERY_OPEN_LABEL": "Ver ejemplos"
     }
 }
