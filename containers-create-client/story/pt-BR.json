@@ -4,7 +4,8 @@
             "TITLE": "Mapa de navegação",
             "EMPTY_TITLE": "Vamos começar!",
             "EMPTY_DESCRIPTION": "Crie e organize o seu Story",
-            "TOOLTIP": "Mapa de navegação"
+            "TOOLTIP": "Mapa de navegação",
+            "MINIMUM_READ_TIME_LABEL": "min. de leitura"
         },
         "VISIBILITY": {
             "TITLE": "Visualização",
@@ -20,7 +21,8 @@
                 "ONLY_ME": "Somente eu",
                 "ONLY_DIRECT_LINK": "Apenas link direto"
             },
-            "CREATOR_LANGUAGE_TITLE": "Idioma"
+            "CREATOR_LANGUAGE_TITLE": "Idioma",
+            "CREATOR_EDIT_BUTTON": "bbb"
         },
         "TAGS": {
             "TITLE": "Tags",
@@ -63,34 +65,61 @@
             "SAVING_DISABLED": "O salvamento está desativado. Tente novamente em 5 minutos",
             "OUTDATED": "Item desatualizado",
             "SAVE_FAILED": "Falha ao salvar"
-        }
+        },
+        "PREVIEW_BUT_PENDING": "Preparando..."
     },
     "SECTIONS_LOBBY_TITLE": "Conte a sua história",
     "SECTIONS": {
         "QUOTE": {
             "TEXT_PLACEHOLDER": "Escreva a citação",
             "QUOTEE_PLACEHOLDER": "Quem disse isso...",
-            "ADDITIONAL_TEXT_PLACEHOLDER": "Fale um pouco mais..."
+            "ADDITIONAL_TEXT_PLACEHOLDER": "Fale um pouco mais...",
+            "GALLERY": {
+                "TITLE_LABEL": "Destaque as palavras de sabedoria criando uma citação projetada.",
+                "TEXT_1_LABEL": "Curto e grosso; mantenha suas citações diretas ao ponto e fáceis de ler.",
+                "TEXT_2_LABEL": "Inclua uma imagem de quem a disse ao lado da citação para fornecer aos seus leitores o contexto e mais informações."
+            }
         },
         "CONVO": {
             "PARTICIPANT_PLACEHOLDER": "Participante",
             "BUBBLE_CONTENT_PLACEHOLDER": "Escreva o texto...",
             "ADD_BUBBLE_TOOLTIP": "Adicionar participante",
             "ADD_PARTICIPANT_TOOLTIP": "Adicionar participante",
-            "DELETE_MESSAGE": "Você está certo?"
+            "DELETE_MESSAGE": "Você está certo?",
+            "GALLERY": {
+                "TITLE_LABEL": "Faça os leitores se sentirem como se estivessem lendo mensagens de texto de alguém!",
+                "TEXT_1_LABEL": "Escolha o modelo que permite enviar imagens para todos os participantes do Convo. Você pode adicionar texto e imagens a cada bolha de mensagem!",
+                "TEXT_2_LABEL": "Use o modelo Convo que tem a aparência e dá a sensação do iOS messenger.",
+                "TEXT_3_LABEL": "Use Convo para criar uma lista ou cronograma de eventos. Basta enviar um número ou data como a imagem para cada \"participante\"."
+            }
         },
         "EMBED": {
-            "DESCRIPTION_PLACEHOLDER": "Da web"
+            "DESCRIPTION_PLACEHOLDER": "Da web",
+            "GALLERY": {
+                "TITLE_LABEL": "Importe mídia da rede.",
+                "TEXT_1_LABEL": "Incorpore mapas do Google para mostrar aos seus leitores um local específico.",
+                "TEXT_2_LABEL": "Inclua qualquer vídeo do Vimeo no seu artigo.",
+                "TEXT_3_LABEL": "Incorpore postagens no Twitter para tornar o seu conteúdo mais interessante e envolvente.",
+                "TEXT_4_LABEL": "Insira postagens do Instagram para tornar o seu conteúdo visualmente deslumbrante."
+            }
         },
         "IMAGE": {
             "CAPTION": "Imagem",
             "GALLERY": {
                 "TITLE_LABEL": "Add stunning images and make your visuals stand out by adding a blur or zoom-in effect\n",
-                "TEXT_1_LABEL": "Surprise your readers by blurring an image. Clicking to reveal the image gives them an interactive and engaging content experience!"
+                "TEXT_1_LABEL": "Surprise your readers by blurring an image. Clicking to reveal the image gives them an interactive and engaging content experience!",
+                "TEXT_2_LABEL": "Atraia a atenção de seus leitores para o ponto focal de uma imagem usando o filtro Zoom.",
+                "TEXT_3_LABEL": "Use o efeito de desfocagem para dar aos leitores a opção de decidir se querem ver conteúdo gráfico ou não."
             }
         },
         "PARAGRAPH": {
-            "EDITOR_PLACEHOLDER": "Parágrafo"
+            "EDITOR_PLACEHOLDER": "Parágrafo",
+            "GALLERY": {
+                "TITLE_LABEL": "Use texto para formar a base para sua história.",
+                "TEXT_1_LABEL": "Use o marcador de texto para destacar as partes mais importantes do seu texto.",
+                "TEXT_2_LABEL": "Os olhos do seu leitor serão imediatamente atraídos para o texto realçado. Certifique-se de destacar as partes importantes que eles precisam ler.",
+                "TEXT_3_LABEL": "Inclua emojis e hiperlinks para tornar seu texto mais interativo e interessante!"
+            }
         },
         "POLL": {
             "BACKGROUND_TEMPLATE_TOOLTIP": "Imagem de fundo",
@@ -119,7 +148,14 @@
                 }
             },
             "CLASSIC_LAYOUT_TOOLTIP": "Modelo de resultados clássico",
-            "GRID_LAYOUT_TOOLTIP": "Modelo de resultados em grade"
+            "GRID_LAYOUT_TOOLTIP": "Modelo de resultados em grade",
+            "GALLERY": {
+                "TITLE_LABEL": "Pesquisas permitem que os leitores expressem suas opiniões e respondam ao conteúdo que você cria.",
+                "TEXT_1_LABEL": "Use uma pesquisa para envolver seus leitores. Forneça-lhes uma oportunidade de dar seus 2 centavos! Por exemplo, perguntando o que eles pensam sobre algo em mídias sociais.",
+                "TEXT_2_LABEL": "Use uma imagem de capa para sua Pesquisa para tornar sua pergunta mais visual e emocionante.",
+                "TEXT_3_LABEL": "Use uma imagem de fundo e escolha o modelo de Grade para criar uma pesquisa visualmente incrível que seja divertida de interagir!",
+                "TEXT_4_LABEL": "Lembre-se de incluir sempre uma opção \"nenhuma das opções acima\" para dar aos seus leitores uma saída fácil se nenhuma das opções lhes atender."
+            }
         },
         "SUMMARY": {
             "ADD_ROW": "Acrescentar linha",
@@ -127,10 +163,21 @@
             "ROW_PLACEHOLDER": "Escreva o texto...",
             "NO_EFFECT": "Nenhum",
             "FADE_EFFECT": "Fade In",
-            "TITLE_PLACEHOLDER": "Título"
+            "TITLE_PLACEHOLDER": "Título",
+            "GALLERY": {
+                "TITLE_LABEL": "Na era de TL;DR, Resumo fica direto ao ponto e fornece aos leitores apenas as informações de que necessitam. Ele pode ser usado de diferentes maneiras...",
+                "TEXT_1_LABEL": "Use Resumo para finalizar os principais pontos de qualquer tópico. Dê a sua audiência o retrato grande em uma série de pontos sucintos. Inclua uma imagem de capa para vincular o Resumo ao tópico de seu artigo.",
+                "TEXT_2_LABEL": "Use o modelo de Resumo para receitas para incluir uma barra lateral para ingredientes. Inclua um visual bonito para tornar o seu Resumo mais interessante.",
+                "TEXT_3_LABEL": "Use o recurso de caixa de seleção para criar uma lista de tarefas usando Resumo."
+            }
         },
         "VIDEO_PLAYER": {
-            "DESCRIPTION_PLACEHOLDER": "Descrição"
+            "DESCRIPTION_PLACEHOLDER": "Descrição",
+            "GALLERY": {
+                "TITLE_LABEL": "Enriqueça sua história com vídeos.",
+                "TEXT_1_LABEL": "Use qualquer vídeo no Vimeo para tornar o seu artigo mais interessante.",
+                "TEXT_2_LABEL": "Use qualquer vídeo no Youtube para tornar o seu artigo mais interessante."
+            }
         },
         "CTA": {
             "NO_EFFECT": "Nenhum",
@@ -139,6 +186,37 @@
             "BUTTON_TEXT": "Inserir texto...",
             "LINK_PLACEHOLDER": "Inserir link...",
             "TEST_LINK_TOOLTIP": "Testar link"
+        },
+        "VIDEO_CREATOR": {
+            "GALLERY": {
+                "TITLE_LABEL": "Incorpore o vídeo de uma forma mais flexível e de baixo custo. Personalize simplesmente nossos modelos do readymade, escolha uma paleta de cores e adicione o som correto.",
+                "TEXT_1_LABEL": "Use o modelo clássico para criar uma lista de vídeos com GIFs e imagens.",
+                "TEXT_2_LABEL": "Use os modelo Vs. para comparar e contrastar um tópico com que seus leitores se preocupam.",
+                "TEXT_3_LABEL": "Cada tela no modelo Vs. irá comparar um subtópico sob a comparação maior com texto, imagens e GIFs!",
+                "TEXT_4_LABEL": "Use o modelo de Fatos para listar fatos sobre algo importante para seus leitores.",
+                "TEXT_5_LABEL": "Cada slide em um vídeo de Fatos tem texto grande sobre uma imagem de plano de fundo.",
+                "TEXT_6_LABEL": "Use o modelo Rápido para criar um vídeo mais rápido com uma tela de introdução que puxa automaticamente os recursos visuais de todos os slides do seu vídeo."
+            },
+            "PLAY": "REPRODUZIR",
+            "PAUSE": "PAUSAR",
+            "GALLERY_TITLE": "Escolher um modelo",
+            "OPEN_TEMPLATES_GALLERY_BUT": "Alterar Modelo",
+            "CLOSE_TEMPLATES_GALLERY_BUT": "Voltar para Editar",
+            "SETTINGS": {
+                "TITLE": "Configurações",
+                "AUTOPLAY_SWITCH_LABEL": "Reprodução automática",
+                "MUTE_SWITCH_LABEL": "Iniciar Reprodução em Estado Mudo",
+                "LOGO_LABEL": "Logotipo Personalizado",
+                "CLOSE_SETTINGS": "Voltar para Editar",
+                "LOGO_DESCRIPTION": "Carregue o seu próprio logotipo para criar sua marca e aumentar a notoriedade da marca"
+            }
+        },
+        "FLIP_CARD": {
+            "GALLERY": {
+                "TITLE_LABEL": "Surpreenda seus leitores exibindo imagens e cartões de texto que os leitores podem clicar para virar e revelar o outro lado.",
+                "TEXT_2_LABEL": "Use cartões que viram para revelar algo aos seus leitores. Surpreenda, choque e entretenha! Isso também é ótimo para comparações \"antes e depois\"!",
+                "TEXT_3_LABEL": "Use cartões que viram para filtrar o que seus leitores veem. Forneça-lhes a opção para decidir se eles querem ver conteúdo adulto ou não."
+            }
         }
     },
     "STORY_TITLE_PLACEHOLDER": "Título do Story",
