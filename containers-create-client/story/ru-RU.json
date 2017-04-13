@@ -5,7 +5,7 @@
             "EMPTY_TITLE": "Начните здесь!",
             "EMPTY_DESCRIPTION": "Создайте и оформите вашу Историю ",
             "TOOLTIP": "Карта",
-            "MINIMUM_READ_TIME_LABEL": "min. read"
+            "MINIMUM_READ_TIME_LABEL": "мин. прочтений"
         },
         "VISIBILITY": {
             "TITLE": "Видимость",
@@ -14,22 +14,22 @@
             "LANGUAGE_DESCRIPTION": "Выберите язык Истории",
             "LANGUAGE_CHECKBOX_LABEL": "Разрешить перевод на другие языки ",
             "SPONSORED_TITLE": "Спонсорский контент",
-            "SPONSORED_CHECKBOX_LABEL": "Это спонсорская История",
+            "SPONSORED_CHECKBOX_LABEL": "Брендированная история",
             "TOOLTIP": "Видимость: {{viewPermission}}",
             "VIEW_PERMISSIONS_DROPDOWN": {
                 "PUBLIC": "Все (рекомендовано)",
                 "ONLY_ME": "Только я",
                 "ONLY_DIRECT_LINK": "Только по прямой ссылке"
             },
-            "CREATOR_LANGUAGE_TITLE": "Language ",
-            "CREATOR_EDIT_BUTTON": "bbb"
+            "CREATOR_LANGUAGE_TITLE": "Язык",
+            "CREATOR_EDIT_BUTTON": "ббб"
         },
         "TAGS": {
             "TITLE": "Теги",
             "DESCRIPTION": "При помощи тегов вашу Историю проще найти ",
             "TOOLTIP": "Теги",
-            "NEW_TAG_PLACEHOLDER": "Enter your own tags",
-            "NEW_TAG_DESCRIPTION": "Separared by comma"
+            "NEW_TAG_PLACEHOLDER": "Введите свои теги",
+            "NEW_TAG_DESCRIPTION": "Разделенные запятой"
         },
         "SOCIAL": {
             "TITLE": "Внешний вид в соцсетях ",
@@ -66,7 +66,7 @@
             "OUTDATED": "Пункт устарел",
             "SAVE_FAILED": "Не удалось сохранить"
         },
-        "PREVIEW_BUT_PENDING": "Preparing..."
+        "PREVIEW_BUT_PENDING": "Подготовка..."
     },
     "SECTIONS_LOBBY_TITLE": "Расскажите свою историю",
     "SECTIONS": {
@@ -75,9 +75,9 @@
             "QUOTEE_PLACEHOLDER": "Кто это сказал?",
             "ADDITIONAL_TEXT_PLACEHOLDER": "Расскажите подробней...",
             "GALLERY": {
-                "TITLE_LABEL": "Highlight words of wisdom by creating a designed quote.",
-                "TEXT_1_LABEL": "Short and sweet; keep your quotes to the point and easy to read. ",
-                "TEXT_2_LABEL": "Include an image of who said it next to the quote to give your readers context and more information."
+                "TITLE_LABEL": "Выделите мудрые слова, создав цитату с особым дизайном.",
+                "TEXT_1_LABEL": "Краткая и приятная. Пусть ваши цитаты будут полностью уместны и легкочитаемы.",
+                "TEXT_2_LABEL": "Добавьте изображение автора цитаты к данной цитате, чтобы предоставить читателям контекст и дополнительную информацию."
             }
         },
         "CONVO": {
@@ -87,38 +87,38 @@
             "ADD_PARTICIPANT_TOOLTIP": "Добавить участника",
             "DELETE_MESSAGE": "Вы уверены?",
             "GALLERY": {
-                "TITLE_LABEL": "Make readers feel as though they are reading someone’s text messages!",
-                "TEXT_1_LABEL": "Choose the template that enables you to upload images for all of the Convo participants.You can add text and images to each message bubble!",
-                "TEXT_2_LABEL": "Use the Convo template that looks and feels like iOS messenger.",
-                "TEXT_3_LABEL": "Use Convo to create a list or timeline of events. Simply upload a number or date as the image for each “participant”."
+                "TITLE_LABEL": "Создайте у читателей ощущение, что они читают чьи-то текстовые сообщения!",
+                "TEXT_1_LABEL": "Выберите шаблон, который позволит вам загружать изображения всех участников Convo. Вы можете добавлять текст и изображения в каждый пузырь сообщений!",
+                "TEXT_2_LABEL": "Используйте шаблон Convo, который выглядит как мессенджер iOS.",
+                "TEXT_3_LABEL": "Используйте Convo для создания списка или хроники событий. Просто загрузите номер или дату в качестве изображения для каждого «участника»."
             }
         },
         "EMBED": {
             "DESCRIPTION_PLACEHOLDER": "С веб-сайта",
             "GALLERY": {
-                "TITLE_LABEL": "Import media from the web. ",
-                "TEXT_1_LABEL": "Embed Google maps to show your readers a specific location.",
-                "TEXT_2_LABEL": "Include any video from Vimeo in your article.",
-                "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
-                "TEXT_4_LABEL": "Embed Instagram posts to make your content more visually stunning."
+                "TITLE_LABEL": "Импортируйте медиафайлы из Интернета.",
+                "TEXT_1_LABEL": "Вставляйте карты Google, чтобы показать своим читателям конкретное местоположение.",
+                "TEXT_2_LABEL": "Добавляйте любое видео с Vimeo в свою статью.",
+                "TEXT_3_LABEL": "Вставляйте сообщения Twitter, чтобы сделать ваш контент еще более интересным и увлекательным.",
+                "TEXT_4_LABEL": "Встраивайте публикации Instagram, чтобы сделать ваш контент более потрясающим в визуальном плане."
             }
         },
         "IMAGE": {
             "CAPTION": "Изображение",
             "GALLERY": {
-                "TITLE_LABEL": "Add stunning images and make your visuals stand out by adding a blur or zoom-in effect",
-                "TEXT_1_LABEL": "Surprise your readers by blurring an image. Clicking to reveal the image gives them an interactive and engaging content experience!",
-                "TEXT_2_LABEL": "Draw your readers' attention to the focal point of an image using the Zoom filter.",
-                "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not."
+                "TITLE_LABEL": "Добавляйте потрясающие изображения и создавайте выделяющиеся визуальные эффекты посредством добавления эффекта размытия или увеличения",
+                "TEXT_1_LABEL": "Удивите своих читателей посредством размытия изображения. Щелчок мышью для показа изображения привет к показу им интерактивного и привлекательного контента!",
+                "TEXT_2_LABEL": "Привлеките внимание читателей к основному фокусу изображения с использованием фильтра «Увеличение масштаба».",
+                "TEXT_3_LABEL": "Используйте эффект размытия, чтобы предоставить читателям возможность решить, хотят ли они видеть графический контент или нет."
             }
         },
         "PARAGRAPH": {
             "EDITOR_PLACEHOLDER": "Параграф",
             "GALLERY": {
-                "TITLE_LABEL": "Use text to form the base for your Story.",
-                "TEXT_1_LABEL": "Use the text marker to highlight the most important parts in your text.",
-                "TEXT_2_LABEL": "Your reader's’ eye will immediately be drawn to the highlighted text. Make sure to highlight the important parts that they need to read.",
-                "TEXT_3_LABEL": "Include emojis and hyperlinks to make your text more interactive and interesting!"
+                "TITLE_LABEL": "Используйте текст, чтобы сформировать базу вашей истории.",
+                "TEXT_1_LABEL": "Используйте текстовый маркер для выделения наиболее важных частей вашего текста.",
+                "TEXT_2_LABEL": "Внимание вашего читателя будет немедленно привлечено к выделенному тексту. Обязательно выделите важные части, которые им нужно прочитать.",
+                "TEXT_3_LABEL": "Добавьте эмодзи и гиперссылки, чтобы сделать ваш текст более интерактивным и интересным!"
             }
         },
         "POLL": {
@@ -141,20 +141,20 @@
                 "END_CARD_SWITCH": "Карточка в конце",
                 "END_CARD_DESCRIPTION": "Добиться большего участия и вовлечения с помощью карточки в конце",
                 "END_CARD": {
-                    "TITLE_LABEL": "Title",
-                    "TITLE_PLACEHOLDER": "Enter title...",
-                    "DESCRIPTION_LABEL": "Description",
-                    "DESCRIPTION_PLACEHOLDER": "Enter description..."
+                    "TITLE_LABEL": "Заголовок",
+                    "TITLE_PLACEHOLDER": "Введите заголовок...",
+                    "DESCRIPTION_LABEL": "Описание",
+                    "DESCRIPTION_PLACEHOLDER": "Введите описание..."
                 }
             },
             "CLASSIC_LAYOUT_TOOLTIP": "Классический шаблон результатов",
             "GRID_LAYOUT_TOOLTIP": "Шаблон результатов в виде сетки",
             "GALLERY": {
-                "TITLE_LABEL": "Polls allow readers to express their opinion and respond to the content you create.",
-                "TEXT_1_LABEL": "Use a poll to getting your readers involved. Give them a chance to throw in their 2 cents! For example, asking what they think about something on social media.",
-                "TEXT_2_LABEL": "Use a cover image for your Poll to make your question more visual and exciting.",
-                "TEXT_3_LABEL": "Use a background image and choose the Grid template to create a visually awesome poll that is fun to interact with!",
-                "TEXT_4_LABEL": "Remember to always include a “none of the above” option to give your readers an easy out if none of the options suit them.",
+                "TITLE_LABEL": "Опросы позволяют читателям высказывать свое мнение и реагировать на создаваемый вами контент.",
+                "TEXT_1_LABEL": "Используйте опрос, чтобы привлечь читателей. Дайте им шанс вставить свои 2 копейки! Например, спросите, что они думают о чем-то в социальных сетях.",
+                "TEXT_2_LABEL": "Используйте изображение обложки для своего опроса, чтобы сделать ваш вопрос более наглядным и увлекательным.",
+                "TEXT_3_LABEL": "Используйте фоновое изображение и выберите шаблон сетки, чтобы создать потрясающий визуальный облик опроса, с которым интересно взаимодействовать!",
+                "TEXT_4_LABEL": "Никогда не забывайте включать вариант «ничего из вышеперечисленного», чтобы облегчить задачу читателям по выбору ответа, если ни один из вариантов не подходит им.",
                 "TEXT_5_LABEL": ""
             }
         },
@@ -164,20 +164,20 @@
             "ROW_PLACEHOLDER": "Ввод текста....",
             "NO_EFFECT": "Нет данных",
             "FADE_EFFECT": "Проявление",
-            "TITLE_PLACEHOLDER": "Title",
+            "TITLE_PLACEHOLDER": "Заголовок",
             "GALLERY": {
-                "TITLE_LABEL": "In the age of TL;DR, Summary gets straight to the point and give readers only the information they need. They can be used in different ways...",
-                "TEXT_1_LABEL": "Use Summary to wrap-up the main points of any topic. Give your audience the big picture in a series of succinct points. Include a cover image to tie the Summary into the topic of your article.",
-                "TEXT_2_LABEL": "Use the Summary template for recipes to include a sidebar for ingredients. Include a beautiful visual to make your Summary more interesting.",
-                "TEXT_3_LABEL": "Use the check-box feature to create a to-do list using Summary."
+                "TITLE_LABEL": "В эпоху TL;DR Резюме четко излагает суть и предоставляет читателям только необходимую им информацию. Его можно использовать по-разному ...",
+                "TEXT_1_LABEL": "Используйте Резюме, чтобы подвести итоги по основным вопросам любой темы. Покажите вашей аудитории большую картину в виде серии кратких моментов. Добавьте изображение обложки, чтобы связать Резюме с темой вашей статьи.",
+                "TEXT_2_LABEL": "Используйте шаблон Резюме для рецептов, чтобы добавить боковую панель для ингредиентов. Выполните красивое визуальное оформление, чтобы сделать свое Резюме еще более интересным.",
+                "TEXT_3_LABEL": "Используйте этот флажок, чтобы создать список дел с помощью Резюме."
             }
         },
         "VIDEO_PLAYER": {
             "DESCRIPTION_PLACEHOLDER": "Описание",
             "GALLERY": {
-                "TITLE_LABEL": "Enrich your story with videos.",
-                "TEXT_1_LABEL": "Use any video on Vimeo to make your article more interesting.",
-                "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
+                "TITLE_LABEL": "Сделайте свою историю более насыщенной с помощью видео.",
+                "TEXT_1_LABEL": "Используйте любое видео на Vimeo, чтобы сделать вашу статью более интересной.",
+                "TEXT_2_LABEL": "Используйте любое видео на Youtube, чтобы сделать вашу статью более интересной."
             }
         },
         "CTA": {
@@ -190,34 +190,34 @@
         },
         "VIDEO_CREATOR": {
             "GALLERY": {
-                "TITLE_LABEL": "Incorporate video in a more flexible and low-cost manner. Simply customize our readymade templates, choose a color palette and add the right sound.",
-                "TEXT_1_LABEL": "Use the classic template to create a video list with GIFs and images.",
-                "TEXT_2_LABEL": "Use the Vs. template to compare and contrast a topic that your readers care about.",
-                "TEXT_3_LABEL": "Every screen in the Vs. template will compare a subtopic under the larger comparison with text, images and GIFs!",
-                "TEXT_4_LABEL": "Use the Facts template to list facts about something important to your readers. ",
-                "TEXT_5_LABEL": "Each slide in a Facts video has large text over a background image.",
-                "TEXT_6_LABEL": "Use the Swift template to create a quicker video with a an intro screen that automatically pulls visuals from all of your video’s slides."
+                "TITLE_LABEL": "Добавляйте видео в более гибким и недорогим способом. Просто настройте наши готовые шаблоны, выберите цветовую палитру и добавьте подходящий звук.",
+                "TEXT_1_LABEL": "Используйте классический шаблон для создания списка видео с GIF-файлами и изображениями.",
+                "TEXT_2_LABEL": "Используйте шаблон Vs. («В сравнении») для сравнения и сопоставления темы, которая волнует ваших читателей.",
+                "TEXT_3_LABEL": "На каждом экране шаблона Vs. выполняется сравнение с подтемой в рамках более крупного сравнения с текстом, изображениями и GIF-файлами!",
+                "TEXT_4_LABEL": "Используйте шаблон Facts («Факты»), чтобы привести факты о чем-то важном для ваших читателей.",
+                "TEXT_5_LABEL": "Каждый слайд в видеофайле «Фактов» содержит крупный текст поверх фонового изображения.",
+                "TEXT_6_LABEL": "Используйте шаблон Swift («Быстрый»), чтобы создать более быстрое видео с вводным экраном, который автоматически извлекает изображения со всех слайдов вашего видео."
             },
-            "PLAY": "PLAY",
-            "PAUSE": "PAUSE",
-            "GALLERY_TITLE": "Pick a template",
-            "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
-            "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
+            "PLAY": "ИГРАТЬ",
+            "PAUSE": "ПАУЗА",
+            "GALLERY_TITLE": "Выбрать шаблон",
+            "OPEN_TEMPLATES_GALLERY_BUT": "Сменить шаблон",
+            "CLOSE_TEMPLATES_GALLERY_BUT": "Назад к редактированию",
             "SETTINGS": {
-                "TITLE": "Settings",
-                "AUTOPLAY_SWITCH_LABEL": "Autoplay",
-                "MUTE_SWITCH_LABEL": "Start Play on Mute",
-                "LOGO_LABEL": "Custom Logo",
-                "CLOSE_SETTINGS": "Back to Edit",
-                "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness"
+                "TITLE": "Настройки",
+                "AUTOPLAY_SWITCH_LABEL": "Автовоспроизведение",
+                "MUTE_SWITCH_LABEL": "Начинать играть при выключении микрофона",
+                "LOGO_LABEL": "Пользовательский логотип",
+                "CLOSE_SETTINGS": "Назад к редактированию",
+                "LOGO_DESCRIPTION": "Загрузите собственный логотип, чтобы оставить свой след и повысить узнаваемость бренда"
             }
         },
         "FLIP_CARD": {
             "GALLERY": {
-                "TITLE_LABEL": "Surprise your readers by displaying images and text cards that readers can click to flip and reveal the other side.",
+                "TITLE_LABEL": "Удивите своих читателей, показав изображения и текстовые карточки, на которые читатели могут щелкнуть, чтобы перевернуть их и открыть их другую сторону.",
                 "TEXT_1_LABEL": "",
-                "TEXT_2_LABEL": "Use flip-card to reveal something to your readers. Surprise, shock, and entertain them! This is also great for “before and after” comparisons!",
-                "TEXT_3_LABEL": "Use Flip-card to filter what your readers see. Give them the choice to decide if they want to see adult content or not. "
+                "TEXT_2_LABEL": "Используйте переворачивающуюся карточку, чтобы что-то показать своим читателям. Удивляйте, потрясайте и развлекайте их! Это также отлично подходит для сравнений «до и после»!",
+                "TEXT_3_LABEL": "Используйте переворачивающуюся карточку, чтобы отфильтровать то, что видят ваши читатели. Предоставьте им возможность решать, хотят ли они видеть контент для взрослых или нет."
             }
         }
     },
@@ -242,10 +242,10 @@
         "DONE_BUT": "Готово"
     },
     "PREVIEW_MODAL": {
-        "TITLE": "Preview",
-        "CLOSE_BUT": "Close"
+        "TITLE": "Предпросмотр",
+        "CLOSE_BUT": "Закрыть"
     },
     "ONBOARDING": {
-        "GALLERY_OPEN_LABEL": "See Examples"
+        "GALLERY_OPEN_LABEL": "См. примеры"
     }
 }
