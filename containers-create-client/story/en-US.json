@@ -1,27 +1,4 @@
 {
-    "PREVIEW_MODAL": {
-        "TITLE": "Preview",
-        "CLOSE_BUT": "Close"
-    },
-    "ACTION_PANE": {
-        "PUBLISH_BUT": "Publish",
-        "SAVE_BUT": "Save",
-        "ERROR_MESSAGE": "Error",
-        "PUBLISH_BUT_PENDING": "Publishing...",
-        "PREVIEW_BUT": "Preview",
-        "PREVIEW_BUT_PENDING": "Preparing...",
-        "SAVED_NOTIFICATION": "Saved",
-        "VIEW_LINK": "view",
-        "SAVE_BUT_NEW_ITEM": "Save Draft",
-        "SAVE_BUT_PENDING": "Saving...",
-        "ERROR": {
-            "MISSING_REQUIREMENTS": "Some requirements are missing",
-            "LOGED_OUT": "Please re-login",
-            "SAVING_DISABLED": "Saving is disabled. Please try again in 5 minutes",
-            "OUTDATED": "Item is outdated",
-            "SAVE_FAILED": "Failed to Save"
-        }
-    },
     "LEFT_PANE": {
         "MAP": {
             "TITLE": "Map",
@@ -72,6 +49,25 @@
         }
     },
     "DESCRIPTION_PLACEHOLDER": "Description",
+    "ACTION_PANE": {
+        "PUBLISH_BUT": "Publish",
+        "SAVE_BUT": "Save",
+        "ERROR_MESSAGE": "Error",
+        "PUBLISH_BUT_PENDING": "Publishing...",
+        "PREVIEW_BUT": "Preview",
+        "SAVED_NOTIFICATION": "Saved",
+        "VIEW_LINK": "view",
+        "SAVE_BUT_NEW_ITEM": "Save Draft",
+        "SAVE_BUT_PENDING": "Saving...",
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "Some requirements are missing",
+            "LOGED_OUT": "Please re-login",
+            "SAVING_DISABLED": "Saving is disabled. Please try again in 5 minutes",
+            "OUTDATED": "Item is outdated",
+            "SAVE_FAILED": "Failed to Save"
+        },
+        "PREVIEW_BUT_PENDING": "Preparing..."
+    },
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
     "SECTIONS": {
         "QUOTE": {
@@ -79,9 +75,9 @@
             "QUOTEE_PLACEHOLDER": "Who said it?",
             "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more...",
             "GALLERY": {
-                "TITLE_LABEL": "",
-                "TEXT_1_LABEL": "This is text 1",
-                "TEXT_2_LABEL": "This is text 2"
+                "TITLE_LABEL": "Highlight words of wisdom by creating a designed quote.",
+                "TEXT_1_LABEL": "Short and sweet; keep your quotes to the point and easy to read. ",
+                "TEXT_2_LABEL": "Include an image of who said it next to the quote to give your readers context and more information."
             }
         },
         "CONVO": {
@@ -91,38 +87,38 @@
             "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
             "DELETE_MESSAGE": "Are you sure?",
             "GALLERY": {
-                "TITLE_LABEL": "",
-                "TEXT_1_LABEL": "This is text 1",
-                "TEXT_2_LABEL": "This is text 2",
-                "TEXT_3_LABEL": "This is text 3"
+                "TITLE_LABEL": "Make readers feel as though they are reading someone’s text messages!",
+                "TEXT_1_LABEL": "Choose the template that enables you to upload images for all of the Convo participants.You can add text and images to each message bubble!",
+                "TEXT_2_LABEL": "Use the Convo template that looks and feels like iOS messenger.",
+                "TEXT_3_LABEL": "Use Convo to create a list or timeline of events. Simply upload a number or date as the image for each “participant”."
             }
         },
         "EMBED": {
             "DESCRIPTION_PLACEHOLDER": "From the web",
             "GALLERY": {
-                "TITLE_LABEL": "",
-                "TEXT_1_LABEL": "This is text 1",
-                "TEXT_2_LABEL": "This is text 2",
-                "TEXT_3_LABEL": "This is text 3",
-                "TEXT_4_LABEL": "This is text 4"
+                "TITLE_LABEL": "Import media from the web. ",
+                "TEXT_1_LABEL": "Embed Google maps to show your readers a specific location.",
+                "TEXT_2_LABEL": "Include any video from Vimeo in your article.",
+                "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
+                "TEXT_4_LABEL": "Embed Instagram posts to make your content more visually stunning."
             }
         },
         "IMAGE": {
             "CAPTION": "Image",
             "GALLERY": {
                 "TITLE_LABEL": "Add stunning images and make your visuals stand out by adding a blur or zoom-in effect",
-                "TEXT_1_LABEL": "This is IMAGE text 1",
-                "TEXT_2_LABEL": "This is IMAGE text 2",
-                "TEXT_3_LABEL": "This is IMAGE text 3"
+                "TEXT_1_LABEL": "Surprise your readers by blurring an image. Clicking to reveal the image gives them an interactive and engaging content experience!",
+                "TEXT_2_LABEL": "Draw your readers' attention to the focal point of an image using the Zoom filter.",
+                "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not."
             }
         },
         "PARAGRAPH": {
             "EDITOR_PLACEHOLDER": "Paragraph",
             "GALLERY": {
-                "TITLE_LABEL": "",
-                "TEXT_1_LABEL": "This is text 1",
-                "TEXT_2_LABEL": "This is text 2",
-                "TEXT_3_LABEL": "This is text 3"
+                "TITLE_LABEL": "Use text to form the base for your Story.",
+                "TEXT_1_LABEL": "Use the text marker to highlight the most important parts in your text.",
+                "TEXT_2_LABEL": "Your reader's’ eye will immediately be drawn to the highlighted text. Make sure to highlight the important parts that they need to read.",
+                "TEXT_3_LABEL": "Include emojis and hyperlinks to make your text more interactive and interesting!"
             }
         },
         "POLL": {
@@ -145,51 +141,43 @@
                 "END_CARD_SWITCH": "End Card",
                 "END_CARD_DESCRIPTION": "Drive more shares and engagement using End Card",
                 "END_CARD": {
-                   "TITLE_LABEL": "Title",
-                   "TITLE_PLACEHOLDER": "Enter title...",
-                   "DESCRIPTION_LABEL": "Description",
-                   "DESCRIPTION_PLACEHOLDER": "Enter description..."
+                    "TITLE_LABEL": "Title",
+                    "TITLE_PLACEHOLDER": "Enter title...",
+                    "DESCRIPTION_LABEL": "Description",
+                    "DESCRIPTION_PLACEHOLDER": "Enter description..."
                 }
             },
             "CLASSIC_LAYOUT_TOOLTIP": "Classic results template",
             "GRID_LAYOUT_TOOLTIP": "Grid results template ",
             "GALLERY": {
-                "TITLE_LABEL": "",
-                "TEXT_1_LABEL": "This is text 1",
-                "TEXT_2_LABEL": "This is text 2",
-                "TEXT_3_LABEL": "This is text 3",
-                "TEXT_4_LABEL": "This is text 4",
-                "TEXT_5_LABEL": "This is text 5"
+                "TITLE_LABEL": "Polls allow readers to express their opinion and respond to the content you create.",
+                "TEXT_1_LABEL": "Use a poll to getting your readers involved. Give them a chance to throw in their 2 cents! For example, asking what they think about something on social media.",
+                "TEXT_2_LABEL": "Use a cover image for your Poll to make your question more visual and exciting.",
+                "TEXT_3_LABEL": "Use a background image and choose the Grid template to create a visually awesome poll that is fun to interact with!",
+                "TEXT_4_LABEL": "Remember to always include a “none of the above” option to give your readers an easy out if none of the options suit them.",
+                "TEXT_5_LABEL": ""
             }
         },
         "SUMMARY": {
-            "TITLE_PLACEHOLDER": "Title",
             "ADD_ROW": "Add row ",
             "SUBTITLE_PLACEHOLDER": "Subtitle",
             "ROW_PLACEHOLDER": "Enter text...",
             "NO_EFFECT": "None",
             "FADE_EFFECT": "Fade In",
+            "TITLE_PLACEHOLDER": "Title",
             "GALLERY": {
-                "TITLE_LABEL": "",
-                "TEXT_1_LABEL": "This is text 1",
-                "TEXT_2_LABEL": "This is text 2",
-                "TEXT_3_LABEL": "This is text 3"
+                "TITLE_LABEL": "In the age of TL;DR, Summary gets straight to the point and give readers only the information they need. They can be used in different ways...",
+                "TEXT_1_LABEL": "Use Summary to wrap-up the main points of any topic. Give your audience the big picture in a series of succinct points. Include a cover image to tie the Summary into the topic of your article.",
+                "TEXT_2_LABEL": "Use the Summary template for recipes to include a sidebar for ingredients. Include a beautiful visual to make your Summary more interesting.",
+                "TEXT_3_LABEL": "Use the check-box feature to create a to-do list using Summary."
             }
         },
         "VIDEO_PLAYER": {
             "DESCRIPTION_PLACEHOLDER": "Description ",
             "GALLERY": {
-                "TITLE_LABEL": "",
-                "TEXT_1_LABEL": "This is text 1",
-                "TEXT_2_LABEL": "This is text 2"
-            }
-        },
-        "FLIP_CARD": {            
-            "GALLERY": {
-                "TITLE_LABEL": "",
-                "TEXT_1_LABEL": "This is text 1",
-                "TEXT_2_LABEL": "This is text 2",
-                "TEXT_3_LABEL": "This is text 3"
+                "TITLE_LABEL": "Enrich your story with videos.",
+                "TEXT_1_LABEL": "Use any video on Vimeo to make your article more interesting.",
+                "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
             }
         },
         "CTA": {
@@ -201,29 +189,37 @@
             "TEST_LINK_TOOLTIP": "Test link"
         },
         "VIDEO_CREATOR": {
-                "PLAY": "PLAY",
-                "PAUSE": "PAUSE",
-                "GALLERY_TITLE": "Pick a template",
-                "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
-                "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
-                "SETTINGS": {
-                    "TITLE": "Settings",
-                    "AUTOPLAY_SWITCH_LABEL": "Autoplay",
-                    "MUTE_SWITCH_LABEL": "Start Play on Mute",
-                    "LOGO_LABEL": "Custom Logo",
-                    "CLOSE_SETTINGS": "Back to Edit",
-                    "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness"
-                },
-                "GALLERY": {
-                    "TITLE_LABEL": "",
-                    "TEXT_1_LABEL": "This is text 1",
-                    "TEXT_2_LABEL": "This is text 2",
-                    "TEXT_3_LABEL": "This is text 3",
-                    "TEXT_4_LABEL": "This is text 4",
-                    "TEXT_5_LABEL": "This is text 5",
-                    "TEXT_6_LABEL": "This is text 6"
-                }
+            "GALLERY": {
+                "TITLE_LABEL": "Incorporate video in a more flexible and low-cost manner. Simply customize our readymade templates, choose a color palette and add the right sound.",
+                "TEXT_1_LABEL": "Use the classic template to create a video list with GIFs and images.",
+                "TEXT_2_LABEL": "Use the Vs. template to compare and contrast a topic that your readers care about.",
+                "TEXT_3_LABEL": "Every screen in the Vs. template will compare a subtopic under the larger comparison with text, images and GIFs!",
+                "TEXT_4_LABEL": "Use the Facts template to list facts about something important to your readers. ",
+                "TEXT_5_LABEL": "Each slide in a Facts video has large text over a background image.",
+                "TEXT_6_LABEL": "Use the Swift template to create a quicker video with a an intro screen that automatically pulls visuals from all of your video’s slides."
+            },
+            "PLAY": "PLAY",
+            "PAUSE": "PAUSE",
+            "GALLERY_TITLE": "Pick a template",
+            "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
+            "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
+            "SETTINGS": {
+                "TITLE": "Settings",
+                "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+                "MUTE_SWITCH_LABEL": "Start Play on Mute",
+                "LOGO_LABEL": "Custom Logo",
+                "CLOSE_SETTINGS": "Back to Edit",
+                "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness"
             }
+        },
+        "FLIP_CARD": {
+            "GALLERY": {
+                "TITLE_LABEL": "Surprise your readers by displaying images and text cards that readers can click to flip and reveal the other side.",
+                "TEXT_1_LABEL": "",
+                "TEXT_2_LABEL": "Use flip-card to reveal something to your readers. Surprise, shock, and entertain them! This is also great for “before and after” comparisons!",
+                "TEXT_3_LABEL": "Use Flip-card to filter what your readers see. Give them the choice to decide if they want to see adult content or not. "
+            }
+        }
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
     "SECTION_TITLE_PLACEHOLDER": "Title",
@@ -244,6 +240,10 @@
         "NEW_LABEL": "NEW",
         "TITLE": "Select your preferred creation language",
         "DONE_BUT": "Done"
+    },
+    "PREVIEW_MODAL": {
+        "TITLE": "Preview",
+        "CLOSE_BUT": "Close"
     },
     "ONBOARDING": {
         "GALLERY_OPEN_LABEL": "See Examples"
