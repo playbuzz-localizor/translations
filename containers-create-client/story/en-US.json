@@ -1,4 +1,5 @@
 {
+    "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
     "LEFT_PANE": {
         "MAP": {
             "TITLE": "Map",
@@ -189,6 +190,9 @@
             "TEST_LINK_TOOLTIP": "Test link"
         },
         "VIDEO_CREATOR": {
+            "PREVIEW_BUT": "Preview Video",
+            "NOT_SUPPORTED_LABEL": "Not Supported",
+            "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly.",
             "GALLERY": {
                 "TITLE_LABEL": "Incorporate video in a more flexible and low-cost manner. Simply customize our readymade templates, choose a color palette and add the right sound.",
                 "TEXT_1_LABEL": "Use the classic template to create a video list with GIFs and images.",
