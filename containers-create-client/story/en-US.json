@@ -99,7 +99,7 @@
             "GALLERY": {
                 "TITLE_LABEL": "Import media from the web. ",
                 "TEXT_1_LABEL": "Embed Google maps to show your readers a specific location.",
-                "TEXT_2_LABEL": "Include any video from Vimeo in your article.",
+                "TEXT_2_LABEL": "Include any _ from Vimeo in your article.",
                 "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
                 "TEXT_4_LABEL": "Embed Instagram posts to make your content more visually stunning."
             }
@@ -191,8 +191,7 @@
         },
         "VIDEO_CREATOR": {
             "PREVIEW_BUT": "Preview Video",
-            "NOT_SUPPORTED_LABEL": "Not Supported",
-            "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly.",
+            "NOT_SUPPORTED_LABEL": "Not Supported",           
             "GALLERY": {
                 "TITLE_LABEL": "Incorporate video in a more flexible and low-cost manner. Simply customize our readymade templates, choose a color palette and add the right sound.",
                 "TEXT_1_LABEL": "Use the classic template to create a video list with GIFs and images.",
