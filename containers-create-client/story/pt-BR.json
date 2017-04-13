@@ -1,26 +1,4 @@
 {
-    "ACTION_PANE": {
-        "PUBLISH_BTN": "Publicar",
-        "SAVE_BTN": "Salvar",
-        "PUBLISH_BUT": "Publicar",
-        "SAVE_BUT": "Salvar",
-        "PREVIEW_BTN": "Pré-visualizar",
-        "ERROR_MESSAGE": "Erro",
-        "PUBLISH_BUT_PENDING": "Publicando...",
-        "PREVIEW_BUT": "Prévia",
-        "PREVIEW_BTN_PENDING": "Preparando...",
-        "SAVED_NOTIFICATION": "Salvo",
-        "VIEW_LINK": "visualizar",
-        "SAVE_BUT_NEW_ITEM": "Salvar Rascunho",
-        "SAVE_BUT_PENDING": "Salvando...",
-        "ERROR": {
-            "MISSING_REQUIREMENTS": "Alguns requisitos estão faltando",
-            "LOGED_OUT": "Faça o login novamente",
-            "SAVING_DISABLED": "O salvamento está desativado. Tente novamente em 5 minutos",
-            "OUTDATED": "Item desatualizado",
-            "SAVE_FAILED": "Falha ao Salvar"
-        }
-    },
     "LEFT_PANE": {
         "MAP": {
             "TITLE": "Mapa de navegação",
@@ -39,16 +17,17 @@
             "TOOLTIP": "Visibilidade: {{viewPermission}}",
             "VIEW_PERMISSIONS_DROPDOWN": {
                 "PUBLIC": "Público (recomendado)",
-                "ONLY_ME": "Somente Eu",
-                "ONLY_DIRECT_LINK": "Apenas Link Direto"
-            }
+                "ONLY_ME": "Somente eu",
+                "ONLY_DIRECT_LINK": "Apenas link direto"
+            },
+            "CREATOR_LANGUAGE_TITLE": "Idioma"
         },
         "TAGS": {
             "TITLE": "Tags",
             "DESCRIPTION": "Faça o seu conteúdo ser encontrado usando tags",
-            "NEW_TAGS_PLACEHOLDER": "Escreva as suas próprias tags",
-            "NEW_TAGS_DESCRIPTION": "Separadas por vírgula ",
-            "TOOLTIP": "Tags"
+            "TOOLTIP": "Tags",
+            "NEW_TAG_PLACEHOLDER": "Insira as suas próprias tags",
+            "NEW_TAG_DESCRIPTION": "Separe por vírgulas"
         },
         "SOCIAL": {
             "TITLE": "Visualização nas mídias sociais",
@@ -59,7 +38,7 @@
             "TITLE": "O que é o Story",
             "DESCRIPTION": "O Story é um recurso exclusivo para transformar longas narrativas em engajadores blocos de conteúdo, possibilitando uma experiência interativa e visualmente agradável aos leitores. ",
             "STEP_1": "Escreva o seu Story",
-            "STEP_2": "Publicar",
+            "STEP_2": "Publique",
             "STEP_3": "Compartilhe ou embede diretamente no seu site",
             "STEP_4": "Feito!",
             "QUESTIONS_TITLE": "Ficou com alguma dúvida?",
@@ -68,6 +47,24 @@
         }
     },
     "DESCRIPTION_PLACEHOLDER": "Descrição",
+    "ACTION_PANE": {
+        "PUBLISH_BUT": "Publicar",
+        "SAVE_BUT": "Salvar",
+        "ERROR_MESSAGE": "Erro",
+        "PUBLISH_BUT_PENDING": "Publicando...",
+        "PREVIEW_BUT": "Preview",
+        "SAVED_NOTIFICATION": "Salvo",
+        "VIEW_LINK": "visualizar",
+        "SAVE_BUT_NEW_ITEM": "Salvar rascunho",
+        "SAVE_BUT_PENDING": "Salvando...",
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "Alguns requisitos estão faltando",
+            "LOGED_OUT": "Faça o login novamente",
+            "SAVING_DISABLED": "O salvamento está desativado. Tente novamente em 5 minutos",
+            "OUTDATED": "Item desatualizado",
+            "SAVE_FAILED": "Falha ao salvar"
+        }
+    },
     "SECTIONS_LOBBY_TITLE": "Conte a sua história",
     "SECTIONS": {
         "QUOTE": {
@@ -86,7 +83,11 @@
             "DESCRIPTION_PLACEHOLDER": "Da web"
         },
         "IMAGE": {
-            "CAPTION": "Imagem"
+            "CAPTION": "Imagem",
+            "GALLERY": {
+                "TITLE_LABEL": "Add stunning images and make your visuals stand out by adding a blur or zoom-in effect\n",
+                "TEXT_1_LABEL": "Surprise your readers by blurring an image. Clicking to reveal the image gives them an interactive and engaging content experience!"
+            }
         },
         "PARAGRAPH": {
             "EDITOR_PLACEHOLDER": "Parágrafo"
@@ -110,8 +111,12 @@
                 "DISPLAY_LOGO_DESCRIPTION": "Aplique customizações adicionais acrescentando seu logo.\nAltere a sua imagem de exibição",
                 "END_CARD_SWITCH": "End Card",
                 "END_CARD_DESCRIPTION": "Usar um End Card atrai mais compartilhamentos e engajamento",
-                "DISPLAY_LOGO_DESCRIPTION_FIRST_ROW": "Aplique customização adicional acrescentando o seu logo",
-                "DISPLAY_LOGO_DESCRIPTION_SECOND_ROW": "Altere sua imagem de exibição"
+                "END_CARD": {
+                    "TITLE_LABEL": "Tile",
+                    "TITLE_PLACEHOLDER": "Ener title...",
+                    "DESCRIPTION_LABEL": "Description",
+                    "DESCRIPTION_PLACEHOLDER": "Enter description..."
+                }
             },
             "CLASSIC_LAYOUT_TOOLTIP": "Modelo de resultados clássico",
             "GRID_LAYOUT_TOOLTIP": "Modelo de resultados em grade"
@@ -121,7 +126,8 @@
             "SUBTITLE_PLACEHOLDER": "Subtítulo",
             "ROW_PLACEHOLDER": "Escreva o texto...",
             "NO_EFFECT": "Nenhum",
-            "FADE_EFFECT": "Fade In"
+            "FADE_EFFECT": "Fade In",
+            "TITLE_PLACEHOLDER": "Título"
         },
         "VIDEO_PLAYER": {
             "DESCRIPTION_PLACEHOLDER": "Descrição"
@@ -154,5 +160,12 @@
         "NEW_LABEL": "NOVO",
         "TITLE": "Selecione seu idioma preferido para criação",
         "DONE_BUT": "Pronto"
+    },
+    "PREVIEW_MODAL": {
+        "TITLE": "Preview",
+        "CLOSE_BUT": "Close"
+    },
+    "ONBOARDING": {
+        "GALLERY_OPEN_LABEL": "See Examples"
     }
 }
