@@ -1,5 +1,10 @@
 {
     "MP": {
+        "EFFECT": {
+            "NORMAL": "Normal",
+            "BLUR": "Blur",
+            "ZOOM": "Zoom"
+        },
         "CROPPING": {
             "LABEL": "CROPPING RATIO",
             "LANDSCAPE_RATIO": "Landscape",
