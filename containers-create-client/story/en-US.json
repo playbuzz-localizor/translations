@@ -207,7 +207,7 @@
             "SETTINGS": {
                 "TITLE": "Settings",
                 "AUTOPLAY_SWITCH_LABEL": "Autoplay",
-                "MUTE_SWITCH_LABEL": "Start Play on Mute",
+                "MUTE_SWITCH_LABEL": "Autoplay on mute",
                 "LOGO_LABEL": "Custom Logo",
                 "CLOSE_SETTINGS": "Back to Edit",
                 "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness"
