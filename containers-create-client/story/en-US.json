@@ -1,5 +1,4 @@
 {
-    "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
     "LEFT_PANE": {
         "MAP": {
             "TITLE": "Map",
@@ -99,7 +98,7 @@
             "GALLERY": {
                 "TITLE_LABEL": "Import media from the web. ",
                 "TEXT_1_LABEL": "Embed Google maps to show your readers a specific location.",
-                "TEXT_2_LABEL": "Include any _ from Vimeo in your article.",
+                "TEXT_2_LABEL": "Include any video from Vimeo in your article.",
                 "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
                 "TEXT_4_LABEL": "Embed Instagram posts to make your content more visually stunning."
             }
@@ -123,7 +122,6 @@
             }
         },
         "POLL": {
-            "DELETE_OPTION_BUT": "Delete option",
             "BACKGROUND_TEMPLATE_TOOLTIP": "Background image ",
             "COVER_TEMPLATE_TOOLTIP": "Cover image ",
             "CLASSIC_TEMPLATE_TOOLTIP": "Classic results",
@@ -158,7 +156,8 @@
                 "TEXT_3_LABEL": "Use a background image and choose the Grid template to create a visually awesome poll that is fun to interact with!",
                 "TEXT_4_LABEL": "Remember to always include a “none of the above” option to give your readers an easy out if none of the options suit them.",
                 "TEXT_5_LABEL": ""
-            }
+            },
+            "DELETE_OPTION_BUT": "Delete option"
         },
         "SUMMARY": {
             "ADD_ROW": "Add row ",
@@ -191,9 +190,6 @@
             "TEST_LINK_TOOLTIP": "Test link"
         },
         "VIDEO_CREATOR": {
-            "PREVIEW_BUT": "Preview Video",
-            "NOT_SUPPORTED_LABEL": "Not Supported",  
-            "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly.",
             "GALLERY": {
                 "TITLE_LABEL": "Incorporate video in a more flexible and low-cost manner. Simply customize our readymade templates, choose a color palette and add the right sound.",
                 "TEXT_1_LABEL": "Use the classic template to create a video list with GIFs and images.",
@@ -215,7 +211,10 @@
                 "LOGO_LABEL": "Custom Logo",
                 "CLOSE_SETTINGS": "Back to Edit",
                 "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness"
-            }
+            },
+            "PREVIEW_BUT": "Preview Video",
+            "NOT_SUPPORTED_LABEL": "Not Supported",
+            "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly."
         },
         "FLIP_CARD": {
             "GALLERY": {
@@ -252,5 +251,6 @@
     },
     "ONBOARDING": {
         "GALLERY_OPEN_LABEL": "See Examples"
-    }
+    },
+    "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?"
 }
