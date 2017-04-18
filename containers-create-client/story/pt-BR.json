@@ -21,7 +21,7 @@
                 "ONLY_ME": "Somente eu",
                 "ONLY_DIRECT_LINK": "Apenas link direto"
             },
-            "CREATOR_LANGUAGE_TITLE": "Idioma",
+            "CREATOR_LANGUAGE_TITLE": "Idioma ",
             "CREATOR_EDIT_BUTTON": "bbb"
         },
         "TAGS": {
@@ -38,13 +38,13 @@
         },
         "ABOUT": {
             "TITLE": "O que é o Story",
-            "DESCRIPTION": "O Story é um recurso exclusivo para transformar longas narrativas em engajadores blocos de conteúdo, possibilitando uma experiência interativa e visualmente agradável aos leitores. ",
+            "DESCRIPTION": "O Story é um recurso exclusivo para transformar longas narrativas em engajadores blocos de conteúdo, possibilitando uma experiência interativa e visualmente agradável aos leitores.",
             "STEP_1": "Escreva o seu Story",
             "STEP_2": "Publique",
             "STEP_3": "Compartilhe ou embede diretamente no seu site",
             "STEP_4": "Feito!",
             "QUESTIONS_TITLE": "Ficou com alguma dúvida?",
-            "QUESTIONS_DESCRIPTION": "Conte com a gente. ",
+            "QUESTIONS_DESCRIPTION": "Conte com a gente.",
             "TOOLTIP": "Sobre"
         }
     },
@@ -72,11 +72,11 @@
     "SECTIONS": {
         "QUOTE": {
             "TEXT_PLACEHOLDER": "Escreva a citação",
-            "QUOTEE_PLACEHOLDER": "Quem disse isso...",
+            "QUOTEE_PLACEHOLDER": "Quem disse isso?",
             "ADDITIONAL_TEXT_PLACEHOLDER": "Fale um pouco mais...",
             "GALLERY": {
-                "TITLE_LABEL": "Destaque as palavras de sabedoria criando uma citação projetada.",
-                "TEXT_1_LABEL": "Curto e grosso; mantenha suas citações diretas ao ponto e fáceis de ler.",
+                "TITLE_LABEL": "Destaque as palavras de sabedoria criando uma citação.",
+                "TEXT_1_LABEL": "Curto e grosso; mantenha suas citações diretas e fáceis de ler.",
                 "TEXT_2_LABEL": "Inclua uma imagem de quem a disse ao lado da citação para fornecer aos seus leitores o contexto e mais informações."
             }
         },
@@ -85,7 +85,7 @@
             "BUBBLE_CONTENT_PLACEHOLDER": "Escreva o texto...",
             "ADD_BUBBLE_TOOLTIP": "Adicionar participante",
             "ADD_PARTICIPANT_TOOLTIP": "Adicionar participante",
-            "DELETE_MESSAGE": "Você está certo?",
+            "DELETE_MESSAGE": "Você tem certeza?",
             "GALLERY": {
                 "TITLE_LABEL": "Faça os leitores se sentirem como se estivessem lendo mensagens de texto de alguém!",
                 "TEXT_1_LABEL": "Escolha o modelo que permite enviar imagens para todos os participantes do Convo. Você pode adicionar texto e imagens a cada bolha de mensagem!",
@@ -94,9 +94,9 @@
             }
         },
         "EMBED": {
-            "DESCRIPTION_PLACEHOLDER": "Da web",
+            "DESCRIPTION_PLACEHOLDER": "Embed da web",
             "GALLERY": {
-                "TITLE_LABEL": "Importe mídia da rede.",
+                "TITLE_LABEL": "Importe mídia da web. ",
                 "TEXT_1_LABEL": "Incorpore mapas do Google para mostrar aos seus leitores um local específico.",
                 "TEXT_2_LABEL": "Inclua qualquer vídeo do Vimeo no seu artigo.",
                 "TEXT_3_LABEL": "Incorpore postagens no Twitter para tornar o seu conteúdo mais interessante e envolvente.",
@@ -106,10 +106,10 @@
         "IMAGE": {
             "CAPTION": "Imagem",
             "GALLERY": {
-                "TITLE_LABEL": "Add stunning images and make your visuals stand out by adding a blur or zoom-in effect\n",
-                "TEXT_1_LABEL": "Surprise your readers by blurring an image. Clicking to reveal the image gives them an interactive and engaging content experience!",
+                "TITLE_LABEL": "Adicione imagens incríveis e valorize ainda mais o aspecto visual com efeito desfocado ou de zoom",
+                "TEXT_1_LABEL": "Surpreenda os seus leitores desfocando uma imagem. Instigá-los a clicar para revelar a imagem cria uma experiência interativa e engajadora com o conteúdo!",
                 "TEXT_2_LABEL": "Atraia a atenção de seus leitores para o ponto focal de uma imagem usando o filtro Zoom.",
-                "TEXT_3_LABEL": "Use o efeito de desfocagem para dar aos leitores a opção de decidir se querem ver conteúdo gráfico ou não."
+                "TEXT_3_LABEL": "Use o efeito de desfoque para dar aos leitores a opção de decidir se querem ver o conteúdo gráfico ou não."
             }
         },
         "PARAGRAPH": {
@@ -124,14 +124,14 @@
         "POLL": {
             "BACKGROUND_TEMPLATE_TOOLTIP": "Imagem de fundo",
             "COVER_TEMPLATE_TOOLTIP": "Imagem de capa",
-            "CLASSIC_TEMPLATE_TOOLTIP": "Resultados clássicos",
-            "GRID_TEMPLATE_TOOLTIP": "Resultados em grade",
-            "SETTINGS_TOOLTIP": "Resultados da pesquisa",
-            "TITLE_PLACEHOLDER": "Pergunta",
+            "CLASSIC_TEMPLATE_TOOLTIP": "Clássico",
+            "GRID_TEMPLATE_TOOLTIP": "Grid de imagens",
+            "SETTINGS_TOOLTIP": "Configurações da enquete",
+            "TITLE_PLACEHOLDER": "Pergunta ",
             "OPTION_PLACEHOLDER": "Opção {{index}}",
             "ADD_OPTION_BUT": "Acrescentar opção",
             "SETTINGS": {
-                "TITLE": "CONFIGURAÇÕES DA PESQUISA",
+                "TITLE": "CONFIGURAÇÕES DA ENQUETE",
                 "HERE_LINK": "aqui",
                 "BACK_BUTTON": "Voltar para edição",
                 "ENABLE_VOTING_SWITCH": "Habilitar votação",
@@ -141,14 +141,14 @@
                 "END_CARD_SWITCH": "End Card",
                 "END_CARD_DESCRIPTION": "Usar um End Card atrai mais compartilhamentos e engajamento",
                 "END_CARD": {
-                    "TITLE_LABEL": "Tile",
-                    "TITLE_PLACEHOLDER": "Ener title...",
-                    "DESCRIPTION_LABEL": "Description",
-                    "DESCRIPTION_PLACEHOLDER": "Enter description..."
+                    "TITLE_LABEL": "Título",
+                    "TITLE_PLACEHOLDER": "Escreva um título...",
+                    "DESCRIPTION_LABEL": "Descrição",
+                    "DESCRIPTION_PLACEHOLDER": "Escreva uma descrição..."
                 }
             },
-            "CLASSIC_LAYOUT_TOOLTIP": "Modelo de resultados clássico",
-            "GRID_LAYOUT_TOOLTIP": "Modelo de resultados em grade",
+            "CLASSIC_LAYOUT_TOOLTIP": "Template clássico",
+            "GRID_LAYOUT_TOOLTIP": "Grid de imagens",
             "GALLERY": {
                 "TITLE_LABEL": "Pesquisas permitem que os leitores expressem suas opiniões e respondam ao conteúdo que você cria.",
                 "TEXT_1_LABEL": "Use uma pesquisa para envolver seus leitores. Forneça-lhes uma oportunidade de dar seus 2 centavos! Por exemplo, perguntando o que eles pensam sobre algo em mídias sociais.",
@@ -158,7 +158,7 @@
             }
         },
         "SUMMARY": {
-            "ADD_ROW": "Acrescentar linha",
+            "ADD_ROW": "Acrescentar linha ",
             "SUBTITLE_PLACEHOLDER": "Subtítulo",
             "ROW_PLACEHOLDER": "Escreva o texto...",
             "NO_EFFECT": "Nenhum",
@@ -221,7 +221,7 @@
     },
     "STORY_TITLE_PLACEHOLDER": "Título do Story",
     "SECTION_TITLE_PLACEHOLDER": "Título",
-    "DELETE_SECTION_MESSAGE": "Tem certeza que quer apagar isso?",
+    "DELETE_SECTION_MESSAGE": "Tem certeza de que quer apagar isso?",
     "TEXT_EDITOR": {
         "WORD": "PALAVRA",
         "WORDS": "PALAVRAS",
@@ -241,9 +241,9 @@
     },
     "PREVIEW_MODAL": {
         "TITLE": "Preview",
-        "CLOSE_BUT": "Close"
+        "CLOSE_BUT": "Fechar"
     },
     "ONBOARDING": {
-        "GALLERY_OPEN_LABEL": "See Examples"
+        "GALLERY_OPEN_LABEL": "Confira exemplos"
     }
 }
