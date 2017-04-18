@@ -156,7 +156,8 @@
                 "TEXT_3_LABEL": "¡Usa una imagen de fondo y elige la plantilla de cuadrícula para crear encuestas visualmente impactantes y con las que sea divertido interactuar!",
                 "TEXT_4_LABEL": "Recuerda siempre incluir la opción «ninguna de las anteriores» para que tus lectores tengan una alternativa a la que recurrir su ninguna de las opciones propuestas se ajusta a ellos.",
                 "TEXT_5_LABEL": ""
-            }
+            },
+            "DELETE_OPTION_BUT": "Delete option"
         },
         "SUMMARY": {
             "ADD_ROW": "Añadir fila",
@@ -210,7 +211,10 @@
                 "LOGO_LABEL": "Logo personalizado",
                 "CLOSE_SETTINGS": "Volver a Edición",
                 "LOGO_DESCRIPTION": "Sube tu propio logo para crear tu marca e incrementar su notoriedad"
-            }
+            },
+            "PREVIEW_BUT": "Preview Video",
+            "NOT_SUPPORTED_LABEL": "Not Supported",
+            "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly."
         },
         "FLIP_CARD": {
             "GALLERY": {
@@ -247,5 +251,6 @@
     },
     "ONBOARDING": {
         "GALLERY_OPEN_LABEL": "Ver ejemplos"
-    }
+    },
+    "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?"
 }
