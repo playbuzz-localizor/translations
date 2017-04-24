@@ -1,0 +1,10 @@
+{
+  "TEXT_PLACEHOLDER": "Enter quote...",
+  "QUOTEE_PLACEHOLDER": "Who said it?",
+  "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more...",
+  "GALLERY": {
+    "TITLE_LABEL": "Highlight words of wisdom by creating a designed quote.",
+    "TEXT_1_LABEL": "Short and sweet; keep your quotes to the point and easy to read. ",
+    "TEXT_2_LABEL": "Include an image of who said it next to the quote to give your readers context and more information."
+  }
+}

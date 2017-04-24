@@ -1,0 +1,14 @@
+{
+  "ADD_ROW": "Add row ",
+  "SUBTITLE_PLACEHOLDER": "Subtitle",
+  "ROW_PLACEHOLDER": "Enter text...",
+  "NO_EFFECT": "None",
+  "FADE_EFFECT": "Fade In",
+  "TITLE_PLACEHOLDER": "Title",
+  "GALLERY": {
+    "TITLE_LABEL": "In the age of TL;DR, Summary gets straight to the point and give readers only the information they need. They can be used in different ways...",
+    "TEXT_1_LABEL": "Use Summary to wrap-up the main points of any topic. Give your audience the big picture in a series of succinct points. Include a cover image to tie the Summary into the topic of your article.",
+    "TEXT_2_LABEL": "Use the Summary template for recipes to include a sidebar for ingredients. Include a beautiful visual to make your Summary more interesting.",
+    "TEXT_3_LABEL": "Use the check-box feature to create a to-do list using Summary."
+  }
+}

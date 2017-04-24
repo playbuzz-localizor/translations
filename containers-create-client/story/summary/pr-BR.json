@@ -1,0 +1,14 @@
+{
+  "ADD_ROW": "Acrescentar linha ",
+  "SUBTITLE_PLACEHOLDER": "Subtítulo",
+  "ROW_PLACEHOLDER": "Escreva o texto...",
+  "NO_EFFECT": "Nenhum",
+  "FADE_EFFECT": "Fade In",
+  "TITLE_PLACEHOLDER": "Título",
+  "GALLERY": {
+    "TITLE_LABEL": "O Summary permite ir direto ao ponto e fornece aos leitores apenas as informações de que necessitam. Ele pode ser usado de diferentes maneiras...",
+    "TEXT_1_LABEL": "Use o Summary para finalizar os principais pontos de qualquer tópico. Dê à sua audiência uma visão geral em uma série de pontos sucintos. Inclua uma imagem de capa para vincular o Summary ao tópico de seu artigo.",
+    "TEXT_2_LABEL": "Use o template de Summary em receitas, para incluir uma barra lateral para ingredientes. Adicione um visual bonito para tornar o seu Summary mais interessante.",
+    "TEXT_3_LABEL": "Use o recurso de caixa de seleção para criar uma lista de tarefas usando o Summary."
+  }
+}

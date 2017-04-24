@@ -1,0 +1,14 @@
+{
+  "ADD_ROW": "Añadir fila",
+  "SUBTITLE_PLACEHOLDER": "Subtítulo",
+  "ROW_PLACEHOLDER": "Introduce texto...",
+  "NO_EFFECT": "Ninguno",
+  "FADE_EFFECT": "Aparecer gradualmente",
+  "TITLE_PLACEHOLDER": "Título",
+  "GALLERY": {
+    "TITLE_LABEL": "En estos tiempos en los que la gente no suele leer contenido extenso, el Resumen va al grano y le ofrece a los lectores solo la información que necesitan. Los resúmenes pueden usarse de distintas formas.",
+    "TEXT_1_LABEL": "Usa Resumen para presentar los puntos clave de cualquier tema. Ofrécele una visión general al público con varios puntos concisos. Incluye una imagen de portada para vincular el resumen con el tema de tu artículo.",
+    "TEXT_2_LABEL": "Usa la plantilla Resumen para crear recetas e incluir una barra lateral con los ingredientes. Incorpora elementos visuales para que tu resumen sea más atractivo.",
+    "TEXT_3_LABEL": "Crea listas de cosas por hacer en Resumen con la función de casillas de verificación."
+  }
+}

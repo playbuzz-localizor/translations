@@ -1,0 +1,10 @@
+{
+  "TEXT_PLACEHOLDER": "Introducir Quote",
+  "QUOTEE_PLACEHOLDER": "¿Quién lo dijo?",
+  "ADDITIONAL_TEXT_PLACEHOLDER": "Cuéntanos más...",
+  "GALLERY": {
+    "TITLE_LABEL": "Crea diseños de citas para destacar frases sabias.",
+    "TEXT_1_LABEL": "Breve y amable: haz que tus citas sean directas y fáciles de leer.",
+    "TEXT_2_LABEL": "Incluye una imagen del autor al lado de la cita para ofrecerle contexto y más información a tus lectores."
+  }
+}

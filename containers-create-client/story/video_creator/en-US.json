@@ -1,0 +1,27 @@
+{
+  "GALLERY": {
+    "TITLE_LABEL": "Incorporate video in a more flexible and low-cost manner. Simply customize our readymade templates, choose a color palette and add the right sound.",
+    "TEXT_1_LABEL": "Use the classic template to create a video list with GIFs and images.",
+    "TEXT_2_LABEL": "Use the Vs. template to compare and contrast a topic that your readers care about.",
+    "TEXT_3_LABEL": "Every screen in the Vs. template will compare a subtopic under the larger comparison with text, images and GIFs!",
+    "TEXT_4_LABEL": "Use the Facts template to list facts about something important to your readers. ",
+    "TEXT_5_LABEL": "Each slide in a Facts video has large text over a background image.",
+    "TEXT_6_LABEL": "Use the Swift template to create a quicker video with a an intro screen that automatically pulls visuals from all of your video’s slides."
+  },
+  "PLAY": "PLAY",
+  "PAUSE": "PAUSE",
+  "GALLERY_TITLE": "Pick a template",
+  "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
+  "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
+  "SETTINGS": {
+    "TITLE": "Settings",
+    "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+    "MUTE_SWITCH_LABEL": "Autoplay on mute",
+    "LOGO_LABEL": "Custom Logo",
+    "CLOSE_SETTINGS": "Back to Edit",
+    "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness"
+  },
+  "PREVIEW_BUT": "Preview Video",
+  "NOT_SUPPORTED_LABEL": "Not Supported",
+  "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly."
+}

@@ -1,0 +1,27 @@
+{
+  "GALLERY": {
+    "TITLE_LABEL": "Incluye vídeos de forma más flexible y económica. Simplemente personaliza nuestras plantillas listas para usar, elige una paleta de colores y agrega el sonido adecuado.",
+    "TEXT_1_LABEL": "Usa la plantilla clásica para crear listas de vídeo con archivos GIF e imágenes.",
+    "TEXT_2_LABEL": "Usa la plantilla Vs. para comparar y contrastar temas del interés de tus lectores.",
+    "TEXT_3_LABEL": "¡Todas las pantallas de la plantilla Vs. comparan temas dependientes dentro de la comparación principal con texto, imágenes y archivos GIF!",
+    "TEXT_4_LABEL": "Usa la plantilla Hechos para crear listas de hechos sobre temas importantes para tus lectores.",
+    "TEXT_5_LABEL": "En los vídeos creados con la plantilla Hechos, cada diapositiva incluye un texto largo sobre una imagen de fondo.",
+    "TEXT_6_LABEL": "Usa la plantilla Veloz para crear vídeos más rápidos con una pantalla introductoria que extrae automáticamente imágenes de todas las diapositivas del vídeo."
+  },
+  "PLAY": "REPRODUCIR",
+  "PAUSE": "PAUSA",
+  "GALLERY_TITLE": "Elige una plantilla",
+  "OPEN_TEMPLATES_GALLERY_BUT": "Cambiar plantilla",
+  "CLOSE_TEMPLATES_GALLERY_BUT": "Volver a Edición",
+  "SETTINGS": {
+    "TITLE": "Ajustes",
+    "AUTOPLAY_SWITCH_LABEL": "Reproducción automática",
+    "MUTE_SWITCH_LABEL": "Comenzar a reproducir en silencio",
+    "LOGO_LABEL": "Logo personalizado",
+    "CLOSE_SETTINGS": "Volver a Edición",
+    "LOGO_DESCRIPTION": "Sube tu propio logo para crear tu marca e incrementar su notoriedad"
+  },
+  "PREVIEW_BUT": "Preview Video",
+  "NOT_SUPPORTED_LABEL": "Not Supported",
+  "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly."
+}

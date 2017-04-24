@@ -1,0 +1,13 @@
+{
+  "PARTICIPANT_PLACEHOLDER": "Participante",
+  "BUBBLE_CONTENT_PLACEHOLDER": "Escreva o texto...",
+  "ADD_BUBBLE_TOOLTIP": "Adicionar balão",
+  "ADD_PARTICIPANT_TOOLTIP": "Adicionar participante",
+  "DELETE_MESSAGE": "Você tem certeza?",
+  "GALLERY": {
+    "TITLE_LABEL": "Faça com que os leitores se sintam como se estivessem lendo mensagens de texto de alguém!",
+    "TEXT_1_LABEL": "Escolha o modelo que permite inserir imagens para todos os participantes do Convo. Você pode adicionar texto e imagens a cada bolha de mensagem!",
+    "TEXT_2_LABEL": "Use o template Convo que tem a aparência e dá a sensação do messenger do iOS.",
+    "TEXT_3_LABEL": "Use Convo para criar uma lista ou cronograma de eventos. Basta colocar um número ou uma data como imagem para cada \"participante\"."
+  }
+}
