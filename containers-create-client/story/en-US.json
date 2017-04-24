@@ -226,7 +226,15 @@
                 "TEXT_2_LABEL": "Use flip-card to reveal something to your readers. Surprise, shock, and entertain them! This is also great for “before and after” comparisons!",
                 "TEXT_3_LABEL": "Use Flip-card to filter what your readers see. Give them the choice to decide if they want to see adult content or not. "
             }
-        }
+        },
+        "TRIVIA": {
+            "QUESTIONS":{
+              "TAB_LABEL": "Questions"
+            },
+            "RESULTS": {
+              "TAB_LABEL": "End screens"
+            }
+        },
     },
     "STORY_TITLE_PLACEHOLDER": "Story title",
     "SECTION_TITLE_PLACEHOLDER": "Title",
