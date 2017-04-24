@@ -1,1 +1,9 @@
-{}
+{
+   "CAPTION": "Imagen",
+    "GALLERY": {
+      "TITLE_LABEL": "Incluye imágenes atractivas y resalta elementos visuales con el efecto de desenfoque o acercamiento",
+      "TEXT_1_LABEL": "Sorprende a tus lectores con una imagen desenfocada. ¡Al hacer clic para descubrir la imagen, disfrutarán de una experiencia de lectura interactiva y atrayente!",
+      "TEXT_2_LABEL": "Dirige la atención de tus lectores hacia el foco de la imagen con el filtro de acercamiento.",
+      "TEXT_3_LABEL": "Ofrécele a tus lectores la posibilidad de decidir si ver o no contenido sensible con el efecto de desenfoque."
+    }
+}
