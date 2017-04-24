@@ -1,1 +1,9 @@
-{}
+{
+  "CAPTION": "Imagem",
+    "GALLERY": {
+      "TITLE_LABEL": "Adicione imagens incríveis e valorize ainda mais o aspecto visual com efeito desfocado ou zoom",
+      "TEXT_1_LABEL": "Surpreenda os seus leitores desfocando uma imagem. Instigá-los a clicar para revelar a imagem cria uma experiência interativa e engajadora com o conteúdo!",
+      "TEXT_2_LABEL": "Atraia a atenção de seus leitores para o ponto focal de uma imagem usando o filtro Zoom.",
+      "TEXT_3_LABEL": "Use o efeito de desfoque para dar aos leitores a opção de decidir se querem ver o conteúdo gráfico ou não."
+     }
+}
