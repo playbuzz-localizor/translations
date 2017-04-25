@@ -199,39 +199,6 @@
         "TEXT_5_LABEL": "Each slide in a Facts video has large text over a background image.",
         "TEXT_6_LABEL": "Use the Swift template to create a quicker video with a an intro screen that automatically pulls visuals from all of your video’s slides."
       },
-      "TEMPLATES": {
-        "GENERAL": {
-          "MAIN_TITLE_PLACEHOLDER": "Enter Main Title",
-          "ENTER_TEXT_PLACEHOLDER": "Enter Text",
-          "CTA_PLACEHOLDER": "End with call to action!",
-          "BACKGROUND_REQUIRED_VALIDATION_MSG": "Background image is required",
-          "TEXT_REQUIRED_VALIDATION_MSG": "Text is required",
-          "TITLE_REQUIRED_VALIDATION_MSG": "Title is required"
-        },
-        "CLASSIC": {
-          "SUB_TITLE_PLACEHOLDER": "Enter subtitle (optional)"
-        },
-        "VS": {
-          "PRE_CTA_PLACEHOLDER": "Preliminary text (optional)",
-          "SIDE_A_PLACEHOLDER": "A",
-          "FEATURE_A_PLACEHOLDER": "Enter text for A",
-          "SIDE_B_PLACEHOLDER": "B",
-          "FEATURE_B_PLACEHOLDER": "Enter text for B",
-          "PREMISE_PLACEHOLDER": "Enter video title",
-          "COMPARISON_PLACEHOLDER": "Comparison",
-          "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "A background image is required",
-          "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "B background image is required",
-          "A_TITLE_REQUIRED_VALIDATION_MSG": "A title is required",
-          "B_TITLE_REQUIRED_VALIDATION_MSG": "B title is required",
-          "PREMISE_REQUIRED_VALIDATION_MSG": "Video title is required",
-          "COMPARISON_REQUIRED_VALIDATION_MSG": "Comparison is required"
-        },
-        "FACTS": {
-          "ENTER_TITLE_PLACEHOLDER": "ENTER TITLE",
-          "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
-          "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
-        }
-      },
       "PLAY": "PLAY",
       "PAUSE": "PAUSE",
       "GALLERY_TITLE": "Pick a template",
