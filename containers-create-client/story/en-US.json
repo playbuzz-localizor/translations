@@ -239,7 +239,9 @@
               "TAB_LABEL": "Questions"
             },
             "RESULTS": {
-              "TAB_LABEL": "End screens"
+              "TAB_LABEL": "End screens",
+              "TITLE_PLACEHOLDER": "Enter result title…",
+              "DESCRIPTION_PLACEHOLDER": "Tell us more…"
             }
         }
     },
