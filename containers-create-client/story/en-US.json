@@ -229,9 +229,11 @@
         },
         "TRIVIA": {
             "SETTINGS": {
+                "TITLE": "TRIVIA SETTINGS",
                 "RANDOMIZE_QUESTIONS_SWITCH": "Randomize Questions",
                 "RANDOMIZE_ANSWERS": "Randomize Answers",
                 "SETTINGS_TOOLTIP": "Settings",
+                "BACK_BUTTON": "Back to Edit"
             },
             "QUESTIONS":{
               "TAB_LABEL": "Questions"
