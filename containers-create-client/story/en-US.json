@@ -228,6 +228,7 @@
             }
         },
         "TRIVIA": {
+            "SETTINGS_TOOLTIP": "Settings",
             "QUESTIONS":{
               "TAB_LABEL": "Questions"
             },
