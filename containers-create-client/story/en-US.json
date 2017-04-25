@@ -228,7 +228,11 @@
             }
         },
         "TRIVIA": {
-            "SETTINGS_TOOLTIP": "Settings",
+            "SETTINGS": {
+                "RANDOMIZE_QUESTIONS_SWITCH": "Randomize Questions",
+                "RANDOMIZE_ANSWERS": "Randomize Answers",
+                "SETTINGS_TOOLTIP": "Settings",
+            },
             "QUESTIONS":{
               "TAB_LABEL": "Questions"
             },
