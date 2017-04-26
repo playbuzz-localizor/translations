@@ -236,7 +236,8 @@
                 "BACK_BUTTON": "Back to Edit"
             },
             "QUESTIONS":{
-              "TAB_LABEL": "Questions"
+              "TAB_LABEL": "Questions",
+              "ADD_BUT": "+ Ask another question"
             },
             "RESULTS": {
               "TAB_LABEL": "End screens",
