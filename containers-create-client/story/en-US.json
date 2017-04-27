@@ -86,6 +86,7 @@
             "ADD_BUBBLE_TOOLTIP": "Add Bubble",
             "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
             "DELETE_MESSAGE": "Are you sure?",
+            "DELETE_BUT": "Delete",
             "GALLERY": {
                 "TITLE_LABEL": "Make readers feel as though they are reading someone’s text messages!",
                 "TEXT_1_LABEL": "Choose the template that enables you to upload images for all of the Convo participants.You can add text and images to each message bubble!",
