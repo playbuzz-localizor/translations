@@ -228,6 +228,7 @@
             }
         },
         "TRIVIA": {
+            "DELETE_MESSAGE": "Are you sure?",
             "SETTINGS": {
                 "TITLE": "TRIVIA SETTINGS",
                 "RANDOMIZE_QUESTIONS_SWITCH": "Randomize Questions",
