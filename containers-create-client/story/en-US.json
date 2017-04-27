@@ -201,7 +201,6 @@
       },
       "TEMPLATES": {
         "GENERAL": {
-          "TEST_HOOK": "hokking",
           "MAIN_TITLE_PLACEHOLDER": "Enter Main Title",
           "ENTER_TEXT_PLACEHOLDER": "Enter Text",
           "CTA_PLACEHOLDER": "End with call to action!",
