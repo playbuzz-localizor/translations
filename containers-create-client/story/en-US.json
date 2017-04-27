@@ -228,8 +228,8 @@
                 "TEXT_3_LABEL": "Use Flip-card to filter what your readers see. Give them the choice to decide if they want to see adult content or not. "
             }
         },
-        "TRIVIA": {,
-            "DELETE_BUT": "Delete",       
+        "TRIVIA": {
+            "DELETE_BUT": "Delete",
             "DELETE_MESSAGE": "Are you sure?",
             "SETTINGS": {
                 "TITLE": "TRIVIA SETTINGS",
@@ -239,12 +239,12 @@
                 "BACK_BUTTON": "Back to Edit"
             },
             "QUESTIONS":{
-              "ADD_BUT": "+ Ask another question",  
+              "ADD_BUT": "+ Ask another question",
               "TAB_LABEL": "Questions",
               "ADD_BUT": "+ Ask another question"
             },
             "RESULTS": {
-              "ADD_BUT": "+ Add Result",  
+              "ADD_BUT": "+ Add Result",
               "TAB_LABEL": "End screens",
               "TITLE_PLACEHOLDER": "Enter result title…",
               "DESCRIPTION_PLACEHOLDER": "Tell us more…",
