@@ -195,7 +195,6 @@
                 "TEXT_2_LABEL": "Use os modelo Vs. para comparar e contrastar tópicos de interesse dos seus leitores.",
                 "TEXT_3_LABEL": "Cada tela no modelo Vs. irá comparar um subtópico sobre um tema principal com texto, imagens e GIFs!",
                 "TEXT_4_LABEL": "Use o modelo de Fatos para listar informações sobre algo importante para seus leitores.",
-                "TEXT_5_LABEL": "Cada slide em um vídeo de Fatos tem texto maior sobre uma imagem de plano de fundo.",
                 "TEXT_6_LABEL": "Use o modelo Swift para criar um vídeo mais rápido com uma tela de introdução que puxa automaticamente os recursos visuais de todos os slides do seu vídeo."
             },
             "PLAY": "REPRODUZIR",
@@ -213,11 +212,120 @@
             },
             "PREVIEW_BUT": "Preview do vídeo",
             "NOT_SUPPORTED_LABEL": "Não suportado",
-            "IE_ERR_MESSAGE": "O \"preview\" não é suportado no Internet Explorer. Use o Chrome para ter uma experiência completa! Você ainda poderá publicar o seu artigo no Internet Explorer e seu vídeo estará pronto rapidamente. "
+            "IE_ERR_MESSAGE": "O \"preview\" não é suportado no Internet Explorer. Use o Chrome para ter uma experiência completa! Você ainda poderá publicar o seu artigo no Internet Explorer e seu vídeo estará pronto rapidamente. ",
+            "REMOVE_SCENE": {
+                "TITLE": "Are you sure ?",
+                "DELETE_BUTTON_TEXT": "Delete"
+            },
+            "SCENE_NAME": {
+                "GENERAL": {
+                    "INTRO_LABEL": "INTRO",
+                    "ENDING_LABEL": "ENDING",
+                    "CREDITS_LABEL": "CREDITS"
+                },
+                "CLASSIC": {
+                    "ITEM_LABEL": "ITEM"
+                },
+                "FACTS": {
+                    "ITEM_LABEL": "FACT"
+                },
+                "SWIFT": {
+                    "ITEM_BOTTOM_LABEL": "BOTTOM",
+                    "ITEM_TOP_LABEL": "TOP"
+                },
+                "VS": {
+                    "ITEM_LABEL": "SUBJECT",
+                    "ENDING_LABEL": "CONCLUSION"
+                }
+            },
+            "CHANGE_TEMPLATE_WARNING": {
+                "TITLE": "Different Template Type",
+                "WARNING_MESSAGE": "Content entered might not be displayed in this template",
+                "CANCEL_BUTTON": "Cancel",
+                "CHANGE_BUTTON": "Change Template"
+            },
+            "AUDIO_LABEL": {
+                "NONE": "None",
+                "UPBEAT": "Upbeat",
+                "INTENSE": "Intense",
+                "OPTIMISTIC": "Optimistic",
+                "JAZZ": "Jazz",
+                "ENERGETIC_PIANO": "Energetic Piano",
+                "EMOTIONAL": "Emotional",
+                "SWING_BIG_BAND": "Swing/Big Band",
+                "THRILLER": "Thriller",
+                "CINEMATIC": "Cinematic",
+                "TRAILER": "Trailer",
+                "INSPIRATIONAL": "Inspirational",
+                "GANGSTA": "Gangsta",
+                "ELECTRONIC": "Electronic",
+                "DARK_BEATS": "Dark Beats",
+                "FUNKY": "Funky",
+                "HIP_HOP": "Hip Hop",
+                "MELANCHOLIC": "Melancholic",
+                "SLOW_ROCK": "Slow Rock",
+                "SILENT_MOVIE_PIANO": "Silent Movie Piano"
+            },
+            "TEMPLATE_NAME": {
+                "CLASSIC": "Classic",
+                "VS": "VS.",
+                "SWIFT": "Swift",
+                "FACTS": "Facts"
+            },
+            "THEME_NAME_LABEL": {
+                "DEFAULT": "Default",
+                "PLAYBUZZ": "Playbuzz",
+                "SHADES_OF_GRAY": "grey",
+                "PLAYTIME": "playtime",
+                "BACK_TO_SCHOOL": "Back To School",
+                "NEUTRAL_BLUE": "Neutral Blue",
+                "PHAEDRA": "Phaedra",
+                "FIESTA": "Fiesta",
+                "GREENS": "Greens",
+                "BUBBLEGUM": "Bubblegum",
+                "GROUND_CONTROL": "Ground Control",
+                "AMERICA": "America",
+                "BEACH_UMBRELLA": "Beach Umbrella",
+                "BEACH_TIME": "Beach Time"
+            },
+            "TEMPLATES": {
+                "GENERAL": {
+                    "MAIN_TITLE_PLACEHOLDER": "Enter Main Title",
+                    "ENTER_TEXT_PLACEHOLDER": "Enter Text",
+                    "CTA_PLACEHOLDER": "End with call to action!",
+                    "BACKGROUND_REQUIRED_VALIDATION_MSG": "Background image is required",
+                    "TEXT_REQUIRED_VALIDATION_MSG": "Text is required",
+                    "TITLE_REQUIRED_VALIDATION_MSG": "Title is required"
+                },
+                "CLASSIC": {
+                    "SUB_TITLE_PLACEHOLDER": "Enter subtitle (optional)"
+                },
+                "VS": {
+                    "PRE_CTA_PLACEHOLDER": "Preliminary text (optional)",
+                    "SIDE_A_PLACEHOLDER": "A",
+                    "FEATURE_A_PLACEHOLDER": "Enter text for A",
+                    "SIDE_B_PLACEHOLDER": "B",
+                    "FEATURE_B_PLACEHOLDER": "Enter text for B",
+                    "PREMISE_PLACEHOLDER": "Enter video title",
+                    "COMPARISON_PLACEHOLDER": "Comparison",
+                    "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "A background image is required",
+                    "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "B background image is required",
+                    "A_TITLE_REQUIRED_VALIDATION_MSG": "A title is required",
+                    "B_TITLE_REQUIRED_VALIDATION_MSG": "B title is required",
+                    "PREMISE_REQUIRED_VALIDATION_MSG": "Video title is required",
+                    "COMPARISON_REQUIRED_VALIDATION_MSG": "Comparison is required"
+                },
+                "FACTS": {
+                    "ENTER_TITLE_PLACEHOLDER": "ENTER TITLE",
+                    "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
+                    "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
+                }
+            }
         },
         "FLIP_CARD": {
             "GALLERY": {
                 "TITLE_LABEL": "Surpreenda seus leitores exibindo imagens e cartões de texto que eles podem clicar para revelar o outro lado.",
+                "TEXT_1_LABEL": "",
                 "TEXT_2_LABEL": "Use os cartões que viram para revelar algo aos seus leitores. Surpreenda, choque e entretenha! Isso também é ótimo para comparações \"antes e depois\"!",
                 "TEXT_3_LABEL": "Use os cartões que viram para filtrar o que seus leitores veem. Forneça-lhes a opção para decidir se eles querem ver conteúdo adulto ou não. "
             }
