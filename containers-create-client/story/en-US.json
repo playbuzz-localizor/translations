@@ -227,7 +227,8 @@
                 "TEXT_3_LABEL": "Use Flip-card to filter what your readers see. Give them the choice to decide if they want to see adult content or not. "
             }
         },
-        "TRIVIA": {
+        "TRIVIA": {,
+            "DELETE_BUT": "Delete",       
             "DELETE_MESSAGE": "Are you sure?",
             "SETTINGS": {
                 "TITLE": "TRIVIA SETTINGS",
