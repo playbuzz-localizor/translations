@@ -243,7 +243,10 @@
         "TAB_LABEL": "Questions",
         "QUESTION_PLACEHOLDER": "Enter question...",
         "TEXT_PLACEHOLDER": "Enter text...",
-        "LABEL": "Answers"
+        "LABEL": "Answers",
+        "ADD_OPTION_BUT": "Add Option",
+        "DELETE_OPTION_BUT": "Delete Option",
+        "OPTION_PLACEHOLDER": "Option"
       },
       "RESULTS": {
         "ADD_BUT": "+ Add Result",
