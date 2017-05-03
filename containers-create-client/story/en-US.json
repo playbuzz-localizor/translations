@@ -242,7 +242,8 @@
         "ADD_BUT": "+ Ask another question",
         "TAB_LABEL": "Questions",
         "QUESTION_PLACEHOLDER": "Enter question...",
-        "TEXT_PLACEHOLDER": "Enter text..."
+        "TEXT_PLACEHOLDER": "Enter text...",
+        "LABEL": "Answers"
       },
       "RESULTS": {
         "ADD_BUT": "+ Add Result",
