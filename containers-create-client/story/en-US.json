@@ -94,7 +94,7 @@
             }
         },
         "EMBED": {
-            "DESCRIPTION_PLACEHOLDER": "Description",
+            "DESCRIPTION_PLACEHOLDER": "From the web",
             "GALLERY": {
                 "TITLE_LABEL": "Import media from the web. ",
                 "TEXT_1_LABEL": "Embed Google maps to show your readers a specific location.",
