@@ -214,38 +214,38 @@
             "NOT_SUPPORTED_LABEL": "Não suportado",
             "IE_ERR_MESSAGE": "O \"preview\" não é suportado no Internet Explorer. Use o Chrome para ter uma experiência completa! Você ainda poderá publicar o seu artigo no Internet Explorer e seu vídeo estará pronto rapidamente. ",
             "REMOVE_SCENE": {
-                "TITLE": "Are you sure ?",
-                "DELETE_BUTTON_TEXT": "Delete"
+                "TITLE": "Você tem certeza?",
+                "DELETE_BUTTON_TEXT": "Excluir"
             },
             "SCENE_NAME": {
                 "GENERAL": {
-                    "INTRO_LABEL": "INTRO",
-                    "ENDING_LABEL": "ENDING",
-                    "CREDITS_LABEL": "CREDITS"
+                    "INTRO_LABEL": "INTRODUÇÃO",
+                    "ENDING_LABEL": "FINAL",
+                    "CREDITS_LABEL": "CRÉDITOS"
                 },
                 "CLASSIC": {
-                    "ITEM_LABEL": "ITEM"
+                    "ITEM_LABEL": "SLIDE"
                 },
                 "FACTS": {
-                    "ITEM_LABEL": "FACT"
+                    "ITEM_LABEL": "FATO"
                 },
                 "SWIFT": {
-                    "ITEM_BOTTOM_LABEL": "BOTTOM",
-                    "ITEM_TOP_LABEL": "TOP"
+                    "ITEM_BOTTOM_LABEL": "INFERIOR",
+                    "ITEM_TOP_LABEL": "SUPERIOR"
                 },
                 "VS": {
-                    "ITEM_LABEL": "SUBJECT",
-                    "ENDING_LABEL": "CONCLUSION"
+                    "ITEM_LABEL": "TEMA",
+                    "ENDING_LABEL": "CONCLUSÃO"
                 }
             },
             "CHANGE_TEMPLATE_WARNING": {
-                "TITLE": "Different Template Type",
-                "WARNING_MESSAGE": "Content entered might not be displayed in this template",
-                "CANCEL_BUTTON": "Cancel",
-                "CHANGE_BUTTON": "Change Template"
+                "TITLE": "Template diferente",
+                "WARNING_MESSAGE": "O conteúdo adicionado poderá não ser exibido no novo template",
+                "CANCEL_BUTTON": "Cancelar",
+                "CHANGE_BUTTON": "Alterar o template"
             },
             "AUDIO_LABEL": {
-                "NONE": "None",
+                "NONE": "Nenhum",
                 "UPBEAT": "Upbeat",
                 "INTENSE": "Intense",
                 "OPTIMISTIC": "Optimistic",
@@ -290,42 +290,42 @@
             },
             "TEMPLATES": {
                 "GENERAL": {
-                    "MAIN_TITLE_PLACEHOLDER": "Enter Main Title",
-                    "ENTER_TEXT_PLACEHOLDER": "Enter Text",
-                    "CTA_PLACEHOLDER": "End with call to action!",
-                    "BACKGROUND_REQUIRED_VALIDATION_MSG": "Background image is required",
-                    "TEXT_REQUIRED_VALIDATION_MSG": "Text is required",
-                    "TITLE_REQUIRED_VALIDATION_MSG": "Title is required"
+                    "MAIN_TITLE_PLACEHOLDER": "Escreva o título principal",
+                    "ENTER_TEXT_PLACEHOLDER": "Adicione texto",
+                    "CTA_PLACEHOLDER": "Termine com uma mensagem de \"call to action\"!",
+                    "BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo",
+                    "TEXT_REQUIRED_VALIDATION_MSG": "É necessário inserir texto",
+                    "TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título"
                 },
                 "CLASSIC": {
-                    "SUB_TITLE_PLACEHOLDER": "Enter subtitle (optional)"
+                    "SUB_TITLE_PLACEHOLDER": "Insira um subtítulo (opcional)"
                 },
                 "VS": {
-                    "PRE_CTA_PLACEHOLDER": "Preliminary text (optional)",
+                    "PRE_CTA_PLACEHOLDER": "Texto de abertura (opcional)",
                     "SIDE_A_PLACEHOLDER": "A",
-                    "FEATURE_A_PLACEHOLDER": "Enter text for A",
+                    "FEATURE_A_PLACEHOLDER": "Escreva um texto para A",
                     "SIDE_B_PLACEHOLDER": "B",
-                    "FEATURE_B_PLACEHOLDER": "Enter text for B",
-                    "PREMISE_PLACEHOLDER": "Enter video title",
-                    "COMPARISON_PLACEHOLDER": "Comparison",
-                    "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "A background image is required",
-                    "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "B background image is required",
-                    "A_TITLE_REQUIRED_VALIDATION_MSG": "A title is required",
-                    "B_TITLE_REQUIRED_VALIDATION_MSG": "B title is required",
-                    "PREMISE_REQUIRED_VALIDATION_MSG": "Video title is required",
-                    "COMPARISON_REQUIRED_VALIDATION_MSG": "Comparison is required"
+                    "FEATURE_B_PLACEHOLDER": "Escreva um texto para B",
+                    "PREMISE_PLACEHOLDER": "Escreva o título do vídeo",
+                    "COMPARISON_PLACEHOLDER": "Comparação",
+                    "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo",
+                    "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo para B",
+                    "A_TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para A",
+                    "B_TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para B",
+                    "PREMISE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para o vídeo",
+                    "COMPARISON_REQUIRED_VALIDATION_MSG": "É necessário inserir a comparação"
                 },
                 "FACTS": {
-                    "ENTER_TITLE_PLACEHOLDER": "ENTER TITLE",
-                    "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
-                    "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
+                    "ENTER_TITLE_PLACEHOLDER": "Escreva o título",
+                    "ENTER_FACT_PLACEHOLDER": "Adicione um fato",
+                    "FACT_REQUIRED_VALIDATION_MSG": "É necessário inserir um fato"
                 }
             }
         },
         "FLIP_CARD": {
             "GALLERY": {
                 "TITLE_LABEL": "Surpreenda seus leitores exibindo imagens e cartões de texto que eles podem clicar para revelar o outro lado.",
-                "TEXT_1_LABEL": "",
+                "TEXT_1_LABEL": "TEXT_1_LABEL",
                 "TEXT_2_LABEL": "Use os cartões que viram para revelar algo aos seus leitores. Surpreenda, choque e entretenha! Isso também é ótimo para comparações \"antes e depois\"!",
                 "TEXT_3_LABEL": "Use os cartões que viram para filtrar o que seus leitores veem. Forneça-lhes a opção para decidir se eles querem ver conteúdo adulto ou não. "
             }
