@@ -154,10 +154,9 @@
                 "TEXT_1_LABEL": "Involucra a tus lectores con una encuesta. ¡Permíteles aportar algo! Por ejemplo, les puedes preguntar qué opinan de algo específico en redes sociales.",
                 "TEXT_2_LABEL": "Usa una imagen de portada para que tu encuesta sea más visual y atractiva.",
                 "TEXT_3_LABEL": "¡Usa una imagen de fondo y elige la plantilla de cuadrícula para crear encuestas visualmente impactantes y con las que sea divertido interactuar!",
-                "TEXT_4_LABEL": "Recuerda siempre incluir la opción «ninguna de las anteriores» para que tus lectores tengan una alternativa a la que recurrir su ninguna de las opciones propuestas se ajusta a ellos.",
-                "TEXT_5_LABEL": ""
+                "TEXT_4_LABEL": "Recuerda siempre incluir la opción «ninguna de las anteriores» para que tus lectores tengan una alternativa a la que recurrir su ninguna de las opciones propuestas se ajusta a ellos."
             },
-            "DELETE_OPTION_BUT": "Delete option"
+            "DELETE_OPTION_BUT": "Eliminar opción"
         },
         "SUMMARY": {
             "ADD_ROW": "Añadir fila",
@@ -196,7 +195,6 @@
                 "TEXT_2_LABEL": "Usa la plantilla Vs. para comparar y contrastar temas del interés de tus lectores.",
                 "TEXT_3_LABEL": "¡Todas las pantallas de la plantilla Vs. comparan temas dependientes dentro de la comparación principal con texto, imágenes y archivos GIF!",
                 "TEXT_4_LABEL": "Usa la plantilla Hechos para crear listas de hechos sobre temas importantes para tus lectores.",
-                "TEXT_5_LABEL": "En los vídeos creados con la plantilla Hechos, cada diapositiva incluye un texto largo sobre una imagen de fondo.",
                 "TEXT_6_LABEL": "Usa la plantilla Veloz para crear vídeos más rápidos con una pantalla introductoria que extrae automáticamente imágenes de todas las diapositivas del vídeo."
             },
             "PLAY": "REPRODUCIR",
@@ -212,9 +210,117 @@
                 "CLOSE_SETTINGS": "Volver a Edición",
                 "LOGO_DESCRIPTION": "Sube tu propio logo para crear tu marca e incrementar su notoriedad"
             },
-            "PREVIEW_BUT": "Preview Video",
-            "NOT_SUPPORTED_LABEL": "Not Supported",
-            "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly."
+            "PREVIEW_BUT": "Vista Previa del Video",
+            "NOT_SUPPORTED_LABEL": "No es compatible",
+            "IE_ERR_MESSAGE": "No se admite la vista previa en Internet Explorer. ¡Visita Chrome para disfrutar de una experiencia completa! Todavía puede publicar su elemento en Internet Explorer y su vídeo estará listo en breve.",
+            "REMOVE_SCENE": {
+                "TITLE": "¿Esta seguro?",
+                "DELETE_BUTTON_TEXT": "Eliminar"
+            },
+            "SCENE_NAME": {
+                "GENERAL": {
+                    "INTRO_LABEL": "INTRO",
+                    "ENDING_LABEL": "Terminación",
+                    "CREDITS_LABEL": "CREDITOS"
+                },
+                "CLASSIC": {
+                    "ITEM_LABEL": "ITEM"
+                },
+                "FACTS": {
+                    "ITEM_LABEL": "FACT"
+                },
+                "SWIFT": {
+                    "ITEM_BOTTOM_LABEL": "Botón",
+                    "ITEM_TOP_LABEL": "TOP"
+                },
+                "VS": {
+                    "ITEM_LABEL": "Sujeto",
+                    "ENDING_LABEL": "Conclusión"
+                }
+            },
+            "CHANGE_TEMPLATE_WARNING": {
+                "TITLE": "Tipos distintos de Planilla",
+                "WARNING_MESSAGE": "Este contenido podría no ser visto en esta planilla",
+                "CANCEL_BUTTON": "Cancelar",
+                "CHANGE_BUTTON": "Cambiar Planilla"
+            },
+            "AUDIO_LABEL": {
+                "NONE": "Ninguno",
+                "UPBEAT": "Upbeat",
+                "INTENSE": "Intenso",
+                "OPTIMISTIC": "Optimista",
+                "JAZZ": "Jazz",
+                "ENERGETIC_PIANO": "Piano Energético",
+                "EMOTIONAL": "Emocional",
+                "SWING_BIG_BAND": "Swing/Big Band",
+                "THRILLER": "Thriller",
+                "CINEMATIC": "Cinematic",
+                "TRAILER": "Trailer",
+                "INSPIRATIONAL": "Inspirador",
+                "GANGSTA": "Gangsta",
+                "ELECTRONIC": "Electronico",
+                "DARK_BEATS": "Ritmo Oscuro",
+                "FUNKY": "Miedoso",
+                "HIP_HOP": "Hip Hop",
+                "MELANCHOLIC": "Melancólico",
+                "SLOW_ROCK": "Rock Suave",
+                "SILENT_MOVIE_PIANO": "Silent Movie Piano"
+            },
+            "TEMPLATE_NAME": {
+                "CLASSIC": "Clasico",
+                "VS": "VS.",
+                "SWIFT": "Swift",
+                "FACTS": "Facts"
+            },
+            "THEME_NAME_LABEL": {
+                "DEFAULT": "Defecto",
+                "PLAYBUZZ": "Playbuzz",
+                "SHADES_OF_GRAY": "Grey",
+                "PLAYTIME": "Playtime",
+                "BACK_TO_SCHOOL": "Back To School",
+                "NEUTRAL_BLUE": "Neutral Blue",
+                "PHAEDRA": "Phaedra",
+                "FIESTA": "Fiesta",
+                "GREENS": "Greens",
+                "BUBBLEGUM": "Bubblegum",
+                "GROUND_CONTROL": "Ground Control",
+                "AMERICA": "America",
+                "BEACH_UMBRELLA": "Beach Umbrella",
+                "BEACH_TIME": "Beach Time"
+            },
+            "TEMPLATES": {
+                "GENERAL": {
+                    "MAIN_TITLE_PLACEHOLDER": "Introduce el Título Principal",
+                    "ENTER_TEXT_PLACEHOLDER": "Escribe un Texto",
+                    "CTA_PLACEHOLDER": "¡Termina con el llamado a la acción!",
+                    "BACKGROUND_REQUIRED_VALIDATION_MSG": "Fondo de imagen es requerido",
+                    "TEXT_REQUIRED_VALIDATION_MSG": "Texto es requerido",
+                    "TITLE_REQUIRED_VALIDATION_MSG": "Título es requerido"
+                },
+                "CLASSIC": {
+                    "SUB_TITLE_PLACEHOLDER": "Escribe subtitulo (opcional)"
+                },
+                "VS": {
+                    "PRE_CTA_PLACEHOLDER": "Texto preliminar (opcional)",
+                    "SIDE_A_PLACEHOLDER": "A",
+                    "FEATURE_A_PLACEHOLDER": "Escribe texto para A",
+                    "SIDE_B_PLACEHOLDER": "B",
+                    "FEATURE_B_PLACEHOLDER": "Escribe texto para B",
+                    "PREMISE_PLACEHOLDER": "Introduce el título del video",
+                    "COMPARISON_PLACEHOLDER": "Comparación",
+                    "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "A Se requiere una imagen de fondo",
+                    "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "B Se requiere una imagen de fondo",
+                    "A_TITLE_REQUIRED_VALIDATION_MSG": "A Se requiere el título",
+                    "B_TITLE_REQUIRED_VALIDATION_MSG": "B Se requiere el título",
+                    "PREMISE_REQUIRED_VALIDATION_MSG": "Se requiere el título del video",
+                    "COMPARISON_REQUIRED_VALIDATION_MSG": "Se requiere la comparación"
+                },
+                "FACTS": {
+                    "ENTER_TITLE_PLACEHOLDER": "Introducir Título",
+                    "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
+                    "FACT_REQUIRED_VALIDATION_MSG": "FACT is required"
+                }
+            }
         },
         "FLIP_CARD": {
             "GALLERY": {
@@ -252,5 +358,5 @@
     "ONBOARDING": {
         "GALLERY_OPEN_LABEL": "Ver ejemplos"
     },
-    "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?"
+    "NOT_SAVED_ERR_MESSAGE": "No ha guardado los cambios, ¿estas seguro que desea abandonar? "
 }
