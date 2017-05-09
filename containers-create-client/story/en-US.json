@@ -63,6 +63,5 @@
     },
     "ONBOARDING": {
         "GALLERY_OPEN_LABEL": "See Examples"
-    },
-    "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?"
+    }
 }
