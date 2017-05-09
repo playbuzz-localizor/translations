@@ -49,41 +49,9 @@
         }
     },
     "DESCRIPTION_PLACEHOLDER": "Descrição",
-    "ACTION_PANE": {
-        "PUBLISH_BUT": "Publicar",
-        "SAVE_BUT": "Salvar",
-        "ERROR_MESSAGE": "Erro",
-        "PUBLISH_BUT_PENDING": "Publicando...",
-        "PREVIEW_BUT": "Preview",
-        "SAVED_NOTIFICATION": "Salvo",
-        "VIEW_LINK": "visualizar",
-        "SAVE_BUT_NEW_ITEM": "Salvar rascunho",
-        "SAVE_BUT_PENDING": "Salvando...",
-        "ERROR": {
-            "MISSING_REQUIREMENTS": "Alguns requisitos estão faltando",
-            "LOGED_OUT": "Faça o login novamente",
-            "SAVING_DISABLED": "Não é possível salvar agora. Tente novamente em 5 minutos",
-            "OUTDATED": "Item desatualizado",
-            "SAVE_FAILED": "Falha ao salvar"
-        },
-        "PREVIEW_BUT_PENDING": "Preparando..."
-    },
     "SECTIONS_LOBBY_TITLE": "Conte a sua história",
     "STORY_TITLE_PLACEHOLDER": "Título do Story",
-    "SECTION_TITLE_PLACEHOLDER": "Título",
     "DELETE_SECTION_MESSAGE": "Tem certeza de que quer apagar isso?",
-    "TEXT_EDITOR": {
-        "WORD": "PALAVRA",
-        "WORDS": "PALAVRAS",
-        "GOOD": "BOM",
-        "NORMAL": "OK",
-        "BAD": "LONGO DEMAIS",
-        "BOLD_TOOLTIP": "Negrito",
-        "GOOD_INDICATION": "BOM",
-        "NORMAL_INDICATION": "OK",
-        "BAD_INDICATION": "LONGO DEMAIS",
-        "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. leitura"
-    },
     "MODAL_LANGUAGE": {
         "NEW_LABEL": "NOVO",
         "TITLE": "Selecione seu idioma preferido para criação",

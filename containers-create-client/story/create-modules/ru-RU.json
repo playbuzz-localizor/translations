@@ -1,0 +1,35 @@
+{
+  "TEXT_EDITOR": {
+    "WORD": "СЛОВО",
+    "WORDS": "СЛОВА",
+    "GOOD": "ОТЛИЧНО",
+    "NORMAL": "ХОРОШО",
+    "BAD": "НЕМНОГО ДЛИННО",
+    "BOLD_TOOLTIP": "Полужирный",
+    "GOOD_INDICATION": "ОТЛИЧНО",
+    "NORMAL_INDICATION": "ХОРОШО",
+    "BAD_INDICATION": "НЕМНОГО ДЛИННО",
+    "MINIMUM_READ_TIME_LABEL": "Прочитают за {{readTime}} мин."
+  },
+  "ACTION_PANE": {
+    "PUBLISH_BUT": "Опубликовать",
+    "SAVE_BUT": "Сохранить",
+    "ERROR_MESSAGE": "Ошибка",
+    "PUBLISH_BUT_PENDING": "Публикация...",
+    "PREVIEW_BUT": "Предпросмотр",
+    "SAVED_NOTIFICATION": "Сохранено",
+    "VIEW_LINK": "просмотр",
+    "SAVE_BUT_NEW_ITEM": "Сохранить черновик",
+    "SAVE_BUT_PENDING": "Сохранение...",
+    "ERROR": {
+      "MISSING_REQUIREMENTS": "Требуемые параметры отсутствуют",
+      "LOGED_OUT": "Пожалуйста, войдите снова",
+      "SAVING_DISABLED": "Сохранение отключено. Пожалуйста, повторите попытку через 5 минут",
+      "OUTDATED": "Элемент устарел",
+      "SAVE_FAILED": "Не удалось сохранить"
+    },
+    "PREVIEW_BUT_PENDING": "Подготовка..."
+  },
+  "SECTION_TITLE_PLACEHOLDER": "Заголовок",
+  "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?"
+}

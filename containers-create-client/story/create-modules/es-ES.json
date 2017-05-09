@@ -1,0 +1,84 @@
+{
+  "TEXT_EDITOR": {
+    "WORD": "PALABRA",
+    "WORDS": "PALABRAS",
+    "GOOD": "BUENO",
+    "NORMAL": "OK",
+    "BAD": "UN POCO LARGO",
+    "BOLD_TOOLTIP": "Negrita",
+    "GOOD_INDICATION": "BUENO",
+    "NORMAL_INDICATION": "OK",
+    "BAD_INDICATION": "UN POCO LARGO",
+    "MINIMUM_READ_TIME_LABEL": "{{readTime}} mín. de lectura"
+  },
+  "ACTION_PANE": {
+    "PUBLISH_BUT": "Publicar",
+    "SAVE_BUT": "Guardar",
+    "ERROR_MESSAGE": "Error",
+    "PUBLISH_BUT_PENDING": "Publicando...",
+    "PREVIEW_BUT": "Vista previa",
+    "SAVED_NOTIFICATION": "Guardado",
+    "VIEW_LINK": "vista",
+    "SAVE_BUT_NEW_ITEM": "Guardar borrador",
+    "SAVE_BUT_PENDING": "Guardando...",
+    "ERROR": {
+      "MISSING_REQUIREMENTS": "Faltan algunos requisitos",
+      "LOGED_OUT": "Por favor, vuelve a iniciar sesión",
+      "SAVING_DISABLED": "No se puede guardar. Por favor, inténtalo de nuevo dentro de 5 minutos",
+      "OUTDATED": "El artículo no está actualizado",
+      "SAVE_FAILED": "No se ha podido guardar"
+    },
+    "PREVIEW_BUT_PENDING": "Preparando..."
+  },
+  "LEFT_PANE": {
+    "MAP": {
+      "TITLE": "Mapa",
+      "EMPTY_TITLE": "¡Comenzar!",
+      "EMPTY_DESCRIPTION": "Crea y adapta tu Story",
+      "TOOLTIP": "Mapa",
+      "MINIMUM_READ_TIME_LABEL": "lectura mínima"
+    },
+    "VISIBILITY": {
+      "TITLE": "Visibilidad",
+      "DESCRIPTION": "Quién puede ver tu Story",
+      "LANGUAGE_TITLE": "Idioma",
+      "LANGUAGE_DESCRIPTION": "Seleccionar idioma del Story",
+      "LANGUAGE_CHECKBOX_LABEL": "Habilitar traducción a otros idiomas",
+      "SPONSORED_TITLE": "Contenido patrocinado",
+      "SPONSORED_CHECKBOX_LABEL": "Este es un artículo patrocinado",
+      "TOOLTIP": "Visibilidad: {{viewPermission}}",
+      "VIEW_PERMISSIONS_DROPDOWN": {
+        "PUBLIC": "Público (recomendado)",
+        "ONLY_ME": "Solo yo",
+        "ONLY_DIRECT_LINK": "Solo enlace directo"
+      },
+      "CREATOR_LANGUAGE_TITLE": "Idioma",
+      "CREATOR_EDIT_BUTTON": "bbb"
+    },
+    "TAGS": {
+      "TITLE": "Etiquetas",
+      "DESCRIPTION": "Haz que tu Story pueda ser descubierto más fácilmente utilizando etiquetas",
+      "TOOLTIP": "Etiquetas",
+      "NEW_TAG_PLACEHOLDER": "Introduce tus propias etiquetas",
+      "NEW_TAG_DESCRIPTION": "Separadas por comas"
+    },
+    "SOCIAL": {
+      "TITLE": "Apariencia social",
+      "DESCRIPTION": "Cómo aparecerá tu Story en las redes sociales",
+      "TOOLTIP": "Apariencia social"
+    },
+    "ABOUT": {
+      "TITLE": "¿Qué es Story?",
+      "DESCRIPTION": "Story es el primer creador de artículos que permite a los equipos editoriales dividir sus narrativas en una forma atractiva, visual y entretenida para los lectores.",
+      "STEP_1": "Escribe tu Story",
+      "STEP_2": "¡Publicar!",
+      "STEP_3": "Compartir o incorporar al instante en tu web",
+      "STEP_4": "Hecho",
+      "QUESTIONS_TITLE": "¿Tienes alguna pregunta?",
+      "QUESTIONS_DESCRIPTION": "¡Estamos aquí!",
+      "TOOLTIP": "Acerca de"
+    }
+  },
+  "SECTION_TITLE_PLACEHOLDER": "Título",
+  "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?"
+}
