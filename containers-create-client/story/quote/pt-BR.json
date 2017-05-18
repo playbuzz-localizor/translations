@@ -1,10 +1,5 @@
 {
   "TEXT_PLACEHOLDER": "Escreva a citação...",
   "QUOTEE_PLACEHOLDER": "Quem disse isso?",
-  "ADDITIONAL_TEXT_PLACEHOLDER": "Conte um pouco mais...",
-  "GALLERY": {
-    "TITLE_LABEL": "Destaque as palavras de impacto criando uma citação.",
-    "TEXT_1_LABEL": "Curtas e chamativas: mantenha suas citações diretas e fáceis de ler. ",
-    "TEXT_2_LABEL": "Inclua uma imagem do autor ao lado da citação para fornecer contexto e mais informações aos seus leitores"
-  }
+  "ADDITIONAL_TEXT_PLACEHOLDER": "Conte um pouco mais..."
 }

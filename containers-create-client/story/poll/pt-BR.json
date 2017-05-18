@@ -26,12 +26,5 @@
   },
   "CLASSIC_LAYOUT_TOOLTIP": "Template clássico",
   "GRID_LAYOUT_TOOLTIP": "Grid de imagens",
-  "GALLERY": {
-    "TITLE_LABEL": "Enquetes permitem que os leitores expressem suas opiniões e respondam ao conteúdo que você cria.",
-    "TEXT_1_LABEL": "Use uma enquete para envolver seus leitores. Ofereça a oportunidade de manifestarem suas opiniões! Por exemplo, perguntando o que eles pensam sobre algo nas redes sociais.",
-    "TEXT_2_LABEL": "Use uma imagem de capa na sua enquete para tornar a pergunta mais visual e emocionante.",
-    "TEXT_3_LABEL": "Use uma imagem de fundo e escolha o modelo de \"Grid\" para criar uma pesquisa visualmente incrível e que seja divertida de interagir!",
-    "TEXT_4_LABEL": "Lembre-se de incluir sempre uma alternativa \"nenhuma das opções anteriores\" para dar aos seus leitores uma saída fácil se nenhuma das opções lhes atender."
-  },
   "DELETE_OPTION_BUT": "Excluir opção"
 }
