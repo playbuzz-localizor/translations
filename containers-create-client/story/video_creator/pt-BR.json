@@ -1,13 +1,4 @@
 {
-  "GALLERY": {
-    "TITLE_LABEL": "Incorpore vídeos de uma forma mais flexível e de baixo custo. Personalize nossos modelos temáticos, escolha uma paleta de cores e adicione a trilha ideal.",
-    "TEXT_1_LABEL": "Use o modelo clássico para criar uma lista de vídeos com GIFs e imagens.",
-    "TEXT_2_LABEL": "Use os modelo Vs. para comparar e contrastar tópicos de interesse dos seus leitores.",
-    "TEXT_3_LABEL": "Cada tela no modelo Vs. irá comparar um subtópico sobre um tema principal com texto, imagens e GIFs!",
-    "TEXT_4_LABEL": "Use o modelo de Fatos para listar informações sobre algo importante para seus leitores.",
-    "TEXT_5_LABEL": "Cada slide em um vídeo de Fatos tem texto maior sobre uma imagem de plano de fundo.",
-    "TEXT_6_LABEL": "Use o modelo Swift para criar um vídeo mais rápido com uma tela de introdução que puxa automaticamente os recursos visuais de todos os slides do seu vídeo."
-  },
   "PLAY": "REPRODUZIR",
   "PAUSE": "PAUSAR",
   "GALLERY_TITLE": "Escolher um template",
