@@ -62,6 +62,64 @@
         "CLOSE_BUT": "Cerrar"
     },
     "ONBOARDING": {
-        "GALLERY_OPEN_LABEL": "Ver ejemplos"
+        "GALLERY_OPEN_LABEL": "Ver ejemplos",
+        "CONVO": {
+            "TITLE_LABEL": "¡Haz que tus lectores se sientan como si estuvieran leyendo los mensajes de texto de alguien!",
+            "TEXT_1_LABEL": "Elige la plantilla que permite subir imágenes para cada participante de Convo. ¡Así podrás añadir texto e imágenes al lado de cada mensaje!",
+            "TEXT_2_LABEL": "Usa la plantilla de Convo que luce como el servicio de mensajería de iOS.",
+            "TEXT_3_LABEL": "Usa Convo para crear listas o cronologías de eventos. Simplemente sube números o fechas como imagen de cada «participante»."
+        },
+        "EMBED": {
+            "TITLE_LABEL": "Importa contenido multimedia desde internet.",
+            "TEXT_1_LABEL": "Inserta Google Maps para mostrarle una ubicación específica a tus lectores.",
+            "TEXT_2_LABEL": "Incluye vídeos de Vimeo en tu artículo.",
+            "TEXT_3_LABEL": "Inserta publicaciones de Twitter para que tu contenido sea más interesante y atractivo.",
+            "TEXT_4_LABEL": "Inserta publicaciones de Instagram para que tu contenido tenga mayor impacto visual."
+        },
+        "FLIP_CARD": {
+            "TITLE_LABEL": "Sorprende a tus lectores con tarjetas de imágenes y texto que podrán voltear para ver la otra cara.",
+            "TEXT_1_LABEL": "",
+            "TEXT_2_LABEL": "Usa las tarjetas para revelar información a tus lectores. ¡Los podrás sorprender, impresionar y entretener! Esta opción también es perfecta para hacer comparaciones «antes y después».",
+            "TEXT_3_LABEL": "Usa las Tarjetas para filtrar lo que ven tus lectores. Permíteles decidir si ver o no contenido censurado."
+        },
+        "IMAGE": {
+            "TITLE_LABEL": "Incluye imágenes atractivas y resalta elementos visuales con el efecto de desenfoque o acercamiento",
+            "TEXT_1_LABEL": "Sorprende a tus lectores con una imagen desenfocada. ¡Al hacer clic para descubrir la imagen, disfrutarán de una experiencia de lectura interactiva y atrayente!",
+            "TEXT_2_LABEL": "Dirige la atención de tus lectores hacia el foco de la imagen con el filtro de acercamiento.",
+            "TEXT_3_LABEL": "Ofrécele a tus lectores la posibilidad de decidir si ver o no contenido sensible con el efecto de desenfoque."
+        },
+        "PARAGRAPH": {
+            "TITLE_LABEL": "Crea la base de tu historia con texto.",
+            "TEXT_1_LABEL": "Resalta las partes más importantes del texto con el marcador.",
+            "TEXT_2_LABEL": "El texto resaltado atraerá inmediatamente la mirada de tu lector. Asegúrate de resaltar las partes importantes que deban leer.",
+            "TEXT_3_LABEL": "¡Incluye emojis e hipervínculos para que tu texto sea más interesante y atractivo!"
+        },
+        "POLL": {
+            "TITLE_LABEL": "Las encuestas le permiten a los lectores expresar su opinión y responder al contenido que creas.",
+            "TEXT_1_LABEL": "Involucra a tus lectores con una encuesta. ¡Permíteles aportar algo! Por ejemplo, les puedes preguntar qué opinan de algo específico en redes sociales.",
+            "TEXT_2_LABEL": "Usa una imagen de portada para que tu encuesta sea más visual y atractiva.",
+            "TEXT_3_LABEL": "¡Usa una imagen de fondo y elige la plantilla de cuadrícula para crear encuestas visualmente impactantes y con las que sea divertido interactuar!",
+            "TEXT_4_LABEL": "Recuerda siempre incluir la opción «ninguna de las anteriores» para que tus lectores tengan una alternativa a la que recurrir su ninguna de las opciones propuestas se ajusta a ellos.",
+            "TEXT_5_LABEL": ""
+        },
+        "QUOTE": {
+            "TITLE_LABEL": "Crea diseños de citas para destacar frases sabias.",
+            "TEXT_1_LABEL": "Breve y amable: haz que tus citas sean directas y fáciles de leer.",
+            "TEXT_2_LABEL": "Incluye una imagen del autor al lado de la cita para ofrecerle contexto y más información a tus lectores."
+        },
+        "SUMMARY": {
+            "TITLE_LABEL": "En estos tiempos en los que la gente no suele leer contenido extenso, el Resumen va al grano y le ofrece a los lectores solo la información que necesitan. Los resúmenes pueden usarse de distintas formas.",
+            "TEXT_1_LABEL": "Usa Resumen para presentar los puntos clave de cualquier tema. Ofrécele una visión general al público con varios puntos concisos. Incluye una imagen de portada para vincular el resumen con el tema de tu artículo.",
+            "TEXT_2_LABEL": "Usa la plantilla Resumen para crear recetas e incluir una barra lateral con los ingredientes. Incorpora elementos visuales para que tu resumen sea más atractivo.",
+            "TEXT_3_LABEL": "Crea listas de cosas por hacer en Resumen con la función de casillas de verificación."
+        },
+        "VIDEO_CREATOR": {
+        },
+        "VIDEO_PLAYER":{
+            "TITLE_LABEL": "Enriquece tus historias con vídeos.",
+            "TEXT_1_LABEL": "Usa vídeos de Vimeo para que tus artículos sean más interesantes.",
+            "TEXT_2_LABEL": "Usa vídeos de YouTube para que tus artículos sean más interesantes."
+        }
+
     }
 }
