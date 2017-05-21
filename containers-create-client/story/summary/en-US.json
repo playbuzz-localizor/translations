@@ -4,5 +4,6 @@
   "ROW_PLACEHOLDER": "Enter text...",
   "NO_EFFECT": "None",
   "FADE_EFFECT": "Fade In",
-  "TITLE_PLACEHOLDER": "Title"
+  "TITLE_PLACEHOLDER": "Title",
+  "Test": "test"
 }
