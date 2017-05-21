@@ -48,6 +48,25 @@
             "TOOLTIP": "О нас"
         }
     },
+    "ACTION_PANE": {
+        "PUBLISH_BUT": "Опубликовать",
+        "SAVE_BUT": "Сохранить",
+        "ERROR_MESSAGE": "Ошибка",
+        "PUBLISH_BUT_PENDING": "Публикация...",
+        "PREVIEW_BUT": "Предпросмотр",
+        "SAVED_NOTIFICATION": "Сохранено",
+        "VIEW_LINK": "просмотр",
+        "SAVE_BUT_NEW_ITEM": "Сохранить черновик",
+        "SAVE_BUT_PENDING": "Сохранение...",
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "Требуемые параметры отсутствуют",
+            "LOGED_OUT": "Пожалуйста, войдите снова",
+            "SAVING_DISABLED": "Сохранение отключено. Пожалуйста, повторите попытку через 5 минут",
+            "OUTDATED": "Элемент устарел",
+            "SAVE_FAILED": "Не удалось сохранить"
+        },
+        "PREVIEW_BUT_PENDING": "Подготовка..."
+    },
     "DESCRIPTION_PLACEHOLDER": "Описание",
     "SECTIONS_LOBBY_TITLE": "С чего Вы хотите начать вашу Историю?",
     "STORY_TITLE_PLACEHOLDER": "Название Истории",

@@ -48,6 +48,25 @@
       "TOOLTIP": "About"
     }
   },
+  "ACTION_PANE": {
+    "PUBLISH_BUT": "Publish",
+    "SAVE_BUT": "Save",
+    "ERROR_MESSAGE": "Error",
+    "PUBLISH_BUT_PENDING": "Publishing...",
+    "PREVIEW_BUT": "Preview",
+    "SAVED_NOTIFICATION": "Saved",
+    "VIEW_LINK": "view",
+    "SAVE_BUT_NEW_ITEM": "Save Draft",
+    "SAVE_BUT_PENDING": "Saving...",
+    "ERROR": {
+      "MISSING_REQUIREMENTS": "Some requirements are missing",
+      "LOGED_OUT": "Please re-login",
+      "SAVING_DISABLED": "Saving is disabled. Please try again in 5 minutes",
+      "OUTDATED": "Item is outdated",
+      "SAVE_FAILED": "Failed to Save"
+    },
+    "PREVIEW_BUT_PENDING": "Preparing..."
+  },
   "DESCRIPTION_PLACEHOLDER": "Description",
   "SECTIONS_LOBBY_TITLE": "Tell Your Story",
   "STORY_TITLE_PLACEHOLDER": "Story title",

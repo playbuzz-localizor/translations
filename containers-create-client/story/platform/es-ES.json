@@ -48,6 +48,25 @@
             "TOOLTIP": "Acerca de"
         }
     },
+    "ACTION_PANE": {
+        "PUBLISH_BUT": "Publicar",
+        "SAVE_BUT": "Guardar",
+        "ERROR_MESSAGE": "Error",
+        "PUBLISH_BUT_PENDING": "Publicando...",
+        "PREVIEW_BUT": "Vista previa",
+        "SAVED_NOTIFICATION": "Guardado",
+        "VIEW_LINK": "vista",
+        "SAVE_BUT_NEW_ITEM": "Guardar borrador",
+        "SAVE_BUT_PENDING": "Guardando...",
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "Faltan algunos requisitos",
+            "LOGED_OUT": "Por favor, vuelve a iniciar sesión",
+            "SAVING_DISABLED": "No se puede guardar. Por favor, inténtalo de nuevo dentro de 5 minutos",
+            "OUTDATED": "El artículo no está actualizado",
+            "SAVE_FAILED": "No se ha podido guardar"
+        },
+        "PREVIEW_BUT_PENDING": "Preparando..."
+    },
     "DESCRIPTION_PLACEHOLDER": "Descripción",
     "SECTIONS_LOBBY_TITLE": "Cuenta tu Story",
     "STORY_TITLE_PLACEHOLDER": "Título del Story",
