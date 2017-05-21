@@ -1,9 +1,9 @@
 {
-  "ADD_ROW": "Add row ",
-  "SUBTITLE_PLACEHOLDER": "Subtitle",
-  "ROW_PLACEHOLDER": "Enter text...",
-  "NO_EFFECT": "None",
-  "FADE_EFFECT": "Fade In",
-  "TITLE_PLACEHOLDER": "Title",
-  "Test": "test"
+    "ADD_ROW": "Add row",
+    "SUBTITLE_PLACEHOLDER": "Subtitle",
+    "ROW_PLACEHOLDER": "Enter text...",
+    "NO_EFFECT": "None",
+    "FADE_EFFECT": "Fade In",
+    "TITLE_PLACEHOLDER": "Title",
+    "Test": "test"
 }
