@@ -1,30 +1,30 @@
 {
-  "BACKGROUND_TEMPLATE_TOOLTIP": "Imagem de fundo",
-  "COVER_TEMPLATE_TOOLTIP": "Imagem de capa",
-  "CLASSIC_TEMPLATE_TOOLTIP": "Clássico",
-  "GRID_TEMPLATE_TOOLTIP": "Grid de imagens",
-  "SETTINGS_TOOLTIP": "Configurações da enquete",
-  "TITLE_PLACEHOLDER": "Pergunta ",
-  "OPTION_PLACEHOLDER": "Opção {{index}}",
-  "ADD_OPTION_BUT": "Acrescentar opção",
-  "SETTINGS": {
-    "TITLE": "CONFIGURAÇÕES DA ENQUETE",
-    "HERE_LINK": "aqui",
-    "BACK_BUTTON": "Voltar para edição",
-    "ENABLE_VOTING_SWITCH": "Habilitar votação",
-    "TOTAL_VOTES_SWITCH": "Mostrar total de votos",
-    "DISPLAY_LOGO_SWITCH": "Mostrar logo",
-    "DISPLAY_LOGO_DESCRIPTION": "Coloque seu logo para deixar mais personalizado.\nAltere a sua imagem de exibição",
-    "END_CARD_SWITCH": "Mensagem final",
-    "END_CARD_DESCRIPTION": "Garanta mais compartilhamentos e engajamento com uma mensagem final",
-    "END_CARD": {
-      "TITLE_LABEL": "Título",
-      "TITLE_PLACEHOLDER": "Escreva um título...",
-      "DESCRIPTION_LABEL": "Descrição",
-      "DESCRIPTION_PLACEHOLDER": "Escreva uma descrição..."
-    }
-  },
-  "CLASSIC_LAYOUT_TOOLTIP": "Template clássico",
-  "GRID_LAYOUT_TOOLTIP": "Grid de imagens",
-  "DELETE_OPTION_BUT": "Excluir opção"
+    "BACKGROUND_TEMPLATE_TOOLTIP": "Imagem de fundo",
+    "COVER_TEMPLATE_TOOLTIP": "Imagem de capa",
+    "CLASSIC_TEMPLATE_TOOLTIP": "Clássico",
+    "GRID_TEMPLATE_TOOLTIP": "Grid de imagens",
+    "SETTINGS_TOOLTIP": "Configurações da enquete",
+    "TITLE_PLACEHOLDER": "Pergunta",
+    "OPTION_PLACEHOLDER": "Opção {{index}}",
+    "ADD_OPTION_BUT": "Acrescentar opção",
+    "SETTINGS": {
+        "TITLE": "CONFIGURAÇÕES DA ENQUETE",
+        "HERE_LINK": "aqui",
+        "BACK_BUTTON": "Voltar para edição",
+        "ENABLE_VOTING_SWITCH": "Habilitar votação",
+        "TOTAL_VOTES_SWITCH": "Mostrar total de votos",
+        "DISPLAY_LOGO_SWITCH": "Mostrar logo",
+        "DISPLAY_LOGO_DESCRIPTION": "Coloque seu logo para deixar mais personalizado.\nAltere a sua imagem de exibição",
+        "END_CARD_SWITCH": "Mensagem final",
+        "END_CARD_DESCRIPTION": "Garanta mais compartilhamentos e engajamento com uma mensagem final",
+        "END_CARD": {
+            "TITLE_LABEL": "Título",
+            "TITLE_PLACEHOLDER": "Escreva um título...",
+            "DESCRIPTION_LABEL": "Descrição",
+            "DESCRIPTION_PLACEHOLDER": "Escreva uma descrição..."
+        }
+    },
+    "CLASSIC_LAYOUT_TOOLTIP": "Template clássico",
+    "GRID_LAYOUT_TOOLTIP": "Grid de imagens",
+    "DELETE_OPTION_BUT": "Excluir opção"
 }
