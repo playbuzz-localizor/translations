@@ -1,9 +1,3 @@
 {
-  "EDITOR_PLACEHOLDER": "Párrafo",
-  "GALLERY": {
-    "TITLE_LABEL": "Crea la base de tu historia con texto.",
-    "TEXT_1_LABEL": "Resalta las partes más importantes del texto con el marcador.",
-    "TEXT_2_LABEL": "El texto resaltado atraerá inmediatamente la mirada de tu lector. Asegúrate de resaltar las partes importantes que deban leer.",
-    "TEXT_3_LABEL": "¡Incluye emojis e hipervínculos para que tu texto sea más interesante y atractivo!"
-  }
+  "EDITOR_PLACEHOLDER": "Párrafo"
 }

@@ -3,11 +3,5 @@
   "BUBBLE_CONTENT_PLACEHOLDER": "Enter text...",
   "ADD_BUBBLE_TOOLTIP": "Add Bubble",
   "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
-  "DELETE_MESSAGE": "Are you sure?",
-  "GALLERY": {
-    "TITLE_LABEL": "Make readers feel as though they are reading someone’s text messages!",
-    "TEXT_1_LABEL": "Choose the template that enables you to upload images for all of the Convo participants.You can add text and images to each message bubble!",
-    "TEXT_2_LABEL": "Use the Convo template that looks and feels like iOS messenger.",
-    "TEXT_3_LABEL": "Use Convo to create a list or timeline of events. Simply upload a number or date as the image for each “participant”."
-  }
+  "DELETE_MESSAGE": "Are you sure?"
 }

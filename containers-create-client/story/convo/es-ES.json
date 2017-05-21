@@ -3,11 +3,5 @@
   "BUBBLE_CONTENT_PLACEHOLDER": "Introducir texto...",
   "ADD_BUBBLE_TOOLTIP": "Añadir Burbuja",
   "ADD_PARTICIPANT_TOOLTIP": "Añadir Participante",
-  "DELETE_MESSAGE": "¿Estás seguro/a?",
-  "GALLERY": {
-    "TITLE_LABEL": "¡Haz que tus lectores se sientan como si estuvieran leyendo los mensajes de texto de alguien!",
-    "TEXT_1_LABEL": "Elige la plantilla que permite subir imágenes para cada participante de Convo. ¡Así podrás añadir texto e imágenes al lado de cada mensaje!",
-    "TEXT_2_LABEL": "Usa la plantilla de Convo que luce como el servicio de mensajería de iOS.",
-    "TEXT_3_LABEL": "Usa Convo para crear listas o cronologías de eventos. Simplemente sube números o fechas como imagen de cada «participante»."
-  }
+  "DELETE_MESSAGE": "¿Estás seguro/a?"
 }

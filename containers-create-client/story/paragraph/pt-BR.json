@@ -1,9 +1,3 @@
 {
-  "EDITOR_PLACEHOLDER": "Parágrafo",
-  "GALLERY": {
-    "TITLE_LABEL": "Use texto para formar a base da sua história.",
-    "TEXT_1_LABEL": "Use o marcador para destacar as partes mais importantes do seu texto.",
-    "TEXT_2_LABEL": "Os olhos dos seus leitores serão imediatamente atraídos para o texto grifado. Certifique-se de destacar as partes importantes que eles precisam ler.",
-    "TEXT_3_LABEL": "Inclua emojis e hiperlinks para tornar seu texto mais interativo e interessante!"
-  }
+  "EDITOR_PLACEHOLDER": "Parágrafo"
 }

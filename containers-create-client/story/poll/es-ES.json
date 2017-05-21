@@ -26,13 +26,5 @@
   },
   "CLASSIC_LAYOUT_TOOLTIP": "Plantilla de resultados clásicos",
   "GRID_LAYOUT_TOOLTIP": "Plantilla para resultados en círculo",
-  "GALLERY": {
-    "TITLE_LABEL": "Las encuestas le permiten a los lectores expresar su opinión y responder al contenido que creas.",
-    "TEXT_1_LABEL": "Involucra a tus lectores con una encuesta. ¡Permíteles aportar algo! Por ejemplo, les puedes preguntar qué opinan de algo específico en redes sociales.",
-    "TEXT_2_LABEL": "Usa una imagen de portada para que tu encuesta sea más visual y atractiva.",
-    "TEXT_3_LABEL": "¡Usa una imagen de fondo y elige la plantilla de cuadrícula para crear encuestas visualmente impactantes y con las que sea divertido interactuar!",
-    "TEXT_4_LABEL": "Recuerda siempre incluir la opción «ninguna de las anteriores» para que tus lectores tengan una alternativa a la que recurrir su ninguna de las opciones propuestas se ajusta a ellos.",
-    "TEXT_5_LABEL": ""
-  },
   "DELETE_OPTION_BUT": "Delete option"
 }

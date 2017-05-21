@@ -1,10 +1,3 @@
 {
-  "DESCRIPTION_PLACEHOLDER": "Embed da web",
-  "GALLERY": {
-    "TITLE_LABEL": "Importe mídia da web. ",
-    "TEXT_1_LABEL": "Incorpore mapas do Google para mostrar aos seus leitores um local específico.",
-    "TEXT_2_LABEL": "Inclua qualquer vídeo do Vimeo no seu artigo.",
-    "TEXT_3_LABEL": "Incorpore postagens no Twitter para tornar o seu conteúdo mais interessante e envolvente.",
-    "TEXT_4_LABEL": "Insira postagens do Instagram para tornar o seu conteúdo visualmente deslumbrante."
-  }
+  "DESCRIPTION_PLACEHOLDER": "Embed da web"
 }
