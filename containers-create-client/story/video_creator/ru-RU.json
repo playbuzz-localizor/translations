@@ -1,16 +1,16 @@
 {
-    "PLAY": "ИГРАТЬ",
-    "PAUSE": "ПАУЗА",
-    "GALLERY_TITLE": "Выбрать шаблон",
-    "OPEN_TEMPLATES_GALLERY_BUT": "Сменить шаблон",
-    "CLOSE_TEMPLATES_GALLERY_BUT": "Назад к видео",
+    "PLAY": "PLAY",
+    "PAUSE": "PAUSE",
+    "GALLERY_TITLE": "Pick a template",
+    "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
+    "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
     "SETTINGS": {
-        "TITLE": "Настройки",
-        "AUTOPLAY_SWITCH_LABEL": "Автозапуск видео",
-        "MUTE_SWITCH_LABEL": "Отключить звук при воспроизведении",
-        "LOGO_LABEL": "Ваш логотип",
-        "CLOSE_SETTINGS": "Назад к видео",
-        "LOGO_DESCRIPTION": "Загрузите ваш логотип, чтобы запомниться зрителям и повысить узнаваемость бренда"
+        "TITLE": "Settings",
+        "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+        "MUTE_SWITCH_LABEL": "Autoplay on mute",
+        "LOGO_LABEL": "Custom Logo",
+        "CLOSE_SETTINGS": "Back to Edit",
+        "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness"
     },
     "PREVIEW_BUT": "Preview Video",
     "NOT_SUPPORTED_LABEL": "Not Supported",
