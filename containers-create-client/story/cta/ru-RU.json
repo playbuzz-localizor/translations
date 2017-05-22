@@ -1,8 +1,8 @@
 {
-  "NO_EFFECT": "Без эффектов",
-  "PULSE_EFFECT": "Эффект пульсации ",
-  "FLOATING_EFFECT": "Эффект перемещения ",
-  "BUTTON_TEXT": "Введите текст...",
-  "LINK_PLACEHOLDER": "Вставьте ссылку...",
-  "TEST_LINK_TOOLTIP": "Проверить ссылку"
+    "NO_EFFECT": "Без эффектов",
+    "PULSE_EFFECT": "Эффект пульсации",
+    "FLOATING_EFFECT": "Эффект перемещения",
+    "BUTTON_TEXT": "Введите текст...",
+    "LINK_PLACEHOLDER": "Вставьте ссылку...",
+    "TEST_LINK_TOOLTIP": "Проверить ссылку"
 }
