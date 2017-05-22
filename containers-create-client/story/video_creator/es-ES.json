@@ -54,10 +54,10 @@
         "JAZZ": "Jazz",
         "ENERGETIC_PIANO": "Piano Energético",
         "EMOTIONAL": "Emocional",
-        "SWING_BIG_BAND": "Swing/Big Band",
-        "THRILLER": "Thriller",
+        "SWING_BIG_BAND": "",
+        "THRILLER": "",
         "CINEMATIC": "Cinematic",
-        "TRAILER": "Trailer",
+        "TRAILER": "",
         "INSPIRATIONAL": "Inspirador",
         "GANGSTA": "Gangsta",
         "ELECTRONIC": "Electronico",
@@ -66,22 +66,22 @@
         "HIP_HOP": "Hip Hop",
         "MELANCHOLIC": "Melancólico",
         "SLOW_ROCK": "Rock Suave",
-        "SILENT_MOVIE_PIANO": "Silent Movie Piano"
+        "SILENT_MOVIE_PIANO": ""
     },
     "TEMPLATE_NAME": {
         "CLASSIC": "Clasico",
-        "VS": "VS.",
-        "SWIFT": "Swift",
-        "FACTS": "Facts"
+        "VS": "",
+        "SWIFT": "",
+        "FACTS": ""
     },
     "THEME_NAME_LABEL": {
         "DEFAULT": "Defecto",
         "PLAYBUZZ": "Playbuzz",
-        "SHADES_OF_GRAY": "Grey",
-        "PLAYTIME": "Playtime",
-        "BACK_TO_SCHOOL": "Back To School",
-        "NEUTRAL_BLUE": "Neutral Blue",
-        "PHAEDRA": "Phaedra",
+        "SHADES_OF_GRAY": "",
+        "PLAYTIME": "",
+        "BACK_TO_SCHOOL": "",
+        "NEUTRAL_BLUE": "",
+        "PHAEDRA": "",
         "FIESTA": "Fiesta",
         "GREENS": "Greens",
         "BUBBLEGUM": "Bubblegum",
@@ -119,8 +119,8 @@
         },
         "FACTS": {
             "ENTER_TITLE_PLACEHOLDER": "Introducir Título",
-            "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
-            "FACT_REQUIRED_VALIDATION_MSG": "FACT is required"
+            "ENTER_FACT_PLACEHOLDER": "",
+            "FACT_REQUIRED_VALIDATION_MSG": ""
         }
     }
 }
