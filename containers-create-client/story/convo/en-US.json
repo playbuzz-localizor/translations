@@ -3,5 +3,6 @@
   "BUBBLE_CONTENT_PLACEHOLDER": "Enter text...",
   "ADD_BUBBLE_TOOLTIP": "Add Bubble",
   "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
-  "DELETE_MESSAGE": "Are you sure?"
+  "DELETE_MESSAGE": "Are you sure?",
+  "test": "test"
 }
