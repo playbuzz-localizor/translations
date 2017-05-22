@@ -4,5 +4,6 @@
     "FLOATING_EFFECT": "Floating",
     "BUTTON_TEXT": "Enter text...",
     "LINK_PLACEHOLDER": "Enter link...",
-    "TEST_LINK_TOOLTIP": "Test link"
+    "TEST_LINK_TOOLTIP": "Test link",
+  "test": "test"
 }
