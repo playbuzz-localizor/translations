@@ -12,5 +12,5 @@
     "MINIMUM_READ_TIME_LABEL": "Прочитают за {{readTime}} мин."
   },
   "SECTION_TITLE_PLACEHOLDER": "Заголовок",
-  "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?"
+  "NOT_SAVED_ERR_MESSAGE": ""
 }
