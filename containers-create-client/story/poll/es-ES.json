@@ -1,4 +1,5 @@
 {
+  "POLL": {
     "BACKGROUND_TEMPLATE_TOOLTIP": "Imagen de fondo",
     "COVER_TEMPLATE_TOOLTIP": "Imagen de portada",
     "CLASSIC_TEMPLATE_TOOLTIP": "Resultados clásicos",
@@ -8,23 +9,24 @@
     "OPTION_PLACEHOLDER": "Opción {{index}}",
     "ADD_OPTION_BUT": "Añadir opción",
     "SETTINGS": {
-        "TITLE": "AJUSTES DE ENCUESTA",
-        "HERE_LINK": "aquí",
-        "BACK_BUTTON": "Volver a editar",
-        "ENABLE_VOTING_SWITCH": "Habilitar votación",
-        "TOTAL_VOTES_SWITCH": "Mostrar el total de votos",
-        "DISPLAY_LOGO_SWITCH": "Mostrar logo",
-        "DISPLAY_LOGO_DESCRIPTION": "Aplica personalización adicional añadiendo tu logo.\nCambia la imagen",
-        "END_CARD_SWITCH": "Tarjeta final",
-        "END_CARD_DESCRIPTION": "Ayuda a que se comparta más utilizando la tarjeta final",
-        "END_CARD": {
-            "TITLE_LABEL": "Título",
-            "TITLE_PLACEHOLDER": "Introduce un título...",
-            "DESCRIPTION_LABEL": "Descripción",
-            "DESCRIPTION_PLACEHOLDER": "Introduce una descripción..."
-        }
+      "TITLE": "AJUSTES DE ENCUESTA",
+      "HERE_LINK": "aquí",
+      "BACK_BUTTON": "Volver a editar",
+      "ENABLE_VOTING_SWITCH": "Habilitar votación",
+      "TOTAL_VOTES_SWITCH": "Mostrar el total de votos",
+      "DISPLAY_LOGO_SWITCH": "Mostrar logo",
+      "DISPLAY_LOGO_DESCRIPTION": "Aplica personalización adicional añadiendo tu logo.\nCambia la imagen",
+      "END_CARD_SWITCH": "Tarjeta final",
+      "END_CARD_DESCRIPTION": "Ayuda a que se comparta más utilizando la tarjeta final",
+      "END_CARD": {
+        "TITLE_LABEL": "Título",
+        "TITLE_PLACEHOLDER": "Introduce un título...",
+        "DESCRIPTION_LABEL": "Descripción",
+        "DESCRIPTION_PLACEHOLDER": "Introduce una descripción..."
+      }
     },
     "CLASSIC_LAYOUT_TOOLTIP": "Plantilla de resultados clásicos",
     "GRID_LAYOUT_TOOLTIP": "Plantilla para resultados en círculo",
     "DELETE_OPTION_BUT": "Delete option"
+  }
 }
