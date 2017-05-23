@@ -12,5 +12,6 @@
     "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
   },
   "SECTION_TITLE_PLACEHOLDER": "Title",
-  "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?"
+  "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
+  "test": "test"
 }
