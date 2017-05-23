@@ -141,11 +141,10 @@
             "TEXT_5_LABEL": "En los vídeos creados con la plantilla Hechos, cada diapositiva incluye un texto largo sobre una imagen de fondo.",
             "TEXT_6_LABEL": "Usa la plantilla Veloz para crear vídeos más rápidos con una pantalla introductoria que extrae automáticamente imágenes de todas las diapositivas del vídeo."
         },
-        "VIDEO_PLAYER":{
+        "VIDEO_PLAYER": {
             "TITLE_LABEL": "Enriquece tus historias con vídeos.",
             "TEXT_1_LABEL": "Usa vídeos de Vimeo para que tus artículos sean más interesantes.",
             "TEXT_2_LABEL": "Usa vídeos de YouTube para que tus artículos sean más interesantes."
         }
-
     }
 }
