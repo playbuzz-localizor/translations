@@ -1,17 +1,17 @@
 {
-  "TEXT_EDITOR": {
-    "WORD": "WORD",
-    "WORDS": "WORDS",
-    "GOOD": "GOOD",
-    "NORMAL": "O.K",
-    "BAD": "LITTLE TOO LONG",
-    "BOLD_TOOLTIP": "Bold",
-    "GOOD_INDICATION": "GOOD",
-    "NORMAL_INDICATION": "O.K",
-    "BAD_INDICATION": "LITTLE TOO LONG",
-    "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
-  },
-  "SECTION_TITLE_PLACEHOLDER": "Title",
-  "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
-  "test": "test"
+    "TEXT_EDITOR": {
+        "WORD": "WORD",
+        "WORDS": "WORDS",
+        "GOOD": "GOOD",
+        "NORMAL": "O.K",
+        "BAD": "LITTLE TOO LONG",
+        "BOLD_TOOLTIP": "Bold",
+        "GOOD_INDICATION": "GOOD",
+        "NORMAL_INDICATION": "O.K",
+        "BAD_INDICATION": "LITTLE TOO LONG",
+        "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
+    },
+    "SECTION_TITLE_PLACEHOLDER": "Title",
+    "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
+    "test": "123test"
 }
