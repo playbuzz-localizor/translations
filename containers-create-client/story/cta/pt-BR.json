@@ -1,8 +1,10 @@
 {
-    "NO_EFFECT": "Nenhum",
-    "PULSE_EFFECT": "Pulso",
-    "FLOATING_EFFECT": "Flutuante",
-    "BUTTON_TEXT": "Inserir texto...",
-    "LINK_PLACEHOLDER": "Inserir link...",
-    "TEST_LINK_TOOLTIP": "Testar link"
+    "CTA": {
+        "NO_EFFECT": "Nenhum",
+        "PULSE_EFFECT": "Pulso",
+        "FLOATING_EFFECT": "Flutuante",
+        "BUTTON_TEXT": "Inserir texto...",
+        "LINK_PLACEHOLDER": "Inserir link...",
+        "TEST_LINK_TOOLTIP": "Testar link"
+    }
 }
