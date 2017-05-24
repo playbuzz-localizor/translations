@@ -1,126 +1,128 @@
 {
+  "VIDEO_CREATOR": {
     "PLAY": "REPRODUCIR",
     "PAUSE": "PAUSA",
     "GALLERY_TITLE": "Elige una plantilla",
     "OPEN_TEMPLATES_GALLERY_BUT": "Cambiar plantilla",
     "CLOSE_TEMPLATES_GALLERY_BUT": "Volver a Edición",
     "SETTINGS": {
-        "TITLE": "Ajustes",
-        "AUTOPLAY_SWITCH_LABEL": "Reproducción automática",
-        "MUTE_SWITCH_LABEL": "Comenzar a reproducir en silencio",
-        "LOGO_LABEL": "Logo personalizado",
-        "CLOSE_SETTINGS": "Volver a Edición",
-        "LOGO_DESCRIPTION": "Sube tu propio logo para crear tu marca e incrementar su notoriedad"
+      "TITLE": "Ajustes",
+      "AUTOPLAY_SWITCH_LABEL": "Reproducción automática",
+      "MUTE_SWITCH_LABEL": "Comenzar a reproducir en silencio",
+      "LOGO_LABEL": "Logo personalizado",
+      "CLOSE_SETTINGS": "Volver a Edición",
+      "LOGO_DESCRIPTION": "Sube tu propio logo para crear tu marca e incrementar su notoriedad"
     },
     "PREVIEW_BUT": "Vista Previa del Video",
     "NOT_SUPPORTED_LABEL": "No es compatible",
     "IE_ERR_MESSAGE": "No se admite la vista previa en Internet Explorer. ¡Visita Chrome para disfrutar de una experiencia completa! Todavía puede publicar su elemento en Internet Explorer y su vídeo estará listo en breve.",
     "REMOVE_SCENE": {
-        "TITLE": "¿Esta seguro?",
-        "DELETE_BUTTON_TEXT": "Eliminar"
+      "TITLE": "¿Esta seguro?",
+      "DELETE_BUTTON_TEXT": "Eliminar"
     },
     "SCENE_NAME": {
-        "GENERAL": {
-            "INTRO_LABEL": "INTRO",
-            "ENDING_LABEL": "Terminación",
-            "CREDITS_LABEL": "CREDITOS"
-        },
-        "CLASSIC": {
-            "ITEM_LABEL": "ITEM"
-        },
-        "FACTS": {
-            "ITEM_LABEL": "FACT"
-        },
-        "SWIFT": {
-            "ITEM_BOTTOM_LABEL": "Botón",
-            "ITEM_TOP_LABEL": "TOP"
-        },
-        "VS": {
-            "ITEM_LABEL": "Sujeto",
-            "ENDING_LABEL": "Conclusión"
-        }
+      "GENERAL": {
+        "INTRO_LABEL": "INTRO",
+        "ENDING_LABEL": "Terminación",
+        "CREDITS_LABEL": "CREDITOS"
+      },
+      "CLASSIC": {
+        "ITEM_LABEL": "ITEM"
+      },
+      "FACTS": {
+        "ITEM_LABEL": "FACT"
+      },
+      "SWIFT": {
+        "ITEM_BOTTOM_LABEL": "Botón",
+        "ITEM_TOP_LABEL": "TOP"
+      },
+      "VS": {
+        "ITEM_LABEL": "Sujeto",
+        "ENDING_LABEL": "Conclusión"
+      }
     },
     "CHANGE_TEMPLATE_WARNING": {
-        "TITLE": "Tipos distintos de Planilla",
-        "WARNING_MESSAGE": "Este contenido podría no ser visto en esta planilla",
-        "CANCEL_BUTTON": "Cancelar",
-        "CHANGE_BUTTON": "Cambiar Planilla"
+      "TITLE": "Tipos distintos de Planilla",
+      "WARNING_MESSAGE": "Este contenido podría no ser visto en esta planilla",
+      "CANCEL_BUTTON": "Cancelar",
+      "CHANGE_BUTTON": "Cambiar Planilla"
     },
     "AUDIO_LABEL": {
-        "NONE": "Ninguno",
-        "UPBEAT": "Upbeat",
-        "INTENSE": "Intenso",
-        "OPTIMISTIC": "Optimista",
-        "JAZZ": "Jazz",
-        "ENERGETIC_PIANO": "Piano Energético",
-        "EMOTIONAL": "Emocional",
-        "SWING_BIG_BAND": "",
-        "THRILLER": "",
-        "CINEMATIC": "Cinematic",
-        "TRAILER": "",
-        "INSPIRATIONAL": "Inspirador",
-        "GANGSTA": "Gangsta",
-        "ELECTRONIC": "Electronico",
-        "DARK_BEATS": "Ritmo Oscuro",
-        "FUNKY": "Miedoso",
-        "HIP_HOP": "Hip Hop",
-        "MELANCHOLIC": "Melancólico",
-        "SLOW_ROCK": "Rock Suave",
-        "SILENT_MOVIE_PIANO": ""
+      "NONE": "Ninguno",
+      "UPBEAT": "Upbeat",
+      "INTENSE": "Intenso",
+      "OPTIMISTIC": "Optimista",
+      "JAZZ": "Jazz",
+      "ENERGETIC_PIANO": "Piano Energético",
+      "EMOTIONAL": "Emocional",
+      "SWING_BIG_BAND": "",
+      "THRILLER": "",
+      "CINEMATIC": "Cinematic",
+      "TRAILER": "",
+      "INSPIRATIONAL": "Inspirador",
+      "GANGSTA": "Gangsta",
+      "ELECTRONIC": "Electronico",
+      "DARK_BEATS": "Ritmo Oscuro",
+      "FUNKY": "Miedoso",
+      "HIP_HOP": "Hip Hop",
+      "MELANCHOLIC": "Melancólico",
+      "SLOW_ROCK": "Rock Suave",
+      "SILENT_MOVIE_PIANO": ""
     },
     "TEMPLATE_NAME": {
-        "CLASSIC": "Clasico",
-        "VS": "",
-        "SWIFT": "",
-        "FACTS": ""
+      "CLASSIC": "Clasico",
+      "VS": "",
+      "SWIFT": "",
+      "FACTS": ""
     },
     "THEME_NAME_LABEL": {
-        "DEFAULT": "Defecto",
-        "PLAYBUZZ": "Playbuzz",
-        "SHADES_OF_GRAY": "",
-        "PLAYTIME": "",
-        "BACK_TO_SCHOOL": "",
-        "NEUTRAL_BLUE": "",
-        "PHAEDRA": "",
-        "FIESTA": "Fiesta",
-        "GREENS": "Greens",
-        "BUBBLEGUM": "Bubblegum",
-        "GROUND_CONTROL": "Ground Control",
-        "AMERICA": "America",
-        "BEACH_UMBRELLA": "Beach Umbrella",
-        "BEACH_TIME": "Beach Time"
+      "DEFAULT": "Defecto",
+      "PLAYBUZZ": "Playbuzz",
+      "SHADES_OF_GRAY": "",
+      "PLAYTIME": "",
+      "BACK_TO_SCHOOL": "",
+      "NEUTRAL_BLUE": "",
+      "PHAEDRA": "",
+      "FIESTA": "Fiesta",
+      "GREENS": "Greens",
+      "BUBBLEGUM": "Bubblegum",
+      "GROUND_CONTROL": "Ground Control",
+      "AMERICA": "America",
+      "BEACH_UMBRELLA": "Beach Umbrella",
+      "BEACH_TIME": "Beach Time"
     },
     "TEMPLATES": {
-        "GENERAL": {
-            "MAIN_TITLE_PLACEHOLDER": "Introduce el Título Principal",
-            "ENTER_TEXT_PLACEHOLDER": "Escribe un Texto",
-            "CTA_PLACEHOLDER": "¡Termina con el llamado a la acción!",
-            "BACKGROUND_REQUIRED_VALIDATION_MSG": "Fondo de imagen es requerido",
-            "TEXT_REQUIRED_VALIDATION_MSG": "Texto es requerido",
-            "TITLE_REQUIRED_VALIDATION_MSG": "Título es requerido"
-        },
-        "CLASSIC": {
-            "SUB_TITLE_PLACEHOLDER": "Escribe subtitulo (opcional)"
-        },
-        "VS": {
-            "PRE_CTA_PLACEHOLDER": "Texto preliminar (opcional)",
-            "SIDE_A_PLACEHOLDER": "A",
-            "FEATURE_A_PLACEHOLDER": "Escribe texto para A",
-            "SIDE_B_PLACEHOLDER": "B",
-            "FEATURE_B_PLACEHOLDER": "Escribe texto para B",
-            "PREMISE_PLACEHOLDER": "Introduce el título del video",
-            "COMPARISON_PLACEHOLDER": "Comparación",
-            "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "A Se requiere una imagen de fondo",
-            "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "B Se requiere una imagen de fondo",
-            "A_TITLE_REQUIRED_VALIDATION_MSG": "A Se requiere el título",
-            "B_TITLE_REQUIRED_VALIDATION_MSG": "B Se requiere el título",
-            "PREMISE_REQUIRED_VALIDATION_MSG": "Se requiere el título del video",
-            "COMPARISON_REQUIRED_VALIDATION_MSG": "Se requiere la comparación"
-        },
-        "FACTS": {
-            "ENTER_TITLE_PLACEHOLDER": "Introducir Título",
-            "ENTER_FACT_PLACEHOLDER": "",
-            "FACT_REQUIRED_VALIDATION_MSG": ""
-        }
+      "GENERAL": {
+        "MAIN_TITLE_PLACEHOLDER": "Introduce el Título Principal",
+        "ENTER_TEXT_PLACEHOLDER": "Escribe un Texto",
+        "CTA_PLACEHOLDER": "¡Termina con el llamado a la acción!",
+        "BACKGROUND_REQUIRED_VALIDATION_MSG": "Fondo de imagen es requerido",
+        "TEXT_REQUIRED_VALIDATION_MSG": "Texto es requerido",
+        "TITLE_REQUIRED_VALIDATION_MSG": "Título es requerido"
+      },
+      "CLASSIC": {
+        "SUB_TITLE_PLACEHOLDER": "Escribe subtitulo (opcional)"
+      },
+      "VS": {
+        "PRE_CTA_PLACEHOLDER": "Texto preliminar (opcional)",
+        "SIDE_A_PLACEHOLDER": "A",
+        "FEATURE_A_PLACEHOLDER": "Escribe texto para A",
+        "SIDE_B_PLACEHOLDER": "B",
+        "FEATURE_B_PLACEHOLDER": "Escribe texto para B",
+        "PREMISE_PLACEHOLDER": "Introduce el título del video",
+        "COMPARISON_PLACEHOLDER": "Comparación",
+        "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "A Se requiere una imagen de fondo",
+        "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "B Se requiere una imagen de fondo",
+        "A_TITLE_REQUIRED_VALIDATION_MSG": "A Se requiere el título",
+        "B_TITLE_REQUIRED_VALIDATION_MSG": "B Se requiere el título",
+        "PREMISE_REQUIRED_VALIDATION_MSG": "Se requiere el título del video",
+        "COMPARISON_REQUIRED_VALIDATION_MSG": "Se requiere la comparación"
+      },
+      "FACTS": {
+        "ENTER_TITLE_PLACEHOLDER": "Introducir Título",
+        "ENTER_FACT_PLACEHOLDER": "",
+        "FACT_REQUIRED_VALIDATION_MSG": ""
+      }
     }
+  }
 }

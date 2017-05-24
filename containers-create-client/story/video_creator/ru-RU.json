@@ -1,126 +1,128 @@
 {
-    "PLAY": "ИГРАТЬ",
-    "PAUSE": "ПАУЗА",
-    "GALLERY_TITLE": "Выбрать шаблон",
-    "OPEN_TEMPLATES_GALLERY_BUT": "Сменить шаблон",
-    "CLOSE_TEMPLATES_GALLERY_BUT": "Назад к видео",
-    "SETTINGS": {
-        "TITLE": "Настройки",
-        "AUTOPLAY_SWITCH_LABEL": "Автозапуск видео",
-        "MUTE_SWITCH_LABEL": "Отключить звук при воспроизведении",
-        "LOGO_LABEL": "Ваш логотип",
-        "CLOSE_SETTINGS": "Назад к видео",
-        "LOGO_DESCRIPTION": "Загрузите ваш логотип, чтобы запомниться зрителям и повысить узнаваемость бренда"
-    },
-    "PREVIEW_BUT": "",
-    "NOT_SUPPORTED_LABEL": "",
-    "IE_ERR_MESSAGE": "",
-    "REMOVE_SCENE": {
-        "TITLE": "",
-        "DELETE_BUTTON_TEXT": ""
-    },
-    "SCENE_NAME": {
-        "GENERAL": {
-            "INTRO_LABEL": "",
-            "ENDING_LABEL": "",
-            "CREDITS_LABEL": ""
+    "VIDEO_CREATOR": {
+        "PLAY": "ИГРАТЬ",
+        "PAUSE": "ПАУЗА",
+        "GALLERY_TITLE": "Выбрать шаблон",
+        "OPEN_TEMPLATES_GALLERY_BUT": "Сменить шаблон",
+        "CLOSE_TEMPLATES_GALLERY_BUT": "Назад к видео",
+        "SETTINGS": {
+            "TITLE": "Настройки",
+            "AUTOPLAY_SWITCH_LABEL": "Автозапуск видео",
+            "MUTE_SWITCH_LABEL": "Отключить звук при воспроизведении",
+            "LOGO_LABEL": "Ваш логотип",
+            "CLOSE_SETTINGS": "Назад к видео",
+            "LOGO_DESCRIPTION": "Загрузите ваш логотип, чтобы запомниться зрителям и повысить узнаваемость бренда"
         },
-        "CLASSIC": {
-            "ITEM_LABEL": ""
+        "PREVIEW_BUT": "",
+        "NOT_SUPPORTED_LABEL": "",
+        "IE_ERR_MESSAGE": "",
+        "REMOVE_SCENE": {
+            "TITLE": "",
+            "DELETE_BUTTON_TEXT": ""
         },
-        "FACTS": {
-            "ITEM_LABEL": ""
+        "SCENE_NAME": {
+            "GENERAL": {
+                "INTRO_LABEL": "",
+                "ENDING_LABEL": "",
+                "CREDITS_LABEL": ""
+            },
+            "CLASSIC": {
+                "ITEM_LABEL": ""
+            },
+            "FACTS": {
+                "ITEM_LABEL": ""
+            },
+            "SWIFT": {
+                "ITEM_BOTTOM_LABEL": "",
+                "ITEM_TOP_LABEL": ""
+            },
+            "VS": {
+                "ITEM_LABEL": "",
+                "ENDING_LABEL": ""
+            }
         },
-        "SWIFT": {
-            "ITEM_BOTTOM_LABEL": "",
-            "ITEM_TOP_LABEL": ""
+        "CHANGE_TEMPLATE_WARNING": {
+            "TITLE": "",
+            "WARNING_MESSAGE": "",
+            "CANCEL_BUTTON": "",
+            "CHANGE_BUTTON": ""
         },
-        "VS": {
-            "ITEM_LABEL": "",
-            "ENDING_LABEL": ""
-        }
-    },
-    "CHANGE_TEMPLATE_WARNING": {
-        "TITLE": "",
-        "WARNING_MESSAGE": "",
-        "CANCEL_BUTTON": "",
-        "CHANGE_BUTTON": ""
-    },
-    "AUDIO_LABEL": {
-        "NONE": "",
-        "UPBEAT": "",
-        "INTENSE": "",
-        "OPTIMISTIC": "",
-        "JAZZ": "",
-        "ENERGETIC_PIANO": "",
-        "EMOTIONAL": "",
-        "SWING_BIG_BAND": "",
-        "THRILLER": "",
-        "CINEMATIC": "",
-        "TRAILER": "",
-        "INSPIRATIONAL": "",
-        "GANGSTA": "",
-        "ELECTRONIC": "",
-        "DARK_BEATS": "",
-        "FUNKY": "",
-        "HIP_HOP": "",
-        "MELANCHOLIC": "",
-        "SLOW_ROCK": "",
-        "SILENT_MOVIE_PIANO": ""
-    },
-    "TEMPLATE_NAME": {
-        "CLASSIC": "",
-        "VS": "",
-        "SWIFT": "",
-        "FACTS": ""
-    },
-    "THEME_NAME_LABEL": {
-        "DEFAULT": "",
-        "PLAYBUZZ": "",
-        "SHADES_OF_GRAY": "",
-        "PLAYTIME": "",
-        "BACK_TO_SCHOOL": "",
-        "NEUTRAL_BLUE": "",
-        "PHAEDRA": "",
-        "FIESTA": "",
-        "GREENS": "",
-        "BUBBLEGUM": "",
-        "GROUND_CONTROL": "",
-        "AMERICA": "",
-        "BEACH_UMBRELLA": "",
-        "BEACH_TIME": ""
-    },
-    "TEMPLATES": {
-        "GENERAL": {
-            "MAIN_TITLE_PLACEHOLDER": "",
-            "ENTER_TEXT_PLACEHOLDER": "",
-            "CTA_PLACEHOLDER": "",
-            "BACKGROUND_REQUIRED_VALIDATION_MSG": "",
-            "TEXT_REQUIRED_VALIDATION_MSG": "",
-            "TITLE_REQUIRED_VALIDATION_MSG": ""
+        "AUDIO_LABEL": {
+            "NONE": "",
+            "UPBEAT": "",
+            "INTENSE": "",
+            "OPTIMISTIC": "",
+            "JAZZ": "",
+            "ENERGETIC_PIANO": "",
+            "EMOTIONAL": "",
+            "SWING_BIG_BAND": "",
+            "THRILLER": "",
+            "CINEMATIC": "",
+            "TRAILER": "",
+            "INSPIRATIONAL": "",
+            "GANGSTA": "",
+            "ELECTRONIC": "",
+            "DARK_BEATS": "",
+            "FUNKY": "",
+            "HIP_HOP": "",
+            "MELANCHOLIC": "",
+            "SLOW_ROCK": "",
+            "SILENT_MOVIE_PIANO": ""
         },
-        "CLASSIC": {
-            "SUB_TITLE_PLACEHOLDER": ""
+        "TEMPLATE_NAME": {
+            "CLASSIC": "",
+            "VS": "",
+            "SWIFT": "",
+            "FACTS": ""
         },
-        "VS": {
-            "PRE_CTA_PLACEHOLDER": "",
-            "SIDE_A_PLACEHOLDER": "",
-            "FEATURE_A_PLACEHOLDER": "",
-            "SIDE_B_PLACEHOLDER": "",
-            "FEATURE_B_PLACEHOLDER": "",
-            "PREMISE_PLACEHOLDER": "",
-            "COMPARISON_PLACEHOLDER": "",
-            "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "",
-            "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "",
-            "A_TITLE_REQUIRED_VALIDATION_MSG": "",
-            "B_TITLE_REQUIRED_VALIDATION_MSG": "",
-            "PREMISE_REQUIRED_VALIDATION_MSG": "",
-            "COMPARISON_REQUIRED_VALIDATION_MSG": ""
+        "THEME_NAME_LABEL": {
+            "DEFAULT": "",
+            "PLAYBUZZ": "",
+            "SHADES_OF_GRAY": "",
+            "PLAYTIME": "",
+            "BACK_TO_SCHOOL": "",
+            "NEUTRAL_BLUE": "",
+            "PHAEDRA": "",
+            "FIESTA": "",
+            "GREENS": "",
+            "BUBBLEGUM": "",
+            "GROUND_CONTROL": "",
+            "AMERICA": "",
+            "BEACH_UMBRELLA": "",
+            "BEACH_TIME": ""
         },
-        "FACTS": {
-            "ENTER_TITLE_PLACEHOLDER": "",
-            "ENTER_FACT_PLACEHOLDER": "",
-            "FACT_REQUIRED_VALIDATION_MSG": ""
+        "TEMPLATES": {
+            "GENERAL": {
+                "MAIN_TITLE_PLACEHOLDER": "",
+                "ENTER_TEXT_PLACEHOLDER": "",
+                "CTA_PLACEHOLDER": "",
+                "BACKGROUND_REQUIRED_VALIDATION_MSG": "",
+                "TEXT_REQUIRED_VALIDATION_MSG": "",
+                "TITLE_REQUIRED_VALIDATION_MSG": ""
+            },
+            "CLASSIC": {
+                "SUB_TITLE_PLACEHOLDER": ""
+            },
+            "VS": {
+                "PRE_CTA_PLACEHOLDER": "",
+                "SIDE_A_PLACEHOLDER": "",
+                "FEATURE_A_PLACEHOLDER": "",
+                "SIDE_B_PLACEHOLDER": "",
+                "FEATURE_B_PLACEHOLDER": "",
+                "PREMISE_PLACEHOLDER": "",
+                "COMPARISON_PLACEHOLDER": "",
+                "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "",
+                "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "",
+                "A_TITLE_REQUIRED_VALIDATION_MSG": "",
+                "B_TITLE_REQUIRED_VALIDATION_MSG": "",
+                "PREMISE_REQUIRED_VALIDATION_MSG": "",
+                "COMPARISON_REQUIRED_VALIDATION_MSG": ""
+            },
+            "FACTS": {
+                "ENTER_TITLE_PLACEHOLDER": "",
+                "ENTER_FACT_PLACEHOLDER": "",
+                "FACT_REQUIRED_VALIDATION_MSG": ""
+            }
         }
     }
 }

@@ -1,126 +1,128 @@
 {
-    "PLAY": "REPRODUZIR",
-    "PAUSE": "PAUSAR",
-    "GALLERY_TITLE": "Escolher um template",
-    "OPEN_TEMPLATES_GALLERY_BUT": "Alterar template",
-    "CLOSE_TEMPLATES_GALLERY_BUT": "Voltar para editar",
-    "SETTINGS": {
-        "TITLE": "Configurações",
-        "AUTOPLAY_SWITCH_LABEL": "Reprodução automática",
-        "MUTE_SWITCH_LABEL": "Iniciar a reprodução sem som",
-        "LOGO_LABEL": "Logo personalizado",
-        "CLOSE_SETTINGS": "Voltar para editar",
-        "LOGO_DESCRIPTION": "Carregue o seu próprio logo para aumentar seu brand awareness"
-    },
-    "PREVIEW_BUT": "Preview do vídeo",
-    "NOT_SUPPORTED_LABEL": "Não suportado",
-    "IE_ERR_MESSAGE": "O \"preview\" não é suportado no Internet Explorer. Use o Chrome para ter uma experiência completa! Você ainda poderá publicar o seu artigo no Internet Explorer e seu vídeo estará pronto rapidamente. ",
-    "REMOVE_SCENE": {
-        "TITLE": "Você tem certeza?",
-        "DELETE_BUTTON_TEXT": "Excluir"
-    },
-    "SCENE_NAME": {
-        "GENERAL": {
-            "INTRO_LABEL": "INTRODUÇÃO",
-            "ENDING_LABEL": "FINAL",
-            "CREDITS_LABEL": "CRÉDITOS"
+    "VIDEO_CREATOR": {
+        "PLAY": "REPRODUZIR",
+        "PAUSE": "PAUSAR",
+        "GALLERY_TITLE": "Escolher um template",
+        "OPEN_TEMPLATES_GALLERY_BUT": "Alterar template",
+        "CLOSE_TEMPLATES_GALLERY_BUT": "Voltar para editar",
+        "SETTINGS": {
+            "TITLE": "Configurações",
+            "AUTOPLAY_SWITCH_LABEL": "Reprodução automática",
+            "MUTE_SWITCH_LABEL": "Iniciar a reprodução sem som",
+            "LOGO_LABEL": "Logo personalizado",
+            "CLOSE_SETTINGS": "Voltar para editar",
+            "LOGO_DESCRIPTION": "Carregue o seu próprio logo para aumentar seu brand awareness"
         },
-        "CLASSIC": {
-            "ITEM_LABEL": "SLIDE"
+        "PREVIEW_BUT": "Preview do vídeo",
+        "NOT_SUPPORTED_LABEL": "Não suportado",
+        "IE_ERR_MESSAGE": "O \"preview\" não é suportado no Internet Explorer. Use o Chrome para ter uma experiência completa! Você ainda poderá publicar o seu artigo no Internet Explorer e seu vídeo estará pronto rapidamente. ",
+        "REMOVE_SCENE": {
+            "TITLE": "Você tem certeza?",
+            "DELETE_BUTTON_TEXT": "Excluir"
         },
-        "FACTS": {
-            "ITEM_LABEL": "FATO"
+        "SCENE_NAME": {
+            "GENERAL": {
+                "INTRO_LABEL": "INTRODUÇÃO",
+                "ENDING_LABEL": "FINAL",
+                "CREDITS_LABEL": "CRÉDITOS"
+            },
+            "CLASSIC": {
+                "ITEM_LABEL": "SLIDE"
+            },
+            "FACTS": {
+                "ITEM_LABEL": "FATO"
+            },
+            "SWIFT": {
+                "ITEM_BOTTOM_LABEL": "INFERIOR",
+                "ITEM_TOP_LABEL": "SUPERIOR"
+            },
+            "VS": {
+                "ITEM_LABEL": "TEMA",
+                "ENDING_LABEL": "CONCLUSÃO"
+            }
         },
-        "SWIFT": {
-            "ITEM_BOTTOM_LABEL": "INFERIOR",
-            "ITEM_TOP_LABEL": "SUPERIOR"
+        "CHANGE_TEMPLATE_WARNING": {
+            "TITLE": "Template diferente",
+            "WARNING_MESSAGE": "O conteúdo adicionado poderá não ser exibido no novo template",
+            "CANCEL_BUTTON": "Cancelar",
+            "CHANGE_BUTTON": "Alterar o template"
         },
-        "VS": {
-            "ITEM_LABEL": "TEMA",
-            "ENDING_LABEL": "CONCLUSÃO"
-        }
-    },
-    "CHANGE_TEMPLATE_WARNING": {
-        "TITLE": "Template diferente",
-        "WARNING_MESSAGE": "O conteúdo adicionado poderá não ser exibido no novo template",
-        "CANCEL_BUTTON": "Cancelar",
-        "CHANGE_BUTTON": "Alterar o template"
-    },
-    "AUDIO_LABEL": {
-        "NONE": "Nenhum",
-        "UPBEAT": "",
-        "INTENSE": "",
-        "OPTIMISTIC": "",
-        "JAZZ": "",
-        "ENERGETIC_PIANO": "",
-        "EMOTIONAL": "",
-        "SWING_BIG_BAND": "",
-        "THRILLER": "",
-        "CINEMATIC": "",
-        "TRAILER": "",
-        "INSPIRATIONAL": "",
-        "GANGSTA": "",
-        "ELECTRONIC": "",
-        "DARK_BEATS": "",
-        "FUNKY": "",
-        "HIP_HOP": "",
-        "MELANCHOLIC": "",
-        "SLOW_ROCK": "",
-        "SILENT_MOVIE_PIANO": ""
-    },
-    "TEMPLATE_NAME": {
-        "CLASSIC": "",
-        "VS": "",
-        "SWIFT": "",
-        "FACTS": ""
-    },
-    "THEME_NAME_LABEL": {
-        "DEFAULT": "",
-        "PLAYBUZZ": "Playbuzz",
-        "SHADES_OF_GRAY": "",
-        "PLAYTIME": "",
-        "BACK_TO_SCHOOL": "",
-        "NEUTRAL_BLUE": "",
-        "PHAEDRA": "",
-        "FIESTA": "",
-        "GREENS": "",
-        "BUBBLEGUM": "",
-        "GROUND_CONTROL": "",
-        "AMERICA": "",
-        "BEACH_UMBRELLA": "",
-        "BEACH_TIME": ""
-    },
-    "TEMPLATES": {
-        "GENERAL": {
-            "MAIN_TITLE_PLACEHOLDER": "Escreva o título principal",
-            "ENTER_TEXT_PLACEHOLDER": "Adicione texto",
-            "CTA_PLACEHOLDER": "Termine com uma mensagem de \"call to action\"!",
-            "BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo",
-            "TEXT_REQUIRED_VALIDATION_MSG": "É necessário inserir texto",
-            "TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título"
+        "AUDIO_LABEL": {
+            "NONE": "Nenhum",
+            "UPBEAT": "",
+            "INTENSE": "",
+            "OPTIMISTIC": "",
+            "JAZZ": "",
+            "ENERGETIC_PIANO": "",
+            "EMOTIONAL": "",
+            "SWING_BIG_BAND": "",
+            "THRILLER": "",
+            "CINEMATIC": "",
+            "TRAILER": "",
+            "INSPIRATIONAL": "",
+            "GANGSTA": "",
+            "ELECTRONIC": "",
+            "DARK_BEATS": "",
+            "FUNKY": "",
+            "HIP_HOP": "",
+            "MELANCHOLIC": "",
+            "SLOW_ROCK": "",
+            "SILENT_MOVIE_PIANO": ""
         },
-        "CLASSIC": {
-            "SUB_TITLE_PLACEHOLDER": "Insira um subtítulo (opcional)"
+        "TEMPLATE_NAME": {
+            "CLASSIC": "",
+            "VS": "",
+            "SWIFT": "",
+            "FACTS": ""
         },
-        "VS": {
-            "PRE_CTA_PLACEHOLDER": "Texto de abertura (opcional)",
-            "SIDE_A_PLACEHOLDER": "",
-            "FEATURE_A_PLACEHOLDER": "Escreva um texto para A",
-            "SIDE_B_PLACEHOLDER": "",
-            "FEATURE_B_PLACEHOLDER": "Escreva um texto para B",
-            "PREMISE_PLACEHOLDER": "Escreva o título do vídeo",
-            "COMPARISON_PLACEHOLDER": "Comparação",
-            "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo",
-            "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo para B",
-            "A_TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para A",
-            "B_TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para B",
-            "PREMISE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para o vídeo",
-            "COMPARISON_REQUIRED_VALIDATION_MSG": "É necessário inserir a comparação"
+        "THEME_NAME_LABEL": {
+            "DEFAULT": "",
+            "PLAYBUZZ": "Playbuzz",
+            "SHADES_OF_GRAY": "",
+            "PLAYTIME": "",
+            "BACK_TO_SCHOOL": "",
+            "NEUTRAL_BLUE": "",
+            "PHAEDRA": "",
+            "FIESTA": "",
+            "GREENS": "",
+            "BUBBLEGUM": "",
+            "GROUND_CONTROL": "",
+            "AMERICA": "",
+            "BEACH_UMBRELLA": "",
+            "BEACH_TIME": ""
         },
-        "FACTS": {
-            "ENTER_TITLE_PLACEHOLDER": "Escreva o título",
-            "ENTER_FACT_PLACEHOLDER": "Adicione um fato",
-            "FACT_REQUIRED_VALIDATION_MSG": "É necessário inserir um fato"
+        "TEMPLATES": {
+            "GENERAL": {
+                "MAIN_TITLE_PLACEHOLDER": "Escreva o título principal",
+                "ENTER_TEXT_PLACEHOLDER": "Adicione texto",
+                "CTA_PLACEHOLDER": "Termine com uma mensagem de \"call to action\"!",
+                "BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo",
+                "TEXT_REQUIRED_VALIDATION_MSG": "É necessário inserir texto",
+                "TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título"
+            },
+            "CLASSIC": {
+                "SUB_TITLE_PLACEHOLDER": "Insira um subtítulo (opcional)"
+            },
+            "VS": {
+                "PRE_CTA_PLACEHOLDER": "Texto de abertura (opcional)",
+                "SIDE_A_PLACEHOLDER": "",
+                "FEATURE_A_PLACEHOLDER": "Escreva um texto para A",
+                "SIDE_B_PLACEHOLDER": "",
+                "FEATURE_B_PLACEHOLDER": "Escreva um texto para B",
+                "PREMISE_PLACEHOLDER": "Escreva o título do vídeo",
+                "COMPARISON_PLACEHOLDER": "Comparação",
+                "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo",
+                "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo para B",
+                "A_TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para A",
+                "B_TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para B",
+                "PREMISE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para o vídeo",
+                "COMPARISON_REQUIRED_VALIDATION_MSG": "É necessário inserir a comparação"
+            },
+            "FACTS": {
+                "ENTER_TITLE_PLACEHOLDER": "Escreva o título",
+                "ENTER_FACT_PLACEHOLDER": "Adicione um fato",
+                "FACT_REQUIRED_VALIDATION_MSG": "É necessário inserir um fato"
+            }
         }
     }
 }
