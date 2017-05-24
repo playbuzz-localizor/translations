@@ -1,3 +1,5 @@
 {
-    "DESCRIPTION_PLACEHOLDER": "Descripción"
+    "VIDEO_PLAYER": {
+        "DESCRIPTION_PLACEHOLDER": "Descripción"
+    }
 }
