@@ -4,7 +4,7 @@
         "SUBTITLE_PLACEHOLDER": "Subtítulo",
         "ROW_PLACEHOLDER": "Escreva o texto...",
         "NO_EFFECT": "Nenhum",
-        "FADE_EFFECT": "",
+        "FADE_EFFECT": "Fade In",
         "TITLE_PLACEHOLDER": "Título"
     }
 }
