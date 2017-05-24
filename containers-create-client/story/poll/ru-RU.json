@@ -27,6 +27,6 @@
         },
         "CLASSIC_LAYOUT_TOOLTIP": "Формат результатов: Классический",
         "GRID_LAYOUT_TOOLTIP": "Формат результатов: Сетка",
-        "DELETE_OPTION_BUT": ""
+        "DELETE_OPTION_BUT": "Delete option"
     }
 }
