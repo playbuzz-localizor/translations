@@ -1,8 +1,10 @@
 {
-    "ADD_ROW": "Acrescentar linha",
-    "SUBTITLE_PLACEHOLDER": "Subtítulo",
-    "ROW_PLACEHOLDER": "Escreva o texto...",
-    "NO_EFFECT": "Nenhum",
-    "FADE_EFFECT": "",
-    "TITLE_PLACEHOLDER": "Título"
+    "SUMMARY": {
+        "ADD_ROW": "Acrescentar linha",
+        "SUBTITLE_PLACEHOLDER": "Subtítulo",
+        "ROW_PLACEHOLDER": "Escreva o texto...",
+        "NO_EFFECT": "Nenhum",
+        "FADE_EFFECT": "",
+        "TITLE_PLACEHOLDER": "Título"
+    }
 }

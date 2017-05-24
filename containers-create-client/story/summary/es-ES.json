@@ -1,8 +1,10 @@
 {
-    "ADD_ROW": "Añadir fila",
-    "SUBTITLE_PLACEHOLDER": "Subtítulo",
-    "ROW_PLACEHOLDER": "Introduce texto...",
-    "NO_EFFECT": "Ninguno",
-    "FADE_EFFECT": "Aparecer gradualmente",
-    "TITLE_PLACEHOLDER": "Título"
+    "SUMMARY": {
+        "ADD_ROW": "Añadir fila",
+        "SUBTITLE_PLACEHOLDER": "Subtítulo",
+        "ROW_PLACEHOLDER": "Introduce texto...",
+        "NO_EFFECT": "Ninguno",
+        "FADE_EFFECT": "Aparecer gradualmente",
+        "TITLE_PLACEHOLDER": "Título"
+    }
 }
