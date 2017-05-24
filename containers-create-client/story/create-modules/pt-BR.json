@@ -1,16 +1,18 @@
 {
-  "TEXT_EDITOR": {
-    "WORD": "PALAVRA",
-    "WORDS": "PALAVRAS",
-    "GOOD": "BOM",
-    "NORMAL": "OK",
-    "BAD": "LONGO DEMAIS",
-    "BOLD_TOOLTIP": "Negrito",
-    "GOOD_INDICATION": "BOM",
-    "NORMAL_INDICATION": "OK",
-    "BAD_INDICATION": "LONGO DEMAIS",
-    "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. leitura"
-  },
-  "SECTION_TITLE_PLACEHOLDER": "Título",
-  "NOT_SAVED_ERR_MESSAGE": "Algumas alterações não foram salvas. Você tem certeza de que quer sair?"
+  "CREATE_MODULES": {
+    "TEXT_EDITOR": {
+      "WORD": "PALAVRA",
+      "WORDS": "PALAVRAS",
+      "GOOD": "BOM",
+      "NORMAL": "OK",
+      "BAD": "LONGO DEMAIS",
+      "BOLD_TOOLTIP": "Negrito",
+      "GOOD_INDICATION": "BOM",
+      "NORMAL_INDICATION": "OK",
+      "BAD_INDICATION": "LONGO DEMAIS",
+      "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. leitura"
+    },
+    "SECTION_TITLE_PLACEHOLDER": "Título",
+    "NOT_SAVED_ERR_MESSAGE": "Algumas alterações não foram salvas. Você tem certeza de que quer sair?"
+  }
 }
