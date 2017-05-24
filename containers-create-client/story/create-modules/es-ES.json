@@ -1,18 +1,18 @@
 {
-  "CREATE_MODULES": {
-    "TEXT_EDITOR": {
-      "WORD": "PALABRA",
-      "WORDS": "PALABRAS",
-      "GOOD": "BUENO",
-      "NORMAL": "OK",
-      "BAD": "UN POCO LARGO",
-      "BOLD_TOOLTIP": "Negrita",
-      "GOOD_INDICATION": "BUENO",
-      "NORMAL_INDICATION": "OK",
-      "BAD_INDICATION": "UN POCO LARGO",
-      "MINIMUM_READ_TIME_LABEL": "{{readTime}} mín. de lectura"
-    },
-    "SECTION_TITLE_PLACEHOLDER": "Título",
-    "NOT_SAVED_ERR_MESSAGE": ""
-  }
+    "CREATE_MODULES": {
+        "TEXT_EDITOR": {
+            "WORD": "PALABRA",
+            "WORDS": "PALABRAS",
+            "GOOD": "BUENO",
+            "NORMAL": "OK",
+            "BAD": "UN POCO LARGO",
+            "BOLD_TOOLTIP": "Negrita",
+            "GOOD_INDICATION": "BUENO",
+            "NORMAL_INDICATION": "OK",
+            "BAD_INDICATION": "UN POCO LARGO",
+            "MINIMUM_READ_TIME_LABEL": "{{readTime}} mín. de lectura"
+        },
+        "SECTION_TITLE_PLACEHOLDER": "Título",
+        "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?"
+    }
 }
