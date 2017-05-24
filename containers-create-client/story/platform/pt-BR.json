@@ -20,9 +20,7 @@
                 "PUBLIC": "Público (recomendado)",
                 "ONLY_ME": "Somente eu",
                 "ONLY_DIRECT_LINK": "Apenas link direto"
-            },
-            "CREATOR_LANGUAGE_TITLE": "Idioma",
-            "CREATOR_EDIT_BUTTON": "bbb"
+            }
         },
         "TAGS": {
             "TITLE": "Tags",
