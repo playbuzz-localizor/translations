@@ -1,5 +1,7 @@
 {
-  "TEXT_PLACEHOLDER": "Introducir Quote",
-  "QUOTEE_PLACEHOLDER": "¿Quién lo dijo?",
-  "ADDITIONAL_TEXT_PLACEHOLDER": "Cuéntanos más..."
+  "QUOTE": {
+    "TEXT_PLACEHOLDER": "Introducir Quote",
+    "QUOTEE_PLACEHOLDER": "¿Quién lo dijo?",
+    "ADDITIONAL_TEXT_PLACEHOLDER": "Cuéntanos más..."
+  }
 }
