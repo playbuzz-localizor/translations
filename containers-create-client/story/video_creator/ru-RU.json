@@ -93,7 +93,7 @@
         },
         "TEMPLATES": {
             "GENERAL": {
-                "MAIN_TITLE_PLACEHOLDER": "Enter Main Title",
+                "MAIN_TITLE_PLACEHOLDER": "Tesrt",
                 "ENTER_TEXT_PLACEHOLDER": "Enter Text",
                 "CTA_PLACEHOLDER": "End with call to action!",
                 "BACKGROUND_REQUIRED_VALIDATION_MSG": "Background image is required",
