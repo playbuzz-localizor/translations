@@ -1,3 +1,5 @@
 {
-  "EDITOR_PLACEHOLDER": "Paragraph"
+  "PARAGRAPH": {
+    "EDITOR_PLACEHOLDER": "Paragraph"
+  }
 }
