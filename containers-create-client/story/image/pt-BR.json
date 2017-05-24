@@ -1,3 +1,5 @@
 {
-    "CAPTION": "Imagem"
+    "IMAGE": {
+        "CAPTION": "Imagem"
+    }
 }
