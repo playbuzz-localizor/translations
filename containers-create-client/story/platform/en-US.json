@@ -63,7 +63,8 @@
       "LOGED_OUT": "Please re-login",
       "SAVING_DISABLED": "Saving is disabled. Please try again in 5 minutes",
       "OUTDATED": "Item is outdated",
-      "SAVE_FAILED": "Failed to Save"
+      "SAVE_FAILED": "Failed to Save",
+      "COVER_UNSUPPORTED_FORMAT": "File failed to upload. Try another one!"
     },
     "PREVIEW_BUT_PENDING": "Preparing..."
   },
