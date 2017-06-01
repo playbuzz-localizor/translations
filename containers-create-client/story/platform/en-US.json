@@ -64,7 +64,7 @@
       "SAVING_DISABLED": "Saving is disabled. Please try again in 5 minutes",
       "OUTDATED": "Item is outdated",
       "SAVE_FAILED": "Failed to Save",
-      "COVER_UNSUPPORTED_FORMAT": "File failed to upload cover image. Try another one!"
+      "COVER_UNSUPPORTED_FORMAT": "Failed to upload cover image. Try another one!"
     },
     "PREVIEW_BUT_PENDING": "Preparing..."
   },
