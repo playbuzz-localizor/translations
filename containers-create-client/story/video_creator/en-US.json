@@ -89,7 +89,8 @@
       "GROUND_CONTROL": "Ground Control",
       "AMERICA": "America",
       "BEACH_UMBRELLA": "Beach Umbrella",
-      "BEACH_TIME": "Beach Time"
+      "BEACH_TIME": "Beach Time",
+      "GOSSIP":"Gossip"
     },
     "TEMPLATES": {
       "GENERAL": {
