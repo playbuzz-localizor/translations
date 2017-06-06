@@ -335,5 +335,8 @@
     "CreatorTitle": "",
     "PoweredByPlaybuzz1": "",
     "ProgressBarNewPersonalityQuiz": "",
-    "ProgressBarNewTrivia": ""
+    "ProgressBarNewTrivia": "",
+    "ProgressBarCreateGalleryQuiz": "Create a Gallery Quiz",
+    "GalleryQuiz": "Gallery Quiz",
+    "GalleryQuizTitle": "Gallery Quiz Title"
 }
