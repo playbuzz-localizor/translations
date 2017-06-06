@@ -117,7 +117,8 @@
             "TEXT_2_LABEL": "Use a cover image for your Poll to make your question more visual and exciting.",
             "TEXT_3_LABEL": "Use a background image and choose the Grid template to create a visually awesome poll that is fun to interact with!",
             "TEXT_4_LABEL": "Remember to always include a “none of the above” option to give your readers an easy out if none of the options suit them.",
-            "TEXT_5_LABEL": ""
+            "TEXT_5_LABEL": "",
+            "TEXT_6_LABEL": "Hide the results of your poll until you’re ready to share them with your audience."
         },
         "QUOTE": {
             "TITLE_LABEL": "Highlight words of wisdom by creating a designed quote.",
