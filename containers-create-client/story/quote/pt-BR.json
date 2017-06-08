@@ -1,5 +1,7 @@
 {
-  "TEXT_PLACEHOLDER": "Escreva a citação...",
-  "QUOTEE_PLACEHOLDER": "Quem disse isso?",
-  "ADDITIONAL_TEXT_PLACEHOLDER": "Conte um pouco mais..."
+    "QUOTE": {
+        "TEXT_PLACEHOLDER": "Escreva a citação...",
+        "QUOTEE_PLACEHOLDER": "Quem disse isso?",
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Conte um pouco mais..."
+    }
 }

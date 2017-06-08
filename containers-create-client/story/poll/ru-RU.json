@@ -1,30 +1,32 @@
 {
-  "BACKGROUND_TEMPLATE_TOOLTIP": "Фоновое изображение ",
-  "COVER_TEMPLATE_TOOLTIP": "Обложка ",
-  "CLASSIC_TEMPLATE_TOOLTIP": "Классический формат",
-  "GRID_TEMPLATE_TOOLTIP": "Формат \"Сетка\"",
-  "SETTINGS_TOOLTIP": "Настройки опроса",
-  "TITLE_PLACEHOLDER": "Вопрос ",
-  "OPTION_PLACEHOLDER": "Вариант {{index}}",
-  "ADD_OPTION_BUT": "Добавить вариант",
-  "SETTINGS": {
-    "TITLE": "НАСТРОЙКИ ОПРОСА",
-    "HERE_LINK": "здесь",
-    "BACK_BUTTON": "Назад к опросу",
-    "ENABLE_VOTING_SWITCH": "Активировать опрос",
-    "TOTAL_VOTES_SWITCH": "Показывать общее количество голосов",
-    "DISPLAY_LOGO_SWITCH": "Показывать логотип",
-    "DISPLAY_LOGO_DESCRIPTION": "Добавьте ваш логотип, чтобы индивидуализировать опрос. Вы можете изменить ваше изображение",
-    "END_CARD_SWITCH": "Завершающее сообщение",
-    "END_CARD_DESCRIPTION": "Вашим опросом поделятся и примут участие больше респондентов, если вы добавите благодарственный текст в конце опроса",
-    "END_CARD": {
-      "TITLE_LABEL": "Заголовок",
-      "TITLE_PLACEHOLDER": "Введите заголовок...",
-      "DESCRIPTION_LABEL": "Описание",
-      "DESCRIPTION_PLACEHOLDER": "Введите описание..."
+    "POLL": {
+        "BACKGROUND_TEMPLATE_TOOLTIP": "Фоновое изображение",
+        "COVER_TEMPLATE_TOOLTIP": "Обложка",
+        "CLASSIC_TEMPLATE_TOOLTIP": "Классический формат",
+        "GRID_TEMPLATE_TOOLTIP": "Формат \"Сетка\"",
+        "SETTINGS_TOOLTIP": "Настройки опроса",
+        "TITLE_PLACEHOLDER": "Вопрос",
+        "OPTION_PLACEHOLDER": "Вариант {{index}}",
+        "ADD_OPTION_BUT": "Добавить вариант",
+        "SETTINGS": {
+            "TITLE": "НАСТРОЙКИ ОПРОСА",
+            "HERE_LINK": "здесь",
+            "BACK_BUTTON": "Назад к опросу",
+            "ENABLE_VOTING_SWITCH": "Активировать опрос",
+            "TOTAL_VOTES_SWITCH": "Показывать общее количество голосов",
+            "DISPLAY_LOGO_SWITCH": "Показывать логотип",
+            "DISPLAY_LOGO_DESCRIPTION": "Добавьте ваш логотип, чтобы индивидуализировать опрос. Вы можете изменить ваше изображение",
+            "END_CARD_SWITCH": "Завершающее сообщение",
+            "END_CARD_DESCRIPTION": "Вашим опросом поделятся и примут участие больше респондентов, если вы добавите благодарственный текст в конце опроса",
+            "END_CARD": {
+                "TITLE_LABEL": "Заголовок",
+                "TITLE_PLACEHOLDER": "Введите заголовок...",
+                "DESCRIPTION_LABEL": "Описание",
+                "DESCRIPTION_PLACEHOLDER": "Введите описание..."
+            }
+        },
+        "CLASSIC_LAYOUT_TOOLTIP": "Формат результатов: Классический",
+        "GRID_LAYOUT_TOOLTIP": "Формат результатов: Сетка",
+        "DELETE_OPTION_BUT": "Delete option"
     }
-  },
-  "CLASSIC_LAYOUT_TOOLTIP": "Формат результатов: Классический",
-  "GRID_LAYOUT_TOOLTIP": "Формат результатов: Сетка",
-  "DELETE_OPTION_BUT": "Delete option"
 }

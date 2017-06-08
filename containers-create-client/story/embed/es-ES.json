@@ -1,3 +1,5 @@
 {
-  "DESCRIPTION_PLACEHOLDER": "Desde la web"
+    "EMBED": {
+        "DESCRIPTION_PLACEHOLDER": "Descripción"
+    }
 }

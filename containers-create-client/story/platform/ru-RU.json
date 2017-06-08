@@ -20,9 +20,7 @@
                 "PUBLIC": "Все (рекомендовано)",
                 "ONLY_ME": "Только я",
                 "ONLY_DIRECT_LINK": "Все, у кого есть ссылка"
-            },
-            "CREATOR_LANGUAGE_TITLE": "Язык",
-            "CREATOR_EDIT_BUTTON": "ббб"
+            }
         },
         "TAGS": {
             "TITLE": "Теги",

@@ -20,9 +20,7 @@
                 "PUBLIC": "Público (recomendado)",
                 "ONLY_ME": "Somente eu",
                 "ONLY_DIRECT_LINK": "Apenas link direto"
-            },
-            "CREATOR_LANGUAGE_TITLE": "Idioma ",
-            "CREATOR_EDIT_BUTTON": "bbb"
+            }
         },
         "TAGS": {
             "TITLE": "Tags",
@@ -97,6 +95,7 @@
         },
         "FLIP_CARD": {
             "TITLE_LABEL": "Surpreenda seus leitores exibindo imagens e cartões de texto que eles podem clicar para revelar o outro lado.",
+            "TEXT_1_LABEL": "",
             "TEXT_2_LABEL": "Use os cartões que viram para revelar algo aos seus leitores. Surpreenda, choque e entretenha! Isso também é ótimo para comparações \"antes e depois\"!",
             "TEXT_3_LABEL": "Use os cartões que viram para filtrar o que seus leitores veem. Forneça-lhes a opção para decidir se eles querem ver conteúdo adulto ou não. "
         },
@@ -117,7 +116,8 @@
             "TEXT_1_LABEL": "Use uma enquete para envolver seus leitores. Ofereça a oportunidade de manifestarem suas opiniões! Por exemplo, perguntando o que eles pensam sobre algo nas redes sociais.",
             "TEXT_2_LABEL": "Use uma imagem de capa na sua enquete para tornar a pergunta mais visual e emocionante.",
             "TEXT_3_LABEL": "Use uma imagem de fundo e escolha o modelo de \"Grid\" para criar uma pesquisa visualmente incrível e que seja divertida de interagir!",
-            "TEXT_4_LABEL": "Lembre-se de incluir sempre uma alternativa \"nenhuma das opções anteriores\" para dar aos seus leitores uma saída fácil se nenhuma das opções lhes atender."
+            "TEXT_4_LABEL": "Lembre-se de incluir sempre uma alternativa \"nenhuma das opções anteriores\" para dar aos seus leitores uma saída fácil se nenhuma das opções lhes atender.",
+            "TEXT_5_LABEL": ""
         },
         "QUOTE": {
             "TITLE_LABEL": "Destaque as palavras de impacto criando uma citação.",

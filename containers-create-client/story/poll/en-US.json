@@ -1,30 +1,35 @@
 {
-  "BACKGROUND_TEMPLATE_TOOLTIP": "Background image ",
-  "COVER_TEMPLATE_TOOLTIP": "Cover image ",
-  "CLASSIC_TEMPLATE_TOOLTIP": "Classic results",
-  "GRID_TEMPLATE_TOOLTIP": "Grid results ",
-  "SETTINGS_TOOLTIP": "Poll settings",
-  "TITLE_PLACEHOLDER": "Question ",
-  "OPTION_PLACEHOLDER": "Option {{index}}",
-  "ADD_OPTION_BUT": "Add option",
-  "SETTINGS": {
-    "TITLE": "POLL SETTINGS",
-    "HERE_LINK": "here",
-    "BACK_BUTTON": "Back to edit",
-    "ENABLE_VOTING_SWITCH": "Enable Voting",
-    "TOTAL_VOTES_SWITCH": "Show Total Votes",
-    "DISPLAY_LOGO_SWITCH": "Display Logo",
-    "DISPLAY_LOGO_DESCRIPTION": "Apply additional customization by adding your logo. Change your display picture",
-    "END_CARD_SWITCH": "End Card",
-    "END_CARD_DESCRIPTION": "Drive more shares and engagement using End Card",
-    "END_CARD": {
-      "TITLE_LABEL": "Title",
-      "TITLE_PLACEHOLDER": "Enter title...",
-      "DESCRIPTION_LABEL": "Description",
-      "DESCRIPTION_PLACEHOLDER": "Enter description..."
-    }
-  },
-  "CLASSIC_LAYOUT_TOOLTIP": "Classic results template",
-  "GRID_LAYOUT_TOOLTIP": "Grid results template ",
-  "DELETE_OPTION_BUT": "Delete option"
+  "POLL": {
+    "BACKGROUND_TEMPLATE_TOOLTIP": "Background image",
+    "COVER_TEMPLATE_TOOLTIP": "Cover image",
+    "CLASSIC_TEMPLATE_TOOLTIP": "Classic results",
+    "GRID_TEMPLATE_TOOLTIP": "Grid results ",
+    "SETTINGS_TOOLTIP": "Poll settings",
+    "TITLE_PLACEHOLDER": "Question",
+    "OPTION_PLACEHOLDER": "Option {{index}}",
+    "ADD_OPTION_BUT": "Add option",
+    "SETTINGS": {
+      "TITLE": "POLL SETTINGS",
+      "HERE_LINK": "here",
+      "BACK_BUTTON": "Back to edit",
+      "ENABLE_VOTING_SWITCH": "Enable voting",
+      "TOTAL_VOTES_SWITCH": "Show number of voters",
+      "ALLOW_REVOTES_SWITCH": "Readers can re-vote daily",
+      "HIDE_RESULTS_SWITCH": "Hide poll results",
+      "SECURED_SWITCH": "Enable secure poll",
+      "DISPLAY_LOGO_SWITCH": "Display my logo",
+      "DISPLAY_LOGO_DESCRIPTION": "Apply additional customization by adding your logo. Change your display picture",
+      "END_CARD_SWITCH": "Show end card",
+      "END_CARD_DESCRIPTION": "Drive more shares and engagement using End Card",
+      "END_CARD": {
+        "TITLE_LABEL": "Title",
+        "TITLE_PLACEHOLDER": "Enter title...",
+        "DESCRIPTION_LABEL": "Description",
+        "DESCRIPTION_PLACEHOLDER": "Enter description..."
+      }
+    },
+    "CLASSIC_LAYOUT_TOOLTIP": "Classic results template",
+    "GRID_LAYOUT_TOOLTIP": "Grid results template",
+    "DELETE_OPTION_BUT": "Delete option"
+  }
 }

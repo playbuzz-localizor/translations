@@ -1,3 +1,5 @@
 {
-  "DESCRIPTION_PLACEHOLDER": "Из Интернета"
+    "EMBED": {
+        "DESCRIPTION_PLACEHOLDER": "Описание"
+    }
 }

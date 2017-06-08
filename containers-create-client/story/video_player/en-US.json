@@ -1,3 +1,11 @@
 {
-  "DESCRIPTION_PLACEHOLDER": "Description "
+    "VIDEO_PLAYER": {
+        "DESCRIPTION_PLACEHOLDER": "Description",
+        "SETTINGS": {
+            "TITLE": "Settings",
+            "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+            "MUTE_SWITCH_LABEL": "Autoplay on mute",
+            "CLOSE_SETTINGS": "Back to Edit"
+        }
+    }
 }

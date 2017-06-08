@@ -1,3 +1,5 @@
 {
-  "EDITOR_PLACEHOLDER": "Введите текст"
+    "PARAGRAPH": {
+        "EDITOR_PLACEHOLDER": "Введите текст"
+    }
 }
