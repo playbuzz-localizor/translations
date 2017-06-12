@@ -16,7 +16,8 @@
         "SAVE_BUT_PENDING": "Saving...",
         "ERROR": {
             "MISSING_REQUIREMENTS": "Some requirements are missing",
-            "LOGED_OUT": "Please re-login",
+            "LOGGED_OUT": "Please re-login",
+            "BLOCKED": "Your user is blocked",
             "SAVING_DISABLED": "Saving is disabled. Please try again in 5 minutes",
             "OUTDATED": "Item is outdated",
             "SAVE_FAILED": "Failed to Save"
