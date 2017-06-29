@@ -1,0 +1,10 @@
+{
+  "ENABLE_VOTING_SWITCH": "Enable Voting",
+  "VOTE": "Vote",
+  "TYPE": {
+    "NONE": "Normal",
+    "NUMBER": "Numbered List",
+    "BULLET": "Bulleted List",
+    "RANK": "Ranked List"
+  }
+}
