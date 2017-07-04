@@ -159,6 +159,7 @@
         "MARKING_DISABLED": "Save item to duplicate/mark as template",
         "SOMETHING_WENT_WRONG": "Something went wrong",
         "PLEASE_TRY_AGAIN": "please try again",
-        "CREATE": "Create"
+        "CREATE": "Create",
+        "INCLUDE": "Include"
     }
 }
