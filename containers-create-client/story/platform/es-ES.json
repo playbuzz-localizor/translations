@@ -144,5 +144,8 @@
             "TEXT_1_LABEL": "Usa vídeos de Vimeo para que tus artículos sean más interesantes.",
             "TEXT_2_LABEL": "Usa vídeos de YouTube para que tus artículos sean más interesantes."
         }
+    },
+    "TEMPLATES": {
+        "START_NEW" : "Start a New Item"
     }
 }

@@ -144,5 +144,8 @@
             "TEXT_1_LABEL": "Use qualquer vídeo no Vimeo para tornar o seu artigo mais interessante.",
             "TEXT_2_LABEL": "Use qualquer vídeo no Youtube para tornar o seu artigo mais interessante."
         }
+    },
+    "TEMPLATES": {
+        "START_NEW" : "Start a New Item"
     }
 }
