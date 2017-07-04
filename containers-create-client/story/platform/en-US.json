@@ -20,7 +20,7 @@
         "PUBLIC": "Public (recommended)",
         "ONLY_ME": "Only Me",
         "ONLY_DIRECT_LINK": "Direct Link Only"
-            }
+      }
     },
     "TAGS": {
       "TITLE": "Tags",
@@ -149,6 +149,18 @@
     }
   },
   "TEMPLATES": {
-    "START_NEW" : "Start a New Item"
+    "START_NEW": "Start a New Item",
+    "UPDATED": "Updated",
+    "Alphabetically": "Alphabetically",
+    "FEATURED": "Featured",
+    "NEW": "New",
+    "NEW_FROM_TEMPLATE": "New from template",
+    "DUPLICATE": "Duplicate",
+    "MARK_AS_TEMPLATE": "Mark as template",
+    "MARKED_AS_TEMPLATE": "Marked as template",
+    "MARKING": "Marking",
+    "MARKING_DISABLED": "Save item to duplicate/mark as template",
+    "SOMETHING_WENT_WRONG": "Something went wrong",
+    "PLEASE_TRY_AGAIN": "please try again"
   }
 }
