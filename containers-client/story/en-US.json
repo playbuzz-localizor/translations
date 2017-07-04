@@ -16,7 +16,7 @@
         "OK":"OK",
         "GO":"GO",
         "FACEBOOK_PAGE_MISSING_HEADER":"Almost there",
-        "FACEBOOK_PAGE_IS_NOT_VALID":"A valid Facebook Page hasn't been linked to this channel,",
+        "FACEBOOK_PAGE_IS_NOT_VALID":"We need to know what your FB page’s URL is in order to make this video available for posting there.  Please paste your page’s URL in the next screen under Contact Details.",
         "CANCEL":"Cancel",
         "PERMISSION_REQUIRED_HEADER":"Cannot Crosspost",
         "PERMISSION_REQUIRED_1":"Please enable Crossposting on your page. If you're not the page admin please click 'copy link' below and send them the link.",
