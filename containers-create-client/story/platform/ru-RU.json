@@ -160,6 +160,8 @@
     "SOMETHING_WENT_WRONG": "Something went wrong",
     "PLEASE_TRY_AGAIN": "please try again",
     "CREATE": "Create",
-    "INCLUDES": "INCLUDES"
+    "INCLUDES": "INCLUDES",
+    "UNMARK": "Unmark",
+    "UNMARK_FROM_LIST": "Unmark this template from your list?"
   }
 }

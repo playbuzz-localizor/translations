@@ -1,165 +1,167 @@
 {
-    "LEFT_PANE": {
-        "MAP": {
-            "TITLE": "Mapa de navegação",
-            "EMPTY_TITLE": "Vamos começar!",
-            "EMPTY_DESCRIPTION": "Crie e organize o seu Story",
-            "TOOLTIP": "Mapa de navegação",
-            "MINIMUM_READ_TIME_LABEL": "min. de leitura"
-        },
-        "VISIBILITY": {
-            "TITLE": "Visibiliadade",
-            "DESCRIPTION": "Quem pode ver o seu Story",
-            "LANGUAGE_TITLE": "Idioma",
-            "LANGUAGE_DESCRIPTION": "Selecione o idioma do Story",
-            "LANGUAGE_CHECKBOX_LABEL": "Permitir tradução para outros idiomas",
-            "SPONSORED_TITLE": "Conteúdo patrocinado",
-            "SPONSORED_CHECKBOX_LABEL": "Este Story é patrocinado",
-            "TOOLTIP": "Visibilidade: {{viewPermission}}",
-            "VIEW_PERMISSIONS_DROPDOWN": {
-                "PUBLIC": "Público (recomendado)",
-                "ONLY_ME": "Somente eu",
-                "ONLY_DIRECT_LINK": "Apenas link direto"
-            }
-        },
-        "TAGS": {
-            "TITLE": "Tags",
-            "DESCRIPTION": "Faça o seu conteúdo ser encontrado usando tags",
-            "TOOLTIP": "Tags",
-            "NEW_TAG_PLACEHOLDER": "Insira as suas próprias tags",
-            "NEW_TAG_DESCRIPTION": "Separe por vírgulas"
-        },
-        "SOCIAL": {
-            "TITLE": "Aparência nas mídias sociais",
-            "DESCRIPTION": "Como o seu Story aparecerá nas redes sociais",
-            "TOOLTIP": "Visualização nas mídias sociais"
-        },
-        "ABOUT": {
-            "TITLE": "O que é o Story",
-            "DESCRIPTION": "O Story é um recurso exclusivo para transformar longas narrativas em conteúdos engajadores, possibilitando uma experiência interativa e visualmente agradável aos leitores.",
-            "STEP_1": "Escreva o seu Story",
-            "STEP_2": "Publicar!",
-            "STEP_3": "Compartilhe ou embede diretamente no seu site",
-            "STEP_4": "Feito!",
-            "QUESTIONS_TITLE": "Ficou com alguma dúvida?",
-            "QUESTIONS_DESCRIPTION": "Conte com a gente!",
-            "TOOLTIP": "Sobre"
-        }
+  "LEFT_PANE": {
+    "MAP": {
+      "TITLE": "Mapa de navegação",
+      "EMPTY_TITLE": "Vamos começar!",
+      "EMPTY_DESCRIPTION": "Crie e organize o seu Story",
+      "TOOLTIP": "Mapa de navegação",
+      "MINIMUM_READ_TIME_LABEL": "min. de leitura"
     },
-    "ACTION_PANE": {
-        "PUBLISH_BUT": "Publicar",
-        "SAVE_BUT": "Salvar",
-        "ERROR_MESSAGE": "Erro",
-        "PUBLISH_BUT_PENDING": "Publicando...",
-        "PREVIEW_BUT": "Preview",
-        "SAVED_NOTIFICATION": "Salvo",
-        "VIEW_LINK": "visualizar",
-        "SAVE_BUT_NEW_ITEM": "Salvar rascunho",
-        "SAVE_BUT_PENDING": "Salvando...",
-        "ERROR": {
-            "MISSING_REQUIREMENTS": "Alguns requisitos estão faltando",
-            "LOGED_OUT": "Faça o login novamente",
-            "SAVING_DISABLED": "Não é possível salvar agora. Tente novamente em 5 minutos",
-            "OUTDATED": "Item desatualizado",
-            "SAVE_FAILED": "Falha ao salvar"
-        },
-        "PREVIEW_BUT_PENDING": "Preparando..."
+    "VISIBILITY": {
+      "TITLE": "Visibiliadade",
+      "DESCRIPTION": "Quem pode ver o seu Story",
+      "LANGUAGE_TITLE": "Idioma",
+      "LANGUAGE_DESCRIPTION": "Selecione o idioma do Story",
+      "LANGUAGE_CHECKBOX_LABEL": "Permitir tradução para outros idiomas",
+      "SPONSORED_TITLE": "Conteúdo patrocinado",
+      "SPONSORED_CHECKBOX_LABEL": "Este Story é patrocinado",
+      "TOOLTIP": "Visibilidade: {{viewPermission}}",
+      "VIEW_PERMISSIONS_DROPDOWN": {
+        "PUBLIC": "Público (recomendado)",
+        "ONLY_ME": "Somente eu",
+        "ONLY_DIRECT_LINK": "Apenas link direto"
+      }
     },
-    "DESCRIPTION_PLACEHOLDER": "Descrição",
-    "SECTIONS_LOBBY_TITLE": "Conte a sua história",
-    "STORY_TITLE_PLACEHOLDER": "Título do Story",
-    "DELETE_SECTION_MESSAGE": "Tem certeza de que quer apagar isso?",
-    "MODAL_LANGUAGE": {
-        "NEW_LABEL": "NOVO",
-        "TITLE": "Selecione seu idioma preferido para criação",
-        "DONE_BUT": "Pronto"
+    "TAGS": {
+      "TITLE": "Tags",
+      "DESCRIPTION": "Faça o seu conteúdo ser encontrado usando tags",
+      "TOOLTIP": "Tags",
+      "NEW_TAG_PLACEHOLDER": "Insira as suas próprias tags",
+      "NEW_TAG_DESCRIPTION": "Separe por vírgulas"
     },
-    "PREVIEW_MODAL": {
-        "TITLE": "Preview",
-        "CLOSE_BUT": "Fechar"
+    "SOCIAL": {
+      "TITLE": "Aparência nas mídias sociais",
+      "DESCRIPTION": "Como o seu Story aparecerá nas redes sociais",
+      "TOOLTIP": "Visualização nas mídias sociais"
     },
-    "ONBOARDING": {
-        "GALLERY_OPEN_LABEL": "Confira exemplos",
-        "CONVO": {
-            "TITLE_LABEL": "Faça com que os leitores se sintam como se estivessem lendo mensagens de texto de alguém!",
-            "TEXT_1_LABEL": "Escolha o modelo que permite inserir imagens para todos os participantes do Convo. Você pode adicionar texto e imagens a cada bolha de mensagem!",
-            "TEXT_2_LABEL": "Use o template Convo que tem a aparência e dá a sensação do messenger do iOS.",
-            "TEXT_3_LABEL": "Use Convo para criar uma lista ou cronograma de eventos. Basta colocar um número ou uma data como imagem para cada \"participante\"."
-        },
-        "EMBED": {
-            "TITLE_LABEL": "Importe mídia da web. ",
-            "TEXT_1_LABEL": "Incorpore mapas do Google para mostrar aos seus leitores um local específico.",
-            "TEXT_2_LABEL": "Inclua qualquer vídeo do Vimeo no seu artigo.",
-            "TEXT_3_LABEL": "Incorpore postagens no Twitter para tornar o seu conteúdo mais interessante e envolvente.",
-            "TEXT_4_LABEL": "Insira postagens do Instagram para tornar o seu conteúdo visualmente deslumbrante."
-        },
-        "FLIP_CARD": {
-            "TITLE_LABEL": "Surpreenda seus leitores exibindo imagens e cartões de texto que eles podem clicar para revelar o outro lado.",
-            "TEXT_1_LABEL": "",
-            "TEXT_2_LABEL": "Use os cartões que viram para revelar algo aos seus leitores. Surpreenda, choque e entretenha! Isso também é ótimo para comparações \"antes e depois\"!",
-            "TEXT_3_LABEL": "Use os cartões que viram para filtrar o que seus leitores veem. Forneça-lhes a opção para decidir se eles querem ver conteúdo adulto ou não. "
-        },
-        "IMAGE": {
-            "TITLE_LABEL": "Adicione imagens incríveis e valorize ainda mais o aspecto visual com efeito desfocado ou zoom",
-            "TEXT_1_LABEL": "Surpreenda os seus leitores desfocando uma imagem. Instigá-los a clicar para revelar a imagem cria uma experiência interativa e engajadora com o conteúdo!",
-            "TEXT_2_LABEL": "Atraia a atenção de seus leitores para o ponto focal de uma imagem usando o filtro Zoom.",
-            "TEXT_3_LABEL": "Use o efeito de desfoque para dar aos leitores a opção de decidir se querem ver o conteúdo gráfico ou não."
-        },
-        "PARAGRAPH": {
-            "TITLE_LABEL": "Use texto para formar a base da sua história.",
-            "TEXT_1_LABEL": "Use o marcador para destacar as partes mais importantes do seu texto.",
-            "TEXT_2_LABEL": "Os olhos dos seus leitores serão imediatamente atraídos para o texto grifado. Certifique-se de destacar as partes importantes que eles precisam ler.",
-            "TEXT_3_LABEL": "Inclua emojis e hiperlinks para tornar seu texto mais interativo e interessante!"
-        },
-        "POLL": {
-            "TITLE_LABEL": "Enquetes permitem que os leitores expressem suas opiniões e respondam ao conteúdo que você cria.",
-            "TEXT_1_LABEL": "Use uma enquete para envolver seus leitores. Ofereça a oportunidade de manifestarem suas opiniões! Por exemplo, perguntando o que eles pensam sobre algo nas redes sociais.",
-            "TEXT_2_LABEL": "Use uma imagem de capa na sua enquete para tornar a pergunta mais visual e emocionante.",
-            "TEXT_3_LABEL": "Use uma imagem de fundo e escolha o modelo de \"Grid\" para criar uma pesquisa visualmente incrível e que seja divertida de interagir!",
-            "TEXT_4_LABEL": "Lembre-se de incluir sempre uma alternativa \"nenhuma das opções anteriores\" para dar aos seus leitores uma saída fácil se nenhuma das opções lhes atender.",
-            "TEXT_5_LABEL": ""
-        },
-        "QUOTE": {
-            "TITLE_LABEL": "Destaque as palavras de impacto criando uma citação.",
-            "TEXT_1_LABEL": "Curtas e chamativas: mantenha suas citações diretas e fáceis de ler. ",
-            "TEXT_2_LABEL": "Inclua uma imagem do autor ao lado da citação para fornecer contexto e mais informações aos seus leitores"
-        },
-        "SUMMARY": {
-            "TITLE_LABEL": "O Summary permite ir direto ao ponto e fornece aos leitores apenas as informações de que necessitam. Ele pode ser usado de diferentes maneiras...",
-            "TEXT_1_LABEL": "Use o Summary para finalizar os principais pontos de qualquer tópico. Dê à sua audiência uma visão geral em uma série de pontos sucintos. Inclua uma imagem de capa para vincular o Summary ao tópico de seu artigo.",
-            "TEXT_2_LABEL": "Use o template de Summary em receitas, para incluir uma barra lateral para ingredientes. Adicione um visual bonito para tornar o seu Summary mais interessante.",
-            "TEXT_3_LABEL": "Use o recurso de caixa de seleção para criar uma lista de tarefas usando o Summary."
-        },
-        "VIDEO_CREATOR": {
-            "TITLE_LABEL": "Incorpore vídeos de uma forma mais flexível e de baixo custo. Personalize nossos modelos temáticos, escolha uma paleta de cores e adicione a trilha ideal.",
-            "TEXT_1_LABEL": "Use o modelo clássico para criar uma lista de vídeos com GIFs e imagens.",
-            "TEXT_2_LABEL": "Use os modelo Vs. para comparar e contrastar tópicos de interesse dos seus leitores.",
-            "TEXT_3_LABEL": "Cada tela no modelo Vs. irá comparar um subtópico sobre um tema principal com texto, imagens e GIFs!",
-            "TEXT_4_LABEL": "Use o modelo de Fatos para listar informações sobre algo importante para seus leitores.",
-            "TEXT_5_LABEL": "Cada slide em um vídeo de Fatos tem texto maior sobre uma imagem de plano de fundo.",
-            "TEXT_6_LABEL": "Use o modelo Swift para criar um vídeo mais rápido com uma tela de introdução que puxa automaticamente os recursos visuais de todos os slides do seu vídeo."
-        },
-        "VIDEO_PLAYER": {
-            "TITLE_LABEL": "Enriqueça sua história com vídeos.",
-            "TEXT_1_LABEL": "Use qualquer vídeo no Vimeo para tornar o seu artigo mais interessante.",
-            "TEXT_2_LABEL": "Use qualquer vídeo no Youtube para tornar o seu artigo mais interessante."
-        }
-    },
-    "TEMPLATES": {
-        "START_NEW" : "Start a New Item",
-        "UPDATED": "Updated",
-        "Alphabetically": "Alphabetically",
-        "FEATURED": "Featured",
-        "NEW": "New",
-        "NEW_FROM_TEMPLATE": "New from template",
-        "DUPLICATE": "Duplicate",
-        "MARK_AS_TEMPLATE": "Mark as template",
-        "MARKED_AS_TEMPLATE": "Marked as template",
-        "MARKING": "Marking...",
-        "MARKING_DISABLED": "Save item to duplicate/mark as template",
-        "SOMETHING_WENT_WRONG": "Something went wrong",
-        "PLEASE_TRY_AGAIN": "please try again",
-        "CREATE": "Create",
-        "INCLUDES": "INCLUDES"
+    "ABOUT": {
+      "TITLE": "O que é o Story",
+      "DESCRIPTION": "O Story é um recurso exclusivo para transformar longas narrativas em conteúdos engajadores, possibilitando uma experiência interativa e visualmente agradável aos leitores.",
+      "STEP_1": "Escreva o seu Story",
+      "STEP_2": "Publicar!",
+      "STEP_3": "Compartilhe ou embede diretamente no seu site",
+      "STEP_4": "Feito!",
+      "QUESTIONS_TITLE": "Ficou com alguma dúvida?",
+      "QUESTIONS_DESCRIPTION": "Conte com a gente!",
+      "TOOLTIP": "Sobre"
     }
+  },
+  "ACTION_PANE": {
+    "PUBLISH_BUT": "Publicar",
+    "SAVE_BUT": "Salvar",
+    "ERROR_MESSAGE": "Erro",
+    "PUBLISH_BUT_PENDING": "Publicando...",
+    "PREVIEW_BUT": "Preview",
+    "SAVED_NOTIFICATION": "Salvo",
+    "VIEW_LINK": "visualizar",
+    "SAVE_BUT_NEW_ITEM": "Salvar rascunho",
+    "SAVE_BUT_PENDING": "Salvando...",
+    "ERROR": {
+      "MISSING_REQUIREMENTS": "Alguns requisitos estão faltando",
+      "LOGED_OUT": "Faça o login novamente",
+      "SAVING_DISABLED": "Não é possível salvar agora. Tente novamente em 5 minutos",
+      "OUTDATED": "Item desatualizado",
+      "SAVE_FAILED": "Falha ao salvar"
+    },
+    "PREVIEW_BUT_PENDING": "Preparando..."
+  },
+  "DESCRIPTION_PLACEHOLDER": "Descrição",
+  "SECTIONS_LOBBY_TITLE": "Conte a sua história",
+  "STORY_TITLE_PLACEHOLDER": "Título do Story",
+  "DELETE_SECTION_MESSAGE": "Tem certeza de que quer apagar isso?",
+  "MODAL_LANGUAGE": {
+    "NEW_LABEL": "NOVO",
+    "TITLE": "Selecione seu idioma preferido para criação",
+    "DONE_BUT": "Pronto"
+  },
+  "PREVIEW_MODAL": {
+    "TITLE": "Preview",
+    "CLOSE_BUT": "Fechar"
+  },
+  "ONBOARDING": {
+    "GALLERY_OPEN_LABEL": "Confira exemplos",
+    "CONVO": {
+      "TITLE_LABEL": "Faça com que os leitores se sintam como se estivessem lendo mensagens de texto de alguém!",
+      "TEXT_1_LABEL": "Escolha o modelo que permite inserir imagens para todos os participantes do Convo. Você pode adicionar texto e imagens a cada bolha de mensagem!",
+      "TEXT_2_LABEL": "Use o template Convo que tem a aparência e dá a sensação do messenger do iOS.",
+      "TEXT_3_LABEL": "Use Convo para criar uma lista ou cronograma de eventos. Basta colocar um número ou uma data como imagem para cada \"participante\"."
+    },
+    "EMBED": {
+      "TITLE_LABEL": "Importe mídia da web. ",
+      "TEXT_1_LABEL": "Incorpore mapas do Google para mostrar aos seus leitores um local específico.",
+      "TEXT_2_LABEL": "Inclua qualquer vídeo do Vimeo no seu artigo.",
+      "TEXT_3_LABEL": "Incorpore postagens no Twitter para tornar o seu conteúdo mais interessante e envolvente.",
+      "TEXT_4_LABEL": "Insira postagens do Instagram para tornar o seu conteúdo visualmente deslumbrante."
+    },
+    "FLIP_CARD": {
+      "TITLE_LABEL": "Surpreenda seus leitores exibindo imagens e cartões de texto que eles podem clicar para revelar o outro lado.",
+      "TEXT_1_LABEL": "",
+      "TEXT_2_LABEL": "Use os cartões que viram para revelar algo aos seus leitores. Surpreenda, choque e entretenha! Isso também é ótimo para comparações \"antes e depois\"!",
+      "TEXT_3_LABEL": "Use os cartões que viram para filtrar o que seus leitores veem. Forneça-lhes a opção para decidir se eles querem ver conteúdo adulto ou não. "
+    },
+    "IMAGE": {
+      "TITLE_LABEL": "Adicione imagens incríveis e valorize ainda mais o aspecto visual com efeito desfocado ou zoom",
+      "TEXT_1_LABEL": "Surpreenda os seus leitores desfocando uma imagem. Instigá-los a clicar para revelar a imagem cria uma experiência interativa e engajadora com o conteúdo!",
+      "TEXT_2_LABEL": "Atraia a atenção de seus leitores para o ponto focal de uma imagem usando o filtro Zoom.",
+      "TEXT_3_LABEL": "Use o efeito de desfoque para dar aos leitores a opção de decidir se querem ver o conteúdo gráfico ou não."
+    },
+    "PARAGRAPH": {
+      "TITLE_LABEL": "Use texto para formar a base da sua história.",
+      "TEXT_1_LABEL": "Use o marcador para destacar as partes mais importantes do seu texto.",
+      "TEXT_2_LABEL": "Os olhos dos seus leitores serão imediatamente atraídos para o texto grifado. Certifique-se de destacar as partes importantes que eles precisam ler.",
+      "TEXT_3_LABEL": "Inclua emojis e hiperlinks para tornar seu texto mais interativo e interessante!"
+    },
+    "POLL": {
+      "TITLE_LABEL": "Enquetes permitem que os leitores expressem suas opiniões e respondam ao conteúdo que você cria.",
+      "TEXT_1_LABEL": "Use uma enquete para envolver seus leitores. Ofereça a oportunidade de manifestarem suas opiniões! Por exemplo, perguntando o que eles pensam sobre algo nas redes sociais.",
+      "TEXT_2_LABEL": "Use uma imagem de capa na sua enquete para tornar a pergunta mais visual e emocionante.",
+      "TEXT_3_LABEL": "Use uma imagem de fundo e escolha o modelo de \"Grid\" para criar uma pesquisa visualmente incrível e que seja divertida de interagir!",
+      "TEXT_4_LABEL": "Lembre-se de incluir sempre uma alternativa \"nenhuma das opções anteriores\" para dar aos seus leitores uma saída fácil se nenhuma das opções lhes atender.",
+      "TEXT_5_LABEL": ""
+    },
+    "QUOTE": {
+      "TITLE_LABEL": "Destaque as palavras de impacto criando uma citação.",
+      "TEXT_1_LABEL": "Curtas e chamativas: mantenha suas citações diretas e fáceis de ler. ",
+      "TEXT_2_LABEL": "Inclua uma imagem do autor ao lado da citação para fornecer contexto e mais informações aos seus leitores"
+    },
+    "SUMMARY": {
+      "TITLE_LABEL": "O Summary permite ir direto ao ponto e fornece aos leitores apenas as informações de que necessitam. Ele pode ser usado de diferentes maneiras...",
+      "TEXT_1_LABEL": "Use o Summary para finalizar os principais pontos de qualquer tópico. Dê à sua audiência uma visão geral em uma série de pontos sucintos. Inclua uma imagem de capa para vincular o Summary ao tópico de seu artigo.",
+      "TEXT_2_LABEL": "Use o template de Summary em receitas, para incluir uma barra lateral para ingredientes. Adicione um visual bonito para tornar o seu Summary mais interessante.",
+      "TEXT_3_LABEL": "Use o recurso de caixa de seleção para criar uma lista de tarefas usando o Summary."
+    },
+    "VIDEO_CREATOR": {
+      "TITLE_LABEL": "Incorpore vídeos de uma forma mais flexível e de baixo custo. Personalize nossos modelos temáticos, escolha uma paleta de cores e adicione a trilha ideal.",
+      "TEXT_1_LABEL": "Use o modelo clássico para criar uma lista de vídeos com GIFs e imagens.",
+      "TEXT_2_LABEL": "Use os modelo Vs. para comparar e contrastar tópicos de interesse dos seus leitores.",
+      "TEXT_3_LABEL": "Cada tela no modelo Vs. irá comparar um subtópico sobre um tema principal com texto, imagens e GIFs!",
+      "TEXT_4_LABEL": "Use o modelo de Fatos para listar informações sobre algo importante para seus leitores.",
+      "TEXT_5_LABEL": "Cada slide em um vídeo de Fatos tem texto maior sobre uma imagem de plano de fundo.",
+      "TEXT_6_LABEL": "Use o modelo Swift para criar um vídeo mais rápido com uma tela de introdução que puxa automaticamente os recursos visuais de todos os slides do seu vídeo."
+    },
+    "VIDEO_PLAYER": {
+      "TITLE_LABEL": "Enriqueça sua história com vídeos.",
+      "TEXT_1_LABEL": "Use qualquer vídeo no Vimeo para tornar o seu artigo mais interessante.",
+      "TEXT_2_LABEL": "Use qualquer vídeo no Youtube para tornar o seu artigo mais interessante."
+    }
+  },
+  "TEMPLATES": {
+    "START_NEW": "Start a New Item",
+    "UPDATED": "Updated",
+    "Alphabetically": "Alphabetically",
+    "FEATURED": "Featured",
+    "NEW": "New",
+    "NEW_FROM_TEMPLATE": "New from template",
+    "DUPLICATE": "Duplicate",
+    "MARK_AS_TEMPLATE": "Mark as template",
+    "MARKED_AS_TEMPLATE": "Marked as template",
+    "MARKING": "Marking...",
+    "MARKING_DISABLED": "Save item to duplicate/mark as template",
+    "SOMETHING_WENT_WRONG": "Something went wrong",
+    "PLEASE_TRY_AGAIN": "please try again",
+    "CREATE": "Create",
+    "INCLUDES": "INCLUDES",
+    "UNMARK": "Unmark",
+    "UNMARK_FROM_LIST": "Unmark this template from your list?"
+  }
 }
