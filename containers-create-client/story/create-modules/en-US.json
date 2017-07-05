@@ -21,7 +21,7 @@
         "NONE": "Normal",
         "NUMBER": "Numbered List",
         "BULLET": "Bulleted List",
-        "RANK": "Ranked List"
+        "RANK": "Interactive List"
       }
     }
   }
