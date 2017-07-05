@@ -167,10 +167,13 @@
     "DELETE": "Delete",
     "DELETE_FROM_LIST": "Are you sure you want to delete this template?",
     "CREATING_IN_PLAYBUZZ": "Creating in Playbuzz just became easier!",
+    "CREATING_IN_PLAYBUZZ_2": "Creating has never been easier...",
+    "CREATING_IN_PLAYBUZZ_2_DESC": "Start telling your story from a ready made templates or create your own",
     "CREATING_IN_PLAYBUZZ_DESC_1": "To create a template, simply create a new item and choose",
     "CREATING_IN_PLAYBUZZ_DESC_2": "> Add a template",
     "START_HERE": "Start here",
     "NO_TEMPLATES_FOUND": "I couldn’t find templates under this name",
-    "CREATE_A_TEMPLATE": "Create a template"
+    "CREATE_A_TEMPLATE": "Create a template",
+    "GOT_IT": "Got It!"
   }
 }
