@@ -1,0 +1,7 @@
+{
+    "QUOTE": {
+        "TEXT_PLACEHOLDER": "Enter quote...",
+        "QUOTEE_PLACEHOLDER": "Who said it?",
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more..."
+    }
+}
