@@ -1,28 +1,28 @@
 {
     "Votes": "Votes",
-    "Vote": "Vote",
     "Created By": "Created by",
     "On": "on",
     "Sponsored": "SPONSORED",
     "Thanks for your vote!": "Thanks for your vote!",
     "Read more on": "Read more on",
-        "VIDEO_CREATOR":{
-        "UPLOADED_TO_FACEBOOK_BUTTON":"Sent to FB page manager",
-        "UPLOADING_LABEL":"Sending",
-        "UPLOAD_TO_FACEBOOK_PAGE_LABEL":"Send to FB page manager",
-        "FACEBOOK_INTRO_LABLE":"You can post your video to your Facebook page. Clicking this button won't post your video, it will only notify your page Admin that it is available for posting.",
-        "ERROR_OCCURRED_HEADER":"Error Occurred",
-        "UNEXPECTED_ERROR_OCCURRED":"An unexpected error occurred, please try again later.",
-        "OK":"OK",
-        "GO":"GO",
-        "FACEBOOK_PAGE_MISSING_HEADER":"Almost there",
-        "FACEBOOK_PAGE_IS_NOT_VALID":"We need to know what your FB page’s URL is in order to make this video available for posting there.  Please paste your page’s URL in the next screen under Contact Details.",
-        "CANCEL":"Cancel",
-        "PERMISSION_REQUIRED_HEADER":"Cannot Crosspost",
-        "PERMISSION_REQUIRED_1":"Please enable Crossposting on your page. If you're not the page admin please click 'copy link' below and send them the link.",
-        "PERMISSION_REQUIRED_LINK":"Why do we need this?",
-        "MANAGE_PAGE":"Manage Page",
-        "COPY_LINK":"COPY LINK",
-        "LEARN_MORE_ABOUT_CROSSPOSTING_LINK":"Learn more about Crossposting"
-    }
+    "VIDEO_CREATOR": {
+        "UPLOADING_LABEL": "Uploading",
+        "UPLOAD_TO_FACEBOOK_PAGE_LABEL": "Upload to Facebook Page",
+        "OK": "OK",
+        "CANCEL": "Cancel",
+        "PERMISSION_REQUIRED_1": "We do not have permission to crosspost to Facebook.",
+        "MANAGE_PAGE": "Manage Page",
+        "COPY_LINK": "COPY LINK",
+        "UPLOADED_TO_FACEBOOK_BUTTON": "Sent to FB page manager",
+        "FACEBOOK_INTRO_LABLE": "You can post your video to your Facebook page. Clicking this button won't post your video, it will only notify your page Admin that it is available for posting.",
+        "ERROR_OCCURRED_HEADER": "Error Occurred",
+        "UNEXPECTED_ERROR_OCCURRED": "An unexpected error occurred, please try again later.",
+        "GO": "GO",
+        "FACEBOOK_PAGE_MISSING_HEADER": "Almost there",
+        "FACEBOOK_PAGE_IS_NOT_VALID": "A valid Facebook Page hasn't been linked to this channel,",
+        "PERMISSION_REQUIRED_HEADER": "Cannot Crosspost",
+        "PERMISSION_REQUIRED_LINK": "Why do we need this?",
+        "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Learn more about Crossposting"
+    },
+    "Vote": "Vote"
 }
