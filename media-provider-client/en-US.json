@@ -52,7 +52,7 @@
                 "LOGIN_ERROR": "Username/Password incorrect",
                 "CONNECTED_USER": "Logged in as {{user}}",
                 "POWERED_BY_LABEL": "Powered by",
-                "LOGIN_LINK": "login",
+                "LOGIN_LINK": "log in",
                 "LOGOUT_LINK": "Logout",
                 "RESULTS_COUNT_LABEL": "results"
             },
