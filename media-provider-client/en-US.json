@@ -54,7 +54,13 @@
                 "POWERED_BY_LABEL": "Powered by",
                 "LOGIN_LINK": "log in",
                 "LOGOUT_LINK": "Logout",
-                "RESULTS_COUNT_LABEL": "results"
+                "RESULTS_COUNT_LABEL": "results",
+                "GRAPHIC_STYLE_ALL": "All",
+                "GRAPHIC_STYLE_ILLUSTRATION": "Illustration",
+                "GRAPHIC_STYLE_PHOTOGRAPHY": "Photography",
+                "SORT_BEST_MATCH": "All",
+                "SORT_NEWEST": "Newest",
+                "SORT_MOST_POPULAR": "Most popular"
             },
             "YOUTUBE": {
                 "RESULTS_COUNT_LABEL": "results"
