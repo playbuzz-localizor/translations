@@ -16,6 +16,7 @@
       "TOTAL_VOTES_SWITCH": "Show number of voters",
       "ALLOW_REVOTES_SWITCH": "Readers can re-vote daily",
       "HIDE_RESULTS_SWITCH": "Hide poll results",
+      "ADDITIONAL_SETTINGS_WARNING": "Save item in order to apply this setting",
       "SECURED_SWITCH": "Enable secure poll",
       "DISPLAY_LOGO_SWITCH": "Display my logo",
       "DISPLAY_LOGO_DESCRIPTION": "Apply additional customization by adding your logo. Change your display picture",
