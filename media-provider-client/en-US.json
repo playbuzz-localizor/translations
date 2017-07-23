@@ -1,17 +1,5 @@
-{    
+{
     "MP": {
-        "EFFECT": {
-            "NORMAL": "Normal",
-            "BLUR": "Blur",
-            "ZOOM": "Zoom"
-        },
-        "CROPPING": {
-            "LABEL": "CROPPING RATIO",
-            "LANDSCAPE_RATIO": "Landscape",
-            "SQUARE_RATIO": "Square",
-            "PORTRAIT_RATIO": "Portrait",
-            "FREESTYLE_RATIO": "Freestyle"
-        },
         "OEMBED_ERROR": "Sorry, could not load this item. please try again.",
         "FLIP_CARD": {
             "FRONT_BUT": "FRONT",
@@ -47,20 +35,20 @@
                 "USERNAME_PLACEHOLDER": "Username",
                 "PASSWORD_LABEL": "Password",
                 "PASSWORD_PLACEHOLDER": "Password",
-                "SUBMIT_BUT": "Sign In",
+                "SUBMIT_BUT": "Login",
                 "CANCEL_BUT": "Cancel",
                 "LOGIN_ERROR": "Username/Password incorrect",
                 "CONNECTED_USER": "Logged in as {{user}}",
                 "POWERED_BY_LABEL": "Powered by",
-                "LOGIN_LINK": "log in",
+                "LOGIN_LINK": "My Account",
                 "LOGOUT_LINK": "Logout",
                 "RESULTS_COUNT_LABEL": "results",
                 "GRAPHIC_STYLE_ALL": "All",
                 "GRAPHIC_STYLE_ILLUSTRATION": "Illustration",
                 "GRAPHIC_STYLE_PHOTOGRAPHY": "Photography",
-                "SORT_BEST_MATCH": "Best match",
+                "SORT_BEST_MATCH": "Best Match",
                 "SORT_NEWEST": "Newest",
-                "SORT_MOST_POPULAR": "Most popular"
+                "SORT_MOST_POPULAR": "Most Popular"
             },
             "YOUTUBE": {
                 "RESULTS_COUNT_LABEL": "results"
@@ -81,13 +69,25 @@
                 "LINK_PAGE_TITLE": "Import from the web"
             },
             "CREDIT_PLACEHOLDER": "Type image credits...",
-            "VIDEO_CREDIT_PLACEHOLDER": "Type video credits...",
-            "DONE_EDIT_BUT": "Done"
+            "DONE_EDIT_BUT": "Done",
+            "VIDEO_CREDIT_PLACEHOLDER": "Type video credits..."
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Edit",
             "REPLACE_LABEL": "Replace",
             "DELETE_LABEL": "Delete"
+        },
+        "CROPPING": {
+            "LABEL": "CROPPING RATIO",
+            "LANDSCAPE_RATIO": "Landscape",
+            "SQUARE_RATIO": "Square",
+            "PORTRAIT_RATIO": "Portrait",
+            "FREESTYLE_RATIO": "Freestyle"
+        },
+        "EFFECT": {
+            "NORMAL": "Normal",
+            "BLUR": "Blur",
+            "ZOOM": "Zoom"
         }
     }
 }
