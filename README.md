@@ -25,6 +25,8 @@ After each deploy there is need to merge the develop branch to master .
   3. Create new  'link', to the github file, in the integration tab in the 'account setting' page of POeditor.
   4. Configure the relevant Jenkins task to support the new language in the LANGUAGE property.
   5. Export the project terms to the empty json file by using the relevant jenkins task.
+  6. Build all the relevant repositories and push the dist files.
+  7. Register the new language in create-locales-constant.js in container-create-client.
 
 - When all terms are translated, to export the translations, run Jenkins task again.
 
