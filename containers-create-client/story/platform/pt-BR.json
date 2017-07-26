@@ -5,7 +5,7 @@
             "EMPTY_TITLE": "Vamos começar!",
             "EMPTY_DESCRIPTION": "Crie e organize o seu Story",
             "TOOLTIP": "Mapa de navegação",
-            "MINIMUM_READ_TIME_LABEL": "min. de leitura"
+            "MINIMUM_READ_TIME_LABEL": "leitura mínima"
         },
         "VISIBILITY": {
             "TITLE": "Visibiliadade",
@@ -30,13 +30,13 @@
             "NEW_TAG_DESCRIPTION": "Separe por vírgulas"
         },
         "SOCIAL": {
-            "TITLE": "Aparência nas mídias sociais",
+            "TITLE": "Visualização nas mídias sociais",
             "DESCRIPTION": "Como o seu Story aparecerá nas redes sociais",
             "TOOLTIP": "Visualização nas mídias sociais"
         },
         "ABOUT": {
-            "TITLE": "O que é o Story",
-            "DESCRIPTION": "O Story é um recurso exclusivo para transformar longas narrativas em conteúdos engajadores, possibilitando uma experiência interativa e visualmente agradável aos leitores.",
+            "TITLE": "O que é o Story?",
+            "DESCRIPTION": "O Story é um recurso inédito para transformar longas narrativas em conteúdos engajadores, possibilitando uma experiência interativa e visualmente agradável aos leitores.",
             "STEP_1": "Escreva o seu Story",
             "STEP_2": "Publicar!",
             "STEP_3": "Compartilhe ou embede diretamente no seu site",
@@ -58,10 +58,12 @@
         "SAVE_BUT_PENDING": "Salvando...",
         "ERROR": {
             "MISSING_REQUIREMENTS": "Alguns requisitos estão faltando",
-            "LOGED_OUT": "Faça o login novamente",
             "SAVING_DISABLED": "Não é possível salvar agora. Tente novamente em 5 minutos",
             "OUTDATED": "Item desatualizado",
-            "SAVE_FAILED": "Falha ao salvar"
+            "SAVE_FAILED": "Falha ao salvar",
+            "COVER_UNSUPPORTED_FORMAT": "Falha ao carregar a imagem de topo. Tente um novo arquivo!",
+            "LOGGED_OUT": "Por favor, faça login novamente",
+            "BLOCKED": "O seu usuário está bloqueado"
         },
         "PREVIEW_BUT_PENDING": "Preparando..."
     },
@@ -83,11 +85,11 @@
         "CONVO": {
             "TITLE_LABEL": "Faça com que os leitores se sintam como se estivessem lendo mensagens de texto de alguém!",
             "TEXT_1_LABEL": "Escolha o modelo que permite inserir imagens para todos os participantes do Convo. Você pode adicionar texto e imagens a cada bolha de mensagem!",
-            "TEXT_2_LABEL": "Use o template Convo que tem a aparência e dá a sensação do messenger do iOS.",
+            "TEXT_2_LABEL": "Use o template Convo que lembra o messenger do iOS.",
             "TEXT_3_LABEL": "Use Convo para criar uma lista ou cronograma de eventos. Basta colocar um número ou uma data como imagem para cada \"participante\"."
         },
         "EMBED": {
-            "TITLE_LABEL": "Importe mídia da web. ",
+            "TITLE_LABEL": "Importe mídia da web.",
             "TEXT_1_LABEL": "Incorpore mapas do Google para mostrar aos seus leitores um local específico.",
             "TEXT_2_LABEL": "Inclua qualquer vídeo do Vimeo no seu artigo.",
             "TEXT_3_LABEL": "Incorpore postagens no Twitter para tornar o seu conteúdo mais interessante e envolvente.",
@@ -117,7 +119,8 @@
             "TEXT_2_LABEL": "Use uma imagem de capa na sua enquete para tornar a pergunta mais visual e emocionante.",
             "TEXT_3_LABEL": "Use uma imagem de fundo e escolha o modelo de \"Grid\" para criar uma pesquisa visualmente incrível e que seja divertida de interagir!",
             "TEXT_4_LABEL": "Lembre-se de incluir sempre uma alternativa \"nenhuma das opções anteriores\" para dar aos seus leitores uma saída fácil se nenhuma das opções lhes atender.",
-            "TEXT_5_LABEL": ""
+            "TEXT_5_LABEL": "",
+            "TEXT_6_LABEL": "Oculte os resultados da sua enquete até que você esteja pronto para compartilhá-los com o seu público. "
         },
         "QUOTE": {
             "TITLE_LABEL": "Destaque as palavras de impacto criando uma citação.",
@@ -142,7 +145,45 @@
         "VIDEO_PLAYER": {
             "TITLE_LABEL": "Enriqueça sua história com vídeos.",
             "TEXT_1_LABEL": "Use qualquer vídeo no Vimeo para tornar o seu artigo mais interessante.",
-            "TEXT_2_LABEL": "Use qualquer vídeo no Youtube para tornar o seu artigo mais interessante."
+            "TEXT_2_LABEL": "Use qualquer vídeo no YouTube para tornar o seu artigo mais interessante."
         }
+    },
+    "TEMPLATES": {
+        "START_NEW": "Comece um novo conteúdo",
+        "UPDATED": "Atualizado recentemente",
+        "TEMPLATE_NAME": "Nome do template",
+        "NEW": "Novo",
+        "NEW_FROM_TEMPLATE": "Opções de template",
+        "DUPLICATE": "Duplicar",
+        "ADD_A_TEMPLATE": "Adicionar aos templates",
+        "ADDED_A_TEMPLATE": "Adicionado!",
+        "ADDING": "Adicionando...",
+        "ADDING_DISABLED": "Para duplicar ou adicionar um template, salve o seu rascunho",
+        "SOMETHING_WENT_WRONG": "Alguma coisa não está certa",
+        "PLEASE_TRY_AGAIN": "por favor, tente de novo",
+        "CREATE": "Criar",
+        "INCLUDES": "Inclui",
+        "DELETE": "Deletar",
+        "DELETE_FROM_LIST": "Você tem certeza de que quer deletar este template?",
+        "CREATING_IN_PLAYBUZZ": "Criar com a Playbuzz ficou ainda mais fácil!",
+        "CREATING_IN_PLAYBUZZ_2": "Criar nunca foi tão fácil...",
+        "CREATING_IN_PLAYBUZZ_2_DESC": "Comece a contar a sua história a partir de um template pré-definido ou crie o seu próprio.",
+        "CREATING_IN_PLAYBUZZ_DESC_1": "Para criar um template, simplesmente comece um novo conteúdo e escolha ",
+        "CREATING_IN_PLAYBUZZ_DESC_2": "Adicione um template",
+        "START_HERE": "Comece aqui",
+        "NO_TEMPLATES_FOUND": "Não foram encontrados templates com este nome",
+        "CREATE_A_TEMPLATE": "Crie um template",
+        "GOT_IT": "Entendi!",
+        "FEATURED": "Destaque",
+        "TRAVEL": "Turismo",
+        "HOLIDAY": "Datas comemorativas",
+        "FUN": "Fun",
+        "STYLE": "Estilo",
+        "MUSIC": "Música",
+        "SPORTS": "Esportes",
+        "ENTERTAINMENT": "Entretenimento",
+        "NEWS": "Notícias",
+        "FOOD": "Comida",
+        "WORKING_ON_TEMPLATE": "Construindo um template:"
     }
 }

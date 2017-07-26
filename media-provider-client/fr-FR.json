@@ -1,0 +1,93 @@
+{
+    "MP": {
+        "OEMBED_ERROR": "Désolé nous n'avons pas pu charger cet item. Merci de réessayer plus tard.",
+        "FLIP_CARD": {
+            "FRONT_BUT": "DEVANT",
+            "BACK_BUT": "DERRIÈRE",
+            "LANDSCAPE_RATIO": "PAYSAGE",
+            "SQUARE_RATIO": "CARRÉ",
+            "FRONT_TITLE": "CARTE DE FACE",
+            "BACK_TITLE": "CARTE DE DOS",
+            "MEDIA_TOOLTIP": "Carte Image",
+            "TEXT_TOOLTIP": "Carte Texte",
+            "IMAGE_CAPTION_PLACEHOLDER": "Ajouter une légende..."
+        },
+        "TEXT_CARD": {
+            "TEXT_PLACEHOLDER": "Écrivez quelque chose d'inspirant...",
+            "DELETE_TOOLTIP": "Supprimer la Carte Texte"
+        },
+        "MODAL": {
+            "RESULT_ERROR": "Oups, cela n'a pas pu être téléchargé",
+            "ADD_TITLE": "Ajouter un support",
+            "EDIT_IMAGE_TITLE": "Recadrer Image",
+            "EDIT_VIDEO_TITLE": "Editer la Vidéo",
+            "MENU": {
+                "SEARCH_GROUP_TITLE": "RECHERCHER",
+                "IMPORT_GROUP_TITLE": "IMPORTER",
+                "FILE_LABEL": "Télécharger",
+                "LINK_LABEL": "Depuis Internet"
+            },
+            "GETTY": {
+                "LOGIN_DESC_FIRST_ROW": "Rechercher dans la bibliothèque Getty Images de Playbuzz ou",
+                "LOGIN_DESC_SECOND_ROW": "à votre propre compte Getty Images.",
+                "LOGIN_FORM_DESC": "Connectez-vous à votre compte",
+                "USERNAME_LABEL": "Identifiant",
+                "USERNAME_PLACEHOLDER": "Identifiant",
+                "PASSWORD_LABEL": "Mot de passe",
+                "PASSWORD_PLACEHOLDER": "Mot de passe",
+                "SUBMIT_BUT": "Connexion",
+                "CANCEL_BUT": "Annuler",
+                "LOGIN_ERROR": "Identifiant ou mot de passe incorrect",
+                "CONNECTED_USER": "Connexion en tant que",
+                "POWERED_BY_LABEL": "Powered by",
+                "LOGIN_LINK": "Mon compte",
+                "LOGOUT_LINK": "Déconnexion",
+                "RESULTS_COUNT_LABEL": "résultats",
+                "GRAPHIC_STYLE_ALL": "Tous",
+                "GRAPHIC_STYLE_ILLUSTRATION": "Illustration",
+                "GRAPHIC_STYLE_PHOTOGRAPHY": "Photographie",
+                "SORT_BEST_MATCH": "Selection personnalisée",
+                "SORT_NEWEST": "Nouveautés",
+                "SORT_MOST_POPULAR": "Les plus populaires"
+            },
+            "YOUTUBE": {
+                "RESULTS_COUNT_LABEL": "résultats"
+            },
+            "GIPHY": {
+                "RESULTS_COUNT_LABEL": "résultats"
+            },
+            "SEARCH": {
+                "SEARCH_PLACEHOLDER": "Chargement...",
+                "LOAD_MORE_BUT": "Charger davantage"
+            },
+            "IMPORT": {
+                "UPLOAD_LINK": "Téléchargez",
+                "DROP_FILE_TITLE": "ou faites glisser le fichier",
+                "LINK_PLACEHOLDER": "Vous avez un lien direct ?",
+                "INFO_LABEL": "Recommendations formats",
+                "SUBMIT_BUT": "Go",
+                "LINK_PAGE_TITLE": "Importer depuis internet"
+            },
+            "CREDIT_PLACEHOLDER": "Crédits images...",
+            "DONE_EDIT_BUT": "Terminé",
+            "VIDEO_CREDIT_PLACEHOLDER": "Crédits vidéo..."
+        },
+        "POPOVER_MENU": {
+            "EDIT_LABEL": "Éditer",
+            "REPLACE_LABEL": "Remplacer",
+            "DELETE_LABEL": "Supprimer"
+        },
+        "CROPPING": {
+            "LABEL": "FORMATS DE RECADRAGE",
+            "LANDSCAPE_RATIO": "Paysage",
+            "SQUARE_RATIO": "Carré",
+            "PORTRAIT_RATIO": "Portrait",
+            "FREESTYLE_RATIO": "Freestyle"
+        },
+        "EFFECT": {
+            "NORMAL": "Normal",
+            "BLUR": "Flou",
+            "ZOOM": "Zoom"
+        }
+    }
+}
