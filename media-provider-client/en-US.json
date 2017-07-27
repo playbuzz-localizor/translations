@@ -48,7 +48,11 @@
                 "GRAPHIC_STYLE_PHOTOGRAPHY": "Photography",
                 "SORT_BEST_MATCH": "Best Match",
                 "SORT_NEWEST": "Newest",
-                "SORT_MOST_POPULAR": "Most Popular"
+                "SORT_MOST_POPULAR": "Most Popular",
+                "FORMAT_ALL": "All",
+                "FORMAT_SD": "SD",
+                "FORMAT_HD": "HD",
+                "FORMAT_4K": "4K"
             },
             "YOUTUBE": {
                 "RESULTS_COUNT_LABEL": "results"
