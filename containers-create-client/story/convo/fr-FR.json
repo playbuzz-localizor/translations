@@ -1,9 +1,0 @@
-{
-    "CONVO": {
-        "PARTICIPANT_PLACEHOLDER": "Participant",
-        "BUBBLE_CONTENT_PLACEHOLDER": "Entrer un texte...",
-        "ADD_BUBBLE_TOOLTIP": "Ajouter une bulle",
-        "ADD_PARTICIPANT_TOOLTIP": "Ajouter participant",
-        "DELETE_MESSAGE": "Êtes-vous sûr(e) ?"
-    }
-}
