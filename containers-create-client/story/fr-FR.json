@@ -228,7 +228,7 @@
         "TEST_LINK_TOOLTIP": "Test link"
     },
     "EMBED": {
-        "DESCRIPTION_PLACEHOLDER": "Description"
+        "DESCRIPTION_PLACEHOLDER": ""
     },
     "IMAGE": {
         "CAPTION": "Image"

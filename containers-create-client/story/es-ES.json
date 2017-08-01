@@ -207,7 +207,7 @@
             "MINIMUM_READ_TIME_LABEL": "{{readTime}} mín. de lectura"
         },
         "SECTION_TITLE_PLACEHOLDER": "Título",
-        "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?"
+        "NOT_SAVED_ERR_MESSAGE": ""
     },
     "CTA": {
         "NO_EFFECT": "Ninguno",
@@ -325,8 +325,8 @@
             "JAZZ": "Jazz",
             "ENERGETIC_PIANO": "Piano Energético",
             "EMOTIONAL": "Emocional",
-            "SWING_BIG_BAND": "Swing/Big Band",
-            "THRILLER": "Thriller",
+            "SWING_BIG_BAND": "",
+            "THRILLER": "",
             "CINEMATIC": "Cinematic",
             "TRAILER": "Trailer",
             "INSPIRATIONAL": "Inspirador",
@@ -337,22 +337,22 @@
             "HIP_HOP": "Hip Hop",
             "MELANCHOLIC": "Melancólico",
             "SLOW_ROCK": "Rock Suave",
-            "SILENT_MOVIE_PIANO": "Silent Movie Piano"
+            "SILENT_MOVIE_PIANO": ""
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Clasico",
-            "VS": "VS.",
-            "SWIFT": "Swift",
-            "FACTS": "Facts"
+            "VS": "",
+            "SWIFT": "",
+            "FACTS": ""
         },
         "THEME_NAME_LABEL": {
             "DEFAULT": "Defecto",
             "PLAYBUZZ": "Playbuzz",
-            "SHADES_OF_GRAY": "grey",
-            "PLAYTIME": "playtime",
-            "BACK_TO_SCHOOL": "Back To School",
+            "SHADES_OF_GRAY": "",
+            "PLAYTIME": "",
+            "BACK_TO_SCHOOL": "",
             "NEUTRAL_BLUE": "Neutral Blue",
-            "PHAEDRA": "Phaedra",
+            "PHAEDRA": "",
             "FIESTA": "Fiesta",
             "GREENS": "Greens",
             "BUBBLEGUM": "Bubblegum",
@@ -390,8 +390,8 @@
             },
             "FACTS": {
                 "ENTER_TITLE_PLACEHOLDER": "Introducir Título",
-                "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
-                "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
+                "ENTER_FACT_PLACEHOLDER": "",
+                "FACT_REQUIRED_VALIDATION_MSG": ""
             }
         }
     },
