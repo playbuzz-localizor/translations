@@ -30,7 +30,8 @@
       }
     },
     "CLASSIC_LAYOUT_TOOLTIP": "Classic results template",
-    "GRID_LAYOUT_TOOLTIP": "Grid results template",
+    "GRID_LAYOUT_TOOLTIP": "Circle results",
+    "SQUARE_LAYOUT_TOOLTIP": "Square results",
     "DELETE_OPTION_BUT": "Delete option"
   }
 }
