@@ -1,27 +1,27 @@
 {
     "CREATE_MODULES": {
         "TEXT_EDITOR": {
-            "WORD": "WORD",
-            "WORDS": "WORDS",
-            "GOOD": "GOOD",
+            "WORD": "MOTS",
+            "WORDS": "MOTS",
+            "GOOD": "BIEN",
             "NORMAL": "O.K",
-            "BAD": "LITTLE TOO LONG",
-            "BOLD_TOOLTIP": "Bold",
+            "BAD": "UN PEU TROP LONG",
+            "BOLD_TOOLTIP": "Gras",
             "GOOD_INDICATION": "GOOD",
             "NORMAL_INDICATION": "O.K",
-            "BAD_INDICATION": "LITTLE TOO LONG",
-            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
+            "BAD_INDICATION": "UN PEU TROP LONG",
+            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. de lecture"
         },
-        "SECTION_TITLE_PLACEHOLDER": "Title",
-        "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
+        "SECTION_TITLE_PLACEHOLDER": "Titre",
+        "NOT_SAVED_ERR_MESSAGE": "Les dernières modifications n'ont pas été sauvegardées. Êtes-vous sûr(e) de vouloir quitter ?",
         "LIST": {
-            "ENABLE_VOTING_SWITCH": "Enable Voting",
+            "ENABLE_VOTING_SWITCH": "Activer les votes",
             "VOTE": "Vote",
             "TYPE": {
                 "NONE": "Normal",
-                "NUMBER": "Numbered List",
-                "BULLET": "Bulleted List",
-                "RANK": "Ranked List"
+                "NUMBER": "Numérotation",
+                "BULLET": "Puces",
+                "RANK": "Liste dynamique (vote)"
             }
         }
     }
