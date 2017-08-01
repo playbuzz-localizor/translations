@@ -1,7 +1,7 @@
 {
     "QUOTE": {
-        "TEXT_PLACEHOLDER": "Enter quote...",
-        "QUOTEE_PLACEHOLDER": "Who said it?",
-        "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more..."
+        "TEXT_PLACEHOLDER": "Entrer une citation",
+        "QUOTEE_PLACEHOLDER": "Qui en est l'auteur ?",
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Plus de détails (date, contexte, anecdote...)"
     }
 }
