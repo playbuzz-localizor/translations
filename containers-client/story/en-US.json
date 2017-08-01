@@ -27,7 +27,7 @@
         "COPY_CODE_BUTTON": "Copy code"
     },
     "POLL": {
-        "SHARE_POLL": "I Voted {answer} {question}"
+        "SHARE_POLL": "I Voted {{answer}} {{question}}"
     },
     "Vote": "Vote"
 }
