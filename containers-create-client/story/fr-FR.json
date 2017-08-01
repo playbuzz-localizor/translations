@@ -195,46 +195,46 @@
     },
     "CREATE_MODULES": {
         "TEXT_EDITOR": {
-            "WORD": "WORD",
-            "WORDS": "WORDS",
-            "GOOD": "GOOD",
+            "WORD": "MOTS",
+            "WORDS": "MOTS",
+            "GOOD": "BIEN",
             "NORMAL": "O.K",
-            "BAD": "LITTLE TOO LONG",
-            "BOLD_TOOLTIP": "Bold",
+            "BAD": "UN PEU TROP LONG",
+            "BOLD_TOOLTIP": "Gras",
             "GOOD_INDICATION": "GOOD",
             "NORMAL_INDICATION": "O.K",
-            "BAD_INDICATION": "LITTLE TOO LONG",
-            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
+            "BAD_INDICATION": "UN PEU TROP LONG",
+            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. de lecture"
         },
-        "SECTION_TITLE_PLACEHOLDER": "Title",
-        "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
+        "SECTION_TITLE_PLACEHOLDER": "Titre",
+        "NOT_SAVED_ERR_MESSAGE": "Les dernières modifications n'ont pas été sauvegardées. Êtes-vous sûr(e) de vouloir quitter ?",
         "LIST": {
-            "ENABLE_VOTING_SWITCH": "Enable Voting",
+            "ENABLE_VOTING_SWITCH": "Activer les votes",
             "VOTE": "Vote",
             "TYPE": {
                 "NONE": "Normal",
-                "NUMBER": "Numbered List",
-                "BULLET": "Bulleted List",
-                "RANK": "Ranked List"
+                "NUMBER": "Numérotation",
+                "BULLET": "Puces",
+                "RANK": "Liste dynamique (vote)"
             }
         }
     },
     "CTA": {
-        "NO_EFFECT": "None",
-        "PULSE_EFFECT": "Pulse",
-        "FLOATING_EFFECT": "Floating",
-        "BUTTON_TEXT": "Enter text...",
-        "LINK_PLACEHOLDER": "Enter link...",
-        "TEST_LINK_TOOLTIP": "Test link"
+        "NO_EFFECT": "Aucun",
+        "PULSE_EFFECT": "Animé",
+        "FLOATING_EFFECT": "Flottant",
+        "BUTTON_TEXT": "Entrer texte",
+        "LINK_PLACEHOLDER": "Entrer lien...",
+        "TEST_LINK_TOOLTIP": "Tester le lien"
     },
     "EMBED": {
-        "DESCRIPTION_PLACEHOLDER": ""
+        "DESCRIPTION_PLACEHOLDER": "Description"
     },
     "IMAGE": {
         "CAPTION": "Image"
     },
     "PARAGRAPH": {
-        "EDITOR_PLACEHOLDER": "Paragraph"
+        "EDITOR_PLACEHOLDER": "Paragraphe"
     },
     "POLL": {
         "BACKGROUND_TEMPLATE_TOOLTIP": "Image d'arrière plan",
@@ -271,9 +271,9 @@
         "DELETE_OPTION_BUT": "Supprimer cette option"
     },
     "QUOTE": {
-        "TEXT_PLACEHOLDER": "Enter quote...",
-        "QUOTEE_PLACEHOLDER": "Who said it?",
-        "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more..."
+        "TEXT_PLACEHOLDER": "Entrer une citation",
+        "QUOTEE_PLACEHOLDER": "Qui en est l'auteur ?",
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Plus de détails (date, contexte, anecdote...)"
     },
     "SUMMARY": {
         "ADD_ROW": "Ajouter une ligne",
@@ -413,10 +413,10 @@
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Description",
         "SETTINGS": {
-            "TITLE": "Settings",
+            "TITLE": "Paramètres",
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
-            "MUTE_SWITCH_LABEL": "Autoplay on mute",
-            "CLOSE_SETTINGS": "Back to Edit"
+            "MUTE_SWITCH_LABEL": "Autoplay (muet)",
+            "CLOSE_SETTINGS": "Retour à l'édition"
         }
     }
 }
