@@ -1,0 +1,5 @@
+{
+    "POLL": {
+        "SHARE_POLL": "I Voted {answer} {question}"
+    }
+}
