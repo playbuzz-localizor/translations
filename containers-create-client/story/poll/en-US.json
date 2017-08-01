@@ -29,8 +29,9 @@
             "SECURED_SWITCH": "Enable secure poll",
             "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save."
         },
-        "CLASSIC_LAYOUT_TOOLTIP": "Classic results template",
-        "GRID_LAYOUT_TOOLTIP": "Grid results template",
-        "DELETE_OPTION_BUT": "Delete option"
+        "CLASSIC_LAYOUT_TOOLTIP": "Classic bar results",
+        "GRID_LAYOUT_TOOLTIP": "Round results images",
+        "DELETE_OPTION_BUT": "Delete option",
+        "SQUARE_LAYOUT_TOOLTIP": "Square results images"
     }
 }
