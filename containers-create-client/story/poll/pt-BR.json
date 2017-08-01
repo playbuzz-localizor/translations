@@ -23,7 +23,11 @@
                 "TITLE_PLACEHOLDER": "Escreva um título...",
                 "DESCRIPTION_LABEL": "Descrição",
                 "DESCRIPTION_PLACEHOLDER": "Escreva uma descrição..."
-            }
+            },
+            "ALLOW_REVOTES_SWITCH": "Usuários podem votar de novo diariamente",
+            "HIDE_RESULTS_SWITCH": "Ocultar resultados da enquete",
+            "SECURED_SWITCH": "Ativar enquete segura",
+            "ADDITIONAL_SETTINGS_WARNING": "Esta alteração ficará visível após você clicar em \"salvar\". "
         },
         "CLASSIC_LAYOUT_TOOLTIP": "Template clássico",
         "GRID_LAYOUT_TOOLTIP": "Grid de imagens",

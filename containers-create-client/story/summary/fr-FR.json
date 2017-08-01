@@ -1,0 +1,10 @@
+{
+    "SUMMARY": {
+        "ADD_ROW": "Ajouter une ligne",
+        "SUBTITLE_PLACEHOLDER": "Sous-titre",
+        "ROW_PLACEHOLDER": "Entrer du texte...",
+        "NO_EFFECT": "Aucun",
+        "FADE_EFFECT": "Estomper",
+        "TITLE_PLACEHOLDER": "Titre"
+    }
+}

@@ -22,7 +22,9 @@
         "FACEBOOK_PAGE_IS_NOT_VALID": "A valid Facebook Page hasn't been linked to this channel,",
         "PERMISSION_REQUIRED_HEADER": "Cannot Crosspost",
         "PERMISSION_REQUIRED_LINK": "Why do we need this?",
-        "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Learn more about Crossposting"
+        "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Learn more about Crossposting",
+        "MCD_LABEL": "Embed video unit",
+        "COPY_CODE_BUTTON": "Copy code"
     },
     "Vote": "Vota"
 }

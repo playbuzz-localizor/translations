@@ -58,10 +58,12 @@
         "SAVE_BUT_PENDING": "Guardando...",
         "ERROR": {
             "MISSING_REQUIREMENTS": "Faltan algunos requisitos",
-            "LOGED_OUT": "Por favor, vuelve a iniciar sesión",
             "SAVING_DISABLED": "No se puede guardar. Por favor, inténtalo de nuevo dentro de 5 minutos",
             "OUTDATED": "El artículo no está actualizado",
-            "SAVE_FAILED": "No se ha podido guardar"
+            "SAVE_FAILED": "No se ha podido guardar",
+            "COVER_UNSUPPORTED_FORMAT": "Cover photo failed to upload. Try another file!",
+            "LOGGED_OUT": "Please re-login",
+            "BLOCKED": "Your user is blocked"
         },
         "PREVIEW_BUT_PENDING": "Preparando..."
     },
@@ -117,7 +119,8 @@
             "TEXT_2_LABEL": "Usa una imagen de portada para que tu encuesta sea más visual y atractiva.",
             "TEXT_3_LABEL": "¡Usa una imagen de fondo y elige la plantilla de cuadrícula para crear encuestas visualmente impactantes y con las que sea divertido interactuar!",
             "TEXT_4_LABEL": "Recuerda siempre incluir la opción «ninguna de las anteriores» para que tus lectores tengan una alternativa a la que recurrir su ninguna de las opciones propuestas se ajusta a ellos.",
-            "TEXT_5_LABEL": ""
+            "TEXT_5_LABEL": "",
+            "TEXT_6_LABEL": "Hide the results of your poll until you’re ready to share them with your audience."
         },
         "QUOTE": {
             "TITLE_LABEL": "Crea diseños de citas para destacar frases sabias.",
@@ -144,5 +147,43 @@
             "TEXT_1_LABEL": "Usa vídeos de Vimeo para que tus artículos sean más interesantes.",
             "TEXT_2_LABEL": "Usa vídeos de YouTube para que tus artículos sean más interesantes."
         }
+    },
+    "TEMPLATES": {
+        "START_NEW": "Comenzar un Nuevo Artículo",
+        "UPDATED": "Recientemente actualizado",
+        "TEMPLATE_NAME": "Nombre de la Plantilla",
+        "NEW": "Nuevo",
+        "NEW_FROM_TEMPLATE": "Nuevo desde la plantilla",
+        "DUPLICATE": "Duplicar",
+        "ADD_A_TEMPLATE": "Añadir una planilla",
+        "ADDED_A_TEMPLATE": "¡Añadido!",
+        "ADDING": "Añadiendo...",
+        "ADDING_DISABLED": "Para duplicar o añadir una plantilla, guarda tu borrador",
+        "SOMETHING_WENT_WRONG": "Algo salió mal",
+        "PLEASE_TRY_AGAIN": "Por favor, vuelve a intentarlo",
+        "CREATE": "Crea",
+        "INCLUDES": "Incluye",
+        "DELETE": "Eliminar",
+        "DELETE_FROM_LIST": "¿Esta seguro que desea eliminar esta plantilla?",
+        "CREATING_IN_PLAYBUZZ": "¡Crear en Playbuzz se hizo más fácil!",
+        "CREATING_IN_PLAYBUZZ_2": "Crear nunca ha sido tan fácil ...",
+        "CREATING_IN_PLAYBUZZ_2_DESC": "Comienza a contar tu Story con una plantilla ya hecha o crea tu propia",
+        "CREATING_IN_PLAYBUZZ_DESC_1": "Para crear una plantilla, simplemente crea un nuevo artículo y elija",
+        "CREATING_IN_PLAYBUZZ_DESC_2": "Añadir una plantilla",
+        "START_HERE": "Comenzar Aquí",
+        "NO_TEMPLATES_FOUND": "No pude encontrar plantillas bajo este nombre",
+        "CREATE_A_TEMPLATE": "Crear una plantilla",
+        "GOT_IT": "¡Lo tengo!",
+        "FEATURED": "Destacado",
+        "TRAVEL": "Viajar",
+        "HOLIDAY": "Vacaciones",
+        "FUN": "Divertido",
+        "STYLE": "Estilo",
+        "MUSIC": "Musica",
+        "SPORTS": "Deportes",
+        "ENTERTAINMENT": "Entretenimiento",
+        "NEWS": "Noticias",
+        "FOOD": "Comida",
+        "WORKING_ON_TEMPLATE": "Trabajando en una plantilla"
     }
 }
