@@ -2,10 +2,10 @@
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Description",
         "SETTINGS": {
-            "TITLE": "Settings",
+            "TITLE": "Paramètres",
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
-            "MUTE_SWITCH_LABEL": "Autoplay on mute",
-            "CLOSE_SETTINGS": "Back to Edit"
+            "MUTE_SWITCH_LABEL": "Autoplay (muet)",
+            "CLOSE_SETTINGS": "Retour à l'édition"
         }
     }
 }
