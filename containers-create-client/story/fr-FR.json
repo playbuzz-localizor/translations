@@ -97,7 +97,7 @@
         },
         "FLIP_CARD": {
             "TITLE_LABEL": "Surprenez vos lecteurs en affichant des images ou du texte qui se retournent par un simple clic.",
-            "TEXT_1_LABEL": "",
+            "TEXT_1_LABEL": "TEXT_1_LABEL",
             "TEXT_2_LABEL": "Utilisez les Flip Card pour révéler quelque chose de surprenant, distrayant ou choquant à vos lecteurs. Une bonne manière d'exploiter les Flip Card est aussi la confrontation avant/après.",
             "TEXT_3_LABEL": "Utilisez les Flip Card pour filtrer ce que les lecteurs peuvent voir. Donnez leur le choix, par exemple, d'accéder ou non à des contenus réservés aux adultes."
         },
@@ -119,7 +119,7 @@
             "TEXT_2_LABEL": "Ajoutez une image d'illustration à votre sondage pour lui donner plus d'impact visuel.",
             "TEXT_3_LABEL": "Ajoutez une image d'illustration et utilisez le template Grid pour créer un sondage captivant auquel on a envie de réagir !",
             "TEXT_4_LABEL": "Pensez à toujours inclure l'option \"aucune des réponses ci-dessus\" pour offrir la possibilité au lecteur de ne pas choisir si aucune des réponses ne lui convient.",
-            "TEXT_5_LABEL": "",
+            "TEXT_5_LABEL": "TEXT_5_LABEL",
             "TEXT_6_LABEL": "Vous pouvez cacher le résultat d'un sondage et le dévoiler à votre audience seulement au moment propice."
         },
         "QUOTE": {
@@ -268,7 +268,8 @@
         },
         "CLASSIC_LAYOUT_TOOLTIP": "Template résultats classiques",
         "GRID_LAYOUT_TOOLTIP": "Template grille de résultat",
-        "DELETE_OPTION_BUT": "Supprimer cette option"
+        "DELETE_OPTION_BUT": "Supprimer cette option",
+        "SQUARE_LAYOUT_TOOLTIP": "Square results images"
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Entrer une citation",
