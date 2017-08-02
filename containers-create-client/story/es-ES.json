@@ -207,7 +207,17 @@
             "MINIMUM_READ_TIME_LABEL": "{{readTime}} mín. de lectura"
         },
         "SECTION_TITLE_PLACEHOLDER": "Título",
-        "NOT_SAVED_ERR_MESSAGE": ""
+        "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
+        "LIST": {
+            "ENABLE_VOTING_SWITCH": "Enable Voting",
+            "VOTE": "Vote",
+            "TYPE": {
+                "NONE": "Normal",
+                "NUMBER": "Numbered List",
+                "BULLET": "Bulleted List",
+                "RANK": "Interactive List"
+            }
+        }
     },
     "CTA": {
         "NO_EFFECT": "Ninguno",
@@ -250,11 +260,16 @@
                 "TITLE_PLACEHOLDER": "Introduce un título...",
                 "DESCRIPTION_LABEL": "Descripción",
                 "DESCRIPTION_PLACEHOLDER": "Introduce una descripción..."
-            }
+            },
+            "ALLOW_REVOTES_SWITCH": "Readers can re-vote daily",
+            "HIDE_RESULTS_SWITCH": "Hide poll results",
+            "SECURED_SWITCH": "Enable secure poll",
+            "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save."
         },
         "CLASSIC_LAYOUT_TOOLTIP": "Plantilla de resultados clásicos",
         "GRID_LAYOUT_TOOLTIP": "Plantilla para resultados en círculo",
-        "DELETE_OPTION_BUT": "Delete option"
+        "DELETE_OPTION_BUT": "Delete option",
+        "SQUARE_LAYOUT_TOOLTIP": "Square results images"
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Introducir Quote",
@@ -325,8 +340,8 @@
             "JAZZ": "Jazz",
             "ENERGETIC_PIANO": "Piano Energético",
             "EMOTIONAL": "Emocional",
-            "SWING_BIG_BAND": "",
-            "THRILLER": "",
+            "SWING_BIG_BAND": "Swing/Big Band",
+            "THRILLER": "Thriller",
             "CINEMATIC": "Cinematic",
             "TRAILER": "Trailer",
             "INSPIRATIONAL": "Inspirador",
@@ -337,29 +352,30 @@
             "HIP_HOP": "Hip Hop",
             "MELANCHOLIC": "Melancólico",
             "SLOW_ROCK": "Rock Suave",
-            "SILENT_MOVIE_PIANO": ""
+            "SILENT_MOVIE_PIANO": "Silent Movie Piano"
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Clasico",
-            "VS": "",
-            "SWIFT": "",
-            "FACTS": ""
+            "VS": "VS.",
+            "SWIFT": "Swift",
+            "FACTS": "Facts"
         },
         "THEME_NAME_LABEL": {
             "DEFAULT": "Defecto",
             "PLAYBUZZ": "Playbuzz",
-            "SHADES_OF_GRAY": "",
-            "PLAYTIME": "",
-            "BACK_TO_SCHOOL": "",
+            "SHADES_OF_GRAY": "grey",
+            "PLAYTIME": "playtime",
+            "BACK_TO_SCHOOL": "Back To School",
             "NEUTRAL_BLUE": "Neutral Blue",
-            "PHAEDRA": "",
+            "PHAEDRA": "Phaedra",
             "FIESTA": "Fiesta",
             "GREENS": "Greens",
             "BUBBLEGUM": "Bubblegum",
             "GROUND_CONTROL": "Ground Control",
             "AMERICA": "America",
             "BEACH_UMBRELLA": "Beach Umbrella",
-            "BEACH_TIME": "Beach Time"
+            "BEACH_TIME": "Beach Time",
+            "GOSSIP": "Gossip"
         },
         "TEMPLATES": {
             "GENERAL": {
@@ -390,8 +406,8 @@
             },
             "FACTS": {
                 "ENTER_TITLE_PLACEHOLDER": "Introducir Título",
-                "ENTER_FACT_PLACEHOLDER": "",
-                "FACT_REQUIRED_VALIDATION_MSG": ""
+                "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
+                "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
             }
         }
     },
