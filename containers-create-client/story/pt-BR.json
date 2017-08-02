@@ -207,7 +207,17 @@
             "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. leitura"
         },
         "SECTION_TITLE_PLACEHOLDER": "Título",
-        "NOT_SAVED_ERR_MESSAGE": "Algumas alterações não foram salvas. Você tem certeza de que quer sair?"
+        "NOT_SAVED_ERR_MESSAGE": "Algumas alterações não foram salvas. Você tem certeza de que quer sair?",
+        "LIST": {
+            "ENABLE_VOTING_SWITCH": "Enable Voting",
+            "VOTE": "Vote",
+            "TYPE": {
+                "NONE": "Normal",
+                "NUMBER": "Numbered List",
+                "BULLET": "Bulleted List",
+                "RANK": "Interactive List"
+            }
+        }
     },
     "CTA": {
         "NO_EFFECT": "Nenhum",
@@ -258,7 +268,13 @@
         },
         "CLASSIC_LAYOUT_TOOLTIP": "Template clássico",
         "GRID_LAYOUT_TOOLTIP": "Grid de imagens",
-        "DELETE_OPTION_BUT": "Excluir opção"
+        "DELETE_OPTION_BUT": "Excluir opção",
+        "SQUARE_LAYOUT_TOOLTIP": "Square results images"
+    },
+    "QUOTE": {
+        "TEXT_PLACEHOLDER": "Escreva a citação...",
+        "QUOTEE_PLACEHOLDER": "Quem disse isso?",
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Conte um pouco mais..."
     },
     "SUMMARY": {
         "ADD_ROW": "Acrescentar linha",
@@ -318,47 +334,48 @@
         },
         "AUDIO_LABEL": {
             "NONE": "Nenhum",
-            "UPBEAT": "",
-            "INTENSE": "",
-            "OPTIMISTIC": "",
-            "JAZZ": "",
-            "ENERGETIC_PIANO": "",
-            "EMOTIONAL": "",
-            "SWING_BIG_BAND": "",
-            "THRILLER": "",
-            "CINEMATIC": "",
-            "TRAILER": "",
-            "INSPIRATIONAL": "",
-            "GANGSTA": "",
-            "ELECTRONIC": "",
-            "DARK_BEATS": "",
-            "FUNKY": "",
-            "HIP_HOP": "",
-            "MELANCHOLIC": "",
-            "SLOW_ROCK": "",
-            "SILENT_MOVIE_PIANO": ""
+            "UPBEAT": "Upbeat",
+            "INTENSE": "Intense",
+            "OPTIMISTIC": "Optimistic",
+            "JAZZ": "Jazz",
+            "ENERGETIC_PIANO": "Energetic Piano",
+            "EMOTIONAL": "Emotional",
+            "SWING_BIG_BAND": "Swing/Big Band",
+            "THRILLER": "Thriller",
+            "CINEMATIC": "Cinematic",
+            "TRAILER": "Trailer",
+            "INSPIRATIONAL": "Inspirational",
+            "GANGSTA": "Gangsta",
+            "ELECTRONIC": "Electronic",
+            "DARK_BEATS": "Dark Beats",
+            "FUNKY": "Funky",
+            "HIP_HOP": "Hip Hop",
+            "MELANCHOLIC": "Melancholic",
+            "SLOW_ROCK": "Slow Rock",
+            "SILENT_MOVIE_PIANO": "Silent Movie Piano"
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classic",
-            "VS": "",
-            "SWIFT": "",
-            "FACTS": ""
+            "VS": "VS.",
+            "SWIFT": "Swift",
+            "FACTS": "Facts"
         },
         "THEME_NAME_LABEL": {
-            "DEFAULT": "",
+            "DEFAULT": "Default",
             "PLAYBUZZ": "Playbuzz",
-            "SHADES_OF_GRAY": "",
-            "PLAYTIME": "",
-            "BACK_TO_SCHOOL": "",
-            "NEUTRAL_BLUE": "",
-            "PHAEDRA": "",
-            "FIESTA": "",
-            "GREENS": "",
-            "BUBBLEGUM": "",
-            "GROUND_CONTROL": "",
-            "AMERICA": "",
-            "BEACH_UMBRELLA": "",
-            "BEACH_TIME": ""
+            "SHADES_OF_GRAY": "grey",
+            "PLAYTIME": "playtime",
+            "BACK_TO_SCHOOL": "Back To School",
+            "NEUTRAL_BLUE": "Neutral Blue",
+            "PHAEDRA": "Phaedra",
+            "FIESTA": "Fiesta",
+            "GREENS": "Greens",
+            "BUBBLEGUM": "Bubblegum",
+            "GROUND_CONTROL": "Ground Control",
+            "AMERICA": "America",
+            "BEACH_UMBRELLA": "Beach Umbrella",
+            "BEACH_TIME": "Beach Time",
+            "GOSSIP": "Gossip"
         },
         "TEMPLATES": {
             "GENERAL": {
@@ -374,9 +391,9 @@
             },
             "VS": {
                 "PRE_CTA_PLACEHOLDER": "Texto de abertura (opcional)",
-                "SIDE_A_PLACEHOLDER": "",
+                "SIDE_A_PLACEHOLDER": "A",
                 "FEATURE_A_PLACEHOLDER": "Escreva um texto para A",
-                "SIDE_B_PLACEHOLDER": "",
+                "SIDE_B_PLACEHOLDER": "B",
                 "FEATURE_B_PLACEHOLDER": "Escreva um texto para B",
                 "PREMISE_PLACEHOLDER": "Escreva o título do vídeo",
                 "COMPARISON_PLACEHOLDER": "Comparação",
