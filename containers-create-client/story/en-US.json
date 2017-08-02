@@ -185,5 +185,239 @@
         "NEWS": "News",
         "FOOD": "Food",
         "WORKING_ON_TEMPLATE": "Working on template:"
+    },
+    "CONVO": {
+        "PARTICIPANT_PLACEHOLDER": "Participant",
+        "BUBBLE_CONTENT_PLACEHOLDER": "Enter text...",
+        "ADD_BUBBLE_TOOLTIP": "Add Bubble",
+        "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
+        "DELETE_MESSAGE": "Are you sure?"
+    },
+    "CREATE_MODULES": {
+        "TEXT_EDITOR": {
+            "WORD": "WORD",
+            "WORDS": "WORDS",
+            "GOOD": "GOOD",
+            "NORMAL": "O.K",
+            "BAD": "LITTLE TOO LONG",
+            "BOLD_TOOLTIP": "Bold",
+            "GOOD_INDICATION": "GOOD",
+            "NORMAL_INDICATION": "O.K",
+            "BAD_INDICATION": "LITTLE TOO LONG",
+            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
+        },
+        "SECTION_TITLE_PLACEHOLDER": "Title",
+        "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
+        "LIST": {
+            "ENABLE_VOTING_SWITCH": "Enable Voting",
+            "VOTE": "Vote",
+            "TYPE": {
+                "NONE": "Normal",
+                "NUMBER": "Numbered List",
+                "BULLET": "Bulleted List",
+                "RANK": "Interactive List"
+            }
+        }
+    },
+    "CTA": {
+        "NO_EFFECT": "None",
+        "PULSE_EFFECT": "Pulse",
+        "FLOATING_EFFECT": "Floating",
+        "BUTTON_TEXT": "Enter text...",
+        "LINK_PLACEHOLDER": "Enter link...",
+        "TEST_LINK_TOOLTIP": "Test link"
+    },
+    "EMBED": {
+        "DESCRIPTION_PLACEHOLDER": "Description"
+    },
+    "IMAGE": {
+        "CAPTION": "Image"
+    },
+    "PARAGRAPH": {
+        "EDITOR_PLACEHOLDER": "Paragraph"
+    },
+    "POLL": {
+        "BACKGROUND_TEMPLATE_TOOLTIP": "Background image",
+        "COVER_TEMPLATE_TOOLTIP": "Cover image",
+        "CLASSIC_TEMPLATE_TOOLTIP": "Classic results",
+        "GRID_TEMPLATE_TOOLTIP": "Grid results ",
+        "SETTINGS_TOOLTIP": "Poll settings",
+        "TITLE_PLACEHOLDER": "Question",
+        "OPTION_PLACEHOLDER": "Option {{index}}",
+        "ADD_OPTION_BUT": "Add option",
+        "SETTINGS": {
+            "TITLE": "POLL SETTINGS",
+            "HERE_LINK": "here",
+            "BACK_BUTTON": "Back to edit",
+            "ENABLE_VOTING_SWITCH": "Enable Voting",
+            "TOTAL_VOTES_SWITCH": "Show Total Votes",
+            "DISPLAY_LOGO_SWITCH": "Display Logo",
+            "DISPLAY_LOGO_DESCRIPTION": "Apply additional customization by adding your logo. Change your display picture",
+            "END_CARD_SWITCH": "End Card",
+            "END_CARD_DESCRIPTION": "Drive more shares and engagement using End Card",
+            "END_CARD": {
+                "TITLE_LABEL": "Title",
+                "TITLE_PLACEHOLDER": "Enter title...",
+                "DESCRIPTION_LABEL": "Description",
+                "DESCRIPTION_PLACEHOLDER": "Enter description..."
+            },
+            "ALLOW_REVOTES_SWITCH": "Readers can re-vote daily",
+            "HIDE_RESULTS_SWITCH": "Hide poll results",
+            "SECURED_SWITCH": "Enable secure poll",
+            "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save."
+        },
+        "CLASSIC_LAYOUT_TOOLTIP": "Classic bar results",
+        "GRID_LAYOUT_TOOLTIP": "Round results images",
+        "DELETE_OPTION_BUT": "Delete option",
+        "SQUARE_LAYOUT_TOOLTIP": "Square results images"
+    },
+    "QUOTE": {
+        "TEXT_PLACEHOLDER": "Enter quote...",
+        "QUOTEE_PLACEHOLDER": "Who said it?",
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more..."
+    },
+    "SUMMARY": {
+        "ADD_ROW": "Add row",
+        "SUBTITLE_PLACEHOLDER": "Subtitle",
+        "ROW_PLACEHOLDER": "Enter text...",
+        "NO_EFFECT": "None",
+        "FADE_EFFECT": "Fade In",
+        "TITLE_PLACEHOLDER": "Title"
+    },
+    "VIDEO_CREATOR": {
+        "PLAY": "PLAY",
+        "PAUSE": "PAUSE",
+        "GALLERY_TITLE": "Pick a template",
+        "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
+        "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
+        "SETTINGS": {
+            "TITLE": "Settings",
+            "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+            "MUTE_SWITCH_LABEL": "Autoplay on mute",
+            "LOGO_LABEL": "Custom Logo",
+            "CLOSE_SETTINGS": "Back to Edit",
+            "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness"
+        },
+        "PREVIEW_BUT": "Preview Video",
+        "NOT_SUPPORTED_LABEL": "Not Supported",
+        "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly.",
+        "REMOVE_SCENE": {
+            "TITLE": "Are you sure ?",
+            "DELETE_BUTTON_TEXT": "Delete"
+        },
+        "SCENE_NAME": {
+            "GENERAL": {
+                "INTRO_LABEL": "INTRO",
+                "ENDING_LABEL": "ENDING",
+                "CREDITS_LABEL": "CREDITS"
+            },
+            "CLASSIC": {
+                "ITEM_LABEL": "ITEM"
+            },
+            "FACTS": {
+                "ITEM_LABEL": "FACT"
+            },
+            "SWIFT": {
+                "ITEM_BOTTOM_LABEL": "BOTTOM",
+                "ITEM_TOP_LABEL": "TOP"
+            },
+            "VS": {
+                "ITEM_LABEL": "SUBJECT",
+                "ENDING_LABEL": "CONCLUSION"
+            }
+        },
+        "CHANGE_TEMPLATE_WARNING": {
+            "TITLE": "Different Template Type",
+            "WARNING_MESSAGE": "Content entered might not be displayed in this template",
+            "CANCEL_BUTTON": "Cancel",
+            "CHANGE_BUTTON": "Change Template"
+        },
+        "AUDIO_LABEL": {
+            "NONE": "None",
+            "UPBEAT": "Upbeat",
+            "INTENSE": "Intense",
+            "OPTIMISTIC": "Optimistic",
+            "JAZZ": "Jazz",
+            "ENERGETIC_PIANO": "Energetic Piano",
+            "EMOTIONAL": "Emotional",
+            "SWING_BIG_BAND": "Swing/Big Band",
+            "THRILLER": "Thriller",
+            "CINEMATIC": "Cinematic",
+            "TRAILER": "Trailer",
+            "INSPIRATIONAL": "Inspirational",
+            "GANGSTA": "Gangsta",
+            "ELECTRONIC": "Electronic",
+            "DARK_BEATS": "Dark Beats",
+            "FUNKY": "Funky",
+            "HIP_HOP": "Hip Hop",
+            "MELANCHOLIC": "Melancholic",
+            "SLOW_ROCK": "Slow Rock",
+            "SILENT_MOVIE_PIANO": "Silent Movie Piano"
+        },
+        "TEMPLATE_NAME": {
+            "CLASSIC": "Classic",
+            "VS": "VS.",
+            "SWIFT": "Swift",
+            "FACTS": "Facts"
+        },
+        "THEME_NAME_LABEL": {
+            "DEFAULT": "Default",
+            "PLAYBUZZ": "Playbuzz",
+            "SHADES_OF_GRAY": "grey",
+            "PLAYTIME": "playtime",
+            "BACK_TO_SCHOOL": "Back To School",
+            "NEUTRAL_BLUE": "Neutral Blue",
+            "PHAEDRA": "Phaedra",
+            "FIESTA": "Fiesta",
+            "GREENS": "Greens",
+            "BUBBLEGUM": "Bubblegum",
+            "GROUND_CONTROL": "Ground Control",
+            "AMERICA": "America",
+            "BEACH_UMBRELLA": "Beach Umbrella",
+            "BEACH_TIME": "Beach Time",
+            "GOSSIP":"Gossip"
+        },
+        "TEMPLATES": {
+            "GENERAL": {
+                "MAIN_TITLE_PLACEHOLDER": "Enter Main Title",
+                "ENTER_TEXT_PLACEHOLDER": "Enter Text",
+                "CTA_PLACEHOLDER": "End with call to action!",
+                "BACKGROUND_REQUIRED_VALIDATION_MSG": "Background image is required",
+                "TEXT_REQUIRED_VALIDATION_MSG": "Text is required",
+                "TITLE_REQUIRED_VALIDATION_MSG": "Title is required"
+            },
+            "CLASSIC": {
+                "SUB_TITLE_PLACEHOLDER": "Enter subtitle (optional)"
+            },
+            "VS": {
+                "PRE_CTA_PLACEHOLDER": "Preliminary text (optional)",
+                "SIDE_A_PLACEHOLDER": "A",
+                "FEATURE_A_PLACEHOLDER": "Enter text for A",
+                "SIDE_B_PLACEHOLDER": "B",
+                "FEATURE_B_PLACEHOLDER": "Enter text for B",
+                "PREMISE_PLACEHOLDER": "Enter video title",
+                "COMPARISON_PLACEHOLDER": "Comparison",
+                "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "A background image is required",
+                "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "B background image is required",
+                "A_TITLE_REQUIRED_VALIDATION_MSG": "A title is required",
+                "B_TITLE_REQUIRED_VALIDATION_MSG": "B title is required",
+                "PREMISE_REQUIRED_VALIDATION_MSG": "Video title is required",
+                "COMPARISON_REQUIRED_VALIDATION_MSG": "Comparison is required"
+            },
+            "FACTS": {
+                "ENTER_TITLE_PLACEHOLDER": "ENTER TITLE",
+                "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
+                "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
+            }
+        }
+    },
+    "VIDEO_PLAYER": {
+        "DESCRIPTION_PLACEHOLDER": "Description",
+        "SETTINGS": {
+            "TITLE": "Settings",
+            "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+            "MUTE_SWITCH_LABEL": "Autoplay on mute",
+            "CLOSE_SETTINGS": "Back to Edit"
+        }
     }
 }

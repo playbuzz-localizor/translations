@@ -144,5 +144,224 @@
       "TEXT_1_LABEL": "Используйте любое видео на Vimeo, чтобы сделать вашу статью более интересной.",
       "TEXT_2_LABEL": "Используйте любое видео на Youtube, чтобы сделать вашу статью более интересной."
     }
+  },
+  "CONVO": {
+    "PARTICIPANT_PLACEHOLDER": "Имя",
+    "BUBBLE_CONTENT_PLACEHOLDER": "Введите текст...",
+    "ADD_BUBBLE_TOOLTIP": "Добавить реплику",
+    "ADD_PARTICIPANT_TOOLTIP": "Добавить собеседника",
+    "DELETE_MESSAGE": "Вы уверены?"
+  },
+  "CREATE_MODULES": {
+    "TEXT_EDITOR": {
+      "WORD": "СЛОВО",
+      "WORDS": "СЛОВА",
+      "GOOD": "ОТЛИЧНО",
+      "NORMAL": "ХОРОШО",
+      "BAD": "НЕМНОГО ДЛИННО",
+      "BOLD_TOOLTIP": "Полужирный",
+      "GOOD_INDICATION": "ОТЛИЧНО",
+      "NORMAL_INDICATION": "ХОРОШО",
+      "BAD_INDICATION": "НЕМНОГО ДЛИННО",
+      "MINIMUM_READ_TIME_LABEL": "Прочитают за {{readTime}} мин."
+    },
+    "SECTION_TITLE_PLACEHOLDER": "Заголовок",
+    "NOT_SAVED_ERR_MESSAGE": ""
+  },
+  "CTA": {
+    "NO_EFFECT": "Без эффектов",
+    "PULSE_EFFECT": "Эффект пульсации",
+    "FLOATING_EFFECT": "Эффект перемещения",
+    "BUTTON_TEXT": "Введите текст...",
+    "LINK_PLACEHOLDER": "Вставьте ссылку...",
+    "TEST_LINK_TOOLTIP": "Проверить ссылку"
+  },
+  "EMBED": {
+    "DESCRIPTION_PLACEHOLDER": "Описание"
+  },
+  "IMAGE": {
+    "CAPTION": "Изображение"
+  },
+  "PARAGRAPH": {
+    "EDITOR_PLACEHOLDER": "Введите текст"
+  },
+  "POLL": {
+    "BACKGROUND_TEMPLATE_TOOLTIP": "Фоновое изображение",
+    "COVER_TEMPLATE_TOOLTIP": "Обложка",
+    "CLASSIC_TEMPLATE_TOOLTIP": "Классический формат",
+    "GRID_TEMPLATE_TOOLTIP": "Формат \"Сетка\"",
+    "SETTINGS_TOOLTIP": "Настройки опроса",
+    "TITLE_PLACEHOLDER": "Вопрос",
+    "OPTION_PLACEHOLDER": "Вариант {{index}}",
+    "ADD_OPTION_BUT": "Добавить вариант",
+    "SETTINGS": {
+      "TITLE": "НАСТРОЙКИ ОПРОСА",
+      "HERE_LINK": "здесь",
+      "BACK_BUTTON": "Назад к опросу",
+      "ENABLE_VOTING_SWITCH": "Активировать опрос",
+      "TOTAL_VOTES_SWITCH": "Показывать общее количество голосов",
+      "DISPLAY_LOGO_SWITCH": "Показывать логотип",
+      "DISPLAY_LOGO_DESCRIPTION": "Добавьте ваш логотип, чтобы индивидуализировать опрос. Вы можете изменить ваше изображение",
+      "END_CARD_SWITCH": "Завершающее сообщение",
+      "END_CARD_DESCRIPTION": "Вашим опросом поделятся и примут участие больше респондентов, если вы добавите благодарственный текст в конце опроса",
+      "END_CARD": {
+        "TITLE_LABEL": "Заголовок",
+        "TITLE_PLACEHOLDER": "Введите заголовок...",
+        "DESCRIPTION_LABEL": "Описание",
+        "DESCRIPTION_PLACEHOLDER": "Введите описание..."
+      }
+    },
+    "CLASSIC_LAYOUT_TOOLTIP": "Формат результатов: Классический",
+    "GRID_LAYOUT_TOOLTIP": "Формат результатов: Сетка",
+    "DELETE_OPTION_BUT": ""
+  },
+  "QUOTE": {
+    "TEXT_PLACEHOLDER": "Вставьте цитату...",
+    "QUOTEE_PLACEHOLDER": "Кто это сказал?",
+    "ADDITIONAL_TEXT_PLACEHOLDER": "Расскажите подробней..."
+  },
+  "SUMMARY": {
+    "ADD_ROW": "Добавить строку",
+    "SUBTITLE_PLACEHOLDER": "Подзаголовок",
+    "ROW_PLACEHOLDER": "Введите текст...",
+    "NO_EFFECT": "Без эффектов",
+    "FADE_EFFECT": "Эффект появления",
+    "TITLE_PLACEHOLDER": "Заголовок"
+  },
+  "VIDEO_CREATOR": {
+    "PLAY": "ИГРАТЬ",
+    "PAUSE": "ПАУЗА",
+    "GALLERY_TITLE": "Выбрать шаблон",
+    "OPEN_TEMPLATES_GALLERY_BUT": "Сменить шаблон",
+    "CLOSE_TEMPLATES_GALLERY_BUT": "Назад к видео",
+    "SETTINGS": {
+      "TITLE": "Настройки",
+      "AUTOPLAY_SWITCH_LABEL": "Автозапуск видео",
+      "MUTE_SWITCH_LABEL": "Отключить звук при воспроизведении",
+      "LOGO_LABEL": "Ваш логотип",
+      "CLOSE_SETTINGS": "Назад к видео",
+      "LOGO_DESCRIPTION": "Загрузите ваш логотип, чтобы запомниться зрителям и повысить узнаваемость бренда"
+    },
+    "PREVIEW_BUT": "",
+    "NOT_SUPPORTED_LABEL": "",
+    "IE_ERR_MESSAGE": "",
+    "REMOVE_SCENE": {
+      "TITLE": "",
+      "DELETE_BUTTON_TEXT": ""
+    },
+    "SCENE_NAME": {
+      "GENERAL": {
+        "INTRO_LABEL": "",
+        "ENDING_LABEL": "",
+        "CREDITS_LABEL": ""
+      },
+      "CLASSIC": {
+        "ITEM_LABEL": ""
+      },
+      "FACTS": {
+        "ITEM_LABEL": ""
+      },
+      "SWIFT": {
+        "ITEM_BOTTOM_LABEL": "",
+        "ITEM_TOP_LABEL": ""
+      },
+      "VS": {
+        "ITEM_LABEL": "",
+        "ENDING_LABEL": ""
+      }
+    },
+    "CHANGE_TEMPLATE_WARNING": {
+      "TITLE": "",
+      "WARNING_MESSAGE": "",
+      "CANCEL_BUTTON": "",
+      "CHANGE_BUTTON": ""
+    },
+    "AUDIO_LABEL": {
+      "NONE": "",
+      "UPBEAT": "",
+      "INTENSE": "",
+      "OPTIMISTIC": "",
+      "JAZZ": "",
+      "ENERGETIC_PIANO": "",
+      "EMOTIONAL": "",
+      "SWING_BIG_BAND": "",
+      "THRILLER": "",
+      "CINEMATIC": "",
+      "TRAILER": "",
+      "INSPIRATIONAL": "",
+      "GANGSTA": "",
+      "ELECTRONIC": "",
+      "DARK_BEATS": "",
+      "FUNKY": "",
+      "HIP_HOP": "",
+      "MELANCHOLIC": "",
+      "SLOW_ROCK": "",
+      "SILENT_MOVIE_PIANO": ""
+    },
+    "TEMPLATE_NAME": {
+      "CLASSIC": "",
+      "VS": "",
+      "SWIFT": "",
+      "FACTS": ""
+    },
+    "THEME_NAME_LABEL": {
+      "DEFAULT": "",
+      "PLAYBUZZ": "Playbuzz",
+      "SHADES_OF_GRAY": "",
+      "PLAYTIME": "",
+      "BACK_TO_SCHOOL": "",
+      "NEUTRAL_BLUE": "",
+      "PHAEDRA": "",
+      "FIESTA": "",
+      "GREENS": "",
+      "BUBBLEGUM": "",
+      "GROUND_CONTROL": "",
+      "AMERICA": "",
+      "BEACH_UMBRELLA": "",
+      "BEACH_TIME": ""
+    },
+    "TEMPLATES": {
+      "GENERAL": {
+        "MAIN_TITLE_PLACEHOLDER": "",
+        "ENTER_TEXT_PLACEHOLDER": "",
+        "CTA_PLACEHOLDER": "",
+        "BACKGROUND_REQUIRED_VALIDATION_MSG": "",
+        "TEXT_REQUIRED_VALIDATION_MSG": "",
+        "TITLE_REQUIRED_VALIDATION_MSG": ""
+      },
+      "CLASSIC": {
+        "SUB_TITLE_PLACEHOLDER": ""
+      },
+      "VS": {
+        "PRE_CTA_PLACEHOLDER": "",
+        "SIDE_A_PLACEHOLDER": "",
+        "FEATURE_A_PLACEHOLDER": "",
+        "SIDE_B_PLACEHOLDER": "",
+        "FEATURE_B_PLACEHOLDER": "",
+        "PREMISE_PLACEHOLDER": "",
+        "COMPARISON_PLACEHOLDER": "",
+        "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "",
+        "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "",
+        "A_TITLE_REQUIRED_VALIDATION_MSG": "",
+        "B_TITLE_REQUIRED_VALIDATION_MSG": "",
+        "PREMISE_REQUIRED_VALIDATION_MSG": "",
+        "COMPARISON_REQUIRED_VALIDATION_MSG": ""
+      },
+      "FACTS": {
+        "ENTER_TITLE_PLACEHOLDER": "",
+        "ENTER_FACT_PLACEHOLDER": "",
+        "FACT_REQUIRED_VALIDATION_MSG": ""
+      }
+    }
+  },
+  "VIDEO_PLAYER": {
+    "DESCRIPTION_PLACEHOLDER": "Описание",
+    "SETTINGS": {
+      "TITLE": "Settings",
+      "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+      "MUTE_SWITCH_LABEL": "Autoplay on mute",
+      "CLOSE_SETTINGS": "Back to Edit"
+    }
   }
+
 }
