@@ -1,5 +1,4 @@
 {
-    "AAA": "aaa",
     "LEFT_PANE": {
         "MAP": {
             "TITLE": "Map",
@@ -376,7 +375,7 @@
             "AMERICA": "America",
             "BEACH_UMBRELLA": "Beach Umbrella",
             "BEACH_TIME": "Beach Time",
-            "GOSSIP":"Gossip"
+            "GOSSIP": "Gossip"
         },
         "TEMPLATES": {
             "GENERAL": {
@@ -420,5 +419,6 @@
             "MUTE_SWITCH_LABEL": "Autoplay on mute",
             "CLOSE_SETTINGS": "Back to Edit"
         }
-    }
+    },
+    "AAA": "aaabbb"
 }
