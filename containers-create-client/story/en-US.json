@@ -149,6 +149,7 @@
         }
     },
     "TEMPLATES": {
+        "VIDEO": "Video",
         "START_NEW": "Start a New Item",
         "UPDATED": "Recently updated",
         "TEMPLATE_NAME": "Template name",
