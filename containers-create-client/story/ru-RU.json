@@ -1,367 +1,423 @@
 {
-  "LEFT_PANE": {
-    "MAP": {
-      "TITLE": "Структура",
-      "EMPTY_TITLE": "Начните здесь!",
-      "EMPTY_DESCRIPTION": "Здесь будут отображаться все элементы вашей Истории",
-      "TOOLTIP": "Структура",
-      "MINIMUM_READ_TIME_LABEL": "мин. прочтение"
+    "LEFT_PANE": {
+        "MAP": {
+            "TITLE": "Структура",
+            "EMPTY_TITLE": "Начните здесь!",
+            "EMPTY_DESCRIPTION": "Здесь будут отображаться все элементы вашей Истории",
+            "TOOLTIP": "Структура",
+            "MINIMUM_READ_TIME_LABEL": "мин. прочтение"
+        },
+        "VISIBILITY": {
+            "TITLE": "Настройки доступа",
+            "DESCRIPTION": "Кто может просматривать вашу Историю",
+            "LANGUAGE_TITLE": "Язык",
+            "LANGUAGE_DESCRIPTION": "Укажите язык Истории",
+            "LANGUAGE_CHECKBOX_LABEL": "Разрешить перевод на другие языки",
+            "SPONSORED_TITLE": "Рекламный материал",
+            "SPONSORED_CHECKBOX_LABEL": "Это рекламный материал",
+            "TOOLTIP": "Просматривать могут: {{viewPermission}}",
+            "VIEW_PERMISSIONS_DROPDOWN": {
+                "PUBLIC": "Все (рекомендовано)",
+                "ONLY_ME": "Только я",
+                "ONLY_DIRECT_LINK": "Все, у кого есть ссылка"
+            }
+        },
+        "TAGS": {
+            "TITLE": "Теги",
+            "DESCRIPTION": "Благодаря #тегам больше людей прочитают вашу Историю",
+            "TOOLTIP": "Теги",
+            "NEW_TAG_PLACEHOLDER": "Введите #теги",
+            "NEW_TAG_DESCRIPTION": "Теги вводятся через запятую"
+        },
+        "SOCIAL": {
+            "TITLE": "Отображение в соцсетях",
+            "DESCRIPTION": "Как будет выглядеть ваша История в соцсетях",
+            "TOOLTIP": "Отображение в соцсетях"
+        },
+        "ABOUT": {
+            "TITLE": "Что такое История?",
+            "DESCRIPTION": "История – это первый в мире инструмент для создания статей, который позволяет разбить повествование на увлекательные фрагменты и сделать чтение интерактивным, захватывающим и ярким для читателей.",
+            "STEP_1": "Создайте Историю",
+            "STEP_2": "Опубликуйте её",
+            "STEP_3": "Поделитесь вашей Историей или мгновенно вставьте её на свой веб-сайт",
+            "STEP_4": "Готово!",
+            "QUESTIONS_TITLE": "Остались вопросы?",
+            "QUESTIONS_DESCRIPTION": "Свяжитесь с нами",
+            "TOOLTIP": "О нас"
+        }
     },
-    "VISIBILITY": {
-      "TITLE": "Настройки доступа",
-      "DESCRIPTION": "Кто может просматривать вашу Историю",
-      "LANGUAGE_TITLE": "Язык",
-      "LANGUAGE_DESCRIPTION": "Укажите язык Истории",
-      "LANGUAGE_CHECKBOX_LABEL": "Разрешить перевод на другие языки",
-      "SPONSORED_TITLE": "Рекламный материал",
-      "SPONSORED_CHECKBOX_LABEL": "Это рекламный материал",
-      "TOOLTIP": "Просматривать могут: {{viewPermission}}",
-      "VIEW_PERMISSIONS_DROPDOWN": {
-        "PUBLIC": "Все (рекомендовано)",
-        "ONLY_ME": "Только я",
-        "ONLY_DIRECT_LINK": "Все, у кого есть ссылка"
-      }
+    "ACTION_PANE": {
+        "PUBLISH_BUT": "Опубликовать",
+        "SAVE_BUT": "Сохранить",
+        "ERROR_MESSAGE": "Ошибка",
+        "PUBLISH_BUT_PENDING": "Публикация...",
+        "PREVIEW_BUT": "Предпросмотр",
+        "SAVED_NOTIFICATION": "Сохранено",
+        "VIEW_LINK": "просмотр",
+        "SAVE_BUT_NEW_ITEM": "Сохранить черновик",
+        "SAVE_BUT_PENDING": "Сохранение...",
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "Требуемые параметры отсутствуют",
+            "SAVING_DISABLED": "Сохранение отключено. Пожалуйста, повторите попытку через 5 минут",
+            "OUTDATED": "Элемент устарел",
+            "SAVE_FAILED": "Не удалось сохранить",
+            "COVER_UNSUPPORTED_FORMAT": "Cover photo failed to upload. Try another file!",
+            "LOGGED_OUT": "Please re-login",
+            "BLOCKED": "Your user is blocked"
+        },
+        "PREVIEW_BUT_PENDING": "Подготовка..."
     },
-    "TAGS": {
-      "TITLE": "Теги",
-      "DESCRIPTION": "Благодаря #тегам больше людей прочитают вашу Историю",
-      "TOOLTIP": "Теги",
-      "NEW_TAG_PLACEHOLDER": "Введите #теги",
-      "NEW_TAG_DESCRIPTION": "Теги вводятся через запятую"
+    "DESCRIPTION_PLACEHOLDER": "Описание",
+    "SECTIONS_LOBBY_TITLE": "С чего Вы хотите начать вашу Историю?",
+    "STORY_TITLE_PLACEHOLDER": "Название Истории",
+    "DELETE_SECTION_MESSAGE": "Вы уверены, что хотите удалить этот элемент?",
+    "MODAL_LANGUAGE": {
+        "NEW_LABEL": "НОВОЕ",
+        "TITLE": "Выберите язык создания Истории",
+        "DONE_BUT": "Готово"
     },
-    "SOCIAL": {
-      "TITLE": "Отображение в соцсетях",
-      "DESCRIPTION": "Как будет выглядеть ваша История в соцсетях",
-      "TOOLTIP": "Отображение в соцсетях"
+    "PREVIEW_MODAL": {
+        "TITLE": "Предпросмотр",
+        "CLOSE_BUT": "Закрыть"
     },
-    "ABOUT": {
-      "TITLE": "Что такое История?",
-      "DESCRIPTION": "История – это первый в мире инструмент для создания статей, который позволяет разбить повествование на увлекательные фрагменты и сделать чтение интерактивным, захватывающим и ярким для читателей.",
-      "STEP_1": "Создайте Историю",
-      "STEP_2": "Опубликуйте её",
-      "STEP_3": "Поделитесь вашей Историей или мгновенно вставьте её на свой веб-сайт",
-      "STEP_4": "Готово!",
-      "QUESTIONS_TITLE": "Остались вопросы?",
-      "QUESTIONS_DESCRIPTION": "Свяжитесь с нами",
-      "TOOLTIP": "О нас"
-    }
-  },
-  "ACTION_PANE": {
-    "PUBLISH_BUT": "Опубликовать",
-    "SAVE_BUT": "Сохранить",
-    "ERROR_MESSAGE": "Ошибка",
-    "PUBLISH_BUT_PENDING": "Публикация...",
-    "PREVIEW_BUT": "Предпросмотр",
-    "SAVED_NOTIFICATION": "Сохранено",
-    "VIEW_LINK": "просмотр",
-    "SAVE_BUT_NEW_ITEM": "Сохранить черновик",
-    "SAVE_BUT_PENDING": "Сохранение...",
-    "ERROR": {
-      "MISSING_REQUIREMENTS": "Требуемые параметры отсутствуют",
-      "LOGED_OUT": "Пожалуйста, войдите снова",
-      "SAVING_DISABLED": "Сохранение отключено. Пожалуйста, повторите попытку через 5 минут",
-      "OUTDATED": "Элемент устарел",
-      "SAVE_FAILED": "Не удалось сохранить"
-    },
-    "PREVIEW_BUT_PENDING": "Подготовка..."
-  },
-  "DESCRIPTION_PLACEHOLDER": "Описание",
-  "SECTIONS_LOBBY_TITLE": "С чего Вы хотите начать вашу Историю?",
-  "STORY_TITLE_PLACEHOLDER": "Название Истории",
-  "DELETE_SECTION_MESSAGE": "Вы уверены, что хотите удалить этот элемент?",
-  "MODAL_LANGUAGE": {
-    "NEW_LABEL": "НОВОЕ",
-    "TITLE": "Выберите язык создания Истории",
-    "DONE_BUT": "Готово"
-  },
-  "PREVIEW_MODAL": {
-    "TITLE": "Предпросмотр",
-    "CLOSE_BUT": "Закрыть"
-  },
-  "ONBOARDING": {
-    "GALLERY_OPEN_LABEL": "Примеры",
-    "CONVO": {
-      "TITLE_LABEL": "Создайте у читателей ощущение, словно они читают чьи-то сообщения!",
-      "TEXT_1_LABEL": "Выберите вариант Convo, который позволит вам загрузить фотографии всех собеседников. Вы также можете добавить не только текст, но и изображения в каждое сообщение!",
-      "TEXT_2_LABEL": "Используйте вариант Convo, который выглядит совсем как iMessage.",
-      "TEXT_3_LABEL": "Используйте Convo для создания списка или хроники событий. Просто загрузите номер или дату в качестве изображения для каждого \"участника\"."
-    },
-    "EMBED": {
-      "TITLE_LABEL": "Импортируйте медиафайлы из Интернета. ",
-      "TEXT_1_LABEL": "Вставляйте карты Google, чтобы показать читателям конкретное местоположение.",
-      "TEXT_2_LABEL": "Добавляйте любое видео с Vimeo в статью.",
-      "TEXT_3_LABEL": "Вставляйте сообщения Twitter, чтобы сделать вашу Историю ещё более интересной и увлекательной.",
-      "TEXT_4_LABEL": "Вставляйте публикации Instagram, чтобы сделать вашу Историю более яркой и запоминающейся."
-    },
-    "FLIP_CARD": {
-      "TITLE_LABEL": "Удивите читателей с помощью карточек с изображениями и/или текстом, которые они могут перевернуть, чтобы увидеть, что скрывается на другой стороне.",
-      "TEXT_1_LABEL": "",
-      "TEXT_2_LABEL": "Используйте переворачивающуюся карточку для неожиданных фактов. Удивляйте, поражайте и развлекайте читателей! Это также отлично подходит для сравнений \"до и после\"!",
-      "TEXT_3_LABEL": "Используйте переворачивающуюся карточку, если ваши материалы могут быть неприемлемы для некоторых категорий читателей. Дайте им возможность самим решить, хотят ли они видеть материалы для взрослых."
-    },
-    "IMAGE": {
-      "TITLE_LABEL": "Добавляйте яркие изображения и используйте эффект размытия или приближения, чтобы сделать их ещё более заметными",
-      "TEXT_1_LABEL": "Удивите ваших читателей с помощью эффекта размытия: чтобы увидеть изображение, им будет необходимо нажать на него. Это увлекательный способ взаимодействовать с информацией для читателей!",
-      "TEXT_2_LABEL": "Привлеките внимание читателей к главному в изображении с помощью эффекта \"Приближение\".",
-      "TEXT_3_LABEL": "Используйте эффект размытия, чтобы дать читателям возможность самим решить, хотят ли они видеть этот контент или нет. "
-    },
-    "PARAGRAPH": {
-      "TITLE_LABEL": "Используйте текст в качестве основы для вашей Истории.",
-      "TEXT_1_LABEL": "Используйте маркер для выделения наиболее важных частей вашего текста.",
-      "TEXT_2_LABEL": "Выделенный текст всегда привлекает внимание читателя. Обязательно выделите важные части, которые ему нужно прочитать.",
-      "TEXT_3_LABEL": "Добавьте смайлы и гиперссылки, чтобы сделать ваш текст более интерактивным и интересным!"
-    },
-    "POLL": {
-      "TITLE_LABEL": "Опросы позволяют читателям высказывать своё мнение и реагировать на содержание вашей Истории.",
-      "TEXT_1_LABEL": "Используйте опрос, чтобы вовлечь читателей в диалог. Дайте им шанс высказать своё мнение! Например, спросите, что они думают о чем-либо из соцсетей.",
-      "TEXT_2_LABEL": "Используйте обложку для опроса, чтобы ваш вопрос был более наглядным и увлекательным.",
-      "TEXT_3_LABEL": "Используйте фоновое изображение и выберите формат \"Сетка\", чтобы создать потрясающий визуально привлекательный опрос, с которым интересно взаимодействовать!",
-      "TEXT_4_LABEL": "Не забывайте добавлять вариант \"ничего из вышеперечисленного\", чтобы у читателей оставался выбор, если другие варианты им не подходят.",
-      "TEXT_5_LABEL": ""
-    },
-    "QUOTE": {
-      "TITLE_LABEL": "Подчеркните меткость изречения с помощью индивидуального оформления.",
-      "TEXT_1_LABEL": "Кратко, но ёмко: меткая и легкочитаемая цитата - это лучший вариант.",
-      "TEXT_2_LABEL": "Добавьте изображение автора цитаты, чтобы читатели могли лучше понять, кто её произнёс и почему."
-    },
-    "SUMMARY": {
-      "TITLE_LABEL": "Сейчас ни у кого нет времени читать длинные статьи, поэтому Summary предлагает читателям выжимку только с самой необходимой информацией. Есть много вариантов её использования ...",
-      "TEXT_1_LABEL": "Используйте Summary, чтобы разложить любую тему по пунктам. Опишите читателям ситуацию в целом с помощью ряда ёмких тезисов. Добавьте обложку, чтобы объединить Summary с темой вашей статьи.",
-      "TEXT_2_LABEL": "Используйте элемент Summary для создания списка ингредиентов в рецептах. Выберите красивое оформление, чтобы сделать Summary еще более интересным.",
-      "TEXT_3_LABEL": "Используйте этот флажок, чтобы создать список дел с помощью Summary."
-    },
-    "VIDEO_CREATOR": {
-      "TITLE_LABEL": "Добавляйте видео с помощью наших удобных и экономичных шаблонов. Просто настройте их под себя, выберите цветовую палитру и добавьте подходящий звук.",
-      "TEXT_1_LABEL": "Используйте классический шаблон для создания видеоряда с GIF и изображениями.",
-      "TEXT_2_LABEL": "Используйте шаблон Vs. (\"Сравнение\"), чтобы рассмотреть тему, которая волнует читателей, через сопоставления и сравнения.",
-      "TEXT_3_LABEL": "В каждом кадре шаблона Vs. сопоставляются различные элементы в рамках одной темы с помощью текста, изображений и GIF!",
-      "TEXT_4_LABEL": "Используйте шаблон Facts (\"Факты\"), чтобы сообщить читателям важные факты.",
-      "TEXT_5_LABEL": "Каждый слайд в видео, созданном на основе шаблона Facts, содержит крупный текст поверх фонового изображения.",
-      "TEXT_6_LABEL": "Используйте шаблон Swift (\"Быстрый\"), чтобы создать более динамичное видео с заставкой, которая состоит из изображений со всех остальных слайдов вашего видео."
-    },
-    "VIDEO_PLAYER": {
-      "TITLE_LABEL": "Видео сделает вашу Историю ещё более захватывающей.",
-      "TEXT_1_LABEL": "Используйте любое видео на Vimeo, чтобы сделать вашу статью более интересной.",
-      "TEXT_2_LABEL": "Используйте любое видео на Youtube, чтобы сделать вашу статью более интересной."
-    }
-  },
-  "CONVO": {
-    "PARTICIPANT_PLACEHOLDER": "Имя",
-    "BUBBLE_CONTENT_PLACEHOLDER": "Введите текст...",
-    "ADD_BUBBLE_TOOLTIP": "Добавить реплику",
-    "ADD_PARTICIPANT_TOOLTIP": "Добавить собеседника",
-    "DELETE_MESSAGE": "Вы уверены?"
-  },
-  "CREATE_MODULES": {
-    "TEXT_EDITOR": {
-      "WORD": "СЛОВО",
-      "WORDS": "СЛОВА",
-      "GOOD": "ОТЛИЧНО",
-      "NORMAL": "ХОРОШО",
-      "BAD": "НЕМНОГО ДЛИННО",
-      "BOLD_TOOLTIP": "Полужирный",
-      "GOOD_INDICATION": "ОТЛИЧНО",
-      "NORMAL_INDICATION": "ХОРОШО",
-      "BAD_INDICATION": "НЕМНОГО ДЛИННО",
-      "MINIMUM_READ_TIME_LABEL": "Прочитают за {{readTime}} мин."
-    },
-    "SECTION_TITLE_PLACEHOLDER": "Заголовок",
-    "NOT_SAVED_ERR_MESSAGE": ""
-  },
-  "CTA": {
-    "NO_EFFECT": "Без эффектов",
-    "PULSE_EFFECT": "Эффект пульсации",
-    "FLOATING_EFFECT": "Эффект перемещения",
-    "BUTTON_TEXT": "Введите текст...",
-    "LINK_PLACEHOLDER": "Вставьте ссылку...",
-    "TEST_LINK_TOOLTIP": "Проверить ссылку"
-  },
-  "EMBED": {
-    "DESCRIPTION_PLACEHOLDER": "Описание"
-  },
-  "IMAGE": {
-    "CAPTION": "Изображение"
-  },
-  "PARAGRAPH": {
-    "EDITOR_PLACEHOLDER": "Введите текст"
-  },
-  "POLL": {
-    "BACKGROUND_TEMPLATE_TOOLTIP": "Фоновое изображение",
-    "COVER_TEMPLATE_TOOLTIP": "Обложка",
-    "CLASSIC_TEMPLATE_TOOLTIP": "Классический формат",
-    "GRID_TEMPLATE_TOOLTIP": "Формат \"Сетка\"",
-    "SETTINGS_TOOLTIP": "Настройки опроса",
-    "TITLE_PLACEHOLDER": "Вопрос",
-    "OPTION_PLACEHOLDER": "Вариант {{index}}",
-    "ADD_OPTION_BUT": "Добавить вариант",
-    "SETTINGS": {
-      "TITLE": "НАСТРОЙКИ ОПРОСА",
-      "HERE_LINK": "здесь",
-      "BACK_BUTTON": "Назад к опросу",
-      "ENABLE_VOTING_SWITCH": "Активировать опрос",
-      "TOTAL_VOTES_SWITCH": "Показывать общее количество голосов",
-      "DISPLAY_LOGO_SWITCH": "Показывать логотип",
-      "DISPLAY_LOGO_DESCRIPTION": "Добавьте ваш логотип, чтобы индивидуализировать опрос. Вы можете изменить ваше изображение",
-      "END_CARD_SWITCH": "Завершающее сообщение",
-      "END_CARD_DESCRIPTION": "Вашим опросом поделятся и примут участие больше респондентов, если вы добавите благодарственный текст в конце опроса",
-      "END_CARD": {
-        "TITLE_LABEL": "Заголовок",
-        "TITLE_PLACEHOLDER": "Введите заголовок...",
-        "DESCRIPTION_LABEL": "Описание",
-        "DESCRIPTION_PLACEHOLDER": "Введите описание..."
-      }
-    },
-    "CLASSIC_LAYOUT_TOOLTIP": "Формат результатов: Классический",
-    "GRID_LAYOUT_TOOLTIP": "Формат результатов: Сетка",
-    "DELETE_OPTION_BUT": ""
-  },
-  "QUOTE": {
-    "TEXT_PLACEHOLDER": "Вставьте цитату...",
-    "QUOTEE_PLACEHOLDER": "Кто это сказал?",
-    "ADDITIONAL_TEXT_PLACEHOLDER": "Расскажите подробней..."
-  },
-  "SUMMARY": {
-    "ADD_ROW": "Добавить строку",
-    "SUBTITLE_PLACEHOLDER": "Подзаголовок",
-    "ROW_PLACEHOLDER": "Введите текст...",
-    "NO_EFFECT": "Без эффектов",
-    "FADE_EFFECT": "Эффект появления",
-    "TITLE_PLACEHOLDER": "Заголовок"
-  },
-  "VIDEO_CREATOR": {
-    "PLAY": "ИГРАТЬ",
-    "PAUSE": "ПАУЗА",
-    "GALLERY_TITLE": "Выбрать шаблон",
-    "OPEN_TEMPLATES_GALLERY_BUT": "Сменить шаблон",
-    "CLOSE_TEMPLATES_GALLERY_BUT": "Назад к видео",
-    "SETTINGS": {
-      "TITLE": "Настройки",
-      "AUTOPLAY_SWITCH_LABEL": "Автозапуск видео",
-      "MUTE_SWITCH_LABEL": "Отключить звук при воспроизведении",
-      "LOGO_LABEL": "Ваш логотип",
-      "CLOSE_SETTINGS": "Назад к видео",
-      "LOGO_DESCRIPTION": "Загрузите ваш логотип, чтобы запомниться зрителям и повысить узнаваемость бренда"
-    },
-    "PREVIEW_BUT": "",
-    "NOT_SUPPORTED_LABEL": "",
-    "IE_ERR_MESSAGE": "",
-    "REMOVE_SCENE": {
-      "TITLE": "",
-      "DELETE_BUTTON_TEXT": ""
-    },
-    "SCENE_NAME": {
-      "GENERAL": {
-        "INTRO_LABEL": "",
-        "ENDING_LABEL": "",
-        "CREDITS_LABEL": ""
-      },
-      "CLASSIC": {
-        "ITEM_LABEL": ""
-      },
-      "FACTS": {
-        "ITEM_LABEL": ""
-      },
-      "SWIFT": {
-        "ITEM_BOTTOM_LABEL": "",
-        "ITEM_TOP_LABEL": ""
-      },
-      "VS": {
-        "ITEM_LABEL": "",
-        "ENDING_LABEL": ""
-      }
-    },
-    "CHANGE_TEMPLATE_WARNING": {
-      "TITLE": "",
-      "WARNING_MESSAGE": "",
-      "CANCEL_BUTTON": "",
-      "CHANGE_BUTTON": ""
-    },
-    "AUDIO_LABEL": {
-      "NONE": "",
-      "UPBEAT": "",
-      "INTENSE": "",
-      "OPTIMISTIC": "",
-      "JAZZ": "",
-      "ENERGETIC_PIANO": "",
-      "EMOTIONAL": "",
-      "SWING_BIG_BAND": "",
-      "THRILLER": "",
-      "CINEMATIC": "",
-      "TRAILER": "",
-      "INSPIRATIONAL": "",
-      "GANGSTA": "",
-      "ELECTRONIC": "",
-      "DARK_BEATS": "",
-      "FUNKY": "",
-      "HIP_HOP": "",
-      "MELANCHOLIC": "",
-      "SLOW_ROCK": "",
-      "SILENT_MOVIE_PIANO": ""
-    },
-    "TEMPLATE_NAME": {
-      "CLASSIC": "",
-      "VS": "",
-      "SWIFT": "",
-      "FACTS": ""
-    },
-    "THEME_NAME_LABEL": {
-      "DEFAULT": "",
-      "PLAYBUZZ": "Playbuzz",
-      "SHADES_OF_GRAY": "",
-      "PLAYTIME": "",
-      "BACK_TO_SCHOOL": "",
-      "NEUTRAL_BLUE": "",
-      "PHAEDRA": "",
-      "FIESTA": "",
-      "GREENS": "",
-      "BUBBLEGUM": "",
-      "GROUND_CONTROL": "",
-      "AMERICA": "",
-      "BEACH_UMBRELLA": "",
-      "BEACH_TIME": ""
+    "ONBOARDING": {
+        "GALLERY_OPEN_LABEL": "Примеры",
+        "CONVO": {
+            "TITLE_LABEL": "Создайте у читателей ощущение, словно они читают чьи-то сообщения!",
+            "TEXT_1_LABEL": "Выберите вариант Convo, который позволит вам загрузить фотографии всех собеседников. Вы также можете добавить не только текст, но и изображения в каждое сообщение!",
+            "TEXT_2_LABEL": "Используйте вариант Convo, который выглядит совсем как iMessage.",
+            "TEXT_3_LABEL": "Используйте Convo для создания списка или хроники событий. Просто загрузите номер или дату в качестве изображения для каждого \"участника\"."
+        },
+        "EMBED": {
+            "TITLE_LABEL": "Импортируйте медиафайлы из Интернета. ",
+            "TEXT_1_LABEL": "Вставляйте карты Google, чтобы показать читателям конкретное местоположение.",
+            "TEXT_2_LABEL": "Добавляйте любое видео с Vimeo в статью.",
+            "TEXT_3_LABEL": "Вставляйте сообщения Twitter, чтобы сделать вашу Историю ещё более интересной и увлекательной.",
+            "TEXT_4_LABEL": "Вставляйте публикации Instagram, чтобы сделать вашу Историю более яркой и запоминающейся."
+        },
+        "FLIP_CARD": {
+            "TITLE_LABEL": "Удивите читателей с помощью карточек с изображениями и/или текстом, которые они могут перевернуть, чтобы увидеть, что скрывается на другой стороне.",
+            "TEXT_1_LABEL": "",
+            "TEXT_2_LABEL": "Используйте переворачивающуюся карточку для неожиданных фактов. Удивляйте, поражайте и развлекайте читателей! Это также отлично подходит для сравнений \"до и после\"!",
+            "TEXT_3_LABEL": "Используйте переворачивающуюся карточку, если ваши материалы могут быть неприемлемы для некоторых категорий читателей. Дайте им возможность самим решить, хотят ли они видеть материалы для взрослых."
+        },
+        "IMAGE": {
+            "TITLE_LABEL": "Добавляйте яркие изображения и используйте эффект размытия или приближения, чтобы сделать их ещё более заметными",
+            "TEXT_1_LABEL": "Удивите ваших читателей с помощью эффекта размытия: чтобы увидеть изображение, им будет необходимо нажать на него. Это увлекательный способ взаимодействовать с информацией для читателей!",
+            "TEXT_2_LABEL": "Привлеките внимание читателей к главному в изображении с помощью эффекта \"Приближение\".",
+            "TEXT_3_LABEL": "Используйте эффект размытия, чтобы дать читателям возможность самим решить, хотят ли они видеть этот контент или нет. "
+        },
+        "PARAGRAPH": {
+            "TITLE_LABEL": "Используйте текст в качестве основы для вашей Истории.",
+            "TEXT_1_LABEL": "Используйте маркер для выделения наиболее важных частей вашего текста.",
+            "TEXT_2_LABEL": "Выделенный текст всегда привлекает внимание читателя. Обязательно выделите важные части, которые ему нужно прочитать.",
+            "TEXT_3_LABEL": "Добавьте смайлы и гиперссылки, чтобы сделать ваш текст более интерактивным и интересным!"
+        },
+        "POLL": {
+            "TITLE_LABEL": "Опросы позволяют читателям высказывать своё мнение и реагировать на содержание вашей Истории.",
+            "TEXT_1_LABEL": "Используйте опрос, чтобы вовлечь читателей в диалог. Дайте им шанс высказать своё мнение! Например, спросите, что они думают о чем-либо из соцсетей.",
+            "TEXT_2_LABEL": "Используйте обложку для опроса, чтобы ваш вопрос был более наглядным и увлекательным.",
+            "TEXT_3_LABEL": "Используйте фоновое изображение и выберите формат \"Сетка\", чтобы создать потрясающий визуально привлекательный опрос, с которым интересно взаимодействовать!",
+            "TEXT_4_LABEL": "Не забывайте добавлять вариант \"ничего из вышеперечисленного\", чтобы у читателей оставался выбор, если другие варианты им не подходят.",
+            "TEXT_5_LABEL": "",
+            "TEXT_6_LABEL": "Hide the results of your poll until you’re ready to share them with your audience."
+        },
+        "QUOTE": {
+            "TITLE_LABEL": "Подчеркните меткость изречения с помощью индивидуального оформления.",
+            "TEXT_1_LABEL": "Кратко, но ёмко: меткая и легкочитаемая цитата - это лучший вариант.",
+            "TEXT_2_LABEL": "Добавьте изображение автора цитаты, чтобы читатели могли лучше понять, кто её произнёс и почему."
+        },
+        "SUMMARY": {
+            "TITLE_LABEL": "Сейчас ни у кого нет времени читать длинные статьи, поэтому Summary предлагает читателям выжимку только с самой необходимой информацией. Есть много вариантов её использования ...",
+            "TEXT_1_LABEL": "Используйте Summary, чтобы разложить любую тему по пунктам. Опишите читателям ситуацию в целом с помощью ряда ёмких тезисов. Добавьте обложку, чтобы объединить Summary с темой вашей статьи.",
+            "TEXT_2_LABEL": "Используйте элемент Summary для создания списка ингредиентов в рецептах. Выберите красивое оформление, чтобы сделать Summary еще более интересным.",
+            "TEXT_3_LABEL": "Используйте этот флажок, чтобы создать список дел с помощью Summary."
+        },
+        "VIDEO_CREATOR": {
+            "TITLE_LABEL": "Добавляйте видео с помощью наших удобных и экономичных шаблонов. Просто настройте их под себя, выберите цветовую палитру и добавьте подходящий звук.",
+            "TEXT_1_LABEL": "Используйте классический шаблон для создания видеоряда с GIF и изображениями.",
+            "TEXT_2_LABEL": "Используйте шаблон Vs. (\"Сравнение\"), чтобы рассмотреть тему, которая волнует читателей, через сопоставления и сравнения.",
+            "TEXT_3_LABEL": "В каждом кадре шаблона Vs. сопоставляются различные элементы в рамках одной темы с помощью текста, изображений и GIF!",
+            "TEXT_4_LABEL": "Используйте шаблон Facts (\"Факты\"), чтобы сообщить читателям важные факты.",
+            "TEXT_5_LABEL": "Каждый слайд в видео, созданном на основе шаблона Facts, содержит крупный текст поверх фонового изображения.",
+            "TEXT_6_LABEL": "Используйте шаблон Swift (\"Быстрый\"), чтобы создать более динамичное видео с заставкой, которая состоит из изображений со всех остальных слайдов вашего видео."
+        },
+        "VIDEO_PLAYER": {
+            "TITLE_LABEL": "Видео сделает вашу Историю ещё более захватывающей.",
+            "TEXT_1_LABEL": "Используйте любое видео на Vimeo, чтобы сделать вашу статью более интересной.",
+            "TEXT_2_LABEL": "Используйте любое видео на Youtube, чтобы сделать вашу статью более интересной."
+        }
     },
     "TEMPLATES": {
-      "GENERAL": {
-        "MAIN_TITLE_PLACEHOLDER": "",
-        "ENTER_TEXT_PLACEHOLDER": "",
-        "CTA_PLACEHOLDER": "",
-        "BACKGROUND_REQUIRED_VALIDATION_MSG": "",
-        "TEXT_REQUIRED_VALIDATION_MSG": "",
-        "TITLE_REQUIRED_VALIDATION_MSG": ""
-      },
-      "CLASSIC": {
-        "SUB_TITLE_PLACEHOLDER": ""
-      },
-      "VS": {
-        "PRE_CTA_PLACEHOLDER": "",
-        "SIDE_A_PLACEHOLDER": "",
-        "FEATURE_A_PLACEHOLDER": "",
-        "SIDE_B_PLACEHOLDER": "",
-        "FEATURE_B_PLACEHOLDER": "",
-        "PREMISE_PLACEHOLDER": "",
-        "COMPARISON_PLACEHOLDER": "",
-        "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "",
-        "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "",
-        "A_TITLE_REQUIRED_VALIDATION_MSG": "",
-        "B_TITLE_REQUIRED_VALIDATION_MSG": "",
-        "PREMISE_REQUIRED_VALIDATION_MSG": "",
-        "COMPARISON_REQUIRED_VALIDATION_MSG": ""
-      },
-      "FACTS": {
-        "ENTER_TITLE_PLACEHOLDER": "",
-        "ENTER_FACT_PLACEHOLDER": "",
-        "FACT_REQUIRED_VALIDATION_MSG": ""
-      }
+        "START_NEW": "Start a New Item",
+        "UPDATED": "Recently updated",
+        "TEMPLATE_NAME": "Template name",
+        "NEW": "New",
+        "NEW_FROM_TEMPLATE": "New From Template",
+        "DUPLICATE": "Duplicate",
+        "ADD_A_TEMPLATE": "Add To Templates",
+        "ADDED_A_TEMPLATE": "Added!",
+        "ADDING": "Adding...",
+        "ADDING_DISABLED": "To duplicate or to add a template, save your draft",
+        "SOMETHING_WENT_WRONG": "Something went wrong",
+        "PLEASE_TRY_AGAIN": "please try again",
+        "CREATE": "Create",
+        "INCLUDES": "INCLUDES",
+        "DELETE": "Delete",
+        "DELETE_FROM_LIST": "Are you sure you want to delete this template?",
+        "CREATING_IN_PLAYBUZZ": "Creating in Playbuzz just became easier!",
+        "CREATING_IN_PLAYBUZZ_2": "Creating has never been easier...",
+        "CREATING_IN_PLAYBUZZ_2_DESC": "Start telling your story from a ready made template or create your own.",
+        "CREATING_IN_PLAYBUZZ_DESC_1": "To create a template, simply create a new item and choose",
+        "CREATING_IN_PLAYBUZZ_DESC_2": "> Add To Templates",
+        "START_HERE": "Start here",
+        "NO_TEMPLATES_FOUND": "I couldn’t find templates under this name",
+        "CREATE_A_TEMPLATE": "Create a template",
+        "GOT_IT": "Got It!",
+        "FEATURED": "Featured",
+        "TRAVEL": "Travel",
+        "HOLIDAY": "Holiday",
+        "FUN": "Fun",
+        "STYLE": "Style",
+        "MUSIC": "Music",
+        "SPORTS": "Sports",
+        "ENTERTAINMENT": "Entertainment",
+        "NEWS": "News",
+        "FOOD": "Food",
+        "WORKING_ON_TEMPLATE": "Working on template:"
+    },
+    "CONVO": {
+        "PARTICIPANT_PLACEHOLDER": "Имя",
+        "BUBBLE_CONTENT_PLACEHOLDER": "Введите текст...",
+        "ADD_BUBBLE_TOOLTIP": "Добавить реплику",
+        "ADD_PARTICIPANT_TOOLTIP": "Добавить собеседника",
+        "DELETE_MESSAGE": "Вы уверены?"
+    },
+    "CREATE_MODULES": {
+        "TEXT_EDITOR": {
+            "WORD": "СЛОВО",
+            "WORDS": "СЛОВА",
+            "GOOD": "ОТЛИЧНО",
+            "NORMAL": "ХОРОШО",
+            "BAD": "НЕМНОГО ДЛИННО",
+            "BOLD_TOOLTIP": "Полужирный",
+            "GOOD_INDICATION": "ОТЛИЧНО",
+            "NORMAL_INDICATION": "ХОРОШО",
+            "BAD_INDICATION": "НЕМНОГО ДЛИННО",
+            "MINIMUM_READ_TIME_LABEL": "Прочитают за {{readTime}} мин."
+        },
+        "SECTION_TITLE_PLACEHOLDER": "Заголовок",
+        "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
+        "LIST": {
+            "ENABLE_VOTING_SWITCH": "Enable Voting",
+            "VOTE": "Vote",
+            "TYPE": {
+                "NONE": "Normal",
+                "NUMBER": "Numbered List",
+                "BULLET": "Bulleted List",
+                "RANK": "Interactive List"
+            }
+        }
+    },
+    "CTA": {
+        "NO_EFFECT": "Без эффектов",
+        "PULSE_EFFECT": "Эффект пульсации",
+        "FLOATING_EFFECT": "Эффект перемещения",
+        "BUTTON_TEXT": "Введите текст...",
+        "LINK_PLACEHOLDER": "Вставьте ссылку...",
+        "TEST_LINK_TOOLTIP": "Проверить ссылку"
+    },
+    "EMBED": {
+        "DESCRIPTION_PLACEHOLDER": "Описание"
+    },
+    "IMAGE": {
+        "CAPTION": "Изображение"
+    },
+    "PARAGRAPH": {
+        "EDITOR_PLACEHOLDER": "Введите текст"
+    },
+    "POLL": {
+        "BACKGROUND_TEMPLATE_TOOLTIP": "Фоновое изображение",
+        "COVER_TEMPLATE_TOOLTIP": "Обложка",
+        "CLASSIC_TEMPLATE_TOOLTIP": "Классический формат",
+        "GRID_TEMPLATE_TOOLTIP": "Формат \"Сетка\"",
+        "SETTINGS_TOOLTIP": "Настройки опроса",
+        "TITLE_PLACEHOLDER": "Вопрос",
+        "OPTION_PLACEHOLDER": "Вариант {{index}}",
+        "ADD_OPTION_BUT": "Добавить вариант",
+        "SETTINGS": {
+            "TITLE": "НАСТРОЙКИ ОПРОСА",
+            "HERE_LINK": "здесь",
+            "BACK_BUTTON": "Назад к опросу",
+            "ENABLE_VOTING_SWITCH": "Активировать опрос",
+            "TOTAL_VOTES_SWITCH": "Показывать общее количество голосов",
+            "DISPLAY_LOGO_SWITCH": "Показывать логотип",
+            "DISPLAY_LOGO_DESCRIPTION": "Добавьте ваш логотип, чтобы индивидуализировать опрос. Вы можете изменить ваше изображение",
+            "END_CARD_SWITCH": "Завершающее сообщение",
+            "END_CARD_DESCRIPTION": "Вашим опросом поделятся и примут участие больше респондентов, если вы добавите благодарственный текст в конце опроса",
+            "END_CARD": {
+                "TITLE_LABEL": "Заголовок",
+                "TITLE_PLACEHOLDER": "Введите заголовок...",
+                "DESCRIPTION_LABEL": "Описание",
+                "DESCRIPTION_PLACEHOLDER": "Введите описание..."
+            },
+            "ALLOW_REVOTES_SWITCH": "Readers can re-vote daily",
+            "HIDE_RESULTS_SWITCH": "Hide poll results",
+            "SECURED_SWITCH": "Enable secure poll",
+            "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save."
+        },
+        "CLASSIC_LAYOUT_TOOLTIP": "Формат результатов: Классический",
+        "GRID_LAYOUT_TOOLTIP": "Формат результатов: Сетка",
+        "DELETE_OPTION_BUT": "Delete option",
+        "SQUARE_LAYOUT_TOOLTIP": "Square results images"
+    },
+    "QUOTE": {
+        "TEXT_PLACEHOLDER": "Вставьте цитату...",
+        "QUOTEE_PLACEHOLDER": "Кто это сказал?",
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Расскажите подробней..."
+    },
+    "SUMMARY": {
+        "ADD_ROW": "Добавить строку",
+        "SUBTITLE_PLACEHOLDER": "Подзаголовок",
+        "ROW_PLACEHOLDER": "Введите текст...",
+        "NO_EFFECT": "Без эффектов",
+        "FADE_EFFECT": "Эффект появления",
+        "TITLE_PLACEHOLDER": "Заголовок"
+    },
+    "VIDEO_CREATOR": {
+        "PLAY": "ИГРАТЬ",
+        "PAUSE": "ПАУЗА",
+        "GALLERY_TITLE": "Выбрать шаблон",
+        "OPEN_TEMPLATES_GALLERY_BUT": "Сменить шаблон",
+        "CLOSE_TEMPLATES_GALLERY_BUT": "Назад к видео",
+        "SETTINGS": {
+            "TITLE": "Настройки",
+            "AUTOPLAY_SWITCH_LABEL": "Автозапуск видео",
+            "MUTE_SWITCH_LABEL": "Отключить звук при воспроизведении",
+            "LOGO_LABEL": "Ваш логотип",
+            "CLOSE_SETTINGS": "Назад к видео",
+            "LOGO_DESCRIPTION": "Загрузите ваш логотип, чтобы запомниться зрителям и повысить узнаваемость бренда"
+        },
+        "PREVIEW_BUT": "Preview Video",
+        "NOT_SUPPORTED_LABEL": "Not Supported",
+        "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly.",
+        "REMOVE_SCENE": {
+            "TITLE": "Are you sure ?",
+            "DELETE_BUTTON_TEXT": "Delete"
+        },
+        "SCENE_NAME": {
+            "GENERAL": {
+                "INTRO_LABEL": "INTRO",
+                "ENDING_LABEL": "ENDING",
+                "CREDITS_LABEL": "CREDITS"
+            },
+            "CLASSIC": {
+                "ITEM_LABEL": "ITEM"
+            },
+            "FACTS": {
+                "ITEM_LABEL": "FACT"
+            },
+            "SWIFT": {
+                "ITEM_BOTTOM_LABEL": "BOTTOM",
+                "ITEM_TOP_LABEL": "TOP"
+            },
+            "VS": {
+                "ITEM_LABEL": "SUBJECT",
+                "ENDING_LABEL": "CONCLUSION"
+            }
+        },
+        "CHANGE_TEMPLATE_WARNING": {
+            "TITLE": "Different Template Type",
+            "WARNING_MESSAGE": "Content entered might not be displayed in this template",
+            "CANCEL_BUTTON": "Cancel",
+            "CHANGE_BUTTON": "Change Template"
+        },
+        "AUDIO_LABEL": {
+            "NONE": "None",
+            "UPBEAT": "Upbeat",
+            "INTENSE": "Intense",
+            "OPTIMISTIC": "Optimistic",
+            "JAZZ": "Jazz",
+            "ENERGETIC_PIANO": "Energetic Piano",
+            "EMOTIONAL": "Emotional",
+            "SWING_BIG_BAND": "Swing/Big Band",
+            "THRILLER": "Thriller",
+            "CINEMATIC": "Cinematic",
+            "TRAILER": "Trailer",
+            "INSPIRATIONAL": "Inspirational",
+            "GANGSTA": "Gangsta",
+            "ELECTRONIC": "Electronic",
+            "DARK_BEATS": "Dark Beats",
+            "FUNKY": "Funky",
+            "HIP_HOP": "Hip Hop",
+            "MELANCHOLIC": "Melancholic",
+            "SLOW_ROCK": "Slow Rock",
+            "SILENT_MOVIE_PIANO": "Silent Movie Piano"
+        },
+        "TEMPLATE_NAME": {
+            "CLASSIC": "Classic",
+            "VS": "VS.",
+            "SWIFT": "Swift",
+            "FACTS": "Facts"
+        },
+        "THEME_NAME_LABEL": {
+            "DEFAULT": "Default",
+            "PLAYBUZZ": "Playbuzz",
+            "SHADES_OF_GRAY": "grey",
+            "PLAYTIME": "playtime",
+            "BACK_TO_SCHOOL": "Back To School",
+            "NEUTRAL_BLUE": "Neutral Blue",
+            "PHAEDRA": "Phaedra",
+            "FIESTA": "Fiesta",
+            "GREENS": "Greens",
+            "BUBBLEGUM": "Bubblegum",
+            "GROUND_CONTROL": "Ground Control",
+            "AMERICA": "America",
+            "BEACH_UMBRELLA": "Beach Umbrella",
+            "BEACH_TIME": "Beach Time",
+            "GOSSIP": "Gossip"
+        },
+        "TEMPLATES": {
+            "GENERAL": {
+                "MAIN_TITLE_PLACEHOLDER": "Enter Main Title",
+                "ENTER_TEXT_PLACEHOLDER": "Enter Text",
+                "CTA_PLACEHOLDER": "End with call to action!",
+                "BACKGROUND_REQUIRED_VALIDATION_MSG": "Background image is required",
+                "TEXT_REQUIRED_VALIDATION_MSG": "Text is required",
+                "TITLE_REQUIRED_VALIDATION_MSG": "Title is required"
+            },
+            "CLASSIC": {
+                "SUB_TITLE_PLACEHOLDER": "Enter subtitle (optional)"
+            },
+            "VS": {
+                "PRE_CTA_PLACEHOLDER": "Preliminary text (optional)",
+                "SIDE_A_PLACEHOLDER": "A",
+                "FEATURE_A_PLACEHOLDER": "Enter text for A",
+                "SIDE_B_PLACEHOLDER": "B",
+                "FEATURE_B_PLACEHOLDER": "Enter text for B",
+                "PREMISE_PLACEHOLDER": "Enter video title",
+                "COMPARISON_PLACEHOLDER": "Comparison",
+                "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "A background image is required",
+                "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "B background image is required",
+                "A_TITLE_REQUIRED_VALIDATION_MSG": "A title is required",
+                "B_TITLE_REQUIRED_VALIDATION_MSG": "B title is required",
+                "PREMISE_REQUIRED_VALIDATION_MSG": "Video title is required",
+                "COMPARISON_REQUIRED_VALIDATION_MSG": "Comparison is required"
+            },
+            "FACTS": {
+                "ENTER_TITLE_PLACEHOLDER": "ENTER TITLE",
+                "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
+                "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
+            }
+        }
+    },
+    "VIDEO_PLAYER": {
+        "DESCRIPTION_PLACEHOLDER": "Описание",
+        "SETTINGS": {
+            "TITLE": "Settings",
+            "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+            "MUTE_SWITCH_LABEL": "Autoplay on mute",
+            "CLOSE_SETTINGS": "Back to Edit"
+        }
     }
-  },
-  "VIDEO_PLAYER": {
-    "DESCRIPTION_PLACEHOLDER": "Описание",
-    "SETTINGS": {
-      "TITLE": "Settings",
-      "AUTOPLAY_SWITCH_LABEL": "Autoplay",
-      "MUTE_SWITCH_LABEL": "Autoplay on mute",
-      "CLOSE_SETTINGS": "Back to Edit"
-    }
-  }
-
 }
