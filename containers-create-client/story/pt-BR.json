@@ -184,7 +184,8 @@
         "ENTERTAINMENT": "Entretenimento",
         "NEWS": "Notícias",
         "FOOD": "Comida",
-        "WORKING_ON_TEMPLATE": "Construindo um template:"
+        "WORKING_ON_TEMPLATE": "Construindo um template:",
+        "VIDEO": "Vídeo"
     },
     "CONVO": {
         "PARTICIPANT_PLACEHOLDER": "Participante",
@@ -209,13 +210,13 @@
         "SECTION_TITLE_PLACEHOLDER": "Título",
         "NOT_SAVED_ERR_MESSAGE": "Algumas alterações não foram salvas. Você tem certeza de que quer sair?",
         "LIST": {
-            "ENABLE_VOTING_SWITCH": "Enable Voting",
-            "VOTE": "Vote",
+            "ENABLE_VOTING_SWITCH": "Ativar votação",
+            "VOTE": "Votar",
             "TYPE": {
                 "NONE": "Normal",
-                "NUMBER": "Numbered List",
-                "BULLET": "Bulleted List",
-                "RANK": "Interactive List"
+                "NUMBER": "Lista numerada",
+                "BULLET": "Lista em tópicos",
+                "RANK": "Lista interativa"
             }
         }
     },
@@ -269,7 +270,7 @@
         "CLASSIC_LAYOUT_TOOLTIP": "Template clássico",
         "GRID_LAYOUT_TOOLTIP": "Grid de imagens",
         "DELETE_OPTION_BUT": "Excluir opção",
-        "SQUARE_LAYOUT_TOOLTIP": "Square results images"
+        "SQUARE_LAYOUT_TOOLTIP": "Alternativas em imagens quadradas"
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Escreva a citação...",
@@ -361,21 +362,21 @@
             "FACTS": "Facts"
         },
         "THEME_NAME_LABEL": {
-            "DEFAULT": "Default",
+            "DEFAULT": "Padrão",
             "PLAYBUZZ": "Playbuzz",
-            "SHADES_OF_GRAY": "grey",
+            "SHADES_OF_GRAY": "cinza",
             "PLAYTIME": "playtime",
-            "BACK_TO_SCHOOL": "Back To School",
-            "NEUTRAL_BLUE": "Neutral Blue",
+            "BACK_TO_SCHOOL": "De volta à escola",
+            "NEUTRAL_BLUE": "Azul",
             "PHAEDRA": "Phaedra",
             "FIESTA": "Fiesta",
-            "GREENS": "Greens",
-            "BUBBLEGUM": "Bubblegum",
+            "GREENS": "Verde",
+            "BUBBLEGUM": "Chiclete",
             "GROUND_CONTROL": "Ground Control",
-            "AMERICA": "America",
-            "BEACH_UMBRELLA": "Beach Umbrella",
-            "BEACH_TIME": "Beach Time",
-            "GOSSIP": "Gossip"
+            "AMERICA": "América",
+            "BEACH_UMBRELLA": "Guarda-sol",
+            "BEACH_TIME": "Praia",
+            "GOSSIP": "Fofoca"
         },
         "TEMPLATES": {
             "GENERAL": {
