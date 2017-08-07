@@ -26,8 +26,8 @@
         "MCD_LABEL": "Embed video unit",
         "COPY_CODE_BUTTON": "Copy code"
     },
-    "Vote": "הצביעו",
+    "Vote": "סקר:",
     "POLL": {
-        "SHARE_POLL": "אני הצבעתי: {{answer}} {{question}}"
+        "SHARE_POLL": "אני הצבעתי: {{answer}} .{{question}}"
     }
 }
