@@ -26,8 +26,8 @@
         "MCD_LABEL": "Embed video unit",
         "COPY_CODE_BUTTON": "Copy code"
     },
+    "Vote": "Poll:",
     "POLL": {
-        "SHARE_POLL": "I Voted {{answer}} {{question}}"
-    },
-    "Vote": "Vote"
+        "SHARE_POLL": "I voted {{answer}}. {{question}}"
+    }
 }
