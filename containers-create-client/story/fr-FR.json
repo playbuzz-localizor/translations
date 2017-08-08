@@ -15,7 +15,7 @@
             "LANGUAGE_CHECKBOX_LABEL": "Autoriser la traduction dans d'autres langues",
             "SPONSORED_TITLE": "Contenu sponsorisé",
             "SPONSORED_CHECKBOX_LABEL": "Ceci est une Story sponsorisée",
-            "TOOLTIP": "Visibilité :",
+            "TOOLTIP": "Visibilité : {{viewPermission}}",
             "VIEW_PERMISSIONS_DROPDOWN": {
                 "PUBLIC": "Public (recommandé)",
                 "ONLY_ME": "Uniquement moi",
@@ -36,13 +36,13 @@
         },
         "ABOUT": {
             "TITLE": "Qu'est ce qu'une Story ?",
-            "DESCRIPTION": "Story est le premier outil de création d'article qui permet aux équipes éditoriales de découper leur récit en plusieurs contenus engageants, et de guider le lecteur à travers un véritable parcours intéractif et visuel.",
+            "DESCRIPTION": "Story est le premier outil de création d'article qui permet aux équipes éditoriales de découper leurs récits en plusieurs contenus engageants, intéractifs et visuels.",
             "STEP_1": "Rédiger votre Story",
             "STEP_2": "Publier",
             "STEP_3": "Coller le code Embed directement sur votre site",
-            "STEP_4": "Fini!",
+            "STEP_4": "Fini !",
             "QUESTIONS_TITLE": "Si vous avez des questions :",
-            "QUESTIONS_DESCRIPTION": "On est là !",
+            "QUESTIONS_DESCRIPTION": "on est là !",
             "TOOLTIP": "À propos"
         }
     },
@@ -52,7 +52,7 @@
         "ERROR_MESSAGE": "Erreur",
         "PUBLISH_BUT_PENDING": "Publication en cours...",
         "PREVIEW_BUT": "Prévisualiser",
-        "SAVED_NOTIFICATION": "Enregistrée",
+        "SAVED_NOTIFICATION": "Enregistré",
         "VIEW_LINK": "Voir",
         "SAVE_BUT_NEW_ITEM": "Sauvegarder brouillon",
         "SAVE_BUT_PENDING": "Sauvegarde en cours...",
@@ -70,7 +70,7 @@
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Rédigez votre Story",
     "STORY_TITLE_PLACEHOLDER": "Titre de la Story",
-    "DELETE_SECTION_MESSAGE": "Êtes-vous sûr(e) de vouloir supprimer ?",
+    "DELETE_SECTION_MESSAGE": "Êtes-vous sûr(e) ?",
     "MODAL_LANGUAGE": {
         "NEW_LABEL": "NOUVEAU",
         "TITLE": "Sélectionnez votre langue de préférence",
@@ -81,7 +81,7 @@
         "CLOSE_BUT": "Fermer"
     },
     "ONBOARDING": {
-        "GALLERY_OPEN_LABEL": "Voir exemples",
+        "GALLERY_OPEN_LABEL": "Voir des exemples",
         "CONVO": {
             "TITLE_LABEL": "Donnez l'impression aux lecteurs qu'ils lisent une conversation SMS ou de messagerie instantannée.",
             "TEXT_1_LABEL": "Créer les participants de la conversation (photos de profil et noms) puis faites les converser en créant autant de bulles de dialogue que vous voulez ! Ajoutez-y des images et des GIFs si vous le souhaitez.",
@@ -128,7 +128,7 @@
             "TEXT_2_LABEL": "Ajoutez la photo de l'auteur de la citation pour donner plus d'informations et de contexte."
         },
         "SUMMARY": {
-            "TITLE_LABEL": "Le module Summary va droit au but et permet de donner au lecteur uniquement les informations dont il a besoin. Ce template peut s'utiliser de pleins de manières différentes...",
+            "TITLE_LABEL": "Le module Summary va droit au but et permet de donner au lecteur uniquement les informations dont il a besoin. Ce template peut s'utiliser de plein de manières différentes...",
             "TEXT_1_LABEL": "Utilisez Summary pour lister les principaux enjeux d'un sujet. Donnez à votre audience une vue d'ensemble grâce à une courte énumération. Insérez une image d'illustration pour relier votre Summary au sujet de votre article.",
             "TEXT_2_LABEL": "Privilégiez le template Summary avec la barre sur le côté pour les ingrédients quand vous voulez écrire une recette. Ajoutez une belle photo du plat à votre Summary et il deviendra plus alléchant.",
             "TEXT_3_LABEL": "Utilisez les cases à cocher pour donner un effet de to-do list à votre Summary."
@@ -168,7 +168,7 @@
         "CREATING_IN_PLAYBUZZ": "Créer avec Playbuzz devient plus simple",
         "CREATING_IN_PLAYBUZZ_2": "Créer n'a jamais été aussi facile...",
         "CREATING_IN_PLAYBUZZ_2_DESC": "Raconter votre histoire depuis un template déjà prêt ou créer le vôtre.",
-        "CREATING_IN_PLAYBUZZ_DESC_1": "Pour créer un nouveau template, cliquez sur Créer et choisissez ",
+        "CREATING_IN_PLAYBUZZ_DESC_1": "Pour créer un nouveau template, cliquez sur Créer et choisissez",
         "CREATING_IN_PLAYBUZZ_DESC_2": "> Ajouter aux templates",
         "START_HERE": "Commencez ici",
         "NO_TEMPLATES_FOUND": "Aucun template correspondant",
@@ -184,7 +184,8 @@
         "ENTERTAINMENT": "Divertissement",
         "NEWS": "Actus",
         "FOOD": "Cuisine",
-        "WORKING_ON_TEMPLATE": "Edition en cours :"
+        "WORKING_ON_TEMPLATE": "Edition en cours :",
+        "VIDEO": "Vidéo"
     },
     "CONVO": {
         "PARTICIPANT_PLACEHOLDER": "Participant",
@@ -223,7 +224,7 @@
         "NO_EFFECT": "Aucun",
         "PULSE_EFFECT": "Animé",
         "FLOATING_EFFECT": "Flottant",
-        "BUTTON_TEXT": "Entrer texte",
+        "BUTTON_TEXT": "Entrer texte...",
         "LINK_PLACEHOLDER": "Entrer lien...",
         "TEST_LINK_TOOLTIP": "Tester le lien"
     },
@@ -266,15 +267,15 @@
             "SECURED_SWITCH": "Activer sécurité sondage",
             "ADDITIONAL_SETTINGS_WARNING": "Ces changements seront visibles quand vous aurez cliqué sur Enregistrer."
         },
-        "CLASSIC_LAYOUT_TOOLTIP": "Template résultats classiques",
-        "GRID_LAYOUT_TOOLTIP": "Template grille de résultat",
+        "CLASSIC_LAYOUT_TOOLTIP": "Barre classique",
+        "GRID_LAYOUT_TOOLTIP": "Image ronde",
         "DELETE_OPTION_BUT": "Supprimer cette option",
-        "SQUARE_LAYOUT_TOOLTIP": "Square results images"
+        "SQUARE_LAYOUT_TOOLTIP": "Image Carrée"
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Entrer une citation",
         "QUOTEE_PLACEHOLDER": "Qui en est l'auteur ?",
-        "ADDITIONAL_TEXT_PLACEHOLDER": "Plus de détails (date, contexte, anecdote...)"
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Plus de détails"
     },
     "SUMMARY": {
         "ADD_ROW": "Ajouter une ligne",
