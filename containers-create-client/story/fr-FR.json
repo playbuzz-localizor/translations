@@ -15,7 +15,7 @@
             "LANGUAGE_CHECKBOX_LABEL": "Autoriser la traduction dans d'autres langues",
             "SPONSORED_TITLE": "Contenu sponsorisé",
             "SPONSORED_CHECKBOX_LABEL": "Ceci est une Story sponsorisée",
-            "TOOLTIP": "Visibilité :",
+            "TOOLTIP": "Visibilité : {{viewPermission}}",
             "VIEW_PERMISSIONS_DROPDOWN": {
                 "PUBLIC": "Public (recommandé)",
                 "ONLY_ME": "Uniquement moi",
@@ -36,13 +36,13 @@
         },
         "ABOUT": {
             "TITLE": "Qu'est ce qu'une Story ?",
-            "DESCRIPTION": "Story est le premier outil de création d'article qui permet aux équipes éditoriales de découper leur récit en plusieurs contenus engageants, et de guider le lecteur à travers un véritable parcours intéractif et visuel.",
+            "DESCRIPTION": "Story est le premier outil de création d'article qui permet aux équipes éditoriales de découper leurs récits en plusieurs contenus engageants, intéractifs et visuels.",
             "STEP_1": "Rédiger votre Story",
             "STEP_2": "Publier",
             "STEP_3": "Coller le code Embed directement sur votre site",
-            "STEP_4": "Fini!",
+            "STEP_4": "Fini !",
             "QUESTIONS_TITLE": "Si vous avez des questions :",
-            "QUESTIONS_DESCRIPTION": "On est là !",
+            "QUESTIONS_DESCRIPTION": "on est là !",
             "TOOLTIP": "À propos"
         }
     },
@@ -52,7 +52,7 @@
         "ERROR_MESSAGE": "Erreur",
         "PUBLISH_BUT_PENDING": "Publication en cours...",
         "PREVIEW_BUT": "Prévisualiser",
-        "SAVED_NOTIFICATION": "Enregistrée",
+        "SAVED_NOTIFICATION": "Enregistré",
         "VIEW_LINK": "Voir",
         "SAVE_BUT_NEW_ITEM": "Sauvegarder brouillon",
         "SAVE_BUT_PENDING": "Sauvegarde en cours...",
@@ -70,7 +70,7 @@
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Rédigez votre Story",
     "STORY_TITLE_PLACEHOLDER": "Titre de la Story",
-    "DELETE_SECTION_MESSAGE": "Êtes-vous sûr(e) de vouloir supprimer ?",
+    "DELETE_SECTION_MESSAGE": "Êtes-vous sûr(e) ?",
     "MODAL_LANGUAGE": {
         "NEW_LABEL": "NOUVEAU",
         "TITLE": "Sélectionnez votre langue de préférence",
@@ -81,7 +81,7 @@
         "CLOSE_BUT": "Fermer"
     },
     "ONBOARDING": {
-        "GALLERY_OPEN_LABEL": "Voir exemples",
+        "GALLERY_OPEN_LABEL": "Voir des exemples",
         "CONVO": {
             "TITLE_LABEL": "Donnez l'impression aux lecteurs qu'ils lisent une conversation SMS ou de messagerie instantannée.",
             "TEXT_1_LABEL": "Créer les participants de la conversation (photos de profil et noms) puis faites les converser en créant autant de bulles de dialogue que vous voulez ! Ajoutez-y des images et des GIFs si vous le souhaitez.",
@@ -97,7 +97,7 @@
         },
         "FLIP_CARD": {
             "TITLE_LABEL": "Surprenez vos lecteurs en affichant des images ou du texte qui se retournent par un simple clic.",
-            "TEXT_1_LABEL": "",
+            "TEXT_1_LABEL": "TEXT_1_LABEL",
             "TEXT_2_LABEL": "Utilisez les Flip Card pour révéler quelque chose de surprenant, distrayant ou choquant à vos lecteurs. Une bonne manière d'exploiter les Flip Card est aussi la confrontation avant/après.",
             "TEXT_3_LABEL": "Utilisez les Flip Card pour filtrer ce que les lecteurs peuvent voir. Donnez leur le choix, par exemple, d'accéder ou non à des contenus réservés aux adultes."
         },
@@ -119,7 +119,7 @@
             "TEXT_2_LABEL": "Ajoutez une image d'illustration à votre sondage pour lui donner plus d'impact visuel.",
             "TEXT_3_LABEL": "Ajoutez une image d'illustration et utilisez le template Grid pour créer un sondage captivant auquel on a envie de réagir !",
             "TEXT_4_LABEL": "Pensez à toujours inclure l'option \"aucune des réponses ci-dessus\" pour offrir la possibilité au lecteur de ne pas choisir si aucune des réponses ne lui convient.",
-            "TEXT_5_LABEL": "",
+            "TEXT_5_LABEL": "TEXT_5_LABEL",
             "TEXT_6_LABEL": "Vous pouvez cacher le résultat d'un sondage et le dévoiler à votre audience seulement au moment propice."
         },
         "QUOTE": {
@@ -128,7 +128,7 @@
             "TEXT_2_LABEL": "Ajoutez la photo de l'auteur de la citation pour donner plus d'informations et de contexte."
         },
         "SUMMARY": {
-            "TITLE_LABEL": "Le module Summary va droit au but et permet de donner au lecteur uniquement les informations dont il a besoin. Ce template peut s'utiliser de pleins de manières différentes...",
+            "TITLE_LABEL": "Le module Summary va droit au but et permet de donner au lecteur uniquement les informations dont il a besoin. Ce template peut s'utiliser de plein de manières différentes...",
             "TEXT_1_LABEL": "Utilisez Summary pour lister les principaux enjeux d'un sujet. Donnez à votre audience une vue d'ensemble grâce à une courte énumération. Insérez une image d'illustration pour relier votre Summary au sujet de votre article.",
             "TEXT_2_LABEL": "Privilégiez le template Summary avec la barre sur le côté pour les ingrédients quand vous voulez écrire une recette. Ajoutez une belle photo du plat à votre Summary et il deviendra plus alléchant.",
             "TEXT_3_LABEL": "Utilisez les cases à cocher pour donner un effet de to-do list à votre Summary."
@@ -168,7 +168,7 @@
         "CREATING_IN_PLAYBUZZ": "Créer avec Playbuzz devient plus simple",
         "CREATING_IN_PLAYBUZZ_2": "Créer n'a jamais été aussi facile...",
         "CREATING_IN_PLAYBUZZ_2_DESC": "Raconter votre histoire depuis un template déjà prêt ou créer le vôtre.",
-        "CREATING_IN_PLAYBUZZ_DESC_1": "Pour créer un nouveau template, cliquez sur Créer et choisissez ",
+        "CREATING_IN_PLAYBUZZ_DESC_1": "Pour créer un nouveau template, cliquez sur Créer et choisissez",
         "CREATING_IN_PLAYBUZZ_DESC_2": "> Ajouter aux templates",
         "START_HERE": "Commencez ici",
         "NO_TEMPLATES_FOUND": "Aucun template correspondant",
@@ -184,6 +184,241 @@
         "ENTERTAINMENT": "Divertissement",
         "NEWS": "Actus",
         "FOOD": "Cuisine",
-        "WORKING_ON_TEMPLATE": "Edition en cours :"
+        "WORKING_ON_TEMPLATE": "Edition en cours :",
+        "VIDEO": "Vidéo"
+    },
+    "CONVO": {
+        "PARTICIPANT_PLACEHOLDER": "Participant",
+        "BUBBLE_CONTENT_PLACEHOLDER": "Entrer un texte...",
+        "ADD_BUBBLE_TOOLTIP": "Ajouter une bulle",
+        "ADD_PARTICIPANT_TOOLTIP": "Ajouter participant",
+        "DELETE_MESSAGE": "Êtes-vous sûr(e) ?"
+    },
+    "CREATE_MODULES": {
+        "TEXT_EDITOR": {
+            "WORD": "MOTS",
+            "WORDS": "MOTS",
+            "GOOD": "BIEN",
+            "NORMAL": "O.K",
+            "BAD": "UN PEU TROP LONG",
+            "BOLD_TOOLTIP": "Gras",
+            "GOOD_INDICATION": "GOOD",
+            "NORMAL_INDICATION": "O.K",
+            "BAD_INDICATION": "UN PEU TROP LONG",
+            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. de lecture"
+        },
+        "SECTION_TITLE_PLACEHOLDER": "Titre",
+        "NOT_SAVED_ERR_MESSAGE": "Les dernières modifications n'ont pas été sauvegardées. Êtes-vous sûr(e) de vouloir quitter ?",
+        "LIST": {
+            "ENABLE_VOTING_SWITCH": "Activer les votes",
+            "VOTE": "Vote",
+            "TYPE": {
+                "NONE": "Normal",
+                "NUMBER": "Numérotation",
+                "BULLET": "Puces",
+                "RANK": "Liste dynamique (vote)"
+            }
+        }
+    },
+    "CTA": {
+        "NO_EFFECT": "Aucun",
+        "PULSE_EFFECT": "Animé",
+        "FLOATING_EFFECT": "Flottant",
+        "BUTTON_TEXT": "Entrer texte...",
+        "LINK_PLACEHOLDER": "Entrer lien...",
+        "TEST_LINK_TOOLTIP": "Tester le lien"
+    },
+    "EMBED": {
+        "DESCRIPTION_PLACEHOLDER": "Description"
+    },
+    "IMAGE": {
+        "CAPTION": "Image"
+    },
+    "PARAGRAPH": {
+        "EDITOR_PLACEHOLDER": "Paragraphe"
+    },
+    "POLL": {
+        "BACKGROUND_TEMPLATE_TOOLTIP": "Image d'arrière plan",
+        "COVER_TEMPLATE_TOOLTIP": "Image d'illustration",
+        "CLASSIC_TEMPLATE_TOOLTIP": "Résultats classiques",
+        "GRID_TEMPLATE_TOOLTIP": "Grille de résultat",
+        "SETTINGS_TOOLTIP": "Paramètres du sondage",
+        "TITLE_PLACEHOLDER": "Question",
+        "OPTION_PLACEHOLDER": "Option {{index}}",
+        "ADD_OPTION_BUT": "Ajouter une option",
+        "SETTINGS": {
+            "TITLE": "PARAMÈTRES DU SONDAGE",
+            "HERE_LINK": "Ici",
+            "BACK_BUTTON": "Retour à l'édition",
+            "ENABLE_VOTING_SWITCH": "Activer les votes",
+            "TOTAL_VOTES_SWITCH": "Afficher le nombre total de votes",
+            "DISPLAY_LOGO_SWITCH": "Afficher Logo",
+            "DISPLAY_LOGO_DESCRIPTION": "Personnaliser encore plus votre sondage en ajoutant votre logo. Remplacer l'image de présentation",
+            "END_CARD_SWITCH": "End Card",
+            "END_CARD_DESCRIPTION": "Générer plus de partages et d'engagements en utilisant End Card",
+            "END_CARD": {
+                "TITLE_LABEL": "Titre",
+                "TITLE_PLACEHOLDER": "Entrer le titre",
+                "DESCRIPTION_LABEL": "Description",
+                "DESCRIPTION_PLACEHOLDER": "Entrer une description..."
+            },
+            "ALLOW_REVOTES_SWITCH": "Les lecteurs peuvent re-voter chaque jour",
+            "HIDE_RESULTS_SWITCH": "Cacher les résultats du sondage",
+            "SECURED_SWITCH": "Activer sécurité sondage",
+            "ADDITIONAL_SETTINGS_WARNING": "Ces changements seront visibles quand vous aurez cliqué sur Enregistrer."
+        },
+        "CLASSIC_LAYOUT_TOOLTIP": "Barre classique",
+        "GRID_LAYOUT_TOOLTIP": "Image ronde",
+        "DELETE_OPTION_BUT": "Supprimer cette option",
+        "SQUARE_LAYOUT_TOOLTIP": "Image Carrée"
+    },
+    "QUOTE": {
+        "TEXT_PLACEHOLDER": "Entrer une citation",
+        "QUOTEE_PLACEHOLDER": "Qui en est l'auteur ?",
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Plus de détails"
+    },
+    "SUMMARY": {
+        "ADD_ROW": "Ajouter une ligne",
+        "SUBTITLE_PLACEHOLDER": "Sous-titre",
+        "ROW_PLACEHOLDER": "Entrer du texte...",
+        "NO_EFFECT": "Aucun",
+        "FADE_EFFECT": "Estomper",
+        "TITLE_PLACEHOLDER": "Titre"
+    },
+    "VIDEO_CREATOR": {
+        "PLAY": "PLAY",
+        "PAUSE": "PAUSE",
+        "GALLERY_TITLE": "Choisissez un template",
+        "OPEN_TEMPLATES_GALLERY_BUT": "Changer de template",
+        "CLOSE_TEMPLATES_GALLERY_BUT": "Retour à l'édition",
+        "SETTINGS": {
+            "TITLE": "Paramètres",
+            "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+            "MUTE_SWITCH_LABEL": "Autoplay (muet)",
+            "LOGO_LABEL": "Personnalisation du logo",
+            "CLOSE_SETTINGS": "Retour à l'édition",
+            "LOGO_DESCRIPTION": "Téléchargez votre propre logo qui apparaîtra en fin de vidéo."
+        },
+        "PREVIEW_BUT": "Générer la vidéo",
+        "NOT_SUPPORTED_LABEL": "Non pris en charge",
+        "IE_ERR_MESSAGE": "La création de la vidéo n'est pas prise en charge par Internet Explorer. Utilisez Chrome pour profiter de toutes les fonctionnalités ! Vous pouvez quand même publier votre item sur Internet Explorer et votre vidéo sera prête dans un instant.",
+        "REMOVE_SCENE": {
+            "TITLE": "Êtes-vous certain(e) ?",
+            "DELETE_BUTTON_TEXT": "Supprimer"
+        },
+        "SCENE_NAME": {
+            "GENERAL": {
+                "INTRO_LABEL": "INTRO",
+                "ENDING_LABEL": "FIN",
+                "CREDITS_LABEL": "CRÉDITS"
+            },
+            "CLASSIC": {
+                "ITEM_LABEL": "ITEM"
+            },
+            "FACTS": {
+                "ITEM_LABEL": "FACT"
+            },
+            "SWIFT": {
+                "ITEM_BOTTOM_LABEL": "EN BAS",
+                "ITEM_TOP_LABEL": "AU HAUT"
+            },
+            "VS": {
+                "ITEM_LABEL": "THÈME",
+                "ENDING_LABEL": "CONCLUSION"
+            }
+        },
+        "CHANGE_TEMPLATE_WARNING": {
+            "TITLE": "Type de template différent",
+            "WARNING_MESSAGE": "Le contenu déjà chargé ne s'affichera peut-être pas dans ce template",
+            "CANCEL_BUTTON": "Annuler",
+            "CHANGE_BUTTON": "Changer de template"
+        },
+        "AUDIO_LABEL": {
+            "NONE": "Aucun",
+            "UPBEAT": "Enjoué",
+            "INTENSE": "Intense",
+            "OPTIMISTIC": "Optimiste",
+            "JAZZ": "Jazz",
+            "ENERGETIC_PIANO": "Piano rythmé",
+            "EMOTIONAL": "Émotionnel",
+            "SWING_BIG_BAND": "Swing",
+            "THRILLER": "Suspense",
+            "CINEMATIC": "Cinématographique",
+            "TRAILER": "Bande-annonce",
+            "INSPIRATIONAL": "Inspirant",
+            "GANGSTA": "Gangster",
+            "ELECTRONIC": "Electro",
+            "DARK_BEATS": "Lourd",
+            "FUNKY": "Funky",
+            "HIP_HOP": "Hip Hop",
+            "MELANCHOLIC": "Mélancolique",
+            "SLOW_ROCK": "Rock Lent",
+            "SILENT_MOVIE_PIANO": "Piano Film Muet"
+        },
+        "TEMPLATE_NAME": {
+            "CLASSIC": "Classique",
+            "VS": "VS",
+            "SWIFT": "Swift",
+            "FACTS": "Facts"
+        },
+        "THEME_NAME_LABEL": {
+            "DEFAULT": "Défaut",
+            "PLAYBUZZ": "Playbuzz",
+            "SHADES_OF_GRAY": "Grey",
+            "PLAYTIME": "Playtime",
+            "BACK_TO_SCHOOL": "Back to School",
+            "NEUTRAL_BLUE": "Neutral Blue",
+            "PHAEDRA": "Phaedra",
+            "FIESTA": "Fiesta",
+            "GREENS": "Greens",
+            "BUBBLEGUM": "Bubblegum",
+            "GROUND_CONTROL": "Ground Control",
+            "AMERICA": "America",
+            "BEACH_UMBRELLA": "Beach Umbrella",
+            "BEACH_TIME": "Beach Time",
+            "GOSSIP": "Gossip"
+        },
+        "TEMPLATES": {
+            "GENERAL": {
+                "MAIN_TITLE_PLACEHOLDER": "Entrer titre principal",
+                "ENTER_TEXT_PLACEHOLDER": "Entrer Texte",
+                "CTA_PLACEHOLDER": "Terminer avec un \"call to action\" !",
+                "BACKGROUND_REQUIRED_VALIDATION_MSG": "Une image de fond est obligatoire",
+                "TEXT_REQUIRED_VALIDATION_MSG": "Le texte est obligatoire",
+                "TITLE_REQUIRED_VALIDATION_MSG": "Le titre est obligatoire"
+            },
+            "CLASSIC": {
+                "SUB_TITLE_PLACEHOLDER": "Entrer un sous-titre (optionnel)"
+            },
+            "VS": {
+                "PRE_CTA_PLACEHOLDER": "Entrer un texte préliminaire (optionnel)",
+                "SIDE_A_PLACEHOLDER": "A",
+                "FEATURE_A_PLACEHOLDER": "Entrer le texte pour A",
+                "SIDE_B_PLACEHOLDER": "B",
+                "FEATURE_B_PLACEHOLDER": "Entrer le texte pour B",
+                "PREMISE_PLACEHOLDER": "Entrer le titre de la vidéo",
+                "COMPARISON_PLACEHOLDER": "Comparaison",
+                "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "L'image de fond A est obligatoire",
+                "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "L'image de fond B est obligatoire",
+                "A_TITLE_REQUIRED_VALIDATION_MSG": "Le titre A est obligatoire",
+                "B_TITLE_REQUIRED_VALIDATION_MSG": "Le titre B est obligatoire",
+                "PREMISE_REQUIRED_VALIDATION_MSG": "Le titre de la vidéo est obligatoire",
+                "COMPARISON_REQUIRED_VALIDATION_MSG": "La comparaison est obligatoire"
+            },
+            "FACTS": {
+                "ENTER_TITLE_PLACEHOLDER": "Entrer le titre",
+                "ENTER_FACT_PLACEHOLDER": "Entrer un fait",
+                "FACT_REQUIRED_VALIDATION_MSG": "Un fait est obligatoire"
+            }
+        }
+    },
+    "VIDEO_PLAYER": {
+        "DESCRIPTION_PLACEHOLDER": "Description",
+        "SETTINGS": {
+            "TITLE": "Paramètres",
+            "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+            "MUTE_SWITCH_LABEL": "Autoplay (muet)",
+            "CLOSE_SETTINGS": "Retour à l'édition"
+        }
     }
 }

@@ -1,9 +1,0 @@
-{
-    "CONVO": {
-        "PARTICIPANT_PLACEHOLDER": "Имя",
-        "BUBBLE_CONTENT_PLACEHOLDER": "Введите текст...",
-        "ADD_BUBBLE_TOOLTIP": "Добавить реплику",
-        "ADD_PARTICIPANT_TOOLTIP": "Добавить собеседника",
-        "DELETE_MESSAGE": "Вы уверены?"
-    }
-}
