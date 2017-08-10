@@ -10,7 +10,12 @@
             "BACK_TITLE": "CARTE DE DOS",
             "MEDIA_TOOLTIP": "Carte Image",
             "TEXT_TOOLTIP": "Carte Texte",
-            "IMAGE_CAPTION_PLACEHOLDER": "Ajouter une légende..."
+            "IMAGE_CAPTION_PLACEHOLDER": "Ajouter une légende...",
+            "RATIO_ALERT_TITLE": "Êtes-vous sûr(e) ?",
+            "RATIO_ALERT": "Modifier les dimensions entraînera la suppression des images.",
+            "RATIO_ALERT_CONFIRMATION": "Voulez-vous continuer ?",
+            "OK_BTN": "OK",
+            "CANCEL_BTN": "ANNULER"
         },
         "TEXT_CARD": {
             "TEXT_PLACEHOLDER": "Écrivez ici...",
