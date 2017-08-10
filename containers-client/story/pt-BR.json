@@ -26,7 +26,7 @@
         "MCD_LABEL": "Embedar vídeo",
         "COPY_CODE_BUTTON": "Copiar código"
     },
-    "Vote": "Vote:",
+    "Vote": "Vote",
     "POLL": {
         "SHARE_POLL": "Eu votei {{answer}}. {{question}}"
     }
