@@ -1,10 +1,33 @@
 {
-    "Click to Flip": "Cliquez pour dévoiler",
-    "Click to Uncover": "Cliquez pour dévoiler",
-    "Votes": "Voix",
+    "Votes": "Votes",
     "Created By": "Créé par",
-    "On": "le",
-    "Sponsored": "SPONSORED",
-    "Thanks for your vote!": "Merci pour votre vote",
-    "Read more on": "En savoir plus sur"
+    "On": "sur",
+    "Sponsored": "SPONSORISÉ",
+    "Thanks for your vote!": "Merci pour votre vote !",
+    "Read more on": "En savoir plus sur",
+    "VIDEO_CREATOR": {
+        "UPLOADING_LABEL": "Téléchargement",
+        "UPLOAD_TO_FACEBOOK_PAGE_LABEL": "Publier sur Facebook",
+        "OK": "OK",
+        "CANCEL": "Annuler",
+        "PERMISSION_REQUIRED_1": "Nous n'avons pas la permission de publier directement sur Facebook.",
+        "MANAGE_PAGE": "Gérer la Page",
+        "COPY_LINK": "COPIER LE LIEN",
+        "UPLOADED_TO_FACEBOOK_BUTTON": "Envoyer au manager de la page Facebook",
+        "FACEBOOK_INTRO_LABLE": "Vous pouvez poster votre vidéo sur votre page Facebook ! Cliquez sur ce bouton pour d'abord vous envoyer une notification sur Facebook signalant que la vidéo est disponible pour la publication.",
+        "ERROR_OCCURRED_HEADER": "Une erreur est survenue",
+        "UNEXPECTED_ERROR_OCCURRED": "Une erreur est survenue, merci de réessayer plus tard.",
+        "GO": "Go",
+        "FACEBOOK_PAGE_MISSING_HEADER": "On y est presque",
+        "FACEBOOK_PAGE_IS_NOT_VALID": "Aucune page Facebook valide n'a été reliée à cette chaine",
+        "PERMISSION_REQUIRED_HEADER": "Publication impossible",
+        "PERMISSION_REQUIRED_LINK": "Pourquoi a-t-on besoin de cela ?",
+        "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "En savoir plus sur le Crossposting",
+        "MCD_LABEL": "Unité Embed Vidéo",
+        "COPY_CODE_BUTTON": "Copier le code"
+    },
+    "Vote": "Sondage :",
+    "POLL": {
+        "SHARE_POLL": "J'ai voté {{answer}}. {{question}}"
+    }
 }
