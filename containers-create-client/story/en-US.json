@@ -189,6 +189,7 @@
         "WORKING_ON_TEMPLATE": "Working on template:"
     },
     "CONVO": {
+        "ADD_SECTION_TOOLTIP": "Add Convo",
         "PARTICIPANT_PLACEHOLDER": "Participant",
         "BUBBLE_CONTENT_PLACEHOLDER": "Enter text...",
         "ADD_BUBBLE_TOOLTIP": "Add Bubble",
@@ -222,6 +223,7 @@
         }
     },
     "CTA": {
+        "ADD_SECTION_TOOLTIP": "Add CTA",
         "NO_EFFECT": "None",
         "PULSE_EFFECT": "Pulse",
         "FLOATING_EFFECT": "Floating",
@@ -230,15 +232,19 @@
         "TEST_LINK_TOOLTIP": "Test link"
     },
     "EMBED": {
-        "DESCRIPTION_PLACEHOLDER": "Description"
+        "DESCRIPTION_PLACEHOLDER": "Description",
+        "ADD_SECTION_TOOLTIP": "Import from the web"
     },
     "IMAGE": {
-        "CAPTION": "Image"
+        "CAPTION": "Image",
+        "ADD_SECTION_TOOLTIP": "Add Image"
     },
     "PARAGRAPH": {
+        "ADD_SECTION_TOOLTIP": "Add Text",
         "EDITOR_PLACEHOLDER": "Paragraph"
     },
     "POLL": {
+        "ADD_SECTION_TOOLTIP": "Add Poll",
         "BACKGROUND_TEMPLATE_TOOLTIP": "Background image",
         "COVER_TEMPLATE_TOOLTIP": "Cover image",
         "CLASSIC_TEMPLATE_TOOLTIP": "Classic results",
@@ -274,11 +280,13 @@
         "SQUARE_LAYOUT_TOOLTIP": "Square results images"
     },
     "QUOTE": {
+        "ADD_SECTION_TOOLTIP": "Add Quote",
         "TEXT_PLACEHOLDER": "Enter quote...",
         "QUOTEE_PLACEHOLDER": "Who said it?",
         "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more..."
     },
     "SUMMARY": {
+        "ADD_SECTION_TOOLTIP": "Add Summary Card",
         "ADD_ROW": "Add row",
         "SUBTITLE_PLACEHOLDER": "Subtitle",
         "ROW_PLACEHOLDER": "Enter text...",
@@ -287,6 +295,7 @@
         "TITLE_PLACEHOLDER": "Title"
     },
     "VIDEO_CREATOR": {
+        "ADD_SECTION_TOOLTIP": "Create a video",
         "PLAY": "PLAY",
         "PAUSE": "PAUSE",
         "GALLERY_TITLE": "Pick a template",
@@ -403,6 +412,7 @@
         }
     },
     "VIDEO_PLAYER": {
+        "ADD_SECTION_TOOLTIP": "Add Video Player",
         "DESCRIPTION_PLACEHOLDER": "Description",
         "SETTINGS": {
             "TITLE": "Settings",
@@ -410,5 +420,8 @@
             "MUTE_SWITCH_LABEL": "Autoplay on mute",
             "CLOSE_SETTINGS": "Back to Edit"
         }
+    },
+    "FLIP_CARD": {
+        "ADD_SECTION_TOOLTIP": "Add Flip Card"
     }
 }
