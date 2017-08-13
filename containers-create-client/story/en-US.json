@@ -71,6 +71,7 @@
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
     "STORY_TITLE_PLACEHOLDER": "Story title",
     "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
+    "DELETE_SECTION_BTN": "Delete",
     "MODAL_LANGUAGE": {
         "NEW_LABEL": "NEW",
         "TITLE": "Select your preferred creation language",
