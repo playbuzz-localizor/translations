@@ -192,7 +192,8 @@
         "BUBBLE_CONTENT_PLACEHOLDER": "Entrer un texte...",
         "ADD_BUBBLE_TOOLTIP": "Ajouter une bulle",
         "ADD_PARTICIPANT_TOOLTIP": "Ajouter participant",
-        "DELETE_MESSAGE": "Êtes-vous sûr(e) ?"
+        "DELETE_MESSAGE": "Êtes-vous sûr(e) ?",
+        "ADD_SECTION_TOOLTIP": "Convo"
     },
     "CREATE_MODULES": {
         "TEXT_EDITOR": {
@@ -226,16 +227,20 @@
         "FLOATING_EFFECT": "Flottant",
         "BUTTON_TEXT": "Entrer texte...",
         "LINK_PLACEHOLDER": "Entrer lien...",
-        "TEST_LINK_TOOLTIP": "Tester le lien"
+        "TEST_LINK_TOOLTIP": "Tester le lien",
+        "ADD_SECTION_TOOLTIP": "CTA"
     },
     "EMBED": {
-        "DESCRIPTION_PLACEHOLDER": "Description"
+        "DESCRIPTION_PLACEHOLDER": "Description",
+        "ADD_SECTION_TOOLTIP": "Importer depuis Internet"
     },
     "IMAGE": {
-        "CAPTION": "Image"
+        "CAPTION": "Image",
+        "ADD_SECTION_TOOLTIP": "Image"
     },
     "PARAGRAPH": {
-        "EDITOR_PLACEHOLDER": "Paragraphe"
+        "EDITOR_PLACEHOLDER": "Paragraphe",
+        "ADD_SECTION_TOOLTIP": "Texte"
     },
     "POLL": {
         "BACKGROUND_TEMPLATE_TOOLTIP": "Image d'arrière plan",
@@ -270,12 +275,14 @@
         "CLASSIC_LAYOUT_TOOLTIP": "Barres classiques",
         "GRID_LAYOUT_TOOLTIP": "Vignettes rondes",
         "DELETE_OPTION_BUT": "Supprimer cette réponse",
-        "SQUARE_LAYOUT_TOOLTIP": "Vignettes Carrées"
+        "SQUARE_LAYOUT_TOOLTIP": "Vignettes Carrées",
+        "ADD_SECTION_TOOLTIP": "Poll"
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Entrer une citation",
         "QUOTEE_PLACEHOLDER": "Qui en est l'auteur ?",
-        "ADDITIONAL_TEXT_PLACEHOLDER": "Plus de détails"
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Plus de détails",
+        "ADD_SECTION_TOOLTIP": "Citation"
     },
     "SUMMARY": {
         "ADD_ROW": "Ajouter une ligne",
@@ -283,7 +290,8 @@
         "ROW_PLACEHOLDER": "Entrer du texte...",
         "NO_EFFECT": "Aucun",
         "FADE_EFFECT": "Estomper",
-        "TITLE_PLACEHOLDER": "Titre"
+        "TITLE_PLACEHOLDER": "Titre",
+        "ADD_SECTION_TOOLTIP": "Résumé"
     },
     "VIDEO_CREATOR": {
         "PLAY": "PLAY",
@@ -399,7 +407,8 @@
                 "ENTER_FACT_PLACEHOLDER": "Entrer un fait",
                 "FACT_REQUIRED_VALIDATION_MSG": "Un fait est obligatoire"
             }
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Créer une vidéo"
     },
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Description",
@@ -408,7 +417,11 @@
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
             "MUTE_SWITCH_LABEL": "Autoplay (muet)",
             "CLOSE_SETTINGS": "Retour à l'édition"
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Vidéo Player"
     },
-    "DELETE_SECTION_BTN": "Supprimer"
+    "DELETE_SECTION_BTN": "Supprimer",
+    "FLIP_CARD": {
+        "ADD_SECTION_TOOLTIP": "Flip Card"
+    }
 }
