@@ -1,20 +1,25 @@
 {
     "MP": {
-        "OEMBED_ERROR": "Lo siento, no se puede cargar esta sección. Por favor, inténtelo de nuevo.",
+        "OEMBED_ERROR": "Lo siento, no se puede cargar este artículo. Por favor, inténtelo de nuevo.",
         "FLIP_CARD": {
-            "FRONT_BUT": "PARTE DELANTERA",
-            "BACK_BUT": "PARTE TRASERA",
+            "FRONT_BUT": "DELANTERA",
+            "BACK_BUT": "TRASERA",
             "LANDSCAPE_RATIO": "VISTA",
-            "SQUARE_RATIO": "CUADRADO",
+            "SQUARE_RATIO": "CUADRO",
             "FRONT_TITLE": "Tarjeta delantera",
             "BACK_TITLE": "Tarjeta trasera",
-            "MEDIA_TOOLTIP": "Seleccionar medio",
-            "TEXT_TOOLTIP": "Etiqueta",
-            "IMAGE_CAPTION_PLACEHOLDER": "Añada un subtítulo..."
+            "MEDIA_TOOLTIP": "Seleccione Imagen",
+            "TEXT_TOOLTIP": "Texto en la tarjeta",
+            "IMAGE_CAPTION_PLACEHOLDER": "Añade",
+            "RATIO_ALERT_TITLE": "Are you sure?",
+            "RATIO_ALERT": "Cambiar la relación de imagen eliminará las imágenes existentes.",
+            "RATIO_ALERT_CONFIRMATION": "Are you sure you want to continue?",
+            "OK_BTN": "OK",
+            "CANCEL_BTN": "CANCEL"
         },
         "TEXT_CARD": {
-            "TEXT_PLACEHOLDER": "Escriba algo inspirador...",
-            "DELETE_TOOLTIP": "Eliminar etiqueta"
+            "TEXT_PLACEHOLDER": "Escribe algo inspirador...",
+            "DELETE_TOOLTIP": "Eliminar texto"
         },
         "MODAL": {
             "RESULT_ERROR": "¡Ups! No se ha podido realizar la carga",
@@ -29,7 +34,7 @@
             },
             "GETTY": {
                 "LOGIN_DESC_FIRST_ROW": "Busque en la biblioteca de Getty Images de Playbuzz o",
-                "LOGIN_DESC_SECOND_ROW": "a su propia cuenta de Getty Images",
+                "LOGIN_DESC_SECOND_ROW": "en su propia cuenta de Getty Images",
                 "LOGIN_FORM_DESC": "Acceda a su cuenta",
                 "USERNAME_LABEL": "Usuario",
                 "USERNAME_PLACEHOLDER": "Usuario",
@@ -37,12 +42,18 @@
                 "PASSWORD_PLACEHOLDER": "Contraseña",
                 "SUBMIT_BUT": "Inicie sesión",
                 "CANCEL_BUT": "Cancelar",
-                "LOGIN_ERROR": "Usuario o contraseña incorrectos",
+                "LOGIN_ERROR": "Usuario o contraseña incorrecto",
                 "CONNECTED_USER": "Conectado como {{usuario}}",
-                "POWERED_BY_LABEL": "Proporcionado por",
+                "POWERED_BY_LABEL": "Creado por",
                 "LOGIN_LINK": "acceso",
                 "LOGOUT_LINK": "Cierre de sesión",
-                "RESULTS_COUNT_LABEL": "resultados"
+                "RESULTS_COUNT_LABEL": "resultados",
+                "GRAPHIC_STYLE_ALL": "All",
+                "GRAPHIC_STYLE_ILLUSTRATION": "Illustration",
+                "GRAPHIC_STYLE_PHOTOGRAPHY": "Photography",
+                "SORT_BEST_MATCH": "Best Match",
+                "SORT_NEWEST": "Newest",
+                "SORT_MOST_POPULAR": "Most Popular"
             },
             "YOUTUBE": {
                 "RESULTS_COUNT_LABEL": "resultados"
@@ -56,19 +67,32 @@
             },
             "IMPORT": {
                 "UPLOAD_LINK": "Cargar",
-                "DROP_FILE_TITLE": "o suelte un archivo",
-                "LINK_PLACEHOLDER": "¿Tiene enlace directo al medio?",
-                "INFO_LABEL": "Recomendaciones del medio",
+                "DROP_FILE_TITLE": "o elige un archivo",
+                "LINK_PLACEHOLDER": "¿Tiene un enlace directo?",
+                "INFO_LABEL": "Recomendaciones de media",
                 "SUBMIT_BUT": "Ir",
                 "LINK_PAGE_TITLE": "Importar desde la web"
             },
-            "CREDIT_PLACEHOLDER": "Introduzca los créditos de imágenes...",
-            "DONE_EDIT_BUT": "Hecho"
+            "CREDIT_PLACEHOLDER": "Introduzca los créditos de imagen...",
+            "DONE_EDIT_BUT": "Hecho",
+            "VIDEO_CREDIT_PLACEHOLDER": "Type video credits..."
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Editar",
             "REPLACE_LABEL": "Reemplazar",
             "DELETE_LABEL": "Eliminar"
+        },
+        "CROPPING": {
+            "LABEL": "CROPPING RATIO",
+            "LANDSCAPE_RATIO": "Landscape",
+            "SQUARE_RATIO": "Square",
+            "PORTRAIT_RATIO": "Portrait",
+            "FREESTYLE_RATIO": "Freestyle"
+        },
+        "EFFECT": {
+            "NORMAL": "Normal",
+            "BLUR": "Blur",
+            "ZOOM": "Zoom"
         }
     }
 }
