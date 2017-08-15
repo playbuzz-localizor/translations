@@ -184,14 +184,16 @@
         "ENTERTAINMENT": "Entretenimiento",
         "NEWS": "Noticias",
         "FOOD": "Comida",
-        "WORKING_ON_TEMPLATE": "Trabajando en una plantilla"
+        "WORKING_ON_TEMPLATE": "Trabajando en una plantilla",
+        "VIDEO": "Video"
     },
     "CONVO": {
         "PARTICIPANT_PLACEHOLDER": "Participante",
         "BUBBLE_CONTENT_PLACEHOLDER": "Introducir texto...",
         "ADD_BUBBLE_TOOLTIP": "Añadir Burbuja",
         "ADD_PARTICIPANT_TOOLTIP": "Añadir Participante",
-        "DELETE_MESSAGE": "¿Estás seguro/a?"
+        "DELETE_MESSAGE": "¿Estás seguro/a?",
+        "ADD_SECTION_TOOLTIP": "Add Convo"
     },
     "CREATE_MODULES": {
         "TEXT_EDITOR": {
@@ -225,16 +227,20 @@
         "FLOATING_EFFECT": "Flotante",
         "BUTTON_TEXT": "Introduce texto...",
         "LINK_PLACEHOLDER": "Introduce enlace...",
-        "TEST_LINK_TOOLTIP": "Probar enlace"
+        "TEST_LINK_TOOLTIP": "Probar enlace",
+        "ADD_SECTION_TOOLTIP": "Add CTA"
     },
     "EMBED": {
-        "DESCRIPTION_PLACEHOLDER": "Descripción"
+        "DESCRIPTION_PLACEHOLDER": "Descripción",
+        "ADD_SECTION_TOOLTIP": "Import from the web"
     },
     "IMAGE": {
-        "CAPTION": "Imagen"
+        "CAPTION": "Imagen",
+        "ADD_SECTION_TOOLTIP": "Add Image"
     },
     "PARAGRAPH": {
-        "EDITOR_PLACEHOLDER": "Párrafo"
+        "EDITOR_PLACEHOLDER": "Párrafo",
+        "ADD_SECTION_TOOLTIP": "Add Text"
     },
     "POLL": {
         "BACKGROUND_TEMPLATE_TOOLTIP": "Imagen de fondo",
@@ -269,12 +275,14 @@
         "CLASSIC_LAYOUT_TOOLTIP": "Plantilla de resultados clásicos",
         "GRID_LAYOUT_TOOLTIP": "Plantilla para resultados en círculo",
         "DELETE_OPTION_BUT": "Delete option",
-        "SQUARE_LAYOUT_TOOLTIP": "Square results images"
+        "SQUARE_LAYOUT_TOOLTIP": "Square results images",
+        "ADD_SECTION_TOOLTIP": "Add Poll"
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Introducir Quote",
         "QUOTEE_PLACEHOLDER": "¿Quién lo dijo?",
-        "ADDITIONAL_TEXT_PLACEHOLDER": "Cuéntanos más..."
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Cuéntanos más...",
+        "ADD_SECTION_TOOLTIP": "Add Quote"
     },
     "SUMMARY": {
         "ADD_ROW": "Añadir fila",
@@ -282,7 +290,8 @@
         "ROW_PLACEHOLDER": "Introduce texto...",
         "NO_EFFECT": "Ninguno",
         "FADE_EFFECT": "Aparecer gradualmente",
-        "TITLE_PLACEHOLDER": "Título"
+        "TITLE_PLACEHOLDER": "Título",
+        "ADD_SECTION_TOOLTIP": "Add Summary Card"
     },
     "VIDEO_CREATOR": {
         "PLAY": "REPRODUCIR",
@@ -334,25 +343,14 @@
         },
         "AUDIO_LABEL": {
             "NONE": "Ninguno",
-            "UPBEAT": "Upbeat",
-            "INTENSE": "Intenso",
-            "OPTIMISTIC": "Optimista",
-            "JAZZ": "Jazz",
-            "ENERGETIC_PIANO": "Piano Energético",
-            "EMOTIONAL": "Emocional",
-            "SWING_BIG_BAND": "Swing/Big Band",
-            "THRILLER": "Thriller",
             "CINEMATIC": "Cinematic",
-            "TRAILER": "Trailer",
-            "INSPIRATIONAL": "Inspirador",
-            "GANGSTA": "Gangsta",
-            "ELECTRONIC": "Electronico",
-            "DARK_BEATS": "Ritmo Oscuro",
-            "FUNKY": "Miedoso",
-            "HIP_HOP": "Hip Hop",
-            "MELANCHOLIC": "Melancólico",
-            "SLOW_ROCK": "Rock Suave",
-            "SILENT_MOVIE_PIANO": "Silent Movie Piano"
+            "CANCEL_BTN": "Cancel",
+            "SELECT_BTN": "Select",
+            "CORPORATE": "Corporate",
+            "POSITIVE_AND_UPBEAT": "Positive & Upbeat",
+            "ACOUSTIC": "Acoustic",
+            "HIGH_ENERGY": "High Energy",
+            "EPIC": "Epic"
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Clasico",
@@ -409,7 +407,8 @@
                 "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
                 "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
             }
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Create a video"
     },
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Descripción",
@@ -418,6 +417,11 @@
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
             "MUTE_SWITCH_LABEL": "Autoplay on mute",
             "CLOSE_SETTINGS": "Back to Edit"
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Add Video Player"
+    },
+    "DELETE_SECTION_BTN": "Delete",
+    "FLIP_CARD": {
+        "ADD_SECTION_TOOLTIP": "Add Flip Card"
     }
 }
