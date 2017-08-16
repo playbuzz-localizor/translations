@@ -192,7 +192,8 @@
         "BUBBLE_CONTENT_PLACEHOLDER": "Escreva o texto...",
         "ADD_BUBBLE_TOOLTIP": "Adicionar balão",
         "ADD_PARTICIPANT_TOOLTIP": "Adicionar participante",
-        "DELETE_MESSAGE": "Você tem certeza?"
+        "DELETE_MESSAGE": "Você tem certeza?",
+        "ADD_SECTION_TOOLTIP": "Adicionar Convo"
     },
     "CREATE_MODULES": {
         "TEXT_EDITOR": {
@@ -226,16 +227,20 @@
         "FLOATING_EFFECT": "Flutuante",
         "BUTTON_TEXT": "Inserir texto...",
         "LINK_PLACEHOLDER": "Inserir link...",
-        "TEST_LINK_TOOLTIP": "Testar link"
+        "TEST_LINK_TOOLTIP": "Testar link",
+        "ADD_SECTION_TOOLTIP": "Adicionar CTA"
     },
     "EMBED": {
-        "DESCRIPTION_PLACEHOLDER": "Descrição"
+        "DESCRIPTION_PLACEHOLDER": "Descrição",
+        "ADD_SECTION_TOOLTIP": "Importar da web"
     },
     "IMAGE": {
-        "CAPTION": "Imagem"
+        "CAPTION": "Imagem",
+        "ADD_SECTION_TOOLTIP": "Adicionar imagem"
     },
     "PARAGRAPH": {
-        "EDITOR_PLACEHOLDER": "Parágrafo"
+        "EDITOR_PLACEHOLDER": "Parágrafo",
+        "ADD_SECTION_TOOLTIP": "Adicionar texto"
     },
     "POLL": {
         "BACKGROUND_TEMPLATE_TOOLTIP": "Imagem de fundo",
@@ -270,12 +275,14 @@
         "CLASSIC_LAYOUT_TOOLTIP": "Template clássico",
         "GRID_LAYOUT_TOOLTIP": "Grid de imagens",
         "DELETE_OPTION_BUT": "Excluir opção",
-        "SQUARE_LAYOUT_TOOLTIP": "Alternativas em imagens quadradas"
+        "SQUARE_LAYOUT_TOOLTIP": "Alternativas em imagens quadradas",
+        "ADD_SECTION_TOOLTIP": "Adicionar Poll"
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Escreva a citação...",
         "QUOTEE_PLACEHOLDER": "Quem disse isso?",
-        "ADDITIONAL_TEXT_PLACEHOLDER": "Conte um pouco mais..."
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Conte um pouco mais...",
+        "ADD_SECTION_TOOLTIP": "Adicionar Citação"
     },
     "SUMMARY": {
         "ADD_ROW": "Acrescentar linha",
@@ -283,7 +290,8 @@
         "ROW_PLACEHOLDER": "Escreva o texto...",
         "NO_EFFECT": "Nenhum",
         "FADE_EFFECT": "Fade In",
-        "TITLE_PLACEHOLDER": "Título"
+        "TITLE_PLACEHOLDER": "Título",
+        "ADD_SECTION_TOOLTIP": "Adicionar Sumário"
     },
     "VIDEO_CREATOR": {
         "PLAY": "REPRODUZIR",
@@ -335,25 +343,14 @@
         },
         "AUDIO_LABEL": {
             "NONE": "Nenhum",
-            "UPBEAT": "Upbeat",
-            "INTENSE": "Intense",
-            "OPTIMISTIC": "Optimistic",
-            "JAZZ": "Jazz",
-            "ENERGETIC_PIANO": "Energetic Piano",
-            "EMOTIONAL": "Emotional",
-            "SWING_BIG_BAND": "Swing/Big Band",
-            "THRILLER": "Thriller",
             "CINEMATIC": "Cinematic",
-            "TRAILER": "Trailer",
-            "INSPIRATIONAL": "Inspirational",
-            "GANGSTA": "Gangsta",
-            "ELECTRONIC": "Electronic",
-            "DARK_BEATS": "Dark Beats",
-            "FUNKY": "Funky",
-            "HIP_HOP": "Hip Hop",
-            "MELANCHOLIC": "Melancholic",
-            "SLOW_ROCK": "Slow Rock",
-            "SILENT_MOVIE_PIANO": "Silent Movie Piano"
+            "CANCEL_BTN": "Cancelar",
+            "SELECT_BTN": "Selecionar",
+            "CORPORATE": "Corporate",
+            "POSITIVE_AND_UPBEAT": "Positive & Upbeat",
+            "ACOUSTIC": "Acústico",
+            "HIGH_ENERGY": "High Energy",
+            "EPIC": "Épico"
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classic",
@@ -410,7 +407,8 @@
                 "ENTER_FACT_PLACEHOLDER": "Adicione um fato",
                 "FACT_REQUIRED_VALIDATION_MSG": "É necessário inserir um fato"
             }
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Criar um vídeo"
     },
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Descrição",
@@ -419,6 +417,11 @@
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
             "MUTE_SWITCH_LABEL": "Autoplay on mute",
             "CLOSE_SETTINGS": "Back to Edit"
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Adicionar Video Player"
+    },
+    "DELETE_SECTION_BTN": "Apagar",
+    "FLIP_CARD": {
+        "ADD_SECTION_TOOLTIP": "Adicionar Flip Card"
     }
 }

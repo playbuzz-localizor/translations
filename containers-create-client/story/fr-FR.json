@@ -65,7 +65,7 @@
             "LOGGED_OUT": "Merci de vous reconnecter",
             "BLOCKED": "Votre compte utilisateur est bloqué"
         },
-        "PREVIEW_BUT_PENDING": "Chargement..."
+        "PREVIEW_BUT_PENDING": "Recherche..."
     },
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Rédigez votre Story",
@@ -118,7 +118,7 @@
             "TEXT_1_LABEL": "Utilisez l'outil Poll pour impliquer votre lecteur et lui demander son avis. Par exemple, demandez lui ce qu'il pense de quelque chose en rapport avec les réseaux sociaux.",
             "TEXT_2_LABEL": "Ajoutez une image d'illustration à votre sondage pour lui donner plus d'impact visuel.",
             "TEXT_3_LABEL": "Ajoutez une image d'illustration et utilisez le template Grid pour créer un sondage captivant auquel on a envie de réagir !",
-            "TEXT_4_LABEL": "Pensez à toujours inclure l'option \"aucune des réponses ci-dessus\" pour offrir la possibilité au lecteur de ne pas choisir si aucune des réponses ne lui convient.",
+            "TEXT_4_LABEL": "Pensez à toujours inclure la réponse \"aucune des réponses ci-dessus\" pour ne pas obliger le lecteur à choisir une réponse qui ne lui convient pas.",
             "TEXT_5_LABEL": "TEXT_5_LABEL",
             "TEXT_6_LABEL": "Vous pouvez cacher le résultat d'un sondage et le dévoiler à votre audience seulement au moment propice."
         },
@@ -149,11 +149,11 @@
         }
     },
     "TEMPLATES": {
-        "START_NEW": "Créer un nouvel item",
-        "UPDATED": "Récemment mis à jour",
-        "TEMPLATE_NAME": "Nom du template",
+        "START_NEW": "Créer un nouveau Template",
+        "UPDATED": "Nouveautés",
+        "TEMPLATE_NAME": "A à Z",
         "NEW": "Nouveau",
-        "NEW_FROM_TEMPLATE": "Nouveauté Template",
+        "NEW_FROM_TEMPLATE": "Nouveaux Templates",
         "DUPLICATE": "Dupliquer",
         "ADD_A_TEMPLATE": "Ajouter aux templates",
         "ADDED_A_TEMPLATE": "Ajouté !",
@@ -167,10 +167,10 @@
         "DELETE_FROM_LIST": "Êtes-vous sûr(e) de vouloir supprimer ce template ?",
         "CREATING_IN_PLAYBUZZ": "Créer avec Playbuzz devient plus simple",
         "CREATING_IN_PLAYBUZZ_2": "Créer n'a jamais été aussi facile...",
-        "CREATING_IN_PLAYBUZZ_2_DESC": "Raconter votre histoire depuis un template déjà prêt ou créer le vôtre.",
-        "CREATING_IN_PLAYBUZZ_DESC_1": "Pour créer un nouveau template, cliquez sur Créer et choisissez",
+        "CREATING_IN_PLAYBUZZ_2_DESC": "Racontez votre histoire depuis un template déjà fait ou créez le vôtre.",
+        "CREATING_IN_PLAYBUZZ_DESC_1": "Pour créer un nouveau template, cliquez sur Créer et choisissez l'option",
         "CREATING_IN_PLAYBUZZ_DESC_2": "> Ajouter aux templates",
-        "START_HERE": "Commencez ici",
+        "START_HERE": "Commencez ici !",
         "NO_TEMPLATES_FOUND": "Aucun template correspondant",
         "CREATE_A_TEMPLATE": "Créer un template",
         "GOT_IT": "Compris !",
@@ -192,7 +192,8 @@
         "BUBBLE_CONTENT_PLACEHOLDER": "Entrer un texte...",
         "ADD_BUBBLE_TOOLTIP": "Ajouter une bulle",
         "ADD_PARTICIPANT_TOOLTIP": "Ajouter participant",
-        "DELETE_MESSAGE": "Êtes-vous sûr(e) ?"
+        "DELETE_MESSAGE": "Êtes-vous sûr(e) ?",
+        "ADD_SECTION_TOOLTIP": "Convo"
     },
     "CREATE_MODULES": {
         "TEXT_EDITOR": {
@@ -202,7 +203,7 @@
             "NORMAL": "O.K",
             "BAD": "UN PEU TROP LONG",
             "BOLD_TOOLTIP": "Gras",
-            "GOOD_INDICATION": "GOOD",
+            "GOOD_INDICATION": "BIEN",
             "NORMAL_INDICATION": "O.K",
             "BAD_INDICATION": "UN PEU TROP LONG",
             "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. de lecture"
@@ -226,16 +227,20 @@
         "FLOATING_EFFECT": "Flottant",
         "BUTTON_TEXT": "Entrer texte...",
         "LINK_PLACEHOLDER": "Entrer lien...",
-        "TEST_LINK_TOOLTIP": "Tester le lien"
+        "TEST_LINK_TOOLTIP": "Tester le lien",
+        "ADD_SECTION_TOOLTIP": "CTA"
     },
     "EMBED": {
-        "DESCRIPTION_PLACEHOLDER": "Description"
+        "DESCRIPTION_PLACEHOLDER": "Description",
+        "ADD_SECTION_TOOLTIP": "Importer depuis Internet"
     },
     "IMAGE": {
-        "CAPTION": "Image"
+        "CAPTION": "Image",
+        "ADD_SECTION_TOOLTIP": "Image"
     },
     "PARAGRAPH": {
-        "EDITOR_PLACEHOLDER": "Paragraphe"
+        "EDITOR_PLACEHOLDER": "Paragraphe",
+        "ADD_SECTION_TOOLTIP": "Texte"
     },
     "POLL": {
         "BACKGROUND_TEMPLATE_TOOLTIP": "Image d'arrière plan",
@@ -244,8 +249,8 @@
         "GRID_TEMPLATE_TOOLTIP": "Grille de résultat",
         "SETTINGS_TOOLTIP": "Paramètres du sondage",
         "TITLE_PLACEHOLDER": "Question",
-        "OPTION_PLACEHOLDER": "Option {{index}}",
-        "ADD_OPTION_BUT": "Ajouter une option",
+        "OPTION_PLACEHOLDER": "réponse {{index}}",
+        "ADD_OPTION_BUT": "Ajouter une réponse",
         "SETTINGS": {
             "TITLE": "PARAMÈTRES DU SONDAGE",
             "HERE_LINK": "Ici",
@@ -253,7 +258,7 @@
             "ENABLE_VOTING_SWITCH": "Activer les votes",
             "TOTAL_VOTES_SWITCH": "Afficher le nombre total de votes",
             "DISPLAY_LOGO_SWITCH": "Afficher Logo",
-            "DISPLAY_LOGO_DESCRIPTION": "Personnaliser encore plus votre sondage en ajoutant votre logo. Remplacer l'image de présentation",
+            "DISPLAY_LOGO_DESCRIPTION": "Personnalisez encore plus votre sondage en ajoutant votre logo. Remplacez l'image de présentation",
             "END_CARD_SWITCH": "End Card",
             "END_CARD_DESCRIPTION": "Générer plus de partages et d'engagements en utilisant End Card",
             "END_CARD": {
@@ -262,20 +267,22 @@
                 "DESCRIPTION_LABEL": "Description",
                 "DESCRIPTION_PLACEHOLDER": "Entrer une description..."
             },
-            "ALLOW_REVOTES_SWITCH": "Les lecteurs peuvent re-voter chaque jour",
+            "ALLOW_REVOTES_SWITCH": "Possibilité de re-voter chaque jour",
             "HIDE_RESULTS_SWITCH": "Cacher les résultats du sondage",
             "SECURED_SWITCH": "Activer sécurité sondage",
-            "ADDITIONAL_SETTINGS_WARNING": "Ces changements seront visibles quand vous aurez cliqué sur Enregistrer."
+            "ADDITIONAL_SETTINGS_WARNING": "Cette modification sera visible après avoir enregistré."
         },
-        "CLASSIC_LAYOUT_TOOLTIP": "Barre classique",
-        "GRID_LAYOUT_TOOLTIP": "Image ronde",
-        "DELETE_OPTION_BUT": "Supprimer cette option",
-        "SQUARE_LAYOUT_TOOLTIP": "Image Carrée"
+        "CLASSIC_LAYOUT_TOOLTIP": "Barres classiques",
+        "GRID_LAYOUT_TOOLTIP": "Vignettes rondes",
+        "DELETE_OPTION_BUT": "Supprimer cette réponse",
+        "SQUARE_LAYOUT_TOOLTIP": "Vignettes Carrées",
+        "ADD_SECTION_TOOLTIP": "Poll"
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Entrer une citation",
         "QUOTEE_PLACEHOLDER": "Qui en est l'auteur ?",
-        "ADDITIONAL_TEXT_PLACEHOLDER": "Plus de détails"
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Plus de détails",
+        "ADD_SECTION_TOOLTIP": "Citation"
     },
     "SUMMARY": {
         "ADD_ROW": "Ajouter une ligne",
@@ -283,7 +290,8 @@
         "ROW_PLACEHOLDER": "Entrer du texte...",
         "NO_EFFECT": "Aucun",
         "FADE_EFFECT": "Estomper",
-        "TITLE_PLACEHOLDER": "Titre"
+        "TITLE_PLACEHOLDER": "Titre",
+        "ADD_SECTION_TOOLTIP": "Résumé"
     },
     "VIDEO_CREATOR": {
         "PLAY": "PLAY",
@@ -295,7 +303,7 @@
             "TITLE": "Paramètres",
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
             "MUTE_SWITCH_LABEL": "Autoplay (muet)",
-            "LOGO_LABEL": "Personnalisation du logo",
+            "LOGO_LABEL": "Personnaliser le logo",
             "CLOSE_SETTINGS": "Retour à l'édition",
             "LOGO_DESCRIPTION": "Téléchargez votre propre logo qui apparaîtra en fin de vidéo."
         },
@@ -335,25 +343,14 @@
         },
         "AUDIO_LABEL": {
             "NONE": "Aucun",
-            "UPBEAT": "Enjoué",
-            "INTENSE": "Intense",
-            "OPTIMISTIC": "Optimiste",
-            "JAZZ": "Jazz",
-            "ENERGETIC_PIANO": "Piano rythmé",
-            "EMOTIONAL": "Émotionnel",
-            "SWING_BIG_BAND": "Swing",
-            "THRILLER": "Suspense",
             "CINEMATIC": "Cinématographique",
-            "TRAILER": "Bande-annonce",
-            "INSPIRATIONAL": "Inspirant",
-            "GANGSTA": "Gangster",
-            "ELECTRONIC": "Electro",
-            "DARK_BEATS": "Lourd",
-            "FUNKY": "Funky",
-            "HIP_HOP": "Hip Hop",
-            "MELANCHOLIC": "Mélancolique",
-            "SLOW_ROCK": "Rock Lent",
-            "SILENT_MOVIE_PIANO": "Piano Film Muet"
+            "CANCEL_BTN": "Annuler",
+            "SELECT_BTN": "Selectionner",
+            "CORPORATE": "Corporate",
+            "POSITIVE_AND_UPBEAT": "Positive & Upbeat",
+            "ACOUSTIC": "Acoustique",
+            "HIGH_ENERGY": "High Energy",
+            "EPIC": "Héroïque"
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classique",
@@ -410,7 +407,8 @@
                 "ENTER_FACT_PLACEHOLDER": "Entrer un fait",
                 "FACT_REQUIRED_VALIDATION_MSG": "Un fait est obligatoire"
             }
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Créer une vidéo"
     },
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Description",
@@ -419,6 +417,11 @@
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
             "MUTE_SWITCH_LABEL": "Autoplay (muet)",
             "CLOSE_SETTINGS": "Retour à l'édition"
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Vidéo Player"
+    },
+    "DELETE_SECTION_BTN": "Supprimer",
+    "FLIP_CARD": {
+        "ADD_SECTION_TOOLTIP": "Flip Card"
     }
 }
