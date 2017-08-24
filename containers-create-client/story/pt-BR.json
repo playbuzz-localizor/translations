@@ -184,6 +184,244 @@
         "ENTERTAINMENT": "Entretenimento",
         "NEWS": "Notícias",
         "FOOD": "Comida",
-        "WORKING_ON_TEMPLATE": "Construindo um template:"
+        "WORKING_ON_TEMPLATE": "Construindo um template:",
+        "VIDEO": "Vídeo"
+    },
+    "CONVO": {
+        "PARTICIPANT_PLACEHOLDER": "Participante",
+        "BUBBLE_CONTENT_PLACEHOLDER": "Escreva o texto...",
+        "ADD_BUBBLE_TOOLTIP": "Adicionar balão",
+        "ADD_PARTICIPANT_TOOLTIP": "Adicionar participante",
+        "DELETE_MESSAGE": "Você tem certeza?",
+        "ADD_SECTION_TOOLTIP": "Adicionar Convo"
+    },
+    "CREATE_MODULES": {
+        "TEXT_EDITOR": {
+            "WORD": "PALAVRA",
+            "WORDS": "PALAVRAS",
+            "GOOD": "BOM",
+            "NORMAL": "OK",
+            "BAD": "LONGO DEMAIS",
+            "BOLD_TOOLTIP": "Negrito",
+            "GOOD_INDICATION": "BOM",
+            "NORMAL_INDICATION": "OK",
+            "BAD_INDICATION": "LONGO DEMAIS",
+            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. leitura"
+        },
+        "SECTION_TITLE_PLACEHOLDER": "Título",
+        "NOT_SAVED_ERR_MESSAGE": "Algumas alterações não foram salvas. Você tem certeza de que quer sair?",
+        "LIST": {
+            "ENABLE_VOTING_SWITCH": "Ativar votação",
+            "VOTE": "Votar",
+            "TYPE": {
+                "NONE": "Normal",
+                "NUMBER": "Lista numerada",
+                "BULLET": "Lista em tópicos",
+                "RANK": "Lista interativa"
+            }
+        }
+    },
+    "CTA": {
+        "NO_EFFECT": "Nenhum",
+        "PULSE_EFFECT": "Pulso",
+        "FLOATING_EFFECT": "Flutuante",
+        "BUTTON_TEXT": "Inserir texto...",
+        "LINK_PLACEHOLDER": "Inserir link...",
+        "TEST_LINK_TOOLTIP": "Testar link",
+        "ADD_SECTION_TOOLTIP": "Adicionar CTA"
+    },
+    "EMBED": {
+        "DESCRIPTION_PLACEHOLDER": "Descrição",
+        "ADD_SECTION_TOOLTIP": "Importar da web"
+    },
+    "IMAGE": {
+        "CAPTION": "Imagem",
+        "ADD_SECTION_TOOLTIP": "Adicionar imagem"
+    },
+    "PARAGRAPH": {
+        "EDITOR_PLACEHOLDER": "Parágrafo",
+        "ADD_SECTION_TOOLTIP": "Adicionar texto"
+    },
+    "POLL": {
+        "BACKGROUND_TEMPLATE_TOOLTIP": "Imagem de fundo",
+        "COVER_TEMPLATE_TOOLTIP": "Imagem de capa",
+        "CLASSIC_TEMPLATE_TOOLTIP": "Clássico",
+        "GRID_TEMPLATE_TOOLTIP": "Grid de imagens",
+        "SETTINGS_TOOLTIP": "Configurações da enquete",
+        "TITLE_PLACEHOLDER": "Pergunta",
+        "OPTION_PLACEHOLDER": "Opção {{index}}",
+        "ADD_OPTION_BUT": "Acrescentar opção",
+        "SETTINGS": {
+            "TITLE": "CONFIGURAÇÕES DA ENQUETE",
+            "HERE_LINK": "aqui",
+            "BACK_BUTTON": "Voltar para edição",
+            "ENABLE_VOTING_SWITCH": "Habilitar votação",
+            "TOTAL_VOTES_SWITCH": "Mostrar total de votos",
+            "DISPLAY_LOGO_SWITCH": "Mostrar logo",
+            "DISPLAY_LOGO_DESCRIPTION": "Coloque seu logo para deixar mais personalizado.\nAltere a sua imagem de exibição",
+            "END_CARD_SWITCH": "Mensagem final",
+            "END_CARD_DESCRIPTION": "Garanta mais compartilhamentos e engajamento com uma mensagem final",
+            "END_CARD": {
+                "TITLE_LABEL": "Título",
+                "TITLE_PLACEHOLDER": "Escreva um título...",
+                "DESCRIPTION_LABEL": "Descrição",
+                "DESCRIPTION_PLACEHOLDER": "Escreva uma descrição..."
+            },
+            "ALLOW_REVOTES_SWITCH": "Usuários podem votar de novo diariamente",
+            "HIDE_RESULTS_SWITCH": "Ocultar resultados da enquete",
+            "SECURED_SWITCH": "Ativar enquete segura",
+            "ADDITIONAL_SETTINGS_WARNING": "Esta alteração ficará visível após você clicar em \"salvar\". "
+        },
+        "CLASSIC_LAYOUT_TOOLTIP": "Template clássico",
+        "GRID_LAYOUT_TOOLTIP": "Grid de imagens",
+        "DELETE_OPTION_BUT": "Excluir opção",
+        "SQUARE_LAYOUT_TOOLTIP": "Alternativas em imagens quadradas",
+        "ADD_SECTION_TOOLTIP": "Adicionar Poll"
+    },
+    "QUOTE": {
+        "TEXT_PLACEHOLDER": "Escreva a citação...",
+        "QUOTEE_PLACEHOLDER": "Quem disse isso?",
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Conte um pouco mais...",
+        "ADD_SECTION_TOOLTIP": "Adicionar Citação"
+    },
+    "SUMMARY": {
+        "ADD_ROW": "Acrescentar linha",
+        "SUBTITLE_PLACEHOLDER": "Subtítulo",
+        "ROW_PLACEHOLDER": "Escreva o texto...",
+        "NO_EFFECT": "Nenhum",
+        "FADE_EFFECT": "Fade In",
+        "TITLE_PLACEHOLDER": "Título",
+        "ADD_SECTION_TOOLTIP": "Adicionar Sumário"
+    },
+    "VIDEO_CREATOR": {
+        "PLAY": "REPRODUZIR",
+        "PAUSE": "PAUSAR",
+        "GALLERY_TITLE": "Escolher um template",
+        "OPEN_TEMPLATES_GALLERY_BUT": "Alterar template",
+        "CLOSE_TEMPLATES_GALLERY_BUT": "Voltar para editar",
+        "SETTINGS": {
+            "TITLE": "Configurações",
+            "AUTOPLAY_SWITCH_LABEL": "Reprodução automática",
+            "MUTE_SWITCH_LABEL": "Iniciar a reprodução sem som",
+            "LOGO_LABEL": "Logo personalizado",
+            "CLOSE_SETTINGS": "Voltar para editar",
+            "LOGO_DESCRIPTION": "Carregue o seu próprio logo para aumentar seu brand awareness"
+        },
+        "PREVIEW_BUT": "Preview do vídeo",
+        "NOT_SUPPORTED_LABEL": "Não suportado",
+        "IE_ERR_MESSAGE": "O \"preview\" não é suportado no Internet Explorer. Use o Chrome para ter uma experiência completa! Você ainda poderá publicar o seu artigo no Internet Explorer e seu vídeo estará pronto rapidamente. ",
+        "REMOVE_SCENE": {
+            "TITLE": "Você tem certeza?",
+            "DELETE_BUTTON_TEXT": "Excluir"
+        },
+        "SCENE_NAME": {
+            "GENERAL": {
+                "INTRO_LABEL": "INTRODUÇÃO",
+                "ENDING_LABEL": "FINAL",
+                "CREDITS_LABEL": "CRÉDITOS"
+            },
+            "CLASSIC": {
+                "ITEM_LABEL": "SLIDE"
+            },
+            "FACTS": {
+                "ITEM_LABEL": "FATO"
+            },
+            "SWIFT": {
+                "ITEM_BOTTOM_LABEL": "INFERIOR",
+                "ITEM_TOP_LABEL": "SUPERIOR"
+            },
+            "VS": {
+                "ITEM_LABEL": "TEMA",
+                "ENDING_LABEL": "CONCLUSÃO"
+            }
+        },
+        "CHANGE_TEMPLATE_WARNING": {
+            "TITLE": "Template diferente",
+            "WARNING_MESSAGE": "O conteúdo adicionado poderá não ser exibido no novo template",
+            "CANCEL_BUTTON": "Cancelar",
+            "CHANGE_BUTTON": "Alterar o template"
+        },
+        "AUDIO_LABEL": {
+            "NONE": "Nenhum",
+            "CINEMATIC": "Cinematic",
+            "CANCEL_BTN": "Cancelar",
+            "SELECT_BTN": "Selecionar",
+            "CORPORATE": "Corporate",
+            "POSITIVE_AND_UPBEAT": "Positive & Upbeat",
+            "ACOUSTIC": "Acústico",
+            "HIGH_ENERGY": "High Energy",
+            "EPIC": "Épico"
+        },
+        "TEMPLATE_NAME": {
+            "CLASSIC": "Classic",
+            "VS": "VS.",
+            "SWIFT": "Swift",
+            "FACTS": "Facts"
+        },
+        "THEME_NAME_LABEL": {
+            "DEFAULT": "Padrão",
+            "PLAYBUZZ": "Playbuzz",
+            "SHADES_OF_GRAY": "cinza",
+            "PLAYTIME": "playtime",
+            "BACK_TO_SCHOOL": "De volta à escola",
+            "NEUTRAL_BLUE": "Azul",
+            "PHAEDRA": "Phaedra",
+            "FIESTA": "Fiesta",
+            "GREENS": "Verde",
+            "BUBBLEGUM": "Chiclete",
+            "GROUND_CONTROL": "Ground Control",
+            "AMERICA": "América",
+            "BEACH_UMBRELLA": "Guarda-sol",
+            "BEACH_TIME": "Praia",
+            "GOSSIP": "Fofoca"
+        },
+        "TEMPLATES": {
+            "GENERAL": {
+                "MAIN_TITLE_PLACEHOLDER": "Escreva o título principal",
+                "ENTER_TEXT_PLACEHOLDER": "Adicione texto",
+                "CTA_PLACEHOLDER": "Termine com uma mensagem de \"call to action\"!",
+                "BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo",
+                "TEXT_REQUIRED_VALIDATION_MSG": "É necessário inserir texto",
+                "TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título"
+            },
+            "CLASSIC": {
+                "SUB_TITLE_PLACEHOLDER": "Insira um subtítulo (opcional)"
+            },
+            "VS": {
+                "PRE_CTA_PLACEHOLDER": "Texto de abertura (opcional)",
+                "SIDE_A_PLACEHOLDER": "A",
+                "FEATURE_A_PLACEHOLDER": "Escreva um texto para A",
+                "SIDE_B_PLACEHOLDER": "B",
+                "FEATURE_B_PLACEHOLDER": "Escreva um texto para B",
+                "PREMISE_PLACEHOLDER": "Escreva o título do vídeo",
+                "COMPARISON_PLACEHOLDER": "Comparação",
+                "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo",
+                "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "É necessário inserir uma imagem de fundo para B",
+                "A_TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para A",
+                "B_TITLE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para B",
+                "PREMISE_REQUIRED_VALIDATION_MSG": "É necessário inserir um título para o vídeo",
+                "COMPARISON_REQUIRED_VALIDATION_MSG": "É necessário inserir a comparação"
+            },
+            "FACTS": {
+                "ENTER_TITLE_PLACEHOLDER": "Escreva o título",
+                "ENTER_FACT_PLACEHOLDER": "Adicione um fato",
+                "FACT_REQUIRED_VALIDATION_MSG": "É necessário inserir um fato"
+            }
+        },
+        "ADD_SECTION_TOOLTIP": "Criar um vídeo"
+    },
+    "VIDEO_PLAYER": {
+        "DESCRIPTION_PLACEHOLDER": "Descrição",
+        "SETTINGS": {
+            "TITLE": "Settings",
+            "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+            "MUTE_SWITCH_LABEL": "Autoplay on mute",
+            "CLOSE_SETTINGS": "Back to Edit"
+        },
+        "ADD_SECTION_TOOLTIP": "Adicionar Video Player"
+    },
+    "DELETE_SECTION_BTN": "Apagar",
+    "FLIP_CARD": {
+        "ADD_SECTION_TOOLTIP": "Adicionar Flip Card"
     }
 }

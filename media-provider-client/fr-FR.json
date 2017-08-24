@@ -2,29 +2,34 @@
     "MP": {
         "OEMBED_ERROR": "Désolé nous n'avons pas pu charger cet item. Merci de réessayer plus tard.",
         "FLIP_CARD": {
-            "FRONT_BUT": "DEVANT",
-            "BACK_BUT": "DERRIÈRE",
+            "FRONT_BUT": "AVANT",
+            "BACK_BUT": "ARRIÈRE",
             "LANDSCAPE_RATIO": "PAYSAGE",
             "SQUARE_RATIO": "CARRÉ",
             "FRONT_TITLE": "CARTE DE FACE",
             "BACK_TITLE": "CARTE DE DOS",
             "MEDIA_TOOLTIP": "Carte Image",
             "TEXT_TOOLTIP": "Carte Texte",
-            "IMAGE_CAPTION_PLACEHOLDER": "Ajouter une légende..."
+            "IMAGE_CAPTION_PLACEHOLDER": "Ajouter une légende...",
+            "RATIO_ALERT_TITLE": "Êtes-vous sûr(e) ?",
+            "RATIO_ALERT": "Modifier les dimensions entraînera la suppression des images.",
+            "RATIO_ALERT_CONFIRMATION": "Voulez-vous continuer ?",
+            "OK_BTN": "OK",
+            "CANCEL_BTN": "ANNULER"
         },
         "TEXT_CARD": {
-            "TEXT_PLACEHOLDER": "Écrivez quelque chose d'inspirant...",
-            "DELETE_TOOLTIP": "Supprimer la Carte Texte"
+            "TEXT_PLACEHOLDER": "Écrivez ici...",
+            "DELETE_TOOLTIP": "Supprimer cette carte"
         },
         "MODAL": {
             "RESULT_ERROR": "Oups, cela n'a pas pu être téléchargé",
             "ADD_TITLE": "Ajouter un support",
-            "EDIT_IMAGE_TITLE": "Recadrer Image",
+            "EDIT_IMAGE_TITLE": "Recadrage",
             "EDIT_VIDEO_TITLE": "Editer la Vidéo",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "RECHERCHER",
                 "IMPORT_GROUP_TITLE": "IMPORTER",
-                "FILE_LABEL": "Télécharger",
+                "FILE_LABEL": "Depuis mes fichiers",
                 "LINK_LABEL": "Depuis Internet"
             },
             "GETTY": {
@@ -46,7 +51,7 @@
                 "GRAPHIC_STYLE_ALL": "Tous",
                 "GRAPHIC_STYLE_ILLUSTRATION": "Illustration",
                 "GRAPHIC_STYLE_PHOTOGRAPHY": "Photographie",
-                "SORT_BEST_MATCH": "Selection personnalisée",
+                "SORT_BEST_MATCH": "Meilleurs résultats",
                 "SORT_NEWEST": "Nouveautés",
                 "SORT_MOST_POPULAR": "Les plus populaires"
             },
@@ -57,8 +62,8 @@
                 "RESULTS_COUNT_LABEL": "résultats"
             },
             "SEARCH": {
-                "SEARCH_PLACEHOLDER": "Chargement...",
-                "LOAD_MORE_BUT": "Charger davantage"
+                "SEARCH_PLACEHOLDER": "Recherche...",
+                "LOAD_MORE_BUT": "Plus"
             },
             "IMPORT": {
                 "UPLOAD_LINK": "Téléchargez",
@@ -66,10 +71,10 @@
                 "LINK_PLACEHOLDER": "Vous avez un lien direct ?",
                 "INFO_LABEL": "Recommendations formats",
                 "SUBMIT_BUT": "Go",
-                "LINK_PAGE_TITLE": "Importer depuis internet"
+                "LINK_PAGE_TITLE": "Importer un fichier depuis internet"
             },
             "CREDIT_PLACEHOLDER": "Crédits images...",
-            "DONE_EDIT_BUT": "Terminé",
+            "DONE_EDIT_BUT": "Terminer",
             "VIDEO_CREDIT_PLACEHOLDER": "Crédits vidéo..."
         },
         "POPOVER_MENU": {
@@ -78,11 +83,11 @@
             "DELETE_LABEL": "Supprimer"
         },
         "CROPPING": {
-            "LABEL": "FORMATS DE RECADRAGE",
+            "LABEL": "FORMATS",
             "LANDSCAPE_RATIO": "Paysage",
             "SQUARE_RATIO": "Carré",
             "PORTRAIT_RATIO": "Portrait",
-            "FREESTYLE_RATIO": "Freestyle"
+            "FREESTYLE_RATIO": "Personnalisé"
         },
         "EFFECT": {
             "NORMAL": "Normal",

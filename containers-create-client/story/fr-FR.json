@@ -1,0 +1,427 @@
+{
+    "LEFT_PANE": {
+        "MAP": {
+            "TITLE": "Organiser",
+            "EMPTY_TITLE": "Commencez à créer !",
+            "EMPTY_DESCRIPTION": "Créez et organisez votre Story ici",
+            "TOOLTIP": "Organiser",
+            "MINIMUM_READ_TIME_LABEL": "min. de lecture"
+        },
+        "VISIBILITY": {
+            "TITLE": "Visibilité",
+            "DESCRIPTION": "Qui peut voir votre Story",
+            "LANGUAGE_TITLE": "Langue",
+            "LANGUAGE_DESCRIPTION": "Sélectionner la langue",
+            "LANGUAGE_CHECKBOX_LABEL": "Autoriser la traduction dans d'autres langues",
+            "SPONSORED_TITLE": "Contenu sponsorisé",
+            "SPONSORED_CHECKBOX_LABEL": "Ceci est une Story sponsorisée",
+            "TOOLTIP": "Visibilité : {{viewPermission}}",
+            "VIEW_PERMISSIONS_DROPDOWN": {
+                "PUBLIC": "Public (recommandé)",
+                "ONLY_ME": "Uniquement moi",
+                "ONLY_DIRECT_LINK": "Lien privé uniquement"
+            }
+        },
+        "TAGS": {
+            "TITLE": "Mots clés",
+            "DESCRIPTION": "Mettez des mots clés à votre Story pour mieux la référencer",
+            "TOOLTIP": "Mots clés",
+            "NEW_TAG_PLACEHOLDER": "Entrer vos propres mots clés",
+            "NEW_TAG_DESCRIPTION": "Séparez-les par une virgule"
+        },
+        "SOCIAL": {
+            "TITLE": "Réseaux Sociaux",
+            "DESCRIPTION": "Comment votre Story apparaîtra sur les réseaux sociaux",
+            "TOOLTIP": "Réseaux Sociaux"
+        },
+        "ABOUT": {
+            "TITLE": "Qu'est ce qu'une Story ?",
+            "DESCRIPTION": "Story est le premier outil de création d'article qui permet aux équipes éditoriales de découper leurs récits en plusieurs contenus engageants, intéractifs et visuels.",
+            "STEP_1": "Rédiger votre Story",
+            "STEP_2": "Publier",
+            "STEP_3": "Coller le code Embed directement sur votre site",
+            "STEP_4": "Fini !",
+            "QUESTIONS_TITLE": "Si vous avez des questions :",
+            "QUESTIONS_DESCRIPTION": "on est là !",
+            "TOOLTIP": "À propos"
+        }
+    },
+    "ACTION_PANE": {
+        "PUBLISH_BUT": "Publier",
+        "SAVE_BUT": "Enregistrer",
+        "ERROR_MESSAGE": "Erreur",
+        "PUBLISH_BUT_PENDING": "Publication en cours...",
+        "PREVIEW_BUT": "Prévisualiser",
+        "SAVED_NOTIFICATION": "Enregistré",
+        "VIEW_LINK": "Voir",
+        "SAVE_BUT_NEW_ITEM": "Sauvegarder brouillon",
+        "SAVE_BUT_PENDING": "Sauvegarde en cours...",
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "Tous les critères ne sont pas remplis",
+            "SAVING_DISABLED": "Sauvegarde impossible. Merci de réessayer dans 5 minutes.",
+            "OUTDATED": "L'item a expiré",
+            "SAVE_FAILED": "Echec de l'enregistrement",
+            "COVER_UNSUPPORTED_FORMAT": "Échec du chargement de la photo de couverture. Essayez un autre fichier.",
+            "LOGGED_OUT": "Merci de vous reconnecter",
+            "BLOCKED": "Votre compte utilisateur est bloqué"
+        },
+        "PREVIEW_BUT_PENDING": "Recherche..."
+    },
+    "DESCRIPTION_PLACEHOLDER": "Description",
+    "SECTIONS_LOBBY_TITLE": "Rédigez votre Story",
+    "STORY_TITLE_PLACEHOLDER": "Titre de la Story",
+    "DELETE_SECTION_MESSAGE": "Êtes-vous sûr(e) ?",
+    "MODAL_LANGUAGE": {
+        "NEW_LABEL": "NOUVEAU",
+        "TITLE": "Sélectionnez votre langue de préférence",
+        "DONE_BUT": "Terminé"
+    },
+    "PREVIEW_MODAL": {
+        "TITLE": "Prévisualisation",
+        "CLOSE_BUT": "Fermer"
+    },
+    "ONBOARDING": {
+        "GALLERY_OPEN_LABEL": "Voir des exemples",
+        "CONVO": {
+            "TITLE_LABEL": "Donnez l'impression aux lecteurs qu'ils lisent une conversation SMS ou de messagerie instantannée.",
+            "TEXT_1_LABEL": "Créer les participants de la conversation (photos de profil et noms) puis faites les converser en créant autant de bulles de dialogue que vous voulez ! Ajoutez-y des images et des GIFs si vous le souhaitez.",
+            "TEXT_2_LABEL": "Choisissez le template Convo que vous souhaitez. Par exemple, ici le template \"conversation messenger iOS\".",
+            "TEXT_3_LABEL": "Utilisez Convo pour créer une liste ou la timeline d'un évènement. Téléchargez simplement des numéros ou des dates en photo de profil de chaque \"participant\"."
+        },
+        "EMBED": {
+            "TITLE_LABEL": "Importer des contenus depuis internet",
+            "TEXT_1_LABEL": "Insérer un plan Google Maps et indiquer une localisation précise à vos lecteurs.",
+            "TEXT_2_LABEL": "Insérer n'importe quelle vidéo depuis Vimeo dans votre article.",
+            "TEXT_3_LABEL": "Insérer des posts Twitter pour rendre votre contenu plus vivant.",
+            "TEXT_4_LABEL": "Insérer des posts Instagram pour plus d'impact visuel dans votre contenu."
+        },
+        "FLIP_CARD": {
+            "TITLE_LABEL": "Surprenez vos lecteurs en affichant des images ou du texte qui se retournent par un simple clic.",
+            "TEXT_1_LABEL": "TEXT_1_LABEL",
+            "TEXT_2_LABEL": "Utilisez les Flip Card pour révéler quelque chose de surprenant, distrayant ou choquant à vos lecteurs. Une bonne manière d'exploiter les Flip Card est aussi la confrontation avant/après.",
+            "TEXT_3_LABEL": "Utilisez les Flip Card pour filtrer ce que les lecteurs peuvent voir. Donnez leur le choix, par exemple, d'accéder ou non à des contenus réservés aux adultes."
+        },
+        "IMAGE": {
+            "TITLE_LABEL": "Ajouter des images impactantes et rendez l'effet de surprise encore plus grand grâce à l'effet de flou ou de zoom.",
+            "TEXT_1_LABEL": "Surprenez vos lecteurs en floutant une image. Le fait de devoir cliquer sur l'image pour la faire apparaître offre une expérience intéractive et engageante à votre lecteur.",
+            "TEXT_2_LABEL": "Attirer l'attention de vos lecteurs sur un point précis d'une image grâce à l'effet de zoom.",
+            "TEXT_3_LABEL": "Utilisez l'effet de flou sur vos images pour donner le choix à vos lecteurs de dévoiler ou non les contenus visuels."
+        },
+        "PARAGRAPH": {
+            "TITLE_LABEL": "Utilisez la fonction texte pour structurer votre Story.",
+            "TEXT_1_LABEL": "Utilisez le surligneur pour mettre en avant le plus important.",
+            "TEXT_2_LABEL": "Vos yeux seront immédiatement attirés par le texte surligné. Assurez-vous donc que les informations les plus importantes sont surlignées.",
+            "TEXT_3_LABEL": "Ajoutez des emojis et des liens pour rendre votre texte plus intéractif et vivant."
+        },
+        "POLL": {
+            "TITLE_LABEL": "Le sondage (Poll) permet au lecteur d'exprimer son opinion et de réagir à votre contenu.",
+            "TEXT_1_LABEL": "Utilisez l'outil Poll pour impliquer votre lecteur et lui demander son avis. Par exemple, demandez lui ce qu'il pense de quelque chose en rapport avec les réseaux sociaux.",
+            "TEXT_2_LABEL": "Ajoutez une image d'illustration à votre sondage pour lui donner plus d'impact visuel.",
+            "TEXT_3_LABEL": "Ajoutez une image d'illustration et utilisez le template Grid pour créer un sondage captivant auquel on a envie de réagir !",
+            "TEXT_4_LABEL": "Pensez à toujours inclure la réponse \"aucune des réponses ci-dessus\" pour ne pas obliger le lecteur à choisir une réponse qui ne lui convient pas.",
+            "TEXT_5_LABEL": "TEXT_5_LABEL",
+            "TEXT_6_LABEL": "Vous pouvez cacher le résultat d'un sondage et le dévoiler à votre audience seulement au moment propice."
+        },
+        "QUOTE": {
+            "TITLE_LABEL": "Mettez en avant des paroles inspirantes en utilisant le module de citation (Quote).",
+            "TEXT_1_LABEL": "Concises et touchantes, faites des citations impactantes et faciles à lire.",
+            "TEXT_2_LABEL": "Ajoutez la photo de l'auteur de la citation pour donner plus d'informations et de contexte."
+        },
+        "SUMMARY": {
+            "TITLE_LABEL": "Le module Summary va droit au but et permet de donner au lecteur uniquement les informations dont il a besoin. Ce template peut s'utiliser de plein de manières différentes...",
+            "TEXT_1_LABEL": "Utilisez Summary pour lister les principaux enjeux d'un sujet. Donnez à votre audience une vue d'ensemble grâce à une courte énumération. Insérez une image d'illustration pour relier votre Summary au sujet de votre article.",
+            "TEXT_2_LABEL": "Privilégiez le template Summary avec la barre sur le côté pour les ingrédients quand vous voulez écrire une recette. Ajoutez une belle photo du plat à votre Summary et il deviendra plus alléchant.",
+            "TEXT_3_LABEL": "Utilisez les cases à cocher pour donner un effet de to-do list à votre Summary."
+        },
+        "VIDEO_CREATOR": {
+            "TITLE_LABEL": "Créer des vidéos en toute simplicité. Utilisez nos templates déjà tout prêts, choisissez simplement les couleurs et les musiques en fonction de votre sujet.",
+            "TEXT_1_LABEL": "Privilégiez le template Classique pour créer une vidéo avec un effet catalogue où vous pourrez intégrer des GIFs, vos images et vos vidéos.",
+            "TEXT_2_LABEL": "Utilisez le template VS pour confronter et révéler les contrastes entre deux éléments d'un sujet.",
+            "TEXT_3_LABEL": "Chaque diapositive dans le template VS comparera un sous-thème du thème général grâce à des images, des GIFs, du texte ou même des vidéos !",
+            "TEXT_4_LABEL": "Utilisez le template Facts pour lister des faits marquants sur un sujet important pour vos lecteurs.",
+            "TEXT_5_LABEL": "Chaque diapositive dans le template Facts possède une large zone de texte par dessus l'image de fond.",
+            "TEXT_6_LABEL": "Utilisez le template Swift pour créer une vidéo plus rapide avec une diapositive d'introduction annonçant visuellement les prochaines diapositives de la vidéo."
+        },
+        "VIDEO_PLAYER": {
+            "TITLE_LABEL": "Enrichissez votre Story avec des vidéos.",
+            "TEXT_1_LABEL": "Ajoutez n'importe quelle vidéo Vimeo pour rendre votre article plus intéressant.",
+            "TEXT_2_LABEL": "Ajoutez n'importe quelle vidéo Youtube pour rendre votre article plus intéressant."
+        }
+    },
+    "TEMPLATES": {
+        "START_NEW": "Créer un nouveau Template",
+        "UPDATED": "Nouveautés",
+        "TEMPLATE_NAME": "A à Z",
+        "NEW": "Nouveau",
+        "NEW_FROM_TEMPLATE": "Nouveaux Templates",
+        "DUPLICATE": "Dupliquer",
+        "ADD_A_TEMPLATE": "Ajouter aux templates",
+        "ADDED_A_TEMPLATE": "Ajouté !",
+        "ADDING": "Ajout en cours...",
+        "ADDING_DISABLED": "Pour dupliquer ou pour ajouter un template, sauvegardez le brouillon",
+        "SOMETHING_WENT_WRONG": "Une erreur est survenue :(",
+        "PLEASE_TRY_AGAIN": "Merci de réessayer",
+        "CREATE": "Créer",
+        "INCLUDES": "INSÉRER",
+        "DELETE": "Supprimer",
+        "DELETE_FROM_LIST": "Êtes-vous sûr(e) de vouloir supprimer ce template ?",
+        "CREATING_IN_PLAYBUZZ": "Créer avec Playbuzz devient plus simple",
+        "CREATING_IN_PLAYBUZZ_2": "Créer n'a jamais été aussi facile...",
+        "CREATING_IN_PLAYBUZZ_2_DESC": "Racontez votre histoire depuis un template déjà fait ou créez le vôtre.",
+        "CREATING_IN_PLAYBUZZ_DESC_1": "Pour créer un nouveau template, cliquez sur Créer et choisissez l'option",
+        "CREATING_IN_PLAYBUZZ_DESC_2": "> Ajouter aux templates",
+        "START_HERE": "Commencez ici !",
+        "NO_TEMPLATES_FOUND": "Aucun template correspondant",
+        "CREATE_A_TEMPLATE": "Créer un template",
+        "GOT_IT": "Compris !",
+        "FEATURED": "Featured",
+        "TRAVEL": "Voyage",
+        "HOLIDAY": "Vacances",
+        "FUN": "Fun",
+        "STYLE": "Style",
+        "MUSIC": "Musique",
+        "SPORTS": "Sport",
+        "ENTERTAINMENT": "Divertissement",
+        "NEWS": "Actus",
+        "FOOD": "Cuisine",
+        "WORKING_ON_TEMPLATE": "Edition en cours :",
+        "VIDEO": "Vidéo"
+    },
+    "CONVO": {
+        "PARTICIPANT_PLACEHOLDER": "Participant",
+        "BUBBLE_CONTENT_PLACEHOLDER": "Entrer un texte...",
+        "ADD_BUBBLE_TOOLTIP": "Ajouter une bulle",
+        "ADD_PARTICIPANT_TOOLTIP": "Ajouter participant",
+        "DELETE_MESSAGE": "Êtes-vous sûr(e) ?",
+        "ADD_SECTION_TOOLTIP": "Convo"
+    },
+    "CREATE_MODULES": {
+        "TEXT_EDITOR": {
+            "WORD": "MOTS",
+            "WORDS": "MOTS",
+            "GOOD": "BIEN",
+            "NORMAL": "O.K",
+            "BAD": "UN PEU TROP LONG",
+            "BOLD_TOOLTIP": "Gras",
+            "GOOD_INDICATION": "BIEN",
+            "NORMAL_INDICATION": "O.K",
+            "BAD_INDICATION": "UN PEU TROP LONG",
+            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. de lecture"
+        },
+        "SECTION_TITLE_PLACEHOLDER": "Titre",
+        "NOT_SAVED_ERR_MESSAGE": "Les dernières modifications n'ont pas été sauvegardées. Êtes-vous sûr(e) de vouloir quitter ?",
+        "LIST": {
+            "ENABLE_VOTING_SWITCH": "Activer les votes",
+            "VOTE": "Vote",
+            "TYPE": {
+                "NONE": "Normal",
+                "NUMBER": "Numérotation",
+                "BULLET": "Puces",
+                "RANK": "Liste dynamique (vote)"
+            }
+        }
+    },
+    "CTA": {
+        "NO_EFFECT": "Aucun",
+        "PULSE_EFFECT": "Animé",
+        "FLOATING_EFFECT": "Flottant",
+        "BUTTON_TEXT": "Entrer texte...",
+        "LINK_PLACEHOLDER": "Entrer lien...",
+        "TEST_LINK_TOOLTIP": "Tester le lien",
+        "ADD_SECTION_TOOLTIP": "CTA"
+    },
+    "EMBED": {
+        "DESCRIPTION_PLACEHOLDER": "Description",
+        "ADD_SECTION_TOOLTIP": "Importer depuis Internet"
+    },
+    "IMAGE": {
+        "CAPTION": "Image",
+        "ADD_SECTION_TOOLTIP": "Image"
+    },
+    "PARAGRAPH": {
+        "EDITOR_PLACEHOLDER": "Paragraphe",
+        "ADD_SECTION_TOOLTIP": "Texte"
+    },
+    "POLL": {
+        "BACKGROUND_TEMPLATE_TOOLTIP": "Image d'arrière plan",
+        "COVER_TEMPLATE_TOOLTIP": "Image d'illustration",
+        "CLASSIC_TEMPLATE_TOOLTIP": "Résultats classiques",
+        "GRID_TEMPLATE_TOOLTIP": "Grille de résultat",
+        "SETTINGS_TOOLTIP": "Paramètres du sondage",
+        "TITLE_PLACEHOLDER": "Question",
+        "OPTION_PLACEHOLDER": "réponse {{index}}",
+        "ADD_OPTION_BUT": "Ajouter une réponse",
+        "SETTINGS": {
+            "TITLE": "PARAMÈTRES DU SONDAGE",
+            "HERE_LINK": "Ici",
+            "BACK_BUTTON": "Retour à l'édition",
+            "ENABLE_VOTING_SWITCH": "Activer les votes",
+            "TOTAL_VOTES_SWITCH": "Afficher le nombre total de votes",
+            "DISPLAY_LOGO_SWITCH": "Afficher Logo",
+            "DISPLAY_LOGO_DESCRIPTION": "Personnalisez encore plus votre sondage en ajoutant votre logo. Remplacez l'image de présentation",
+            "END_CARD_SWITCH": "End Card",
+            "END_CARD_DESCRIPTION": "Générer plus de partages et d'engagements en utilisant End Card",
+            "END_CARD": {
+                "TITLE_LABEL": "Titre",
+                "TITLE_PLACEHOLDER": "Entrer le titre",
+                "DESCRIPTION_LABEL": "Description",
+                "DESCRIPTION_PLACEHOLDER": "Entrer une description..."
+            },
+            "ALLOW_REVOTES_SWITCH": "Possibilité de re-voter chaque jour",
+            "HIDE_RESULTS_SWITCH": "Cacher les résultats du sondage",
+            "SECURED_SWITCH": "Activer sécurité sondage",
+            "ADDITIONAL_SETTINGS_WARNING": "Cette modification sera visible après avoir enregistré."
+        },
+        "CLASSIC_LAYOUT_TOOLTIP": "Barres classiques",
+        "GRID_LAYOUT_TOOLTIP": "Vignettes rondes",
+        "DELETE_OPTION_BUT": "Supprimer cette réponse",
+        "SQUARE_LAYOUT_TOOLTIP": "Vignettes Carrées",
+        "ADD_SECTION_TOOLTIP": "Poll"
+    },
+    "QUOTE": {
+        "TEXT_PLACEHOLDER": "Entrer une citation",
+        "QUOTEE_PLACEHOLDER": "Qui en est l'auteur ?",
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Plus de détails",
+        "ADD_SECTION_TOOLTIP": "Citation"
+    },
+    "SUMMARY": {
+        "ADD_ROW": "Ajouter une ligne",
+        "SUBTITLE_PLACEHOLDER": "Sous-titre",
+        "ROW_PLACEHOLDER": "Entrer du texte...",
+        "NO_EFFECT": "Aucun",
+        "FADE_EFFECT": "Estomper",
+        "TITLE_PLACEHOLDER": "Titre",
+        "ADD_SECTION_TOOLTIP": "Résumé"
+    },
+    "VIDEO_CREATOR": {
+        "PLAY": "PLAY",
+        "PAUSE": "PAUSE",
+        "GALLERY_TITLE": "Choisissez un template",
+        "OPEN_TEMPLATES_GALLERY_BUT": "Changer de template",
+        "CLOSE_TEMPLATES_GALLERY_BUT": "Retour à l'édition",
+        "SETTINGS": {
+            "TITLE": "Paramètres",
+            "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+            "MUTE_SWITCH_LABEL": "Autoplay (muet)",
+            "LOGO_LABEL": "Personnaliser le logo",
+            "CLOSE_SETTINGS": "Retour à l'édition",
+            "LOGO_DESCRIPTION": "Téléchargez votre propre logo qui apparaîtra en fin de vidéo."
+        },
+        "PREVIEW_BUT": "Générer la vidéo",
+        "NOT_SUPPORTED_LABEL": "Non pris en charge",
+        "IE_ERR_MESSAGE": "La création de la vidéo n'est pas prise en charge par Internet Explorer. Utilisez Chrome pour profiter de toutes les fonctionnalités ! Vous pouvez quand même publier votre item sur Internet Explorer et votre vidéo sera prête dans un instant.",
+        "REMOVE_SCENE": {
+            "TITLE": "Êtes-vous certain(e) ?",
+            "DELETE_BUTTON_TEXT": "Supprimer"
+        },
+        "SCENE_NAME": {
+            "GENERAL": {
+                "INTRO_LABEL": "INTRO",
+                "ENDING_LABEL": "FIN",
+                "CREDITS_LABEL": "CRÉDITS"
+            },
+            "CLASSIC": {
+                "ITEM_LABEL": "ITEM"
+            },
+            "FACTS": {
+                "ITEM_LABEL": "FACT"
+            },
+            "SWIFT": {
+                "ITEM_BOTTOM_LABEL": "EN BAS",
+                "ITEM_TOP_LABEL": "AU HAUT"
+            },
+            "VS": {
+                "ITEM_LABEL": "THÈME",
+                "ENDING_LABEL": "CONCLUSION"
+            }
+        },
+        "CHANGE_TEMPLATE_WARNING": {
+            "TITLE": "Type de template différent",
+            "WARNING_MESSAGE": "Le contenu déjà chargé ne s'affichera peut-être pas dans ce template",
+            "CANCEL_BUTTON": "Annuler",
+            "CHANGE_BUTTON": "Changer de template"
+        },
+        "AUDIO_LABEL": {
+            "NONE": "Aucun",
+            "CINEMATIC": "Cinématographique",
+            "CANCEL_BTN": "Annuler",
+            "SELECT_BTN": "Selectionner",
+            "CORPORATE": "Corporate",
+            "POSITIVE_AND_UPBEAT": "Positive & Upbeat",
+            "ACOUSTIC": "Acoustique",
+            "HIGH_ENERGY": "High Energy",
+            "EPIC": "Héroïque"
+        },
+        "TEMPLATE_NAME": {
+            "CLASSIC": "Classique",
+            "VS": "VS",
+            "SWIFT": "Swift",
+            "FACTS": "Facts"
+        },
+        "THEME_NAME_LABEL": {
+            "DEFAULT": "Défaut",
+            "PLAYBUZZ": "Playbuzz",
+            "SHADES_OF_GRAY": "Grey",
+            "PLAYTIME": "Playtime",
+            "BACK_TO_SCHOOL": "Back to School",
+            "NEUTRAL_BLUE": "Neutral Blue",
+            "PHAEDRA": "Phaedra",
+            "FIESTA": "Fiesta",
+            "GREENS": "Greens",
+            "BUBBLEGUM": "Bubblegum",
+            "GROUND_CONTROL": "Ground Control",
+            "AMERICA": "America",
+            "BEACH_UMBRELLA": "Beach Umbrella",
+            "BEACH_TIME": "Beach Time",
+            "GOSSIP": "Gossip"
+        },
+        "TEMPLATES": {
+            "GENERAL": {
+                "MAIN_TITLE_PLACEHOLDER": "Entrer titre principal",
+                "ENTER_TEXT_PLACEHOLDER": "Entrer Texte",
+                "CTA_PLACEHOLDER": "Terminer avec un \"call to action\" !",
+                "BACKGROUND_REQUIRED_VALIDATION_MSG": "Une image de fond est obligatoire",
+                "TEXT_REQUIRED_VALIDATION_MSG": "Le texte est obligatoire",
+                "TITLE_REQUIRED_VALIDATION_MSG": "Le titre est obligatoire"
+            },
+            "CLASSIC": {
+                "SUB_TITLE_PLACEHOLDER": "Entrer un sous-titre (optionnel)"
+            },
+            "VS": {
+                "PRE_CTA_PLACEHOLDER": "Entrer un texte préliminaire (optionnel)",
+                "SIDE_A_PLACEHOLDER": "A",
+                "FEATURE_A_PLACEHOLDER": "Entrer le texte pour A",
+                "SIDE_B_PLACEHOLDER": "B",
+                "FEATURE_B_PLACEHOLDER": "Entrer le texte pour B",
+                "PREMISE_PLACEHOLDER": "Entrer le titre de la vidéo",
+                "COMPARISON_PLACEHOLDER": "Comparaison",
+                "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "L'image de fond A est obligatoire",
+                "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "L'image de fond B est obligatoire",
+                "A_TITLE_REQUIRED_VALIDATION_MSG": "Le titre A est obligatoire",
+                "B_TITLE_REQUIRED_VALIDATION_MSG": "Le titre B est obligatoire",
+                "PREMISE_REQUIRED_VALIDATION_MSG": "Le titre de la vidéo est obligatoire",
+                "COMPARISON_REQUIRED_VALIDATION_MSG": "La comparaison est obligatoire"
+            },
+            "FACTS": {
+                "ENTER_TITLE_PLACEHOLDER": "Entrer le titre",
+                "ENTER_FACT_PLACEHOLDER": "Entrer un fait",
+                "FACT_REQUIRED_VALIDATION_MSG": "Un fait est obligatoire"
+            }
+        },
+        "ADD_SECTION_TOOLTIP": "Créer une vidéo"
+    },
+    "VIDEO_PLAYER": {
+        "DESCRIPTION_PLACEHOLDER": "Description",
+        "SETTINGS": {
+            "TITLE": "Paramètres",
+            "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+            "MUTE_SWITCH_LABEL": "Autoplay (muet)",
+            "CLOSE_SETTINGS": "Retour à l'édition"
+        },
+        "ADD_SECTION_TOOLTIP": "Vidéo Player"
+    },
+    "DELETE_SECTION_BTN": "Supprimer",
+    "FLIP_CARD": {
+        "ADD_SECTION_TOOLTIP": "Flip Card"
+    }
+}
