@@ -209,15 +209,15 @@
             "MINIMUM_READ_TIME_LABEL": "{{readTime}} mín. de lectura"
         },
         "SECTION_TITLE_PLACEHOLDER": "Título",
-        "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
+        "NOT_SAVED_ERR_MESSAGE": "Tienes cambios sin guardar. ¿Estás seguro que quieres abandonar?",
         "LIST": {
-            "ENABLE_VOTING_SWITCH": "Enable Voting",
+            "ENABLE_VOTING_SWITCH": "Habilitar Votación",
             "VOTE": "Vote",
             "TYPE": {
                 "NONE": "Normal",
-                "NUMBER": "Numbered List",
-                "BULLET": "Bulleted List",
-                "RANK": "Interactive List"
+                "NUMBER": "Lista Numerada",
+                "BULLET": "Lista con Viñetas",
+                "RANK": "Lista Interactiva"
             }
         }
     },
@@ -267,15 +267,15 @@
                 "DESCRIPTION_LABEL": "Descripción",
                 "DESCRIPTION_PLACEHOLDER": "Introduce una descripción..."
             },
-            "ALLOW_REVOTES_SWITCH": "Readers can re-vote daily",
-            "HIDE_RESULTS_SWITCH": "Hide poll results",
-            "SECURED_SWITCH": "Enable secure poll",
-            "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save."
+            "ALLOW_REVOTES_SWITCH": "Lectores pueden re votar cada día",
+            "HIDE_RESULTS_SWITCH": "Esconder los resultados del poll",
+            "SECURED_SWITCH": "Permitir seguridad del poll",
+            "ADDITIONAL_SETTINGS_WARNING": "Este cambio será visible luego de hacer click en guardar"
         },
         "CLASSIC_LAYOUT_TOOLTIP": "Plantilla de resultados clásicos",
         "GRID_LAYOUT_TOOLTIP": "Plantilla para resultados en círculo",
         "DELETE_OPTION_BUT": "Delete option",
-        "SQUARE_LAYOUT_TOOLTIP": "Square results images",
+        "SQUARE_LAYOUT_TOOLTIP": "Imágenes con resultado cuadrado",
         "ADD_SECTION_TOOLTIP": "Add Poll"
     },
     "QUOTE": {
