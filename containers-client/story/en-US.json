@@ -33,6 +33,7 @@
   "QUIZ": {
     "START": "Let's Start",
     "SHARE_RESULT": "SHARE YOUR RESULT",
-    "READ_MORE": "READ MORE"
+    "READ_MORE": "READ MORE",
+    "CALCULATING": "Calculating Results..."
   }
 }
