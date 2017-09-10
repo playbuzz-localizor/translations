@@ -423,5 +423,10 @@
     },
     "FLIP_CARD": {
         "ADD_SECTION_TOOLTIP": "Add Flip Card"
+    },
+    "QUIZ": {
+        "INTRO": "Intro",
+        "QUESTIONS": "Questions",
+        "RESULTS": "Results"
     }
 }
