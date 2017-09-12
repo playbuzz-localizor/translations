@@ -431,9 +431,6 @@
         "REMOVE_ITEM": {
             "TITLE": "Are you sure?",
             "DELETE_BUTTON_TEXT": "Delete"
-        },
-        "SHARE": {
-            "I_GOT": "I got"
         }
     }
 }
