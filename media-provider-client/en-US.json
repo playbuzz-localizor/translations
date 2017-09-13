@@ -96,10 +96,12 @@
     },
     "PAINT": {
       "TITLE": "Paint",
-      "BRUSH_SIZE_LABEL": "Brush Size"
+      "BRUSH_SIZE_LABEL": "Brush Size",
+      "COLOR_LABEL": "Color"
     },
     "EDITOR_TEXT": {
-      "TITLE": "Text"
+      "TITLE": "Text",
+      "COLOR_LABEL": "Text Color"
     },
     "STICKERS": {
       "TITLE": "Stickers"
