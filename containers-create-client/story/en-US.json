@@ -431,6 +431,8 @@
         "REMOVE_ITEM": {
             "TITLE": "Are you sure?",
             "DELETE_BUTTON_TEXT": "Delete"
-        }
+        },
+        "ADD_CTA": "Add Call to Action",
+        "ADD_CONTINUE": "Add Continue message"
     }
 }
