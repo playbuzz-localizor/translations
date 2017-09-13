@@ -432,6 +432,10 @@
             "TITLE": "Are you sure?",
             "DELETE_BUTTON_TEXT": "Delete"
         },
+        "TOOLTIPS":{
+            "CTA": "Call-to-action",
+            "CONTINUE": "Continue"
+        },
         "ADD_CTA": "Add Call to Action",
         "ADD_CONTINUE": "Add Continue message"
     }
