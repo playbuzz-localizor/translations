@@ -100,6 +100,7 @@
       "COLOR_LABEL": "Color"
     },
     "EDITOR_TEXT": {
+      "TITLE": "Text",
       "ADD_LABEL": "Add Text",
       "COLOR_LABEL": "Text Color"
     },
