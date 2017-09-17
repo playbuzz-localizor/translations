@@ -90,6 +90,7 @@
       "DELETE_LABEL": "Delete"
     },
     "CROPPING": {
+      "LABEL": "CROPPING RATIO",
       "TITLE": "Crop",
       "LANDSCAPE_RATIO": "Landscape",
       "SQUARE_RATIO": "Square",
