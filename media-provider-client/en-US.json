@@ -85,6 +85,7 @@
     },
     "POPOVER_MENU": {
       "EDIT_LABEL": "Edit",
+      "CROP_LABEL": "Crop",
       "REPLACE_LABEL": "Replace",
       "DELETE_LABEL": "Delete"
     },
