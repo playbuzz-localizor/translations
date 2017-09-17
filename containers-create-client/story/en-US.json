@@ -428,11 +428,15 @@
         "INTRO": "Intro",
         "QUESTIONS": "Questions",
         "RESULTS": "Results",
+        "INTRODUCTIONS": {
+            "RESULTS": "Manage your quiz’s end results, start by adding them first",
+            "QUESTIONS": "Now, add questions and associate them to the results"
+        },
         "REMOVE_ITEM": {
             "TITLE": "Are you sure?",
             "DELETE_BUTTON_TEXT": "Delete"
         },
-        "RESULT_ACTIONS":{
+        "RESULT_ACTIONS": {
             "CTA": {
                 "ADD": "Add Call to Action",
                 "TOOLTIP": "Call-to-action",
