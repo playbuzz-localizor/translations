@@ -425,12 +425,24 @@
         "ADD_SECTION_TOOLTIP": "Add Flip Card"
     },
     "QUIZ": {
-        "INTRO": "Intro",
-        "QUESTIONS": "Questions",
-        "RESULTS": "Results",
         "INTRODUCTIONS": {
             "RESULTS": "Manage your quiz’s end results, start by adding them first",
             "QUESTIONS": "Now, add questions and associate them to the results"
+        },
+        "INTRO": {
+            "TITLE": "Intro"
+        },
+        "QUESTIONS": {
+            "TITLE": "Questions",
+            "ADD": "Add a question",
+            "ADD_ANOTHER": "Add another question",
+            "PLACEHOLDER": "Write question here..."
+        },
+        "RESULTS": {
+            "TITLE": "Results",
+            "ADD": "Add results",
+            "ADD_ANOTHER": "Add another result",
+            "PLACEHOLDER": "Write result here..."
         },
         "REMOVE_ITEM": {
             "TITLE": "Are you sure?",
@@ -447,10 +459,6 @@
                 "TOOLTIP": "Continue",
                 "PLACEHOLDER": "Continue text..."
             }
-        },
-        "PLACEHOLDERS": {
-            "RESULT": "Write result here...",
-            "QUESTION": "Write question here..."
         }
     }
 }
