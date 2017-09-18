@@ -447,6 +447,10 @@
                 "TOOLTIP": "Continue",
                 "PLACEHOLDER": "Continue text..."
             }
+        },
+        "PLACEHOLDERS": {
+            "RESULT": "Write result here...",
+            "QUESTION": "Write question here..."
         }
     }
 }
