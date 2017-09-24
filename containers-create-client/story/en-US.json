@@ -445,6 +445,9 @@
             "PLACEHOLDER": "Write result here..."
         },
         "ANSWERS": {
+          "TITLE": "Answer",
+          "ADD": "Add Answer",
+          "ASSOCIATE": "Associate results",
           "LAYOUTS_TOOLTIPS": {
               "CLASSIC": "Classic",
               "GRID": "Grid"
