@@ -444,9 +444,16 @@
             "ADD_ANOTHER": "Add another result",
             "PLACEHOLDER": "Write result here..."
         },
+        "ANSWERS": {
+          "LAYOUTS_TOOLTIPS": {
+              "CLASSIC": "Classic",
+              "GRID": "Grid"
+          }
+        },
         "REMOVE_ITEM": {
             "TITLE": "Are you sure?",
-            "DELETE_BUTTON_TEXT": "Delete"
+            "DELETE_BUTTON_TEXT": "Delete",
+            "TOOLTIP": "Delete"
         },
         "RESULT_ACTIONS": {
             "CTA": {
