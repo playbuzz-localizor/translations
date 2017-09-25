@@ -425,6 +425,7 @@
         "ADD_SECTION_TOOLTIP": "Add Flip Card"
     },
     "QUIZ": {
+        "DONE": "Done",
         "INTRODUCTIONS": {
             "RESULTS": "Manage your quiz’s end results, start by adding them first",
             "QUESTIONS": "Now, add questions and associate them to the results"
@@ -445,13 +446,18 @@
             "PLACEHOLDER": "Write result here..."
         },
         "ANSWERS": {
-          "TITLE": "Answer",
-          "ADD": "Add Answer",
-          "ASSOCIATE": "Associate results",
-          "LAYOUTS_TOOLTIPS": {
-              "CLASSIC": "Classic",
-              "GRID": "Grid"
-          }
+            "TITLE": "Answer",
+            "ADD": "Add Answer",
+            "ASSOCIATE": "Associate results",
+            "ASSOCIATION": {
+                "0": "No association",
+                "1": "Normal",
+                "2": "Strong association"
+            },
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Classic",
+                "GRID": "Grid"
+            }
         },
         "REMOVE_ITEM": {
             "TITLE": "Are you sure?",
