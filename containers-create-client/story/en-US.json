@@ -435,12 +435,14 @@
         },
         "QUESTIONS": {
             "TITLE": "Questions",
+            "TITLE_SINGLE": "Question",
             "ADD": "Add a question",
             "ADD_ANOTHER": "Add another question",
             "PLACEHOLDER": "Write question here..."
         },
         "RESULTS": {
             "TITLE": "Results",
+            "TITLE_SINGLE": "Result",
             "ADD": "Add results",
             "ADD_ANOTHER": "Add another result",
             "PLACEHOLDER": "Write result here..."
