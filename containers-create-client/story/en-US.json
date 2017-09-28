@@ -431,7 +431,9 @@
             "QUESTIONS": "Now, add questions and associate them to the results"
         },
         "INTRO": {
-            "TITLE": "Intro"
+            "TITLE": "Intro",
+            "PLACEHOLDER": "What's your quiz about?",
+            "DESC_PLACEHOLDER": "Describe the quiz..."
         },
         "QUESTIONS": {
             "TITLE": "Questions",
@@ -445,7 +447,8 @@
             "TITLE_SINGLE": "Result",
             "ADD": "Add results",
             "ADD_ANOTHER": "Add another result",
-            "PLACEHOLDER": "Write result here..."
+            "PLACEHOLDER": "Write result here...",
+            "DESC_PLACEHOLDER": "Describe the result..."
         },
         "ANSWERS": {
             "TITLE": "Answer",
