@@ -26,8 +26,14 @@
         "MCD_LABEL": "Unité Embed Vidéo",
         "COPY_CODE_BUTTON": "Copier le code"
     },
-    "Vote": "Sondage :",
+    "Vote": "Vote",
     "POLL": {
         "SHARE_POLL": "J'ai voté {{answer}}. {{question}}"
+    },
+    "QUIZ": {
+        "START": "Démarrer le test",
+        "SHARE_RESULT": "Partager votre résultat",
+        "READ_MORE": "En savoir plus",
+        "CALCULATING": "Votre résultat dans quelques secondes..."
     }
 }
