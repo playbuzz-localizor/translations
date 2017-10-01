@@ -229,6 +229,8 @@
         "FLOATING_EFFECT": "Floating",
         "BUTTON_TEXT": "Enter text...",
         "LINK_PLACEHOLDER": "Enter link...",
+        "APPLE_LINK_PLACEHOLDER": "iOS link (optional)",
+        "ANDROID_PLACEHOLDER": "Android link (optional)",
         "TEST_LINK_TOOLTIP": "Test link"
     },
     "EMBED": {
