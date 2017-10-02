@@ -34,6 +34,9 @@
     "START": "Let's Start",
     "SHARE_RESULT": "SHARE YOUR RESULT",
     "READ_MORE": "READ MORE",
-    "CALCULATING": "Calculating Results..."
+    "CALCULATING": "Calculating Results...",
+    "SHARE": {
+      "I_GOT": "I got"
+    }
   }
 }

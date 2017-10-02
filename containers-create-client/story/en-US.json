@@ -423,5 +423,63 @@
     },
     "FLIP_CARD": {
         "ADD_SECTION_TOOLTIP": "Add Flip Card"
+    },
+    "QUIZ": {
+        "DONE": "Done",
+        "INTRODUCTIONS": {
+            "RESULTS": "Manage your quiz’s end results, start by adding them first",
+            "QUESTIONS": "Now, add questions and associate them to the results"
+        },
+        "INTRO": {
+            "TITLE": "Intro",
+            "PLACEHOLDER": "What's your quiz about?",
+            "DESC_PLACEHOLDER": "Describe the quiz..."
+        },
+        "QUESTIONS": {
+            "TITLE": "Questions",
+            "TITLE_SINGLE": "Question",
+            "ADD": "Add a question",
+            "ADD_ANOTHER": "Add another question",
+            "PLACEHOLDER": "Write question here..."
+        },
+        "RESULTS": {
+            "TITLE": "Results",
+            "TITLE_SINGLE": "Result",
+            "ADD": "Add results",
+            "ADD_ANOTHER": "Add another result",
+            "PLACEHOLDER": "Write result here...",
+            "DESC_PLACEHOLDER": "Describe the result..."
+        },
+        "ANSWERS": {
+            "TITLE": "Answer",
+            "ADD": "Add Answer",
+            "ASSOCIATE": "Associate results",
+            "ASSOCIATION": {
+                "0": "No association",
+                "1": "Normal",
+                "2": "Strong association"
+            },
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Classic",
+                "GRID": "Grid"
+            }
+        },
+        "REMOVE_ITEM": {
+            "TITLE": "Are you sure?",
+            "DELETE_BUTTON_TEXT": "Delete",
+            "TOOLTIP": "Delete"
+        },
+        "RESULT_ACTIONS": {
+            "CTA": {
+                "ADD": "Add Call to Action",
+                "TOOLTIP": "Call-to-action",
+                "PLACEHOLDER": "Enter text..."
+            },
+            "CONTINUE": {
+                "ADD": "Add Continue message",
+                "TOOLTIP": "Continue",
+                "PLACEHOLDER": "Continue text..."
+            }
+        }
     }
 }
