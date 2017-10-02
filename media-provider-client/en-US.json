@@ -105,7 +105,8 @@
     "EDITOR_TEXT": {
       "TITLE": "Text",
       "ADD_LABEL": "Add Text",
-      "COLOR_LABEL": "Text Color"
+      "COLOR_LABEL": "Text Color",
+      "BACKGROUND_COLOR_LABEL": "Background Color"
     },
     "STICKERS": {
       "TITLE": "Stickers"
