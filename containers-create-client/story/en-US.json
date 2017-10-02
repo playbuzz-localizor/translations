@@ -231,6 +231,9 @@
         "LINK_PLACEHOLDER": "Enter link...",
         "APPLE_LINK_PLACEHOLDER": "iOS link (optional)",
         "ANDROID_LINK_PLACEHOLDER": "Android link (optional)",
+        "WEB_LINK_TOOLTIP":"Universal",
+        "APPLE_LINK_TOOLTIP":"iOS",
+        "ANDROID_LINK_TOOLTIP":"Android",
         "TEST_LINK_TOOLTIP": "Test link"
     },
     "EMBED": {
