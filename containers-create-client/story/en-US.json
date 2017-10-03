@@ -354,6 +354,11 @@
             "EPIC": "Epic",
             "CINEMATIC": "Cinematic"
         },
+        "CATEGORIES_NAMES": {
+            "MAGICAL": "Magical",
+            "LISTS": "Lists",
+            "COMPARISON": "Comparison"
+        },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classic",
             "VS": "VS.",
