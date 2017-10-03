@@ -432,7 +432,7 @@
     "QUIZ": {
         "DONE": "Done",
         "INTRODUCTIONS": {
-            "RESULTS": "Let's get started! Add your quize's end results.",
+            "RESULTS": "Let's get started!\nAdd your quize's end results.",
             "QUESTIONS": "Now, add questions and associate them to your results"
         },
         "INTRO": {
@@ -462,15 +462,15 @@
             "TITLE": "Answer",
             "ADD": "Add answer",
             "ASSOCIATE": "Associate results",
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Classic",
+                "GRID": "Grid"
+            },
             "ASSOCIATION": [
                 "No association",
                 "Neutral",
                 "Highly associated"
-            ],
-            "LAYOUTS_TOOLTIPS": {
-                "CLASSIC": "Classic",
-                "GRID": "Grid"
-            }
+            ]
         },
         "REMOVE_ITEM": {
             "TITLE": "Are you sure?",
@@ -486,7 +486,7 @@
             "CONTINUE": {
                 "ADD": "Call To Action message",
                 "TOOLTIP": "Continue",
-                "PLACEHOLDER": "Continue text..."
+                "PLACEHOLDER": "Enter text..."
             }
         }
     }
