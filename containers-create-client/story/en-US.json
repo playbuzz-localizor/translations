@@ -437,12 +437,14 @@
         },
         "INTRO": {
             "TITLE": "Intro",
+            "CHANGE_STAGE": "Add intro",
             "PLACEHOLDER": "What's your quiz about?",
             "DESC_PLACEHOLDER": "Describe the quiz..."
         },
         "QUESTIONS": {
             "TITLE": "Questions",
             "TITLE_SINGLE": "Question",
+            "CHANGE_STAGE": "Add questions",
             "ADD": "Add a question",
             "ADD_ANOTHER": "Add another question",
             "PLACEHOLDER": "Write question here..."
@@ -450,6 +452,7 @@
         "RESULTS": {
             "TITLE": "Results",
             "TITLE_SINGLE": "Result",
+            "CHANGE_STAGE": "Add results",
             "ADD": "Add results",
             "ADD_ANOTHER": "Add another result",
             "PLACEHOLDER": "Write result here...",
