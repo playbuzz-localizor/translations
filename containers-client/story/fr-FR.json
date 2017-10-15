@@ -34,6 +34,9 @@
         "START": "Démarrer le test",
         "SHARE_RESULT": "Partager votre résultat",
         "READ_MORE": "En savoir plus",
-        "CALCULATING": "Votre résultat dans quelques secondes..."
+        "CALCULATING": "Votre résultat dans quelques secondes...",
+        "SHARE": {
+            "I_GOT": "J'ai obtenu"
+        }
     }
 }
