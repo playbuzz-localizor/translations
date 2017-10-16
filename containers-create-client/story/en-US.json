@@ -462,6 +462,7 @@
             "TITLE": "Answer",
             "ADD": "Add answer",
             "ASSOCIATE": "Associate results",
+            "ASSOCIATE_DESC": "Choose which results are associated with this answer:",
             "LAYOUTS_TOOLTIPS": {
                 "CLASSIC": "Classic",
                 "GRID": "Grid"
