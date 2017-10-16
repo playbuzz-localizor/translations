@@ -30,7 +30,7 @@
     "POLL": {
         "SHARE_POLL": "Eu votei {{answer}}. {{question}}"
     },
-    "QUIZ": {
+    "QUIZ_PLAY": {
         "START": "Vamos começar",
         "SHARE_RESULT": "COMPARTILHE O SEU RESULTADO",
         "READ_MORE": "LEIA MAIS",
