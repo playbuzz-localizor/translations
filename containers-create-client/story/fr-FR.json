@@ -470,7 +470,8 @@
                 "Non ",
                 "Neutre",
                 "Oui"
-            ]
+            ],
+            "ASSOCIATE_DESC": "Choisissez le résultat associé à cette réponse :"
         },
         "REMOVE_ITEM": {
             "TITLE": "Êtes-vous sûr(e) ?",
