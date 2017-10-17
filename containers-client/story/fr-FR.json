@@ -31,10 +31,10 @@
         "SHARE_POLL": "J'ai voté {{answer}}. {{question}}"
     },
     "QUIZ_PLAY": {
-        "START": "Démarrer le test",
-        "SHARE_RESULT": "Partager votre résultat",
-        "READ_MORE": "En savoir plus",
-        "CALCULATING": "Votre résultat dans quelques secondes...",
+        "START": "Faire le test",
+        "SHARE_RESULT": "PARTAGE TON RÉSULTAT",
+        "READ_MORE": "EN SAVOIR PLUS",
+        "CALCULATING": "Calcul en cours...",
         "SHARE": {
             "I_GOT": "J'ai obtenu"
         }
