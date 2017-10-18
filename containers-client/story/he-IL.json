@@ -31,12 +31,12 @@
         "SHARE_POLL": "אני הצבעתי: {{answer}} .{{question}}"
     },
     "QUIZ_PLAY": {
-        "START": "Let's Start",
-        "SHARE_RESULT": "SHARE YOUR RESULT",
-        "READ_MORE": "READ MORE",
-        "CALCULATING": "Calculating Results...",
+        "START": "התחילו כאן",
+        "SHARE_RESULT": "שתפו",
+        "READ_MORE": "לחצו להמשך",
+        "CALCULATING": "מחשב תוצאה...",
         "SHARE": {
-            "I_GOT": "I got:"
+            "I_GOT": "קיבלתי: "
         }
     }
 }
