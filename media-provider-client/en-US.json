@@ -116,6 +116,12 @@
       "NORMAL": "Normal",
       "BLUR": "Blur",
       "ZOOM": "Zoom"
+    },
+    "INTRO": {
+      "NEW_LABEL": "NEW",
+      "TITLE": "Title",
+      "TEXT": "Text",
+      "GOT_IT": "Got It!"
     }
   }
 }
