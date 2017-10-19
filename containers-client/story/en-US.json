@@ -29,5 +29,14 @@
     "Vote": "Vote",
     "POLL": {
         "SHARE_POLL": "I voted {{answer}}. {{question}}"
+    },
+    "QUIZ_PLAY": {
+        "START": "Let's Start",
+        "SHARE_RESULT": "SHARE YOUR RESULT",
+        "READ_MORE": "READ MORE",
+        "CALCULATING": "Calculating Results...",
+        "SHARE": {
+            "I_GOT": "I got:"
+        }
     }
 }

@@ -228,7 +228,12 @@
         "BUTTON_TEXT": "Inserir texto...",
         "LINK_PLACEHOLDER": "Inserir link...",
         "TEST_LINK_TOOLTIP": "Testar link",
-        "ADD_SECTION_TOOLTIP": "Adicionar CTA"
+        "ADD_SECTION_TOOLTIP": "Adicionar CTA",
+        "APPLE_LINK_PLACEHOLDER": "link iOS (opcional)",
+        "ANDROID_LINK_PLACEHOLDER": "link Android (opcional)",
+        "WEB_LINK_TOOLTIP": "Universal",
+        "APPLE_LINK_TOOLTIP": "iOS",
+        "ANDROID_LINK_TOOLTIP": "Android"
     },
     "EMBED": {
         "DESCRIPTION_PLACEHOLDER": "Descrição",
@@ -423,5 +428,66 @@
     "DELETE_SECTION_BTN": "Apagar",
     "FLIP_CARD": {
         "ADD_SECTION_TOOLTIP": "Adicionar Flip Card"
+    },
+    "QUIZ": {
+        "DONE": "Feito",
+        "INTRODUCTIONS": {
+            "RESULTS": "Vamos começar!\nAdicione os resultados finais do seu quiz.",
+            "QUESTIONS": "Agora, acrescente as perguntas e associe cada alternativa aos resultados"
+        },
+        "INTRO": {
+            "TITLE": "Tela de início",
+            "PLACEHOLDER": "Título do quiz",
+            "DESC_PLACEHOLDER": "Fale um pouco mais...",
+            "CHANGE_STAGE": "Ajustes finais"
+        },
+        "QUESTIONS": {
+            "TITLE": "Perguntas",
+            "TITLE_SINGLE": "Pergunta",
+            "ADD": "Adicione uma pergunta",
+            "ADD_ANOTHER": "Adicione mais perguntas",
+            "PLACEHOLDER": "A sua pergunta aqui...",
+            "CHANGE_STAGE": "Adicionar perguntas"
+        },
+        "RESULTS": {
+            "TITLE": "Resultados",
+            "TITLE_SINGLE": "Resultado",
+            "ADD": "Adicionar resultados",
+            "ADD_ANOTHER": "Adicione mais resultados",
+            "PLACEHOLDER": "O seu resultado aqui...",
+            "DESC_PLACEHOLDER": "Fale um pouco mais...",
+            "CHANGE_STAGE": "Adicionar resultados"
+        },
+        "ANSWERS": {
+            "TITLE": "Resposta",
+            "ADD": "Adicionar resposta",
+            "ASSOCIATE": "Associar resultados",
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Clássico",
+                "GRID": "Grid"
+            },
+            "ASSOCIATION": [
+                "Sem associação",
+                "Neutro",
+                "Forte associação"
+            ]
+        },
+        "REMOVE_ITEM": {
+            "TITLE": "Você tem certeza?",
+            "DELETE_BUTTON_TEXT": "Apagar",
+            "TOOLTIP": "Apagar"
+        },
+        "RESULT_ACTIONS": {
+            "CTA": {
+                "ADD": "Adicionar \"call to action\"",
+                "TOOLTIP": "Call to action",
+                "PLACEHOLDER": "Inserir texto..."
+            },
+            "CONTINUE": {
+                "ADD": "Mensagem de \"call to action\"",
+                "TOOLTIP": "Continuar",
+                "PLACEHOLDER": "Inserir texto..."
+            }
+        }
     }
 }

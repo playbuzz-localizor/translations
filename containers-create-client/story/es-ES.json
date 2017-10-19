@@ -228,7 +228,12 @@
         "BUTTON_TEXT": "Introduce texto...",
         "LINK_PLACEHOLDER": "Introduce enlace...",
         "TEST_LINK_TOOLTIP": "Probar enlace",
-        "ADD_SECTION_TOOLTIP": "Add CTA"
+        "ADD_SECTION_TOOLTIP": "Add CTA",
+        "APPLE_LINK_PLACEHOLDER": "iOS link (optional)",
+        "ANDROID_LINK_PLACEHOLDER": "Android link (optional)",
+        "WEB_LINK_TOOLTIP": "Universal",
+        "APPLE_LINK_TOOLTIP": "iOS",
+        "ANDROID_LINK_TOOLTIP": "Android"
     },
     "EMBED": {
         "DESCRIPTION_PLACEHOLDER": "Descripción",
@@ -423,5 +428,66 @@
     "DELETE_SECTION_BTN": "Delete",
     "FLIP_CARD": {
         "ADD_SECTION_TOOLTIP": "Add Flip Card"
+    },
+    "QUIZ": {
+        "DONE": "Done",
+        "INTRODUCTIONS": {
+            "RESULTS": "¡Empecemos!\nAgregue los resultados finales del Quizz",
+            "QUESTIONS": "Ahora, agregue las preguntas y asocielas con los resultados"
+        },
+        "INTRO": {
+            "TITLE": "Pantalla de Inicio",
+            "PLACEHOLDER": "Título del Quiz",
+            "DESC_PLACEHOLDER": "Cuentanos más..",
+            "CHANGE_STAGE": "Final touches"
+        },
+        "QUESTIONS": {
+            "TITLE": "Preguntas",
+            "TITLE_SINGLE": "Pregunta",
+            "ADD": "Agregar una pregunta",
+            "ADD_ANOTHER": "Añadir otra pregunta",
+            "PLACEHOLDER": "Tu pregunta aquí..",
+            "CHANGE_STAGE": "Añadir preguntas"
+        },
+        "RESULTS": {
+            "TITLE": "Resultados",
+            "TITLE_SINGLE": "Resultado",
+            "ADD": "Añadir resultados",
+            "ADD_ANOTHER": "Añadir otro resultado",
+            "PLACEHOLDER": "Tu resultado aquí...",
+            "DESC_PLACEHOLDER": "Cuentamos más...",
+            "CHANGE_STAGE": "Añadir resultados"
+        },
+        "ANSWERS": {
+            "TITLE": "Respuesta",
+            "ADD": "Agregar una respuesta",
+            "ASSOCIATE": "Asociar resultados",
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Clásico",
+                "GRID": "Grid"
+            },
+            "ASSOCIATION": [
+                "Sin asociación",
+                "Neutral",
+                "Muy asociado "
+            ]
+        },
+        "REMOVE_ITEM": {
+            "TITLE": "¿Estas seguro?",
+            "DELETE_BUTTON_TEXT": "Eliminar",
+            "TOOLTIP": "Eliminar"
+        },
+        "RESULT_ACTIONS": {
+            "CTA": {
+                "ADD": "Agregar una llamada a la acción",
+                "TOOLTIP": "Llamada a la acción",
+                "PLACEHOLDER": "Introduce un texto"
+            },
+            "CONTINUE": {
+                "ADD": "Call To Action message",
+                "TOOLTIP": "Continuar",
+                "PLACEHOLDER": "Introduzca un texto"
+            }
+        }
     }
 }

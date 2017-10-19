@@ -149,7 +149,7 @@
         }
     },
     "TEMPLATES": {
-        "START_NEW": "Créer un nouveau Template",
+        "START_NEW": "Créer un nouveau template",
         "UPDATED": "Nouveautés",
         "TEMPLATE_NAME": "A à Z",
         "NEW": "Nouveau",
@@ -228,7 +228,12 @@
         "BUTTON_TEXT": "Entrer texte...",
         "LINK_PLACEHOLDER": "Entrer lien...",
         "TEST_LINK_TOOLTIP": "Tester le lien",
-        "ADD_SECTION_TOOLTIP": "CTA"
+        "ADD_SECTION_TOOLTIP": "CTA",
+        "APPLE_LINK_PLACEHOLDER": "Lien iOS (optionnel)",
+        "ANDROID_LINK_PLACEHOLDER": "Lien Android (optionnel)",
+        "WEB_LINK_TOOLTIP": "Universel",
+        "APPLE_LINK_TOOLTIP": "iOS",
+        "ANDROID_LINK_TOOLTIP": "Android"
     },
     "EMBED": {
         "DESCRIPTION_PLACEHOLDER": "Description",
@@ -423,5 +428,67 @@
     "DELETE_SECTION_BTN": "Supprimer",
     "FLIP_CARD": {
         "ADD_SECTION_TOOLTIP": "Flip Card"
+    },
+    "QUIZ": {
+        "DONE": "J'ai terminé",
+        "INTRODUCTIONS": {
+            "RESULTS": "Commencez par ajouter les résultats de votre Quiz !",
+            "QUESTIONS": "Maintenant créez des questions et associez-les à vos résultats"
+        },
+        "INTRO": {
+            "TITLE": "Visuel de démarrage",
+            "PLACEHOLDER": "Titre du Quiz",
+            "DESC_PLACEHOLDER": "Dites-en un peu plus",
+            "CHANGE_STAGE": "Touches finales"
+        },
+        "QUESTIONS": {
+            "TITLE": "Questions",
+            "TITLE_SINGLE": "Question",
+            "ADD": "Ajouter une question",
+            "ADD_ANOTHER": "Ajouter une autre question",
+            "PLACEHOLDER": "Écrire la question ici...",
+            "CHANGE_STAGE": "Retour aux questions"
+        },
+        "RESULTS": {
+            "TITLE": "Résultats",
+            "TITLE_SINGLE": "Résultat",
+            "ADD": "Ajouter les résultats",
+            "ADD_ANOTHER": "Ajouter un autre résultat",
+            "PLACEHOLDER": "Ecrire le résultat ici...",
+            "DESC_PLACEHOLDER": "Plus de détails",
+            "CHANGE_STAGE": "Retour aux résultats"
+        },
+        "ANSWERS": {
+            "TITLE": "Réponse",
+            "ADD": "Ajouter une réponse",
+            "ASSOCIATE": "Résultats associés",
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Classique",
+                "GRID": "Grille"
+            },
+            "ASSOCIATION": [
+                "Non ",
+                "Neutre",
+                "Oui"
+            ],
+            "ASSOCIATE_DESC": "Choisissez le résultat associé à cette réponse :"
+        },
+        "REMOVE_ITEM": {
+            "TITLE": "Êtes-vous sûr(e) ?",
+            "DELETE_BUTTON_TEXT": "Supprimer",
+            "TOOLTIP": "Supprimer"
+        },
+        "RESULT_ACTIONS": {
+            "CTA": {
+                "ADD": "Ajouter un Call To Action",
+                "TOOLTIP": "Call-to-action",
+                "PLACEHOLDER": "Entrer le texte..."
+            },
+            "CONTINUE": {
+                "ADD": "Message du Call To Action",
+                "TOOLTIP": "Continuer",
+                "PLACEHOLDER": "Entrer le texte..."
+            }
+        }
     }
 }
