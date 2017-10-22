@@ -489,6 +489,7 @@
                 "TOOLTIP": "Continue",
                 "PLACEHOLDER": "Enter text..."
             }
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Add Quiz"
     }
 }
