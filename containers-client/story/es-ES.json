@@ -6,28 +6,37 @@
     "Thanks for your vote!": "¡Gracias por votar!",
     "Read more on": "Más información acerca:",
     "VIDEO_CREATOR": {
-        "UPLOADING_LABEL": "Uploading",
-        "UPLOAD_TO_FACEBOOK_PAGE_LABEL": "Upload to Facebook Page",
+        "UPLOADING_LABEL": "Cargando",
+        "UPLOAD_TO_FACEBOOK_PAGE_LABEL": "Subir a la pagina de Facebook",
         "OK": "OK",
-        "CANCEL": "Cancel",
-        "PERMISSION_REQUIRED_1": "We do not have permission to crosspost to Facebook.",
+        "CANCEL": "Cancelar",
+        "PERMISSION_REQUIRED_1": "No tenemos permiso para hacer crosspost en Facebook",
         "MANAGE_PAGE": "Manage Page",
-        "COPY_LINK": "COPY LINK",
-        "UPLOADED_TO_FACEBOOK_BUTTON": "Sent to FB page manager",
+        "COPY_LINK": "COPIAR ENLACE",
+        "UPLOADED_TO_FACEBOOK_BUTTON": "Enviar a el administrador de Facebook",
         "FACEBOOK_INTRO_LABLE": "You can post your video to your Facebook page. Clicking this button won't post your video, it will only notify your page Admin that it is available for posting.",
-        "ERROR_OCCURRED_HEADER": "Error Occurred",
-        "UNEXPECTED_ERROR_OCCURRED": "An unexpected error occurred, please try again later.",
+        "ERROR_OCCURRED_HEADER": "Ha ocurrido un errror",
+        "UNEXPECTED_ERROR_OCCURRED": "Ha ocurrido un error inesperado, por favor vuelva a intentarlo más tarde",
         "GO": "GO",
         "FACEBOOK_PAGE_MISSING_HEADER": "Almost there",
         "FACEBOOK_PAGE_IS_NOT_VALID": "A valid Facebook Page hasn't been linked to this channel,",
         "PERMISSION_REQUIRED_HEADER": "Cannot Crosspost",
-        "PERMISSION_REQUIRED_LINK": "Why do we need this?",
-        "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Learn more about Crossposting",
-        "MCD_LABEL": "Embed video unit",
-        "COPY_CODE_BUTTON": "Copy code"
+        "PERMISSION_REQUIRED_LINK": "¿Porque lo necesitamos?",
+        "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Aprenda más sobre Crosspoting",
+        "MCD_LABEL": "Embeber unidad de video",
+        "COPY_CODE_BUTTON": "Copiar codigo"
     },
-    "Vote": "Vota",
+    "Vote": "Vota:  ",
     "POLL": {
         "SHARE_POLL": "Yo voté {{answer}}. {{question}}"
+    },
+    "QUIZ_PLAY": {
+        "START": "¡Empezar!",
+        "SHARE_RESULT": "SHARE YOUR RESULT",
+        "READ_MORE": "READ MORE",
+        "CALCULATING": "Calculating Results...",
+        "SHARE": {
+            "I_GOT": "I got"
+        }
     }
 }

@@ -26,8 +26,17 @@
         "MCD_LABEL": "Embedar vídeo",
         "COPY_CODE_BUTTON": "Copiar código"
     },
-    "Vote": "Vote",
+    "Vote": "Vote:",
     "POLL": {
         "SHARE_POLL": "Eu votei {{answer}}. {{question}}"
+    },
+    "QUIZ_PLAY": {
+        "START": "Vamos começar",
+        "SHARE_RESULT": "COMPARTILHE O SEU RESULTADO",
+        "READ_MORE": "LEIA MAIS",
+        "CALCULATING": "Calculando resultados...",
+        "SHARE": {
+            "I_GOT": "Eu tirei"
+        }
     }
 }

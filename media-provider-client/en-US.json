@@ -25,7 +25,7 @@
       "RESULT_ERROR": "Oops! This couldn’t be uploaded",
       "ADD_TITLE": "Add Media",
       "RETURN_BUTTON": "Return",
-      "EDIT_IMAGE_TITLE": "Edit Image",
+      "EDIT_IMAGE_TITLE": "Crop Image",
       "CROP_IMAGE_TITLE": "Crop Image",
       "EDIT_VIDEO_TITLE": "Edit Video",
       "MENU": {
@@ -35,6 +35,7 @@
         "LINK_LABEL": "From the Web"
       },
       "GETTY": {
+        "PROJECT_MODAL_TITLE": "Choose project",
         "LOGIN_DESC_FIRST_ROW": "Search Playbuzz’s Getty Images library or",
         "LOGIN_DESC_SECOND_ROW": "to your own Getty Images account",
         "LOGIN_FORM_DESC": "Login to your account",

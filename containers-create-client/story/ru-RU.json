@@ -184,14 +184,16 @@
         "ENTERTAINMENT": "Entertainment",
         "NEWS": "News",
         "FOOD": "Food",
-        "WORKING_ON_TEMPLATE": "Working on template:"
+        "WORKING_ON_TEMPLATE": "Working on template:",
+        "VIDEO": "Video"
     },
     "CONVO": {
         "PARTICIPANT_PLACEHOLDER": "Имя",
         "BUBBLE_CONTENT_PLACEHOLDER": "Введите текст...",
         "ADD_BUBBLE_TOOLTIP": "Добавить реплику",
         "ADD_PARTICIPANT_TOOLTIP": "Добавить собеседника",
-        "DELETE_MESSAGE": "Вы уверены?"
+        "DELETE_MESSAGE": "Вы уверены?",
+        "ADD_SECTION_TOOLTIP": "Add Convo"
     },
     "CREATE_MODULES": {
         "TEXT_EDITOR": {
@@ -225,16 +227,25 @@
         "FLOATING_EFFECT": "Эффект перемещения",
         "BUTTON_TEXT": "Введите текст...",
         "LINK_PLACEHOLDER": "Вставьте ссылку...",
-        "TEST_LINK_TOOLTIP": "Проверить ссылку"
+        "TEST_LINK_TOOLTIP": "Проверить ссылку",
+        "ADD_SECTION_TOOLTIP": "Add CTA",
+        "APPLE_LINK_PLACEHOLDER": "iOS link (optional)",
+        "ANDROID_LINK_PLACEHOLDER": "Android link (optional)",
+        "WEB_LINK_TOOLTIP": "Universal",
+        "APPLE_LINK_TOOLTIP": "iOS",
+        "ANDROID_LINK_TOOLTIP": "Android"
     },
     "EMBED": {
-        "DESCRIPTION_PLACEHOLDER": "Описание"
+        "DESCRIPTION_PLACEHOLDER": "Описание",
+        "ADD_SECTION_TOOLTIP": "Import from the web"
     },
     "IMAGE": {
-        "CAPTION": "Изображение"
+        "CAPTION": "Изображение",
+        "ADD_SECTION_TOOLTIP": "Add Image"
     },
     "PARAGRAPH": {
-        "EDITOR_PLACEHOLDER": "Введите текст"
+        "EDITOR_PLACEHOLDER": "Введите текст",
+        "ADD_SECTION_TOOLTIP": "Add Text"
     },
     "POLL": {
         "BACKGROUND_TEMPLATE_TOOLTIP": "Фоновое изображение",
@@ -269,12 +280,14 @@
         "CLASSIC_LAYOUT_TOOLTIP": "Формат результатов: Классический",
         "GRID_LAYOUT_TOOLTIP": "Формат результатов: Сетка",
         "DELETE_OPTION_BUT": "Delete option",
-        "SQUARE_LAYOUT_TOOLTIP": "Square results images"
+        "SQUARE_LAYOUT_TOOLTIP": "Square results images",
+        "ADD_SECTION_TOOLTIP": "Add Poll"
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Вставьте цитату...",
         "QUOTEE_PLACEHOLDER": "Кто это сказал?",
-        "ADDITIONAL_TEXT_PLACEHOLDER": "Расскажите подробней..."
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Расскажите подробней...",
+        "ADD_SECTION_TOOLTIP": "Add Quote"
     },
     "SUMMARY": {
         "ADD_ROW": "Добавить строку",
@@ -282,7 +295,8 @@
         "ROW_PLACEHOLDER": "Введите текст...",
         "NO_EFFECT": "Без эффектов",
         "FADE_EFFECT": "Эффект появления",
-        "TITLE_PLACEHOLDER": "Заголовок"
+        "TITLE_PLACEHOLDER": "Заголовок",
+        "ADD_SECTION_TOOLTIP": "Add Summary Card"
     },
     "VIDEO_CREATOR": {
         "PLAY": "ИГРАТЬ",
@@ -334,25 +348,14 @@
         },
         "AUDIO_LABEL": {
             "NONE": "None",
-            "UPBEAT": "Upbeat",
-            "INTENSE": "Intense",
-            "OPTIMISTIC": "Optimistic",
-            "JAZZ": "Jazz",
-            "ENERGETIC_PIANO": "Energetic Piano",
-            "EMOTIONAL": "Emotional",
-            "SWING_BIG_BAND": "Swing/Big Band",
-            "THRILLER": "Thriller",
             "CINEMATIC": "Cinematic",
-            "TRAILER": "Trailer",
-            "INSPIRATIONAL": "Inspirational",
-            "GANGSTA": "Gangsta",
-            "ELECTRONIC": "Electronic",
-            "DARK_BEATS": "Dark Beats",
-            "FUNKY": "Funky",
-            "HIP_HOP": "Hip Hop",
-            "MELANCHOLIC": "Melancholic",
-            "SLOW_ROCK": "Slow Rock",
-            "SILENT_MOVIE_PIANO": "Silent Movie Piano"
+            "CANCEL_BTN": "Cancel",
+            "SELECT_BTN": "Select",
+            "CORPORATE": "Corporate",
+            "POSITIVE_AND_UPBEAT": "Positive & Upbeat",
+            "ACOUSTIC": "Acoustic",
+            "HIGH_ENERGY": "High Energy",
+            "EPIC": "Epic"
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classic",
@@ -409,7 +412,8 @@
                 "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
                 "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
             }
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Create a video"
     },
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Описание",
@@ -418,6 +422,72 @@
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
             "MUTE_SWITCH_LABEL": "Autoplay on mute",
             "CLOSE_SETTINGS": "Back to Edit"
+        },
+        "ADD_SECTION_TOOLTIP": "Add Video Player"
+    },
+    "DELETE_SECTION_BTN": "Delete",
+    "FLIP_CARD": {
+        "ADD_SECTION_TOOLTIP": "Add Flip Card"
+    },
+    "QUIZ": {
+        "DONE": "Done",
+        "INTRODUCTIONS": {
+            "RESULTS": "Let's get started!\nAdd your quize's end results.",
+            "QUESTIONS": "Now, add questions and associate them to your results"
+        },
+        "INTRO": {
+            "TITLE": "Start Screen",
+            "PLACEHOLDER": "Quiz title",
+            "DESC_PLACEHOLDER": "Tell us more...",
+            "CHANGE_STAGE": "Final touches"
+        },
+        "QUESTIONS": {
+            "TITLE": "Questions",
+            "TITLE_SINGLE": "Question",
+            "ADD": "Add a question",
+            "ADD_ANOTHER": "Add another question",
+            "PLACEHOLDER": "Your question here...",
+            "CHANGE_STAGE": "Add questions"
+        },
+        "RESULTS": {
+            "TITLE": "Results",
+            "TITLE_SINGLE": "Result",
+            "ADD": "Add results",
+            "ADD_ANOTHER": "Add another result",
+            "PLACEHOLDER": "Your result here...",
+            "DESC_PLACEHOLDER": "Tell us more...",
+            "CHANGE_STAGE": "Add results"
+        },
+        "ANSWERS": {
+            "TITLE": "Answer",
+            "ADD": "Add answer",
+            "ASSOCIATE": "Associate results",
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Classic",
+                "GRID": "Grid"
+            },
+            "ASSOCIATION": [
+                "No association",
+                "Neutral",
+                "Highly associated"
+            ]
+        },
+        "REMOVE_ITEM": {
+            "TITLE": "Are you sure?",
+            "DELETE_BUTTON_TEXT": "Delete",
+            "TOOLTIP": "Delete"
+        },
+        "RESULT_ACTIONS": {
+            "CTA": {
+                "ADD": "Add Call to Action",
+                "TOOLTIP": "Call-to-action",
+                "PLACEHOLDER": "Enter text..."
+            },
+            "CONTINUE": {
+                "ADD": "Call To Action message",
+                "TOOLTIP": "Continue",
+                "PLACEHOLDER": "Enter text..."
+            }
         }
     }
 }
