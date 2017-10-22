@@ -432,7 +432,7 @@
     "QUIZ": {
         "DONE": "Done",
         "INTRODUCTIONS": {
-            "RESULTS": "Let's get started!\nAdd your quize's end results.",
+            "RESULTS": "Let's get started!\nAdd your quiz's end results.",
             "QUESTIONS": "Now, add questions and associate them to your results"
         },
         "INTRO": {
@@ -444,7 +444,7 @@
         "QUESTIONS": {
             "TITLE": "Questions",
             "TITLE_SINGLE": "Question",
-            "ADD": "Add a question",
+            "ADD": "Add questions",
             "ADD_ANOTHER": "Add another question",
             "PLACEHOLDER": "Your question here...",
             "CHANGE_STAGE": "Add questions"
@@ -462,7 +462,6 @@
             "TITLE": "Answer",
             "ADD": "Add answer",
             "ASSOCIATE": "Associate results",
-            "ASSOCIATE_DESC": "Choose which results are associated with this answer:",
             "LAYOUTS_TOOLTIPS": {
                 "CLASSIC": "Classic",
                 "GRID": "Grid"
@@ -471,7 +470,8 @@
                 "No association",
                 "Neutral",
                 "Highly associated"
-            ]
+            ],
+            "ASSOCIATE_DESC": "Choose which results are associated with this answer:"
         },
         "REMOVE_ITEM": {
             "TITLE": "Are you sure?",

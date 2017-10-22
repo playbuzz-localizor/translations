@@ -29,7 +29,7 @@
             "MENU": {
                 "SEARCH_GROUP_TITLE": "RECHERCHER",
                 "IMPORT_GROUP_TITLE": "IMPORTER",
-                "FILE_LABEL": "Depuis mes fichiers",
+                "FILE_LABEL": "Mes fichiers",
                 "LINK_LABEL": "Depuis Internet"
             },
             "GETTY": {
@@ -53,7 +53,12 @@
                 "GRAPHIC_STYLE_PHOTOGRAPHY": "Photographie",
                 "SORT_BEST_MATCH": "Meilleurs résultats",
                 "SORT_NEWEST": "Nouveautés",
-                "SORT_MOST_POPULAR": "Les plus populaires"
+                "SORT_MOST_POPULAR": "Les plus populaires",
+                "FORMAT_ALL": "Tous les formats",
+                "FORMAT_SD": "SD",
+                "FORMAT_HD": "HD",
+                "FORMAT_4K": "4K",
+                "PROJECT_MODAL_TITLE": "Choisir projet"
             },
             "YOUTUBE": {
                 "RESULTS_COUNT_LABEL": "résultats"

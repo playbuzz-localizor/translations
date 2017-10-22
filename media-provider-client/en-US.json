@@ -24,7 +24,9 @@
     "MODAL": {
       "RESULT_ERROR": "Oops! This couldn’t be uploaded",
       "ADD_TITLE": "Add Media",
+      "RETURN_BUTTON": "Return",
       "EDIT_IMAGE_TITLE": "Crop Image",
+      "CROP_IMAGE_TITLE": "Crop Image",
       "EDIT_VIDEO_TITLE": "Edit Video",
       "MENU": {
         "SEARCH_GROUP_TITLE": "SEARCH",
@@ -84,20 +86,43 @@
     },
     "POPOVER_MENU": {
       "EDIT_LABEL": "Edit",
+      "CROP_LABEL": "Crop",
       "REPLACE_LABEL": "Replace",
       "DELETE_LABEL": "Delete"
     },
     "CROPPING": {
       "LABEL": "CROPPING RATIO",
+      "TITLE": "Crop",
       "LANDSCAPE_RATIO": "Landscape",
       "SQUARE_RATIO": "Square",
       "PORTRAIT_RATIO": "Portrait",
       "FREESTYLE_RATIO": "Freestyle"
     },
+    "PAINT": {
+      "TITLE": "Paint",
+      "BRUSH_SIZE_LABEL": "Brush Size",
+      "COLOR_LABEL": "Color"
+    },
+    "EDITOR_TEXT": {
+      "TITLE": "Text",
+      "ADD_LABEL": "Add Text",
+      "COLOR_LABEL": "Text Color",
+      "BACKGROUND_COLOR_LABEL": "Background Color",
+      "TEXT_PLACEHOLDER" : "Enter text..."
+    },
+    "STICKERS": {
+      "TITLE": "Stickers"
+    },
     "EFFECT": {
       "NORMAL": "Normal",
       "BLUR": "Blur",
       "ZOOM": "Zoom"
+    },
+    "INTRO": {
+      "NEW_LABEL": "NEW",
+      "TITLE": "Title",
+      "TEXT": "Text",
+      "GOT_IT": "Got It!"
     }
   }
 }

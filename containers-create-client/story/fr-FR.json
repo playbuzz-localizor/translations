@@ -436,15 +436,15 @@
             "QUESTIONS": "Maintenant créez des questions et associez-les à vos résultats"
         },
         "INTRO": {
-            "TITLE": "Visuel de démarrage",
+            "TITLE": "Visuel",
             "PLACEHOLDER": "Titre du Quiz",
-            "DESC_PLACEHOLDER": "Dites-en un peu plus",
+            "DESC_PLACEHOLDER": "Dites-en plus...",
             "CHANGE_STAGE": "Touches finales"
         },
         "QUESTIONS": {
             "TITLE": "Questions",
             "TITLE_SINGLE": "Question",
-            "ADD": "Ajouter une question",
+            "ADD": "Ajouter les questions",
             "ADD_ANOTHER": "Ajouter une autre question",
             "PLACEHOLDER": "Écrire la question ici...",
             "CHANGE_STAGE": "Retour aux questions"
@@ -467,10 +467,11 @@
                 "GRID": "Grille"
             },
             "ASSOCIATION": [
-                "Non ",
+                "Sans rapport",
                 "Neutre",
-                "Oui"
-            ]
+                "En affinité"
+            ],
+            "ASSOCIATE_DESC": "Choisissez le résultat associé à cette réponse :"
         },
         "REMOVE_ITEM": {
             "TITLE": "Êtes-vous sûr(e) ?",
