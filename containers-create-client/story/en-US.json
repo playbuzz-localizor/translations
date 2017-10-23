@@ -471,7 +471,8 @@
                 "Neutral",
                 "Highly associated"
             ],
-            "ASSOCIATE_DESC": "Choose which results are associated with this answer:"
+            "ASSOCIATE_DESC": "Choose which results are associated with this answer:",
+            "MISSING_RESULTS": "You must add results first!"
         },
         "REMOVE_ITEM": {
             "TITLE": "Are you sure?",
