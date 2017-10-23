@@ -301,6 +301,9 @@
         "GALLERY_TITLE": "Pick a template",
         "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
         "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
+        "ERROR_OCCURRED_HEADER": "Error Occurred",
+        "OK": "OK",
+        "MISSING_CONTENT": "Please enter content first"
         "SETTINGS": {
             "TITLE": "Settings",
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
