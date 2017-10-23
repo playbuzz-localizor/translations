@@ -491,5 +491,11 @@
             }
         },
         "ADD_SECTION_TOOLTIP": "Add Quiz"
+    },
+    "MP_CUSTOM_TEMPLATE": {
+        "EDIT_IMAGE_TITLE": "Edit Image",
+        "CROP_IMAGE_TITLE": "Crop Image",
+        "EDIT_VIDEO_TITLE": "Edit Video",
+        "NEW_LABEL": "NEW!"
     }
 }
