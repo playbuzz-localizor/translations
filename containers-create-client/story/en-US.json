@@ -490,6 +490,12 @@
                 "PLACEHOLDER": "Enter text..."
             }
         },
-        "ADD_SECTION_TOOLTIP": "Add Quiz"
+        "ADD_SECTION_TOOLTIP": "Add Quiz",
+        "INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Create Personality Quiz in Story",
+            "DESC": "text TBD",
+            "GOT_IT": "Got It!"
+        }
     }
 }
