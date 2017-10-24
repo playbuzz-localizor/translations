@@ -24,9 +24,7 @@
         "MODAL": {
             "RESULT_ERROR": "Oops! This couldn’t be uploaded",
             "ADD_TITLE": "Add Media",
-            "RETURN_BUTTON": "Return",
-            "EDIT_IMAGE_TITLE": "Edit Image",
-            "CROP_IMAGE_TITLE": "Crop Image",
+            "EDIT_IMAGE_TITLE": "Crop Image",
             "EDIT_VIDEO_TITLE": "Edit Video",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "SEARCH",
@@ -35,7 +33,6 @@
                 "LINK_LABEL": "From the Web"
             },
             "GETTY": {
-                "PROJECT_MODAL_TITLE": "Choose project",
                 "LOGIN_DESC_FIRST_ROW": "Search Playbuzz’s Getty Images library or",
                 "LOGIN_DESC_SECOND_ROW": "to your own Getty Images account",
                 "LOGIN_FORM_DESC": "Login to your account",
@@ -122,8 +119,8 @@
             "TITLE": "Stickers"
         },
         "INTRO": {
-            "NEW_LABEL": "NEW",
-            "TITLE": "Wait, there's more!",
+            "NEW_LABEL": "NEW!",
+            "TITLE": "WAIT, THERE'S MORE!",
             "TEXT": "Add style and context to your image with text, stickers, and doodles. ",
             "GOT_IT": "Got It!"
         }
