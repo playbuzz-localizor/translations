@@ -24,8 +24,8 @@
         "MODAL": {
             "RESULT_ERROR": "Oups, cela n'a pas pu être téléchargé",
             "ADD_TITLE": "Ajouter un support",
-            "EDIT_IMAGE_TITLE": "Edit Image",
-            "EDIT_VIDEO_TITLE": "Editer la Vidéo",
+            "EDIT_IMAGE_TITLE": "Éditer",
+            "EDIT_VIDEO_TITLE": "Éditer Vidéo",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "RECHERCHER",
                 "IMPORT_GROUP_TITLE": "IMPORTER",
@@ -81,14 +81,14 @@
             "CREDIT_PLACEHOLDER": "Crédits images...",
             "DONE_EDIT_BUT": "Terminer",
             "VIDEO_CREDIT_PLACEHOLDER": "Crédits vidéo...",
-            "RETURN_BUTTON": "Return",
-            "CROP_IMAGE_TITLE": "Recadrage"
+            "RETURN_BUTTON": "Retour",
+            "CROP_IMAGE_TITLE": "Recadrer"
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Éditer",
             "REPLACE_LABEL": "Remplacer",
             "DELETE_LABEL": "Supprimer",
-            "CROP_LABEL": "Crop"
+            "CROP_LABEL": "Recadrer"
         },
         "CROPPING": {
             "LABEL": "FORMATS",
@@ -96,7 +96,7 @@
             "SQUARE_RATIO": "Carré",
             "PORTRAIT_RATIO": "Portrait",
             "FREESTYLE_RATIO": "Personnalisé",
-            "TITLE": "Crop"
+            "TITLE": "Recadrer"
         },
         "EFFECT": {
             "NORMAL": "Normal",
@@ -105,24 +105,24 @@
         },
         "PAINT": {
             "TITLE": "Paint",
-            "BRUSH_SIZE_LABEL": "Brush Size",
-            "COLOR_LABEL": "Color"
+            "BRUSH_SIZE_LABEL": "Taille du pinceau",
+            "COLOR_LABEL": "Couleur"
         },
         "EDITOR_TEXT": {
-            "TITLE": "Text",
-            "ADD_LABEL": "Add Text",
-            "COLOR_LABEL": "Text Color",
-            "BACKGROUND_COLOR_LABEL": "Background Color",
-            "TEXT_PLACEHOLDER": "Enter text..."
+            "TITLE": "Texte",
+            "ADD_LABEL": "Zone de texte",
+            "COLOR_LABEL": "Couleur Texte",
+            "BACKGROUND_COLOR_LABEL": "Couleur Background",
+            "TEXT_PLACEHOLDER": "Entrer le texte..."
         },
         "STICKERS": {
             "TITLE": "Stickers"
         },
         "INTRO": {
-            "NEW_LABEL": "NEW!",
-            "TITLE": "Wait, there's more!",
-            "TEXT": "Add style and context to your image with text, stickers, and doodles. ",
-            "GOT_IT": "Got It!"
+            "NEW_LABEL": "NOUVEAU!",
+            "TITLE": "Attendez, il y a du nouveau!",
+            "TEXT": "Vous pouvez maintenant dessiner, ajouter du texte et des stickers sur vos images. ",
+            "GOT_IT": "Compris!"
         }
     }
 }
