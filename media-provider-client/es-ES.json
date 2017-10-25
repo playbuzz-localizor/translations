@@ -24,7 +24,6 @@
         "MODAL": {
             "RESULT_ERROR": "¡Ups! No se ha podido realizar la carga",
             "ADD_TITLE": "Añadir medio",
-            "EDIT_IMAGE_TITLE": "Recortar la imagen",
             "EDIT_VIDEO_TITLE": "Editar vídeo",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "BÚSQUEDA",
