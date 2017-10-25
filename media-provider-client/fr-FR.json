@@ -24,6 +24,7 @@
         "MODAL": {
             "RESULT_ERROR": "Oups, cela n'a pas pu être téléchargé",
             "ADD_TITLE": "Ajouter un support",
+            "EDIT_IMAGE_TITLE": "Recadrage",
             "EDIT_VIDEO_TITLE": "Editer la Vidéo",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "RECHERCHER",
@@ -81,7 +82,7 @@
             "DONE_EDIT_BUT": "Terminer",
             "VIDEO_CREDIT_PLACEHOLDER": "Crédits vidéo...",
             "RETURN_BUTTON": "Return",
-            "CROP_IMAGE_TITLE": "Crop Image"
+            "CROP_IMAGE_TITLE": "Recadrage"
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Éditer",
