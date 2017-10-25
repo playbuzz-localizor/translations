@@ -24,7 +24,7 @@
         "MODAL": {
             "RESULT_ERROR": "Ops! Não foi possível fazer o upload",
             "ADD_TITLE": "Adicionar mídia",
-            "EDIT_IMAGE_TITLE": "Cortar imagem",
+            "EDIT_IMAGE_TITLE": "Edit Image",
             "EDIT_VIDEO_TITLE": "Editar vídeo",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "PROCURAR",
