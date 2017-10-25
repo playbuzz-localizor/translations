@@ -24,7 +24,7 @@
         "MODAL": {
             "RESULT_ERROR": "Oups, cela n'a pas pu être téléchargé",
             "ADD_TITLE": "Ajouter un support",
-            "EDIT_IMAGE_TITLE": "Recadrage",
+            "EDIT_IMAGE_TITLE": "Edit Image",
             "EDIT_VIDEO_TITLE": "Editer la Vidéo",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "RECHERCHER",
