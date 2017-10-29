@@ -471,7 +471,8 @@
                 "Neutral",
                 "Highly associated"
             ],
-            "ASSOCIATE_DESC": "Choose which results are associated with this answer:"
+            "ASSOCIATE_DESC": "Choose which results are associated with this answer:",
+            "MISSING_RESULTS": "You must add results first!"
         },
         "REMOVE_ITEM": {
             "TITLE": "Are you sure?",
@@ -489,6 +490,19 @@
                 "TOOLTIP": "Continue",
                 "PLACEHOLDER": "Enter text..."
             }
+        },
+        "ADD_SECTION_TOOLTIP": "Add Quiz",
+        "INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Create Personality Quiz in Story",
+            "DESC": "text TBD",
+            "GOT_IT": "Got It!"
         }
+    },
+    "MP_CUSTOM_TEMPLATE": {
+        "EDIT_IMAGE_TITLE": "Edit Image",
+        "CROP_IMAGE_TITLE": "Crop Image",
+        "EDIT_VIDEO_TITLE": "Edit Video",
+        "NEW_LABEL": "NEW!"
     }
 }

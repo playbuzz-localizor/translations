@@ -19,7 +19,6 @@
         "MODAL": {
             "RESULT_ERROR": "Ой! Это нельзя загрузить",
             "ADD_TITLE": "Добавить медиа-файл",
-            "EDIT_IMAGE_TITLE": "Кадрирование изображения",
             "EDIT_VIDEO_TITLE": "Изменить видео",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "ПОИСК",

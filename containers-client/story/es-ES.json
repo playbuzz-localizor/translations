@@ -32,11 +32,11 @@
     },
     "QUIZ_PLAY": {
         "START": "¡Empezar!",
-        "SHARE_RESULT": "SHARE YOUR RESULT",
-        "READ_MORE": "READ MORE",
-        "CALCULATING": "Calculating Results...",
+        "SHARE_RESULT": "COMPARTE TU RESULTADO",
+        "READ_MORE": "LEE MAS",
+        "CALCULATING": "Calculando resultados",
         "SHARE": {
-            "I_GOT": "I got"
+            "I_GOT": "He recibido"
         }
     }
 }

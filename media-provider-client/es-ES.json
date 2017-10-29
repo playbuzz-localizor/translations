@@ -24,7 +24,7 @@
         "MODAL": {
             "RESULT_ERROR": "¡Ups! No se ha podido realizar la carga",
             "ADD_TITLE": "Añadir medio",
-            "EDIT_IMAGE_TITLE": "Recortar la imagen",
+            "EDIT_IMAGE_TITLE": "Edit Image",
             "EDIT_VIDEO_TITLE": "Editar vídeo",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "BÚSQUEDA",
@@ -53,7 +53,12 @@
                 "GRAPHIC_STYLE_PHOTOGRAPHY": "Photography",
                 "SORT_BEST_MATCH": "Best Match",
                 "SORT_NEWEST": "Newest",
-                "SORT_MOST_POPULAR": "Most Popular"
+                "SORT_MOST_POPULAR": "Most Popular",
+                "FORMAT_ALL": "All Formats",
+                "FORMAT_SD": "SD",
+                "FORMAT_HD": "HD",
+                "FORMAT_4K": "4K",
+                "PROJECT_MODAL_TITLE": "Choose project"
             },
             "YOUTUBE": {
                 "RESULTS_COUNT_LABEL": "resultados"
@@ -75,24 +80,49 @@
             },
             "CREDIT_PLACEHOLDER": "Introduzca los créditos de imagen...",
             "DONE_EDIT_BUT": "Hecho",
-            "VIDEO_CREDIT_PLACEHOLDER": "Type video credits..."
+            "VIDEO_CREDIT_PLACEHOLDER": "Type video credits...",
+            "RETURN_BUTTON": "Return",
+            "CROP_IMAGE_TITLE": "Recortar la imagen"
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Editar",
             "REPLACE_LABEL": "Reemplazar",
-            "DELETE_LABEL": "Eliminar"
+            "DELETE_LABEL": "Eliminar",
+            "CROP_LABEL": "Crop"
         },
         "CROPPING": {
             "LABEL": "CROPPING RATIO",
             "LANDSCAPE_RATIO": "Landscape",
             "SQUARE_RATIO": "Square",
             "PORTRAIT_RATIO": "Portrait",
-            "FREESTYLE_RATIO": "Freestyle"
+            "FREESTYLE_RATIO": "Freestyle",
+            "TITLE": "Crop"
         },
         "EFFECT": {
             "NORMAL": "Normal",
             "BLUR": "Blur",
             "ZOOM": "Zoom"
+        },
+        "PAINT": {
+            "TITLE": "Paint",
+            "BRUSH_SIZE_LABEL": "Brush Size",
+            "COLOR_LABEL": "Color"
+        },
+        "EDITOR_TEXT": {
+            "TITLE": "Text",
+            "ADD_LABEL": "Add Text",
+            "COLOR_LABEL": "Text Color",
+            "BACKGROUND_COLOR_LABEL": "Background Color",
+            "TEXT_PLACEHOLDER": "Enter text..."
+        },
+        "STICKERS": {
+            "TITLE": "Stickers"
+        },
+        "INTRO": {
+            "NEW_LABEL": "NEW!",
+            "TITLE": "Wait, there's more!",
+            "TEXT": "Add style and context to your image with text, stickers, and doodles. ",
+            "GOT_IT": "Got It!"
         }
     }
 }
