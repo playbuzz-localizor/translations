@@ -113,7 +113,10 @@
             "ADD_LABEL": "Add Text",
             "COLOR_LABEL": "Text Color",
             "BACKGROUND_COLOR_LABEL": "Background Color",
-            "TEXT_PLACEHOLDER": "Enter text..."
+            "TEXT_PLACEHOLDER": "Enter text...",
+            "FONT_REGULAR": "Regular",
+            "FONT_NARROW": "Narrow",
+            "FONT_SERIF": "Serif"
         },
         "STICKERS": {
             "TITLE": "Stickers"
