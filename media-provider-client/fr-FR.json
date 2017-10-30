@@ -24,12 +24,12 @@
         "MODAL": {
             "RESULT_ERROR": "Oups, cela n'a pas pu être téléchargé",
             "ADD_TITLE": "Ajouter un support",
-            "EDIT_IMAGE_TITLE": "Recadrage",
-            "EDIT_VIDEO_TITLE": "Editer la Vidéo",
+            "EDIT_IMAGE_TITLE": "Éditer",
+            "EDIT_VIDEO_TITLE": "Éditer Vidéo",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "RECHERCHER",
                 "IMPORT_GROUP_TITLE": "IMPORTER",
-                "FILE_LABEL": "Depuis mes fichiers",
+                "FILE_LABEL": "Mes fichiers",
                 "LINK_LABEL": "Depuis Internet"
             },
             "GETTY": {
@@ -53,7 +53,12 @@
                 "GRAPHIC_STYLE_PHOTOGRAPHY": "Photographie",
                 "SORT_BEST_MATCH": "Meilleurs résultats",
                 "SORT_NEWEST": "Nouveautés",
-                "SORT_MOST_POPULAR": "Les plus populaires"
+                "SORT_MOST_POPULAR": "Les plus populaires",
+                "FORMAT_ALL": "Tous les formats",
+                "FORMAT_SD": "SD",
+                "FORMAT_HD": "HD",
+                "FORMAT_4K": "4K",
+                "PROJECT_MODAL_TITLE": "Choisir projet"
             },
             "YOUTUBE": {
                 "RESULTS_COUNT_LABEL": "résultats"
@@ -75,24 +80,49 @@
             },
             "CREDIT_PLACEHOLDER": "Crédits images...",
             "DONE_EDIT_BUT": "Terminer",
-            "VIDEO_CREDIT_PLACEHOLDER": "Crédits vidéo..."
+            "VIDEO_CREDIT_PLACEHOLDER": "Crédits vidéo...",
+            "RETURN_BUTTON": "Retour",
+            "CROP_IMAGE_TITLE": "Recadrer"
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Éditer",
             "REPLACE_LABEL": "Remplacer",
-            "DELETE_LABEL": "Supprimer"
+            "DELETE_LABEL": "Supprimer",
+            "CROP_LABEL": "Recadrer"
         },
         "CROPPING": {
             "LABEL": "FORMATS",
             "LANDSCAPE_RATIO": "Paysage",
             "SQUARE_RATIO": "Carré",
             "PORTRAIT_RATIO": "Portrait",
-            "FREESTYLE_RATIO": "Personnalisé"
+            "FREESTYLE_RATIO": "Personnalisé",
+            "TITLE": "Recadrer"
         },
         "EFFECT": {
             "NORMAL": "Normal",
             "BLUR": "Flou",
             "ZOOM": "Zoom"
+        },
+        "PAINT": {
+            "TITLE": "Paint",
+            "BRUSH_SIZE_LABEL": "Taille du pinceau",
+            "COLOR_LABEL": "Couleur"
+        },
+        "EDITOR_TEXT": {
+            "TITLE": "Texte",
+            "ADD_LABEL": "Zone de texte",
+            "COLOR_LABEL": "Couleur Texte",
+            "BACKGROUND_COLOR_LABEL": "Couleur Background",
+            "TEXT_PLACEHOLDER": "Entrer le texte..."
+        },
+        "STICKERS": {
+            "TITLE": "Stickers"
+        },
+        "INTRO": {
+            "NEW_LABEL": "NOUVEAU!",
+            "TITLE": "Attendez, il y a du nouveau!",
+            "TEXT": "Vous pouvez maintenant dessiner, ajouter du texte et des stickers sur vos images. ",
+            "GOT_IT": "Compris!"
         }
     }
 }

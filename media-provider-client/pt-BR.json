@@ -10,7 +10,12 @@
             "BACK_TITLE": "Verso do cartão",
             "MEDIA_TOOLTIP": "Selecionar mídia",
             "TEXT_TOOLTIP": "Escrever texto",
-            "IMAGE_CAPTION_PLACEHOLDER": "Adicionar legenda..."
+            "IMAGE_CAPTION_PLACEHOLDER": "Adicionar legenda...",
+            "RATIO_ALERT_TITLE": "Você tem certeza?",
+            "RATIO_ALERT": "Alterar as proporções da imagem eliminará as mídias já existentes",
+            "RATIO_ALERT_CONFIRMATION": "Você tem certeza de que quer continuar?",
+            "OK_BTN": "OK",
+            "CANCEL_BTN": "CANCELAR"
         },
         "TEXT_CARD": {
             "TEXT_PLACEHOLDER": "Escreva algo inspirador...",
@@ -19,7 +24,7 @@
         "MODAL": {
             "RESULT_ERROR": "Ops! Não foi possível fazer o upload",
             "ADD_TITLE": "Adicionar mídia",
-            "EDIT_IMAGE_TITLE": "Cortar imagem",
+            "EDIT_IMAGE_TITLE": "Edit Image",
             "EDIT_VIDEO_TITLE": "Editar vídeo",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "PROCURAR",
@@ -48,7 +53,12 @@
                 "GRAPHIC_STYLE_PHOTOGRAPHY": "Fotografia",
                 "SORT_BEST_MATCH": "Mais relevantes",
                 "SORT_NEWEST": "Recentes",
-                "SORT_MOST_POPULAR": "Populares"
+                "SORT_MOST_POPULAR": "Populares",
+                "FORMAT_ALL": "Todos os formatos",
+                "FORMAT_SD": "SD",
+                "FORMAT_HD": "HD",
+                "FORMAT_4K": "4K",
+                "PROJECT_MODAL_TITLE": "Escolher projeto"
             },
             "YOUTUBE": {
                 "RESULTS_COUNT_LABEL": "resultados"
@@ -70,24 +80,49 @@
             },
             "CREDIT_PLACEHOLDER": "Escreva os créditos da imagem...",
             "DONE_EDIT_BUT": "Feito",
-            "VIDEO_CREDIT_PLACEHOLDER": "Escreva os créditos do vídeo..."
+            "VIDEO_CREDIT_PLACEHOLDER": "Escreva os créditos do vídeo...",
+            "RETURN_BUTTON": "Voltar",
+            "CROP_IMAGE_TITLE": "Cortar imagem"
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Editar",
             "REPLACE_LABEL": "Substituir",
-            "DELETE_LABEL": "Excluir"
+            "DELETE_LABEL": "Excluir",
+            "CROP_LABEL": "Cortar"
         },
         "CROPPING": {
             "LABEL": "PROPORÇÃO DO CORTE",
             "LANDSCAPE_RATIO": "Paisagem",
             "SQUARE_RATIO": "Quadrado",
             "PORTRAIT_RATIO": "Retrato",
-            "FREESTYLE_RATIO": "Livre"
+            "FREESTYLE_RATIO": "Livre",
+            "TITLE": "Cortar"
         },
         "EFFECT": {
             "NORMAL": "Normal",
             "BLUR": "Desfoque",
             "ZOOM": "Zoom"
+        },
+        "PAINT": {
+            "TITLE": "Desenhar",
+            "BRUSH_SIZE_LABEL": "Tamanho do pincel",
+            "COLOR_LABEL": "Cor"
+        },
+        "EDITOR_TEXT": {
+            "TITLE": "Texto",
+            "ADD_LABEL": "Adicionar texto",
+            "COLOR_LABEL": "Cor do texto",
+            "BACKGROUND_COLOR_LABEL": "Cor do fundo",
+            "TEXT_PLACEHOLDER": "Escreva o texto..."
+        },
+        "STICKERS": {
+            "TITLE": "Adesivos"
+        },
+        "INTRO": {
+            "NEW_LABEL": "NOVO!",
+            "TITLE": "Espere, tem mais!",
+            "TEXT": "Acrescente estilo e contexto à sua imagem com texto, adesivos e desenhos.",
+            "GOT_IT": "Entendi!"
         }
     }
 }

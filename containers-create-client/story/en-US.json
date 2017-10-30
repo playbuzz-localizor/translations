@@ -71,7 +71,6 @@
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
     "STORY_TITLE_PLACEHOLDER": "Story title",
     "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
-    "DELETE_SECTION_BTN": "Delete",
     "MODAL_LANGUAGE": {
         "NEW_LABEL": "NEW",
         "TITLE": "Select your preferred creation language",
@@ -150,7 +149,6 @@
         }
     },
     "TEMPLATES": {
-        "VIDEO": "Video",
         "START_NEW": "Start a New Item",
         "UPDATED": "Recently updated",
         "TEMPLATE_NAME": "Template name",
@@ -186,15 +184,16 @@
         "ENTERTAINMENT": "Entertainment",
         "NEWS": "News",
         "FOOD": "Food",
-        "WORKING_ON_TEMPLATE": "Working on template:"
+        "WORKING_ON_TEMPLATE": "Working on template:",
+        "VIDEO": "Video"
     },
     "CONVO": {
-        "ADD_SECTION_TOOLTIP": "Add Convo",
         "PARTICIPANT_PLACEHOLDER": "Participant",
         "BUBBLE_CONTENT_PLACEHOLDER": "Enter text...",
         "ADD_BUBBLE_TOOLTIP": "Add Bubble",
         "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
-        "DELETE_MESSAGE": "Are you sure?"
+        "DELETE_MESSAGE": "Are you sure?",
+        "ADD_SECTION_TOOLTIP": "Add Convo"
     },
     "CREATE_MODULES": {
         "TEXT_EDITOR": {
@@ -223,13 +222,18 @@
         }
     },
     "CTA": {
-        "ADD_SECTION_TOOLTIP": "Add CTA",
         "NO_EFFECT": "None",
         "PULSE_EFFECT": "Pulse",
         "FLOATING_EFFECT": "Floating",
         "BUTTON_TEXT": "Enter text...",
         "LINK_PLACEHOLDER": "Enter link...",
-        "TEST_LINK_TOOLTIP": "Test link"
+        "TEST_LINK_TOOLTIP": "Test link",
+        "ADD_SECTION_TOOLTIP": "Add CTA",
+        "APPLE_LINK_PLACEHOLDER": "iOS link (optional)",
+        "ANDROID_LINK_PLACEHOLDER": "Android link (optional)",
+        "WEB_LINK_TOOLTIP": "Universal",
+        "APPLE_LINK_TOOLTIP": "iOS",
+        "ANDROID_LINK_TOOLTIP": "Android"
     },
     "EMBED": {
         "DESCRIPTION_PLACEHOLDER": "Description",
@@ -240,11 +244,10 @@
         "ADD_SECTION_TOOLTIP": "Add Image"
     },
     "PARAGRAPH": {
-        "ADD_SECTION_TOOLTIP": "Add Text",
-        "EDITOR_PLACEHOLDER": "Paragraph"
+        "EDITOR_PLACEHOLDER": "Paragraph",
+        "ADD_SECTION_TOOLTIP": "Add Text"
     },
     "POLL": {
-        "ADD_SECTION_TOOLTIP": "Add Poll",
         "BACKGROUND_TEMPLATE_TOOLTIP": "Background image",
         "COVER_TEMPLATE_TOOLTIP": "Cover image",
         "CLASSIC_TEMPLATE_TOOLTIP": "Classic results",
@@ -277,25 +280,25 @@
         "CLASSIC_LAYOUT_TOOLTIP": "Classic bar results",
         "GRID_LAYOUT_TOOLTIP": "Round results images",
         "DELETE_OPTION_BUT": "Delete option",
-        "SQUARE_LAYOUT_TOOLTIP": "Square results images"
+        "SQUARE_LAYOUT_TOOLTIP": "Square results images",
+        "ADD_SECTION_TOOLTIP": "Add Poll"
     },
     "QUOTE": {
-        "ADD_SECTION_TOOLTIP": "Add Quote",
         "TEXT_PLACEHOLDER": "Enter quote...",
         "QUOTEE_PLACEHOLDER": "Who said it?",
-        "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more..."
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more...",
+        "ADD_SECTION_TOOLTIP": "Add Quote"
     },
     "SUMMARY": {
-        "ADD_SECTION_TOOLTIP": "Add Summary Card",
         "ADD_ROW": "Add row",
         "SUBTITLE_PLACEHOLDER": "Subtitle",
         "ROW_PLACEHOLDER": "Enter text...",
         "NO_EFFECT": "None",
         "FADE_EFFECT": "Fade In",
-        "TITLE_PLACEHOLDER": "Title"
+        "TITLE_PLACEHOLDER": "Title",
+        "ADD_SECTION_TOOLTIP": "Add Summary Card"
     },
     "VIDEO_CREATOR": {
-        "ADD_SECTION_TOOLTIP": "Create a video",
         "PLAY": "PLAY",
         "PAUSE": "PAUSE",
         "GALLERY_TITLE": "Pick a template",
@@ -344,15 +347,15 @@
             "CHANGE_BUTTON": "Change Template"
         },
         "AUDIO_LABEL": {
+            "NONE": "None",
+            "CINEMATIC": "Cinematic",
             "CANCEL_BTN": "Cancel",
             "SELECT_BTN": "Select",
-            "NONE": "None",
             "CORPORATE": "Corporate",
             "POSITIVE_AND_UPBEAT": "Positive & Upbeat",
             "ACOUSTIC": "Acoustic",
             "HIGH_ENERGY": "High Energy",
-            "EPIC": "Epic",
-            "CINEMATIC": "Cinematic"
+            "EPIC": "Epic"
         },
         "CATEGORIES_NAMES": {
             "MAGICAL": "Magical",
@@ -414,19 +417,97 @@
                 "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
                 "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
             }
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Create a video"
     },
     "VIDEO_PLAYER": {
-        "ADD_SECTION_TOOLTIP": "Add Video Player",
         "DESCRIPTION_PLACEHOLDER": "Description",
         "SETTINGS": {
             "TITLE": "Settings",
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
             "MUTE_SWITCH_LABEL": "Autoplay on mute",
             "CLOSE_SETTINGS": "Back to Edit"
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Add Video Player"
     },
+    "DELETE_SECTION_BTN": "Delete",
     "FLIP_CARD": {
         "ADD_SECTION_TOOLTIP": "Add Flip Card"
+    },
+    "QUIZ": {
+        "DONE": "Done",
+        "INTRODUCTIONS": {
+            "RESULTS": "Let's get started!\nAdd your quiz's end results.",
+            "QUESTIONS": "Now, add questions and associate them to your results"
+        },
+        "INTRO": {
+            "TITLE": "Start Screen",
+            "PLACEHOLDER": "Quiz title",
+            "DESC_PLACEHOLDER": "Tell us more...",
+            "CHANGE_STAGE": "Final touches"
+        },
+        "QUESTIONS": {
+            "TITLE": "Questions",
+            "TITLE_SINGLE": "Question",
+            "ADD": "Add questions",
+            "ADD_ANOTHER": "Add another question",
+            "PLACEHOLDER": "Your question here...",
+            "CHANGE_STAGE": "Add questions"
+        },
+        "RESULTS": {
+            "TITLE": "Results",
+            "TITLE_SINGLE": "Result",
+            "ADD": "Add results",
+            "ADD_ANOTHER": "Add another result",
+            "PLACEHOLDER": "Your result here...",
+            "DESC_PLACEHOLDER": "Tell us more...",
+            "CHANGE_STAGE": "Add results"
+        },
+        "ANSWERS": {
+            "TITLE": "Answer",
+            "ADD": "Add answer",
+            "ASSOCIATE": "Associate results",
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Classic",
+                "GRID": "Grid"
+            },
+            "ASSOCIATION": [
+                "No association",
+                "Neutral",
+                "Highly associated"
+            ],
+            "ASSOCIATE_DESC": "Choose which results are associated with this answer:",
+            "MISSING_RESULTS": "You must add results first!"
+        },
+        "REMOVE_ITEM": {
+            "TITLE": "Are you sure?",
+            "DELETE_BUTTON_TEXT": "Delete",
+            "TOOLTIP": "Delete"
+        },
+        "RESULT_ACTIONS": {
+            "CTA": {
+                "ADD": "Add Call to Action",
+                "TOOLTIP": "Call-to-action",
+                "PLACEHOLDER": "Enter text..."
+            },
+            "CONTINUE": {
+                "ADD": "Call To Action message",
+                "TOOLTIP": "Continue",
+                "PLACEHOLDER": "Enter text..."
+            }
+        },
+        "ADD_SECTION_TOOLTIP": "Add Quiz",
+        "INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Create Personality Quiz in Story",
+            "DESC": "text TBD",
+            "GOT_IT": "Got It!"
+        }
+    },
+    "MP_CUSTOM_TEMPLATE": {
+        "EDIT_IMAGE_TITLE": "Edit Image",
+        "CROP_IMAGE_TITLE": "Crop Image",
+        "EDIT_VIDEO_TITLE": "Edit Video",
+        "NEW_LABEL": "NEW!"
     }
 }
