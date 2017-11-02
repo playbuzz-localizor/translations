@@ -1,6 +1,43 @@
 {
+    "Votes": "Votes",
     "Created By": "أنشئت من قبل",
     "On": "في",
     "Sponsored": "برعاية",
+    "Thanks for your vote!": "",
+    "Read more on": "",
+    "VIDEO_CREATOR": {
+        "UPLOADING_LABEL": "",
+        "UPLOAD_TO_FACEBOOK_PAGE_LABEL": "",
+        "OK": "",
+        "CANCEL": "",
+        "PERMISSION_REQUIRED_1": "",
+        "MANAGE_PAGE": "",
+        "COPY_LINK": "",
+        "UPLOADED_TO_FACEBOOK_BUTTON": "",
+        "FACEBOOK_INTRO_LABLE": "",
+        "ERROR_OCCURRED_HEADER": "",
+        "UNEXPECTED_ERROR_OCCURRED": "",
+        "GO": "",
+        "FACEBOOK_PAGE_MISSING_HEADER": "",
+        "FACEBOOK_PAGE_IS_NOT_VALID": "",
+        "PERMISSION_REQUIRED_HEADER": "",
+        "PERMISSION_REQUIRED_LINK": "",
+        "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "",
+        "MCD_LABEL": "",
+        "COPY_CODE_BUTTON": ""
+    },
+    "Vote": "تصويت",
+    "POLL": {
+        "SHARE_POLL": ""
+    },
+    "QUIZ_PLAY": {
+        "START": "",
+        "SHARE_RESULT": "",
+        "READ_MORE": "",
+        "CALCULATING": "",
+        "SHARE": {
+            "I_GOT": ""
+        }
+    },
     "Click to Flip": "انقر لتكشف"
 }
