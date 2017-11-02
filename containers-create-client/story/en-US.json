@@ -421,7 +421,25 @@
                 "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
             }
         },
-        "ADD_SECTION_TOOLTIP": "Create a video"
+        "ADD_SECTION_TOOLTIP": "Create a video",
+        "TOOLTIPS": {
+            "LAYOUT_SELECTION": "Layout Selection",
+            "FONT": "Font",
+            "ADD_ITEM": "Add Item",
+            "PATTERN": "Pattern",
+            "MUSIC": "Music",
+            "SETTINGS": "Settings",
+            "BACKGROUND_OPTIONS": "Background Options",
+            "NONE": "None",
+            "SEMI_TRANSPARENT": "Semi-transparent",
+            "TEXT_BACKGROUND_BLOCKS": "Text Background Blocks",
+            "BLUR": "Blur",
+            "SQUARE": "Square",
+            "ROUND": "Round",
+            "SKEW": "Skew",
+            "DIAMOND": "Diamond",
+            "COLOR_THEME": "Color Theme"
+        }
     },
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Description",
