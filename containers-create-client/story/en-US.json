@@ -431,6 +431,7 @@
             "SETTINGS": "Settings",
             "BACKGROUND_OPTIONS": "Background Options",
             "NONE": "None",
+            "SOLID": "Solid",
             "SEMI_TRANSPARENT": "Semi-transparent",
             "TEXT_BACKGROUND_BLOCKS": "Text Background Blocks",
             "BLUR": "Blur",
