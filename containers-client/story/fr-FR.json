@@ -1,4 +1,5 @@
 {
+    "Votes": "Votes",
     "Created By": "Créé par",
     "On": "sur",
     "Sponsored": "SPONSORISÉ",
@@ -25,6 +26,7 @@
         "MCD_LABEL": "Unité Embed Vidéo",
         "COPY_CODE_BUTTON": "Copier le code"
     },
+    "Vote": "Vote",
     "POLL": {
         "SHARE_POLL": "J'ai voté {{answer}}. {{question}}"
     },
