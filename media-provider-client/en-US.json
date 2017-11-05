@@ -23,9 +23,9 @@
         },
         "MODAL": {
             "RESULT_ERROR": "Oops! This couldn’t be uploaded",
-            "ADD_TITLE": "Add Media",
-            "EDIT_IMAGE_TITLE": "Edit Image",
-            "EDIT_VIDEO_TITLE": "Edit Video",
+            "ADD_TITLE": "ADD MEDIA",
+            "EDIT_IMAGE_TITLE": "EDIT IMAGE",
+            "EDIT_VIDEO_TITLE": "EDIT VIDEO",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "SEARCH",
                 "IMPORT_GROUP_TITLE": "IMPORT",
@@ -82,7 +82,7 @@
             "DONE_EDIT_BUT": "Done",
             "VIDEO_CREDIT_PLACEHOLDER": "Type video credits...",
             "RETURN_BUTTON": "Return",
-            "CROP_IMAGE_TITLE": "Crop Image"
+            "CROP_IMAGE_TITLE": "CROP IMAGE"
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Edit",
