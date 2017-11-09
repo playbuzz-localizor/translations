@@ -83,58 +83,58 @@
     "ONBOARDING": {
         "GALLERY_OPEN_LABEL": "See Examples",
         "CONVO": {
-            "TITLE_LABEL": "Make readers feel as though they are reading someone’s text messages!",
-            "TEXT_1_LABEL": "Choose the template that enables you to upload images for all of the Convo participants.You can add text and images to each message bubble!",
+            "TITLE_LABEL": "Create a dialogue that fits today’s communication habits.",
+            "TEXT_1_LABEL": "Make readers feel as though they are reading someone’s text messages.",
             "TEXT_2_LABEL": "Use the Convo template that looks and feels like iOS messenger.",
             "TEXT_3_LABEL": "Use Convo to create a list or timeline of events. Simply upload a number or date as the image for each “participant”."
         },
         "EMBED": {
             "TITLE_LABEL": "Import media from the web.",
-            "TEXT_1_LABEL": "Embed Google maps to show your readers a specific location.",
-            "TEXT_2_LABEL": "Include any video from Vimeo in your article.",
+            "TEXT_1_LABEL": "Embed Google Maps to share specific locations.",
+            "TEXT_2_LABEL": "Include any video from Vimeo or YouTube.",
             "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
             "TEXT_4_LABEL": "Embed Instagram posts to make your content more visually stunning."
         },
         "FLIP_CARD": {
-            "TITLE_LABEL": "Surprise your readers by displaying images and text cards that readers can click to flip and reveal the other side.",
+            "TITLE_LABEL": "Invite readers to click and reveal the other side.",
             "TEXT_1_LABEL": "",
-            "TEXT_2_LABEL": "Use flip-card to reveal something to your readers. Surprise, shock, and entertain them! This is also great for “before and after” comparisons!",
-            "TEXT_3_LABEL": "Use Flip-card to filter what your readers see. Give them the choice to decide if they want to see adult content or not."
+            "TEXT_2_LABEL": "Create the perfect “before and after” experience.",
+            "TEXT_3_LABEL": "Warn readers about graphic content or spoilers."
         },
         "IMAGE": {
-            "TITLE_LABEL": "Add stunning images and make your visuals stand out by adding a blur or zoom-in effect",
-            "TEXT_1_LABEL": "Surprise your readers by blurring an image. Clicking to reveal the image gives them an interactive and engaging content experience!",
-            "TEXT_2_LABEL": "Draw your readers' attention to the focal point of an image using the Zoom filter.",
+            "TITLE_LABEL": "Add eye-catching visuals and effects.",
+            "TEXT_1_LABEL": "Blur images to add mystery and hide graphic content or spoilers.",
+            "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
             "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not."
         },
         "PARAGRAPH": {
-            "TITLE_LABEL": "Use text to form the base for your Story.",
-            "TEXT_1_LABEL": "Use the text marker to highlight the most important parts in your text.",
+            "TITLE_LABEL": "Use text to form the base for your article.",
+            "TEXT_1_LABEL": "Highlight the most important parts.",
             "TEXT_2_LABEL": "Your reader's’ eye will immediately be drawn to the highlighted text. Make sure to highlight the important parts that they need to read.",
-            "TEXT_3_LABEL": "Include emojis and hyperlinks to make your text more interactive and interesting!"
+            "TEXT_3_LABEL": "Include emojis and hyperlinks."
         },
         "POLL": {
-            "TITLE_LABEL": "Polls allow readers to express their opinion and respond to the content you create.",
+            "TITLE_LABEL": "Encourage readers to get involved and share their views. ",
             "TEXT_1_LABEL": "Use a poll to getting your readers involved. Give them a chance to throw in their 2 cents! For example, asking what they think about something on social media.",
-            "TEXT_2_LABEL": "Use a cover image for your Poll to make your question more visual and exciting.",
+            "TEXT_2_LABEL": "Display the vote count to show readers how others feel about the topic. ",
             "TEXT_3_LABEL": "Use a background image and choose the Grid template to create a visually awesome poll that is fun to interact with!",
             "TEXT_4_LABEL": "Remember to always include a “none of the above” option to give your readers an easy out if none of the options suit them.",
             "TEXT_5_LABEL": "",
-            "TEXT_6_LABEL": "Hide the results of your poll until you’re ready to share them with your audience."
+            "TEXT_6_LABEL": "Add an image to each option."
         },
         "QUOTE": {
-            "TITLE_LABEL": "Highlight words of wisdom by creating a designed quote.",
+            "TITLE_LABEL": "Highlight words of wisdom with a designed quote.",
             "TEXT_1_LABEL": "Short and sweet; keep your quotes to the point and easy to read.",
-            "TEXT_2_LABEL": "Include an image of who said it next to the quote to give your readers context and more information."
+            "TEXT_2_LABEL": "Include the quotee’s image and name to add context."
         },
         "SUMMARY": {
-            "TITLE_LABEL": "In the age of TL;DR, Summary gets straight to the point and give readers only the information they need. They can be used in different ways...",
-            "TEXT_1_LABEL": "Use Summary to wrap-up the main points of any topic. Give your audience the big picture in a series of succinct points. Include a cover image to tie the Summary into the topic of your article.",
-            "TEXT_2_LABEL": "Use the Summary template for recipes to include a sidebar for ingredients. Include a beautiful visual to make your Summary more interesting.",
-            "TEXT_3_LABEL": "Use the check-box feature to create a to-do list using Summary."
+            "TITLE_LABEL": "Get straight to the point.",
+            "TEXT_1_LABEL": "Offer a TL;DR version of your article.",
+            "TEXT_2_LABEL": "Share recipes using the sidebar text box. ",
+            "TEXT_3_LABEL": "Create an interactive checklist."
         },
         "VIDEO_CREATOR": {
-            "TITLE_LABEL": "Incorporate video in a more flexible and low-cost manner. Simply customize our readymade templates, choose a color palette and add the right sound.",
+            "TITLE_LABEL": "Incorporate video in a flexible, low-cost manner.",
             "TEXT_1_LABEL": "Use the classic template to create a video list with GIFs and images.",
             "TEXT_2_LABEL": "Use the Vs. template to compare and contrast a topic that your readers care about.",
             "TEXT_3_LABEL": "Every screen in the Vs. template will compare a subtopic under the larger comparison with text, images and GIFs!",
@@ -143,7 +143,7 @@
             "TEXT_6_LABEL": "Use the Swift template to create a quicker video with a an intro screen that automatically pulls visuals from all of your video’s slides."
         },
         "VIDEO_PLAYER": {
-            "TITLE_LABEL": "Enrich your story with videos.",
+            "TITLE_LABEL": "Enrich your article with videos.",
             "TEXT_1_LABEL": "Use any video on Vimeo to make your article more interesting.",
             "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
         }
@@ -383,7 +383,7 @@
         "TEMPLATES": {
             "GENERAL": {
                 "MAIN_TITLE_PLACEHOLDER": "Enter Main Title",
-                "ENTER_TEXT_PLACEHOLDER": "Enter Text",
+                "ENTER_TEXT_PLACEHOLDER": "Caption",
                 "CTA_PLACEHOLDER": "End with call to action!",
                 "BACKGROUND_REQUIRED_VALIDATION_MSG": "Background image is required",
                 "TEXT_REQUIRED_VALIDATION_MSG": "Text is required",
@@ -433,7 +433,7 @@
         "DONE": "Done",
         "INTRODUCTIONS": {
             "RESULTS": "Let's get started!\nAdd your quiz's end results.",
-            "QUESTIONS": "Now, add questions and associate them to your results"
+            "QUESTIONS": "Now, add questions and match them with your results."
         },
         "INTRO": {
             "TITLE": "Start Screen",
@@ -461,18 +461,19 @@
         "ANSWERS": {
             "TITLE": "Answer",
             "ADD": "Add answer",
-            "ASSOCIATE": "Associate results",
+            "ASSOCIATE": "Match results",
             "LAYOUTS_TOOLTIPS": {
                 "CLASSIC": "Classic",
                 "GRID": "Grid"
             },
             "ASSOCIATION": [
-                "No association",
+                "Unrelated",
                 "Neutral",
-                "Highly associated"
+                "Highly related"
             ],
-            "ASSOCIATE_DESC": "Choose which results are associated with this answer:",
-            "MISSING_RESULTS": "You must add results first!"
+            "ASSOCIATE_DESC": "Match this answer with one or more of the results below.",
+            "MISSING_RESULTS": "You must add results first!",
+            "ASSOCIATE_PLURAL": "matched"
         },
         "REMOVE_ITEM": {
             "TITLE": "Are you sure?",
