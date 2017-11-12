@@ -65,7 +65,8 @@
             "LOGGED_OUT": "Please re-login",
             "BLOCKED": "Your user is blocked"
         },
-        "PREVIEW_BUT_PENDING": "Preparing..."
+        "PREVIEW_BUT_PENDING": "Preparing...",
+        "UNSAVED_DRAFT": "Unsaved draft"
     },
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
