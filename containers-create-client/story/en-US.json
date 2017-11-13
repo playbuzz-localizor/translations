@@ -41,8 +41,8 @@
             "STEP_2": "Publish!",
             "STEP_3": "Share or instantly embed to your site",
             "STEP_4": "Done",
-            "QUESTIONS_TITLE": "Have any questions?",
-            "QUESTIONS_DESCRIPTION": "We're here!",
+            "QUESTIONS_TITLE": "Any questions?",
+            "QUESTIONS_DESCRIPTION": "Visit our academy.",
             "TOOLTIP": "About"
         }
     },
@@ -487,7 +487,7 @@
                 "PLACEHOLDER": "Enter text..."
             },
             "CONTINUE": {
-                "ADD": "Call To Action message",
+                "ADD": "Call To Action Message",
                 "TOOLTIP": "Continue",
                 "PLACEHOLDER": "Enter text..."
             }
@@ -495,9 +495,9 @@
         "ADD_SECTION_TOOLTIP": "Add Quiz",
         "INTRO_BUBBLE": {
             "NEW": "NEW!",
-            "TITLE": "Create Personality Quiz in Story",
-            "DESC": "text TBD",
-            "GOT_IT": "Got It!"
+            "TITLE": "Make it personal.",
+            "DESC": "Give readers insights on what they care about most - themselves.",
+            "GOT_IT": "Got it."
         }
     },
     "MP_CUSTOM_TEMPLATE": {
