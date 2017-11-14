@@ -41,8 +41,8 @@
             "STEP_2": "Publish!",
             "STEP_3": "Share or instantly embed to your site",
             "STEP_4": "Done",
-            "QUESTIONS_TITLE": "Have any questions?",
-            "QUESTIONS_DESCRIPTION": "We're here!",
+            "QUESTIONS_TITLE": "Any questions?",
+            "QUESTIONS_DESCRIPTION": "Visit our academy.",
             "TOOLTIP": "About"
         }
     },
@@ -174,7 +174,7 @@
         "START_HERE": "Start here",
         "NO_TEMPLATES_FOUND": "I couldn’t find templates under this name",
         "CREATE_A_TEMPLATE": "Create a template",
-        "GOT_IT": "Got It!",
+        "GOT_IT": "Got it.",
         "FEATURED": "Featured",
         "TRAVEL": "Travel",
         "HOLIDAY": "Holiday",
@@ -488,7 +488,7 @@
                 "PLACEHOLDER": "Enter text..."
             },
             "CONTINUE": {
-                "ADD": "Call To Action message",
+                "ADD": "Call To Action Message",
                 "TOOLTIP": "Continue",
                 "PLACEHOLDER": "Enter text..."
             }
@@ -496,9 +496,9 @@
         "ADD_SECTION_TOOLTIP": "Add Quiz",
         "INTRO_BUBBLE": {
             "NEW": "NEW!",
-            "TITLE": "Create Personality Quiz in Story",
-            "DESC": "text TBD",
-            "GOT_IT": "Got It!"
+            "TITLE": "Make it personal.",
+            "DESC": "Create a quiz to give readers insights on what they care about most - themselves.",
+            "GOT_IT": "Got it."
         }
     },
     "MP_CUSTOM_TEMPLATE": {
