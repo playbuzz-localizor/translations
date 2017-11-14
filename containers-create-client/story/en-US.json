@@ -149,6 +149,7 @@
             "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
         },
         "QUIZ": {
+            "TITLE_LABEL": "",
             "TEXT_1_LABEL": "",
             "TEXT_2_LABEL": "",
             "TEXT_3_LABEL": "",
