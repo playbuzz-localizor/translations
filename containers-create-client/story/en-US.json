@@ -426,6 +426,7 @@
         "ADD_SECTION_TOOLTIP": "Add Video Player"
     },
     "DELETE_SECTION_BTN": "Delete",
+    "DUPLICATE_SECTION_BTN": "Duplicate",
     "FLIP_CARD": {
         "ADD_SECTION_TOOLTIP": "Add Flip Card"
     },
