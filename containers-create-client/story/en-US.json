@@ -149,11 +149,11 @@
             "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
         },
         "QUIZ": {
-            "TITLE_LABEL": "",
-            "TEXT_1_LABEL": "",
-            "TEXT_2_LABEL": "",
-            "TEXT_3_LABEL": "",
-            "TEXT_4_LABEL": ""
+            "TEXT_1_LABEL": "Give readers insights on what they care about most - themselves. ",
+            "TEXT_2_LABEL": "Choose a color-palette for your quiz.",
+            "TEXT_3_LABEL": "Include videos and GIFs.",
+            "TEXT_4_LABEL": "",
+            "TITLE_LABEL": "Make it personal. "
         }
     },
     "TEMPLATES": {
@@ -312,9 +312,6 @@
         "GALLERY_TITLE": "Pick a template",
         "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
         "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
-        "ERROR_OCCURRED_HEADER": "Error Occurred",
-        "OK": "OK",
-        "MISSING_CONTENT": "Please enter content first",
         "SETTINGS": {
             "TITLE": "Settings",
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
@@ -367,11 +364,6 @@
             "ACOUSTIC": "Acoustic",
             "HIGH_ENERGY": "High Energy",
             "EPIC": "Epic"
-        },
-        "CATEGORIES_NAMES": {
-            "MAGICAL": "Magical",
-            "LISTS": "Lists",
-            "COMPARISON": "Comparison"
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classic",
@@ -430,6 +422,14 @@
             }
         },
         "ADD_SECTION_TOOLTIP": "Create a video",
+        "ERROR_OCCURRED_HEADER": "Error Occurred",
+        "OK": "OK",
+        "MISSING_CONTENT": "Please enter content first",
+        "CATEGORIES_NAMES": {
+            "MAGICAL": "Magical",
+            "LISTS": "Lists",
+            "COMPARISON": "Comparison"
+        },
         "TOOLTIPS": {
             "LAYOUT_SELECTION": "Layout Selection",
             "FONT": "Font",
@@ -463,7 +463,6 @@
         "ADD_SECTION_TOOLTIP": "Add Video Player"
     },
     "DELETE_SECTION_BTN": "Delete",
-    "DUPLICATE_SECTION_BTN": "Duplicate",
     "FLIP_CARD": {
         "ADD_SECTION_TOOLTIP": "Add Flip Card"
     },
@@ -510,7 +509,7 @@
                 "Highly related"
             ],
             "ASSOCIATE_DESC": "Match this answer with one or more of the results below.",
-            "MISSING_RESULTS": "You must add results first!",
+            "MISSING_RESULTS": "Oops, no results to match here.",
             "ASSOCIATE_PLURAL": "matched"
         },
         "REMOVE_ITEM": {
@@ -550,5 +549,6 @@
         "DESCRIPTION": "You've made some changes to your item after your latest publication. Would you like to restore your changes?",
         "RESTORE_BUTTON": "Restore on new tab",
         "CANCEL_BUTTON": "Don't restore"
-    }
+    },
+    "DUPLICATE_SECTION_BTN": "Duplicate"
 }
