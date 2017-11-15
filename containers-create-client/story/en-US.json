@@ -545,10 +545,10 @@
         "NEW_LABEL": "NEW!"
     },
     "RESTORE_ITEM": {
-        "TITLE": "Unsaved Changes",
-        "DESCRIPTION": "You've made some changes to your item after your latest publication. Would you like to restore your changes?",
-        "RESTORE_BUTTON": "Restore on new tab",
-        "CANCEL_BUTTON": "Don't restore"
+        "TITLE": "We've got your back(up)! 😎 ",
+        "DESCRIPTION": "We noticed that you've made some changes to your item after your latest publication. Would you like to restore those changes?",
+        "RESTORE_BUTTON": "Restore in new tab",
+        "CANCEL_BUTTON": "No thanks"
     },
     "DUPLICATE_SECTION_BTN": "Duplicate"
 }
