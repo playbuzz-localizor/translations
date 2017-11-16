@@ -545,7 +545,7 @@
         "NEW_LABEL": "NEW!"
     },
     "RESTORE_ITEM": {
-        "TITLE": "We've got your back(up)! 😎 ",
+        "TITLE": "We've got your back(up)! 🤖",
         "DESCRIPTION": "We noticed that you've made some changes to your item after your latest publication. Would you like to restore those changes?",
         "RESTORE_BUTTON": "Restore in new tab",
         "CANCEL_BUTTON": "No thanks"
