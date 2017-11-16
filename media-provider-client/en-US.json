@@ -118,9 +118,8 @@
             "FONT_NARROW": "Narrow",
             "FONT_SERIF": "Serif"
         },
-        "STICKERS": {
-            "TITLE": "Stickers"
-        },
+        "STICKERS_LABEL": "Stickers",
+        "EMOJI_LABEL": "Emoji",
         "INTRO": {
             "NEW_LABEL": "NEW!",
             "TITLE": "Wait, there's more!",
