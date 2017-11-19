@@ -41,8 +41,8 @@
             "STEP_2": "Publish!",
             "STEP_3": "Share or instantly embed to your site",
             "STEP_4": "Done",
-            "QUESTIONS_TITLE": "Have any questions?",
-            "QUESTIONS_DESCRIPTION": "We're here!",
+            "QUESTIONS_TITLE": "Any questions?",
+            "QUESTIONS_DESCRIPTION": "Visit our academy.",
             "TOOLTIP": "About"
         }
     },
@@ -65,7 +65,8 @@
             "LOGGED_OUT": "Please re-login",
             "BLOCKED": "Your user is blocked"
         },
-        "PREVIEW_BUT_PENDING": "Preparing..."
+        "PREVIEW_BUT_PENDING": "Preparing...",
+        "UNSAVED_DRAFT": "Unsaved draft"
     },
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
@@ -146,6 +147,13 @@
             "TITLE_LABEL": "Enrich your article with videos.",
             "TEXT_1_LABEL": "Use any video on Vimeo to make your article more interesting.",
             "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
+        },
+        "QUIZ": {
+            "TEXT_1_LABEL": "Give readers insights on what they care about most - themselves. ",
+            "TEXT_2_LABEL": "Choose a color-palette for your quiz.",
+            "TEXT_3_LABEL": "Include videos and GIFs.",
+            "TEXT_4_LABEL": "",
+            "TITLE_LABEL": "Make it personal. "
         }
     },
     "TEMPLATES": {
@@ -173,7 +181,7 @@
         "START_HERE": "Start here",
         "NO_TEMPLATES_FOUND": "I couldn’t find templates under this name",
         "CREATE_A_TEMPLATE": "Create a template",
-        "GOT_IT": "Got It!",
+        "GOT_IT": "Got it.",
         "FEATURED": "Featured",
         "TRAVEL": "Travel",
         "HOLIDAY": "Holiday",
@@ -304,9 +312,6 @@
         "GALLERY_TITLE": "Pick a template",
         "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
         "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
-        "ERROR_OCCURRED_HEADER": "Error Occurred",
-        "OK": "OK",
-        "MISSING_CONTENT": "Please enter content first",
         "SETTINGS": {
             "TITLE": "Settings",
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
@@ -359,11 +364,6 @@
             "ACOUSTIC": "Acoustic",
             "HIGH_ENERGY": "High Energy",
             "EPIC": "Epic"
-        },
-        "CATEGORIES_NAMES": {
-            "MAGICAL": "Magical",
-            "LISTS": "Lists",
-            "COMPARISON": "Comparison"
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classic",
@@ -422,6 +422,14 @@
             }
         },
         "ADD_SECTION_TOOLTIP": "Create a video",
+        "ERROR_OCCURRED_HEADER": "Error Occurred",
+        "OK": "OK",
+        "MISSING_CONTENT": "Please enter content first",
+        "CATEGORIES_NAMES": {
+            "MAGICAL": "Magical",
+            "LISTS": "Lists",
+            "COMPARISON": "Comparison"
+        },
         "TOOLTIPS": {
             "LAYOUT_SELECTION": "Layout Selection",
             "FONT": "Font",
@@ -501,7 +509,7 @@
                 "Highly related"
             ],
             "ASSOCIATE_DESC": "Match this answer with one or more of the results below.",
-            "MISSING_RESULTS": "You must add results first!",
+            "MISSING_RESULTS": "Oops, no results to match here.",
             "ASSOCIATE_PLURAL": "matched"
         },
         "REMOVE_ITEM": {
@@ -516,7 +524,7 @@
                 "PLACEHOLDER": "Enter text..."
             },
             "CONTINUE": {
-                "ADD": "Call To Action message",
+                "ADD": "Call To Action Message",
                 "TOOLTIP": "Continue",
                 "PLACEHOLDER": "Enter text..."
             }
@@ -524,9 +532,10 @@
         "ADD_SECTION_TOOLTIP": "Add Quiz",
         "INTRO_BUBBLE": {
             "NEW": "NEW!",
-            "TITLE": "Create Personality Quiz in Story",
-            "DESC": "text TBD",
-            "GOT_IT": "Got It!"
+            "TITLE": "Make it personal.",
+            "DESC": "Create a quiz to give readers insights on what they care about most - themselves.",
+            "GOT_IT": "Got it.",
+            "LEARN_MORE": "Learn more"
         }
     },
     "MP_CUSTOM_TEMPLATE": {
@@ -534,5 +543,12 @@
         "CROP_IMAGE_TITLE": "Crop Image",
         "EDIT_VIDEO_TITLE": "Edit Video",
         "NEW_LABEL": "NEW!"
-    }
+    },
+    "RESTORE_ITEM": {
+        "TITLE": "We've got your back(up)! 🤖",
+        "DESCRIPTION": "We noticed that you've made some changes to your item after your latest publication. Would you like to restore those changes?",
+        "RESTORE_BUTTON": "Restore in new tab",
+        "CANCEL_BUTTON": "No thanks"
+    },
+    "DUPLICATE_SECTION_BTN": "Duplicate"
 }
