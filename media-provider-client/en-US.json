@@ -79,6 +79,7 @@
                 "LINK_PAGE_TITLE": "Import from the web"
             },
             "CREDIT_PLACEHOLDER": "Type image credits...",
+            "CANCEL_BTN": "Cancel",
             "DONE_EDIT_BUT": "Done",
             "VIDEO_CREDIT_PLACEHOLDER": "Type video credits...",
             "RETURN_BUTTON": "Return",
