@@ -65,7 +65,8 @@
             "LOGGED_OUT": "Merci de vous reconnecter",
             "BLOCKED": "Votre compte utilisateur est bloqué"
         },
-        "PREVIEW_BUT_PENDING": "Recherche..."
+        "PREVIEW_BUT_PENDING": "Recherche...",
+        "UNSAVED_DRAFT": "Brouillon non sauvegardé"
     },
     "DESCRIPTION_PLACEHOLDER": "Description",
     "SECTIONS_LOBBY_TITLE": "Rédigez votre Story",
@@ -146,6 +147,13 @@
             "TITLE_LABEL": "Enrichissez votre Story avec des vidéos.",
             "TEXT_1_LABEL": "Ajoutez n'importe quelle vidéo Vimeo pour rendre votre article plus intéressant.",
             "TEXT_2_LABEL": "Ajoutez n'importe quelle vidéo Youtube pour rendre votre article plus intéressant."
+        },
+        "QUIZ": {
+            "TEXT_1_LABEL": "Éclairez les lecteurs sur ce qui les intéressent le plus - eux-mêmes. ",
+            "TEXT_2_LABEL": "Choisissez une palette de couleur pour votre quiz.",
+            "TEXT_3_LABEL": "Insérer des vidéos and des GIFs.",
+            "TEXT_4_LABEL": "TEXT_4_LABEL",
+            "TITLE_LABEL": "Personnalisez"
         }
     },
     "TEMPLATES": {
@@ -413,7 +421,36 @@
                 "FACT_REQUIRED_VALIDATION_MSG": "Un fait est obligatoire"
             }
         },
-        "ADD_SECTION_TOOLTIP": "Créer une vidéo"
+        "ADD_SECTION_TOOLTIP": "Créer une vidéo",
+        "ERROR_OCCURRED_HEADER": "Une erreur est survenue",
+        "OK": "OK",
+        "MISSING_CONTENT": "Merci de d'abord entrer le contenu",
+        "CATEGORIES_NAMES": {
+            "MAGICAL": "Magique",
+            "LISTS": "Liste",
+            "COMPARISON": "Camparaison"
+        },
+        "TOOLTIPS": {
+            "LAYOUT_SELECTION": "Mise en forme",
+            "FONT": "Police",
+            "ADD_ITEM": "Ajouter un item",
+            "PATTERN": "Pattern",
+            "MUSIC": "Musique",
+            "PACE": "Rythme",
+            "COLOR": "Couleur",
+            "SETTINGS": "Paramètres",
+            "BACKGROUND_OPTIONS": "Arrière-plan",
+            "NONE": "Aucun",
+            "SOLID": "Solide",
+            "SEMI_TRANSPARENT": "Semi-transparent",
+            "TEXT_BACKGROUND_BLOCKS": "Texte Arrière-plan",
+            "BLUR": "Flou",
+            "SQUARE": "Carré",
+            "ROUND": "Rond",
+            "SKEW": "Oblique",
+            "DIAMOND": "Diamant",
+            "COLOR_THEME": "Thème couleur"
+        }
     },
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Description",
@@ -471,7 +508,9 @@
                 "Neutre",
                 "En affinité"
             ],
-            "ASSOCIATE_DESC": "Choisissez le résultat associé à cette réponse :"
+            "ASSOCIATE_DESC": "Choisissez le résultat associé à cette réponse :",
+            "MISSING_RESULTS": "Vous devez d'abord ajouter les résultats",
+            "ASSOCIATE_PLURAL": "matched"
         },
         "REMOVE_ITEM": {
             "TITLE": "Êtes-vous sûr(e) ?",
@@ -489,6 +528,27 @@
                 "TOOLTIP": "Continuer",
                 "PLACEHOLDER": "Entrer le texte..."
             }
+        },
+        "ADD_SECTION_TOOLTIP": "Quiz",
+        "INTRO_BUBBLE": {
+            "NEW": "NOUVEAU!",
+            "TITLE": "Créez maintenant vos Tests de personnalité dans Story",
+            "DESC": "Créez un quiz pour éclairer vos lecteurs sur ce qui les intéressent le plus - eux-mêmes.",
+            "GOT_IT": "Compris!",
+            "LEARN_MORE": "En savoir plus"
         }
-    }
+    },
+    "MP_CUSTOM_TEMPLATE": {
+        "EDIT_IMAGE_TITLE": "Éditer Image",
+        "CROP_IMAGE_TITLE": "Recadrer",
+        "EDIT_VIDEO_TITLE": "Éditer Vidéo",
+        "NEW_LABEL": "NOUVEAU!"
+    },
+    "RESTORE_ITEM": {
+        "TITLE": "On a du renfort ! 😎␣",
+        "DESCRIPTION": "Nous avons remarqué que des modifications ont été faites après la dernière publication de l'item. Voulez-vous restaurer les changements ?",
+        "RESTORE_BUTTON": "Restaurer dans un nouvel onglet",
+        "CANCEL_BUTTON": "Non merci!"
+    },
+    "DUPLICATE_SECTION_BTN": "Dupliquer"
 }
