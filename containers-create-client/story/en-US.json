@@ -27,7 +27,7 @@
             "DESCRIPTION": "Make your Story more discoverable using tags",
             "TOOLTIP": "Tags",
             "NEW_TAG_PLACEHOLDER": "Enter your own tags",
-            "NEW_TAG_DESCRIPTION": "Separared by comma"
+            "NEW_TAG_DESCRIPTION": "Seperated by comma"
         },
         "SOCIAL": {
             "TITLE": "Social appearance",
@@ -546,7 +546,7 @@
     },
     "RESTORE_ITEM": {
         "TITLE": "We've got your back(up)! 🤖",
-        "DESCRIPTION": "We noticed that you've made some changes to your item after your latest publication. Would you like to restore those changes?",
+        "DESCRIPTION": "We noticed that you've made some changes to your item. Would you like to restore them?",
         "RESTORE_BUTTON": "Restore in new tab",
         "CANCEL_BUTTON": "No thanks"
     },
