@@ -539,12 +539,16 @@
       "PLACEHOLDER": "Your question here...",
       "CHANGE_STAGE": "Add questions"
     },
-    "RESULTS": {
-      "TITLE": "Results",
-      "TITLE_SINGLE": "Result",
+    "Feedback": {
+      "TITLE": "Feedback",
+      "PLACEHOLDER": "Write your feedback here..."
+    },
+    "FINAL_SCORE": {
+      "TITLE": "Final score",
+      "TITLE_SINGLE": "Score",
       "ADD": "Add results",
       "ADD_ANOTHER": "Add another result",
-      "PLACEHOLDER": "Your result here...",
+      "PLACEHOLDER": "Write result here...",
       "DESC_PLACEHOLDER": "Tell us more...",
       "CHANGE_STAGE": "Add results"
     },
