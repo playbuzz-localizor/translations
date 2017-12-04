@@ -150,7 +150,7 @@
         },
         "QUIZ": {
             "TEXT_1_LABEL": "Give readers insights on what they care about most - themselves. ",
-            "TEXT_2_LABEL": "Choose a color-palette for your quiz.",
+            "TEXT_2_LABEL": "Choose a color-palette for your Personality Quiz.",
             "TEXT_3_LABEL": "Include videos and GIFs.",
             "TEXT_4_LABEL": "",
             "TITLE_LABEL": "Make it personal. "
@@ -469,12 +469,12 @@
     "QUIZ": {
         "DONE": "Done",
         "INTRODUCTIONS": {
-            "RESULTS": "Let's get started!\nAdd your quiz's end results.",
+            "RESULTS": "Let's get started!\nAdd your Personality Quiz's end results.",
             "QUESTIONS": "Now, add questions and match them with your results."
         },
         "INTRO": {
             "TITLE": "Start Screen",
-            "PLACEHOLDER": "Quiz title",
+            "PLACEHOLDER": "Personality Quiz title",
             "DESC_PLACEHOLDER": "Tell us more...",
             "CHANGE_STAGE": "Final touches"
         },
@@ -529,11 +529,11 @@
                 "PLACEHOLDER": "Enter text..."
             }
         },
-        "ADD_SECTION_TOOLTIP": "Add Quiz",
+        "ADD_SECTION_TOOLTIP": "Add Personality Quiz",
         "INTRO_BUBBLE": {
             "NEW": "NEW!",
             "TITLE": "Make it personal.",
-            "DESC": "Create a quiz to give readers insights on what they care about most - themselves.",
+            "DESC": "Create a Personality Quiz to give readers insights on what they care about most - themselves.",
             "GOT_IT": "Got it.",
             "LEARN_MORE": "Learn more"
         }
