@@ -531,6 +531,10 @@
   },
   "TRIVIA": {
     "DONE": "Done",
+    "INTRODUCTIONS": {
+      "RESULTS": "Let's get started!\nAdd your trivia's end results.",
+      "QUESTIONS": "add questions and match them with your results."
+    },
     "QUESTIONS": {
       "TITLE": "Questions",
       "TITLE_SINGLE": "Question",
@@ -567,7 +571,8 @@
       ],
       "ASSOCIATE_DESC": "Match this answer with one or more of the results below.",
       "MISSING_RESULTS": "You must add results first!",
-      "ASSOCIATE_PLURAL": "matched"
+      "ASSOCIATE_PLURAL": "matched",
+      "CORRECT_BUTTON": "Correct"
     },
     "REMOVE_ITEM": {
       "TITLE": "Are you sure?",
