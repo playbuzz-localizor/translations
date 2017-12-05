@@ -547,7 +547,7 @@
       "TITLE": "Feedback",
       "PLACEHOLDER": "Write your feedback here..."
     },
-    "FINAL_SCORE": {
+    "RESULTS": {
       "TITLE": "Final score",
       "TITLE_SINGLE": "Score",
       "ADD": "Add results",
