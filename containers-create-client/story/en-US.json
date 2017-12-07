@@ -543,7 +543,7 @@
       "PLACEHOLDER": "Your question here...",
       "CHANGE_STAGE": "Add questions"
     },
-    "Feedback": {
+    "FEEDBACK": {
       "TITLE": "Feedback",
       "PLACEHOLDER": "Write your feedback here..."
     },
