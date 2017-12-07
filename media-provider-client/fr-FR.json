@@ -82,7 +82,8 @@
             "DONE_EDIT_BUT": "Terminer",
             "VIDEO_CREDIT_PLACEHOLDER": "Crédits vidéo...",
             "RETURN_BUTTON": "Retour",
-            "CROP_IMAGE_TITLE": "Recadrer"
+            "CROP_IMAGE_TITLE": "Recadrer",
+            "CANCEL_BTN": "Annuler"
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Éditer",
@@ -113,16 +114,19 @@
             "ADD_LABEL": "Zone de texte",
             "COLOR_LABEL": "Couleur Texte",
             "BACKGROUND_COLOR_LABEL": "Couleur Background",
-            "TEXT_PLACEHOLDER": "Entrer le texte..."
-        },
-        "STICKERS": {
-            "TITLE": "Stickers"
+            "TEXT_PLACEHOLDER": "Entrer le texte...",
+            "FONT_REGULAR": "Regular",
+            "FONT_NARROW": "Narrow",
+            "FONT_SERIF": "Serif"
         },
         "INTRO": {
             "NEW_LABEL": "NOUVEAU!",
             "TITLE": "Attendez, il y a du nouveau!",
             "TEXT": "Vous pouvez maintenant dessiner, ajouter du texte et des stickers sur vos images. ",
             "GOT_IT": "Compris!"
-        }
+        },
+        "STICKERS_LABEL": "Stickers",
+        "COLORS_LABEL": "Couleurs:",
+        "EMOJI_LABEL": "Emoji"
     }
 }
