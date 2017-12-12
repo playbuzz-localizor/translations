@@ -39,5 +39,10 @@
             "I_GOT": "I got:"
         }
     },
+    "TRIVIA_PLAY": {
+        "QUESTIONS_LEFT": "Questions Left...",
+        "BACK_LINK":"Back to questions",
+        "SHARE":"{{correct}} of {{questions}}!  {{title}}"
+    },
     "Click to Flip": "Click to Flip"
 }
