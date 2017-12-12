@@ -225,7 +225,8 @@
         "NONE": "Normal",
         "NUMBER": "Numbered List",
         "BULLET": "Bulleted List",
-        "RANK": "Interactive List"
+        "RANK": "Interactive List",
+        "DOWN": "Down Vote"
       }
     }
   },
