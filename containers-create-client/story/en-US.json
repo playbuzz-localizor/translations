@@ -311,7 +311,7 @@
     "PLAY": "PLAY",
     "PAUSE": "PAUSE",
     "AUTO_DURATION": "Auto duration",
-        "GALLERY_TITLE": "Pick a template",
+    "GALLERY_TITLE": "Pick a template",
     "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
     "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
     "SETTINGS": {
