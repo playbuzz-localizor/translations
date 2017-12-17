@@ -310,6 +310,7 @@
   "VIDEO_CREATOR": {
     "PLAY": "PLAY",
     "PAUSE": "PAUSE",
+    "AUTO_DURATION": "Auto duration",
     "GALLERY_TITLE": "Pick a template",
     "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
     "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
@@ -437,7 +438,7 @@
       "ADD_ITEM": "Add Item",
       "PATTERN": "Pattern",
       "MUSIC": "Music",
-      "PACE": "Pace",
+      "SCENE_DURATION": "Scene duration",
       "COLOR": "Color",
       "SETTINGS": "Settings",
       "BACKGROUND_OPTIONS": "Background Options",
