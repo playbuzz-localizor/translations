@@ -41,8 +41,8 @@
     },
     "Click to Flip": "לחצו וגלו",
     "TRIVIA_PLAY": {
-        "QUESTIONS_LEFT": "שאלות לסוף",
-        "BACK_LINK": "תראו לי מה שכחתי",
+        "QUESTIONS_LEFT": "שאלות וסיימנו",
+        "BACK_LINK": "מה פספסתי?",
         "SHARE": "{{correct}} מ {{questions}}!  {{title}}"
     }
 }
