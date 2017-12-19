@@ -310,7 +310,6 @@
     "VIDEO_CREATOR": {
         "PLAY": "PLAY",
         "PAUSE": "PAUSE",
-        "AUTO_DURATION": "Auto duration",
         "GALLERY_TITLE": "Pick a template",
         "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
         "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
@@ -438,7 +437,6 @@
             "ADD_ITEM": "Add Item",
             "PATTERN": "Pattern",
             "MUSIC": "Music",
-            "SCENE_DURATION": "Scene duration",
             "COLOR": "Color",
             "SETTINGS": "Settings",
             "BACKGROUND_OPTIONS": "Background Options",
@@ -451,8 +449,10 @@
             "ROUND": "Round",
             "SKEW": "Skew",
             "DIAMOND": "Diamond",
-            "COLOR_THEME": "Color Theme"
+            "COLOR_THEME": "Color Theme",
+            "SCENE_DURATION": "Scene duration"
         },
+        "AUTO_DURATION": "Auto duration",
         "BTN_INTRO_BUBBLE": {
             "NEW": "NEW!",
             "TITLE": "Video creation - reinvented!",
@@ -485,7 +485,7 @@
     "QUIZ": {
         "DONE": "Done",
         "INTRODUCTIONS": {
-            "RESULTS": "Let's get started!\nAdd your Personality Quiz's end results.",
+            "RESULTS": "Let's get started!\nAdd your Personality Quiz's end result.",
             "QUESTIONS": "Now, add questions and match them with your results."
         },
         "INTRO": {
@@ -497,10 +497,10 @@
         "QUESTIONS": {
             "TITLE": "Questions",
             "TITLE_SINGLE": "Question",
-            "ADD": "Add questions",
+            "ADD": "Add question",
             "ADD_ANOTHER": "Add another question",
-            "PLACEHOLDER": "Your question here...",
-            "CHANGE_STAGE": "Add questions"
+            "PLACEHOLDER": "Write your question here...",
+            "CHANGE_STAGE": "Add question"
         },
         "RESULTS": {
             "TITLE": "Results",
@@ -547,31 +547,44 @@
         },
         "ADD_SECTION_TOOLTIP": "Add Personality Quiz"
     },
+    "MP_CUSTOM_TEMPLATE": {
+        "EDIT_IMAGE_TITLE": "Edit Image",
+        "CROP_IMAGE_TITLE": "Crop Image",
+        "EDIT_VIDEO_TITLE": "Edit Video",
+        "NEW_LABEL": "NEW!"
+    },
+    "RESTORE_ITEM": {
+        "TITLE": "We've got your back(up)! 🤖",
+        "DESCRIPTION": "We noticed that you've made some changes to your item. Would you like to restore them?",
+        "RESTORE_BUTTON": "Restore in new tab",
+        "CANCEL_BUTTON": "No thanks"
+    },
+    "DUPLICATE_SECTION_BTN": "Duplicate",
     "TRIVIA": {
         "DONE": "Done",
         "INTRODUCTIONS": {
-            "RESULTS": "Let's get started!\nAdd your trivia's end results.",
-            "QUESTIONS": "add questions and match them with your results."
+            "RESULTS": "Champ or chump? Add your trivia's final score.",
+            "QUESTIONS": "Add your first question. Bet it's a good one..."
         },
         "QUESTIONS": {
             "TITLE": "Questions",
             "TITLE_SINGLE": "Question",
-            "ADD": "Add questions",
+            "ADD": "Add question",
             "ADD_ANOTHER": "Add another question",
-            "PLACEHOLDER": "Your question here...",
-            "CHANGE_STAGE": "Add questions"
+            "PLACEHOLDER": "Write your question here...",
+            "CHANGE_STAGE": "Add question"
         },
         "FEEDBACK": {
             "TITLE": "Feedback",
-            "PLACEHOLDER": "Write your feedback here..."
+            "PLACEHOLDER": "Anything to add?"
         },
         "RESULTS": {
             "TITLE": "Final score",
             "TITLE_SINGLE": "Score",
             "ADD": "Add results",
             "ADD_ANOTHER": "Add another result",
-            "PLACEHOLDER": "Write result here...",
-            "DESC_PLACEHOLDER": "Tell us more...",
+            "PLACEHOLDER": "Tell them how they did...",
+            "DESC_PLACEHOLDER": "Tell them a bit more...",
             "CHANGE_STAGE": "Add results"
         },
         "ANSWERS": {
@@ -610,18 +623,5 @@
             }
         },
         "ADD_SECTION_TOOLTIP": "Add Trivia"
-    },
-    "MP_CUSTOM_TEMPLATE": {
-        "EDIT_IMAGE_TITLE": "Edit Image",
-        "CROP_IMAGE_TITLE": "Crop Image",
-        "EDIT_VIDEO_TITLE": "Edit Video",
-        "NEW_LABEL": "NEW!"
-    },
-    "RESTORE_ITEM": {
-        "TITLE": "We've got your back(up)! 🤖",
-        "DESCRIPTION": "We noticed that you've made some changes to your item. Would you like to restore them?",
-        "RESTORE_BUTTON": "Restore in new tab",
-        "CANCEL_BUTTON": "No thanks"
-    },
-    "DUPLICATE_SECTION_BTN": "Duplicate"
+    }
 }
