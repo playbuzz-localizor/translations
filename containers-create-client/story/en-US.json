@@ -563,8 +563,8 @@
     "TRIVIA": {
         "DONE": "Done",
         "INTRODUCTIONS": {
-            "RESULTS": "Champ or chump? Add your trivia's final score.",
-            "QUESTIONS": "Add your first question. Bet it's a good one..."
+            "RESULTS": "Champ or chump?\n\nAdd your trivia's final score.",
+            "QUESTIONS": "Add your first question.\n\n Bet it's a good one..."
         },
         "QUESTIONS": {
             "TITLE": "Questions",
