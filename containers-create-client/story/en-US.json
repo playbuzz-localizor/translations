@@ -590,19 +590,11 @@
         "ANSWERS": {
             "TITLE": "Answer",
             "ADD": "Add answer",
-            "ASSOCIATE": "Match results",
             "LAYOUTS_TOOLTIPS": {
                 "CLASSIC": "Classic",
                 "GRID": "Grid"
             },
-            "ASSOCIATION": [
-                "Unrelated",
-                "Neutral",
-                "Highly related"
-            ],
-            "ASSOCIATE_DESC": "Match this answer with one or more of the results below.",
             "MISSING_RESULTS": "You must add results first!",
-            "ASSOCIATE_PLURAL": "matched",
             "CORRECT_BUTTON": "Correct"
         },
         "REMOVE_ITEM": {
