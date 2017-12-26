@@ -225,7 +225,8 @@
                 "NONE": "Normal",
                 "NUMBER": "Numbered List",
                 "BULLET": "Bulleted List",
-                "RANK": "Interactive List"
+                "RANK": "Interactive List",
+                "DOWN": "Down Vote"
             }
         }
     },
@@ -436,7 +437,6 @@
             "ADD_ITEM": "Add Item",
             "PATTERN": "Pattern",
             "MUSIC": "Music",
-            "PACE": "Pace",
             "COLOR": "Color",
             "SETTINGS": "Settings",
             "BACKGROUND_OPTIONS": "Background Options",
@@ -449,7 +449,23 @@
             "ROUND": "Round",
             "SKEW": "Skew",
             "DIAMOND": "Diamond",
-            "COLOR_THEME": "Color Theme"
+            "COLOR_THEME": "Color Theme",
+            "SCENE_DURATION": "Scene duration"
+        },
+        "AUTO_DURATION": "Auto duration",
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Video creation - reinvented!",
+            "DESC": "Check out our AI-powered video creation tool.",
+            "DECLINE": "Maybe later",
+            "ACCEPT": "Show me"
+        },
+        "SECTION_INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Smart content deserves smart video!",
+            "DESC": "Add your content and hit \"optimize & preview \" to let our AI-powered algorithm automatically select the best layout.",
+            "DECLINE": "Got it",
+            "ACCEPT": "Learn more"
         }
     },
     "VIDEO_PLAYER": {
@@ -469,7 +485,7 @@
     "QUIZ": {
         "DONE": "Done",
         "INTRODUCTIONS": {
-            "RESULTS": "Let's get started!\nAdd your Personality Quiz's end results.",
+            "RESULTS": "Let's get started!\nAdd your Personality Quiz's end result.",
             "QUESTIONS": "Now, add questions and match them with your results."
         },
         "INTRO": {
@@ -481,10 +497,10 @@
         "QUESTIONS": {
             "TITLE": "Questions",
             "TITLE_SINGLE": "Question",
-            "ADD": "Add questions",
+            "ADD": "Add question",
             "ADD_ANOTHER": "Add another question",
-            "PLACEHOLDER": "Your question here...",
-            "CHANGE_STAGE": "Add questions"
+            "PLACEHOLDER": "Write your question here...",
+            "CHANGE_STAGE": "Add question"
         },
         "RESULTS": {
             "TITLE": "Results",
@@ -529,14 +545,7 @@
                 "PLACEHOLDER": "Enter text..."
             }
         },
-        "ADD_SECTION_TOOLTIP": "Add Personality Quiz",
-        "INTRO_BUBBLE": {
-            "NEW": "NEW!",
-            "TITLE": "Make it personal.",
-            "DESC": "Create a Personality Quiz to give readers insights on what they care about most - themselves.",
-            "GOT_IT": "Got it.",
-            "LEARN_MORE": "Learn more"
-        }
+        "ADD_SECTION_TOOLTIP": "Add Personality Quiz"
     },
     "MP_CUSTOM_TEMPLATE": {
         "EDIT_IMAGE_TITLE": "Edit Image",
@@ -550,5 +559,61 @@
         "RESTORE_BUTTON": "Restore in new tab",
         "CANCEL_BUTTON": "No thanks"
     },
-    "DUPLICATE_SECTION_BTN": "Duplicate"
+    "DUPLICATE_SECTION_BTN": "Duplicate",
+    "TRIVIA": {
+        "DONE": "Done",
+        "INTRODUCTIONS": {
+            "RESULTS": "Champ or chump?\n\nAdd your trivia's final score.",
+            "QUESTIONS": "Add your first question.\n\n Bet it's a good one..."
+        },
+        "QUESTIONS": {
+            "TITLE": "Questions",
+            "TITLE_SINGLE": "Question",
+            "ADD": "Add question",
+            "ADD_ANOTHER": "Add another question",
+            "PLACEHOLDER": "Write your question here...",
+            "CHANGE_STAGE": "Add question"
+        },
+        "FEEDBACK": {
+            "TITLE": "Feedback",
+            "PLACEHOLDER": "Anything to add?"
+        },
+        "RESULTS": {
+            "TITLE": "Final score",
+            "TITLE_SINGLE": "Score",
+            "ADD": "Add results",
+            "ADD_ANOTHER": "Add another result",
+            "PLACEHOLDER": "Tell them how they did...",
+            "DESC_PLACEHOLDER": "Tell them a bit more...",
+            "CHANGE_STAGE": "Add results"
+        },
+        "ANSWERS": {
+            "TITLE": "Answer",
+            "ADD": "Add answer",
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Classic",
+                "GRID": "Grid"
+            },
+            "MISSING_RESULTS": "You must add results first!",
+            "CORRECT_BUTTON": "Correct"
+        },
+        "REMOVE_ITEM": {
+            "TITLE": "Are you sure?",
+            "DELETE_BUTTON_TEXT": "Delete",
+            "TOOLTIP": "Delete"
+        },
+        "RESULT_ACTIONS": {
+            "CTA": {
+                "ADD": "Add Call to Action",
+                "TOOLTIP": "Call-to-action",
+                "PLACEHOLDER": "Enter text..."
+            },
+            "CONTINUE": {
+                "ADD": "Call To Action message",
+                "TOOLTIP": "Continue",
+                "PLACEHOLDER": "Enter text..."
+            }
+        },
+        "ADD_SECTION_TOOLTIP": "Add Trivia"
+    }
 }
