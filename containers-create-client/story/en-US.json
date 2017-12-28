@@ -227,7 +227,9 @@
                 "BULLET": "Bulleted List",
                 "RANK": "Interactive List",
                 "DOWN": "Down Vote"
-            }
+            },
+            "ENABLE_DOWN_VOTE": "Enable downvote",
+            "DISABLE_DOWN_VOTE": "Disable downvote"
         }
     },
     "CTA": {
