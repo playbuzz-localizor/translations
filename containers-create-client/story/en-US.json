@@ -77,13 +77,6 @@
         "TITLE": "Select your preferred creation language",
         "DONE_BUT": "Done"
     },
-    "PREVIEW": {
-        "YOUR_WEBSITE": "YOUR WEBSITE",
-        "DESKTOP": "Desktop",
-        "TABLET": "Tablet",
-        "MOBILE": "Mobile",
-        "EMBED": "Embed"
-    },
     "ONBOARDING": {
         "GALLERY_OPEN_LABEL": "See Examples",
         "CONVO": {
@@ -222,8 +215,7 @@
         "SECTION_TITLE_PLACEHOLDER": "Title",
         "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
         "LIST": {
-            "ENABLE_VOTING_SWITCH": "Enable Voting",
-            "DISABLE_VOTING_SWITCH": "Disable Voting",
+            "ENABLE_VOTING_SWITCH": "Enable voting",
             "VOTE": "Vote",
             "TYPE": {
                 "NONE": "Normal",
@@ -232,8 +224,9 @@
                 "RANK": "Interactive List",
                 "DOWN": "Down Vote"
             },
-            "ENABLE_DOWN_VOTE": "Enable downvote",
-            "DISABLE_DOWN_VOTE": "Disable downvote"
+            "ENABLE_DOWN_VOTE": "Enable downvoting",
+            "DISABLE_DOWN_VOTE": "Disable downvoting",
+            "DISABLE_VOTING_SWITCH": "Close voting"
         }
     },
     "CTA": {
@@ -470,7 +463,7 @@
             "NEW": "NEW!",
             "TITLE": "Smart content deserves smart video!",
             "DESC": "Add your content and hit \"optimize & preview \" to let our AI-powered algorithm automatically select the best layout.",
-            "DECLINE": "Got it",
+            "DECLINE": "Got It!",
             "ACCEPT": "Learn more"
         }
     },
@@ -569,8 +562,8 @@
     "TRIVIA": {
         "DONE": "Done",
         "INTRODUCTIONS": {
-            "RESULTS": "Champ or chump?\n\nAdd your trivia's final score.",
-            "QUESTIONS": "Add your first question.\n\n Bet it's a good one..."
+            "RESULTS": "Champ or chump? Add your trivia's final score.",
+            "QUESTIONS": "Add your first question. Bet it's a good one..."
         },
         "QUESTIONS": {
             "TITLE": "Questions",
@@ -621,5 +614,12 @@
             }
         },
         "ADD_SECTION_TOOLTIP": "Add Trivia"
+    },
+    "PREVIEW": {
+        "YOUR_WEBSITE": "YOUR WEBSITE",
+        "DESKTOP": "Desktop",
+        "TABLET": "Tablet",
+        "MOBILE": "Mobile",
+        "EMBED": "Grab embed code"
     }
 }
