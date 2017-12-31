@@ -220,6 +220,7 @@
         "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
         "LIST": {
             "ENABLE_VOTING_SWITCH": "Enable Voting",
+            "DISABLE_VOTING_SWITCH": "Disable Voting",
             "VOTE": "Vote",
             "TYPE": {
                 "NONE": "Normal",
