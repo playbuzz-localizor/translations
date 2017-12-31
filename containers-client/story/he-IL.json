@@ -36,8 +36,13 @@
         "READ_MORE": "לחצו להמשך",
         "CALCULATING": "מחשב תוצאה...",
         "SHARE": {
-            "I_GOT": "קיבלתי: "
+            "I_GOT": "קיבלתי:"
         }
     },
-    "Click to Flip": "לחצו וגלו"
+    "Click to Flip": "לחצו וגלו",
+    "TRIVIA_PLAY": {
+        "QUESTIONS_LEFT": "שאלות וסיימנו",
+        "BACK_LINK": "מה פספסתי?",
+        "SHARE": "{{correct}} מ {{questions}}!  {{title}}"
+    }
 }
