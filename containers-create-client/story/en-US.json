@@ -77,9 +77,12 @@
         "TITLE": "Select your preferred creation language",
         "DONE_BUT": "Done"
     },
-    "PREVIEW_MODAL": {
-        "TITLE": "Preview",
-        "CLOSE_BUT": "Close"
+    "PREVIEW": {
+        "YOUR_WEBSITE": "YOUR WEBSITE",
+        "DESKTOP": "Desktop",
+        "TABLET": "Tablet",
+        "MOBILE": "Mobile",
+        "EMBED": "Embed"
     },
     "ONBOARDING": {
         "GALLERY_OPEN_LABEL": "See Examples",
