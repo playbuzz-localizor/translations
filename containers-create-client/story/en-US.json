@@ -616,10 +616,10 @@
         "ADD_SECTION_TOOLTIP": "Add Trivia"
     },
     "PREVIEW": {
-        "YOUR_WEBSITE": "YOUR WEBSITE",
         "DESKTOP": "Desktop",
         "TABLET": "Tablet",
         "MOBILE": "Mobile",
-        "EMBED": "Grab embed code"
+        "EMBED": "Grab embed code",
+        "DRAFT_EMBED": "Yo idiot! You cant publish 'till you save!"
     }
 }
