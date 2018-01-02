@@ -69,6 +69,13 @@
         "UNSAVED_DRAFT": "Unsaved draft"
     },
     "DESCRIPTION_PLACEHOLDER": "Description",
+    "COLORS": {
+        "CANCEL_BUTTON": "Cancel",
+        "BACKGROUND": "Background",
+        "TEXT": "Text",
+        "ADDITIONAL": "Additional",
+        "PRESETS": "Presets"
+    },
     "SECTIONS_LOBBY_TITLE": "Tell Your Story",
     "STORY_TITLE_PLACEHOLDER": "Story title",
     "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
