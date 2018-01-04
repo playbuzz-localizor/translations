@@ -45,6 +45,8 @@
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Questions left",
         "BACK_LINK": "What did I miss?",
-        "SHARE": "{{correct}} of {{questions}}!  {{title}}"
+        "SHARE": {
+            "I_GOT": "I got:"
+        }
     }
 }
