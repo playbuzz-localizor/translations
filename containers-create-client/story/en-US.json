@@ -224,10 +224,9 @@
                 "RANK": "Interactive List",
                 "DOWN": "Down Vote"
             },
-            "ENABLE_DOWN_VOTE": "Enable downvoting",
+        "ENABLE_DOWN_VOTE": "Enable downvoting",
             "DISABLE_DOWN_VOTE": "Disable downvoting",
-            "DISABLE_VOTING_SWITCH": "Close voting"
-        }
+            "DISABLE_VOTING_SWITCH": "Close voting"}
     },
     "CTA": {
         "NO_EFFECT": "None",
@@ -309,7 +308,14 @@
     "VIDEO_CREATOR": {
         "PLAY": "PLAY",
         "PAUSE": "PAUSE",
-        "GALLERY_TITLE": "Pick a template",
+        "COLORS": {
+      "CANCEL_BUTTON": "Cancel",
+      "BACKGROUND": "Background",
+      "TEXT": "Text",
+      "ADDITIONAL": "Additional",
+      "PRESETS": "Presets"
+    },
+    "GALLERY_TITLE": "Pick a template",
         "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
         "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
         "SETTINGS": {
@@ -562,7 +568,7 @@
     "TRIVIA": {
         "DONE": "Done",
         "INTRODUCTIONS": {
-            "RESULTS": "Champ or chump? Add your trivia's final score.",
+            "RESULTS": "Champ or chump?Add your trivia's final score.",
             "QUESTIONS": "Add your first question. Bet it's a good one..."
         },
         "QUESTIONS": {
