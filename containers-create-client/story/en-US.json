@@ -68,9 +68,12 @@
         "PREVIEW_BUT_PENDING": "Preparing...",
         "UNSAVED_DRAFT": "Unsaved draft"
     },
-    "DESCRIPTION_PLACEHOLDER": "Description",
-    "SECTIONS_LOBBY_TITLE": "Tell Your Story",
-    "STORY_TITLE_PLACEHOLDER": "Story title",
+    "CREATOR": {
+        "TITLE_PLACEHOLDER": "Story title",
+        "DESCRIPTION_PLACEHOLDER": "Description",
+        "SECTIONS_LOBBY_TITLE": "Tell Your Story",
+        "ADD_HEADER": "Add header"
+    },
     "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
     "MODAL_LANGUAGE": {
         "NEW_LABEL": "NEW",
@@ -224,9 +227,10 @@
                 "RANK": "Interactive List",
                 "DOWN": "Down Vote"
             },
-        "ENABLE_DOWN_VOTE": "Enable downvoting",
+            "ENABLE_DOWN_VOTE": "Enable downvoting",
             "DISABLE_DOWN_VOTE": "Disable downvoting",
-            "DISABLE_VOTING_SWITCH": "Close voting"}
+            "DISABLE_VOTING_SWITCH": "Close voting"
+        }
     },
     "CTA": {
         "NO_EFFECT": "None",
@@ -309,13 +313,13 @@
         "PLAY": "PLAY",
         "PAUSE": "PAUSE",
         "COLORS": {
-      "CANCEL_BUTTON": "Cancel",
-      "BACKGROUND": "Background",
-      "TEXT": "Text",
-      "ADDITIONAL": "Additional",
-      "PRESETS": "Presets"
-    },
-    "GALLERY_TITLE": "Pick a template",
+            "CANCEL_BUTTON": "Cancel",
+            "BACKGROUND": "Background",
+            "TEXT": "Text",
+            "ADDITIONAL": "Additional",
+            "PRESETS": "Presets"
+        },
+        "GALLERY_TITLE": "Pick a template",
         "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
         "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
         "SETTINGS": {
