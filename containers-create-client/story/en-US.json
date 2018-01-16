@@ -621,7 +621,13 @@
                 "PLACEHOLDER": "Enter text..."
             }
         },
-        "ADD_SECTION_TOOLTIP": "Add Trivia"
+        "ADD_SECTION_TOOLTIP": "Add Trivia",
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Which monument is the tallest?",
+            "DESC": "Our new trivia will take your content to new heights!",
+            "SHOW_ME": "Show me"
+        }
     },
     "PREVIEW": {
         "DESKTOP": "Desktop",
