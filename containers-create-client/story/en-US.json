@@ -202,7 +202,7 @@
         "ADD_BUBBLE_TOOLTIP": "Add Bubble",
         "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
         "DELETE_MESSAGE": "Are you sure?",
-        "ADD_SECTION_TOOLTIP": "Add Convo"
+        "ADD_SECTION_TOOLTIP": "Convo"
     },
     "CREATE_MODULES": {
         "TEXT_EDITOR": {
@@ -241,7 +241,7 @@
         "BUTTON_TEXT": "Enter text...",
         "LINK_PLACEHOLDER": "Enter link...",
         "TEST_LINK_TOOLTIP": "Test link",
-        "ADD_SECTION_TOOLTIP": "Add CTA",
+        "ADD_SECTION_TOOLTIP": "CTA",
         "APPLE_LINK_PLACEHOLDER": "iOS link (optional)",
         "ANDROID_LINK_PLACEHOLDER": "Android link (optional)",
         "WEB_LINK_TOOLTIP": "Universal",
@@ -250,15 +250,15 @@
     },
     "EMBED": {
         "DESCRIPTION_PLACEHOLDER": "Description",
-        "ADD_SECTION_TOOLTIP": "Import from the web"
+        "ADD_SECTION_TOOLTIP": "From the web"
     },
     "IMAGE": {
         "CAPTION": "Image",
-        "ADD_SECTION_TOOLTIP": "Add Image"
+        "ADD_SECTION_TOOLTIP": "Image"
     },
     "PARAGRAPH": {
         "EDITOR_PLACEHOLDER": "Paragraph",
-        "ADD_SECTION_TOOLTIP": "Add Text"
+        "ADD_SECTION_TOOLTIP": "Text"
     },
     "POLL": {
         "BACKGROUND_TEMPLATE_TOOLTIP": "Background image",
@@ -294,13 +294,13 @@
         "GRID_LAYOUT_TOOLTIP": "Round results images",
         "DELETE_OPTION_BUT": "Delete option",
         "SQUARE_LAYOUT_TOOLTIP": "Square results images",
-        "ADD_SECTION_TOOLTIP": "Add Poll"
+        "ADD_SECTION_TOOLTIP": "Poll"
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Enter quote...",
         "QUOTEE_PLACEHOLDER": "Who said it?",
         "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more...",
-        "ADD_SECTION_TOOLTIP": "Add Quote"
+        "ADD_SECTION_TOOLTIP": "Quote"
     },
     "SUMMARY": {
         "ADD_ROW": "Add row",
@@ -309,7 +309,7 @@
         "NO_EFFECT": "None",
         "FADE_EFFECT": "Fade In",
         "TITLE_PLACEHOLDER": "Title",
-        "ADD_SECTION_TOOLTIP": "Add Summary Card"
+        "ADD_SECTION_TOOLTIP": "Summary Card"
     },
     "VIDEO_CREATOR": {
         "PLAY": "PLAY",
@@ -488,11 +488,11 @@
             "MUTE_SWITCH_LABEL": "Autoplay on mute",
             "CLOSE_SETTINGS": "Back to Edit"
         },
-        "ADD_SECTION_TOOLTIP": "Add Video Player"
+        "ADD_SECTION_TOOLTIP": "Video Player"
     },
     "DELETE_SECTION_BTN": "Delete",
     "FLIP_CARD": {
-        "ADD_SECTION_TOOLTIP": "Add Flip Card"
+        "ADD_SECTION_TOOLTIP": "Flip Card"
     },
     "QUIZ": {
         "DONE": "Done",
@@ -557,7 +557,7 @@
                 "PLACEHOLDER": "Enter text..."
             }
         },
-        "ADD_SECTION_TOOLTIP": "Add Personality Quiz"
+        "ADD_SECTION_TOOLTIP": "Quiz"
     },
     "MP_CUSTOM_TEMPLATE": {
         "EDIT_IMAGE_TITLE": "Edit Image",
@@ -626,7 +626,7 @@
                 "PLACEHOLDER": "Enter text..."
             }
         },
-        "ADD_SECTION_TOOLTIP": "Add Trivia"
+        "ADD_SECTION_TOOLTIP": "Trivia"
     },
     "PREVIEW": {
         "DESKTOP": "Desktop",
