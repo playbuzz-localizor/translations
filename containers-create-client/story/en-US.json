@@ -622,6 +622,12 @@
             }
         },
         "ADD_SECTION_TOOLTIP": "Add Trivia",
+        "MODES": {
+            "TRIVIA": "Trivia mode",
+            "TRIVIA_DESCRIPTION": "Get it right",
+            "CHECKLIST": "Checklist mode",
+            "CHECKLIST_DESCRIPTION": "Win some points"
+        },
         "BTN_INTRO_BUBBLE": {
             "NEW": "NEW!",
             "TITLE": "Which monument is the tallest?",
