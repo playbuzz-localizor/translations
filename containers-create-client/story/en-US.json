@@ -68,10 +68,12 @@
         "PREVIEW_BUT_PENDING": "Preparing...",
         "UNSAVED_DRAFT": "Unsaved draft"
     },
+    "DESCRIPTION_PLACEHOLDER": "Description",
     "CREATOR": {
         "TITLE_PLACEHOLDER": "Story title",
-        "DESCRIPTION_PLACEHOLDER": "Description",
-        "SECTIONS_LOBBY_TITLE": "Tell Your Story",
+        "SECTIONS_LOBBY_TITLE": "Let's get started",
+        "SECTIONS_LOBBY_SUBTITLE": "Select one of the elements below or",
+        "SECTIONS_LOBBY_SUBTITLE_TEMPLATE": "start from a template",
         "ADD_HEADER": "Add header"
     },
     "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
