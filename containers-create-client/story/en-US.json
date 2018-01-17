@@ -633,7 +633,7 @@
                 "PLACEHOLDER": "Enter text..."
             }
         },
-        "ADD_SECTION_TOOLTIP": "Trivia"
+        "ADD_SECTION_TOOLTIP": "Trivia",
         "MODES": {
             "TRIVIA": "Trivia mode",
             "TRIVIA_DESCRIPTION": "Get it right",
