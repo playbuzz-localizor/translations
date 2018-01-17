@@ -155,6 +155,13 @@
             "TEXT_3_LABEL": "Include videos and GIFs.",
             "TEXT_4_LABEL": "",
             "TITLE_LABEL": "Make it personal. "
+        },
+        "TRIVIA": {
+            "TEXT_1_LABEL": "Include videos and GIFs.",
+            "TEXT_2_LABEL": "Include a call to action.",
+            "TEXT_3_LABEL": "Create an interactive checklist.",
+            "TEXT_4_LABEL": "Give readers feedback and further.",
+            "TITLE_LABEL": "Challenge your audience."
         }
     },
     "TEMPLATES": {
@@ -627,6 +634,18 @@
             }
         },
         "ADD_SECTION_TOOLTIP": "Trivia"
+        "MODES": {
+            "TRIVIA": "Trivia mode",
+            "TRIVIA_DESCRIPTION": "Get it right",
+            "CHECKLIST": "Checklist mode",
+            "CHECKLIST_DESCRIPTION": "Win some points"
+        },
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Which monument is the tallest?",
+            "DESC": "Our new trivia will take your content to new heights!",
+            "SHOW_ME": "Show me"
+        }
     },
     "PREVIEW": {
         "DESKTOP": "Desktop",
