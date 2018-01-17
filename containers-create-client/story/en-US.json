@@ -644,7 +644,8 @@
             "NEW": "NEW!",
             "TITLE": "Which monument is the tallest?",
             "DESC": "Our new trivia will take your content to new heights!",
-            "SHOW_ME": "Show me"
+            "SHOW_ME": "Show me",
+            "GOT_IT": "Got it."
         }
     },
     "PREVIEW": {
