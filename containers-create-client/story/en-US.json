@@ -254,11 +254,11 @@
     },
     "IMAGE": {
         "CAPTION": "Image",
-        "ADD_SECTION_TOOLTIP": "Add Image"
+        "ADD_SECTION_TOOLTIP": "Image"
     },
     "PARAGRAPH": {
         "EDITOR_PLACEHOLDER": "Paragraph",
-        "ADD_SECTION_TOOLTIP": "Add Text"
+        "ADD_SECTION_TOOLTIP": "Text"
     },
     "POLL": {
         "BACKGROUND_TEMPLATE_TOOLTIP": "Background image",
@@ -294,13 +294,13 @@
         "GRID_LAYOUT_TOOLTIP": "Round results images",
         "DELETE_OPTION_BUT": "Delete option",
         "SQUARE_LAYOUT_TOOLTIP": "Square results images",
-        "ADD_SECTION_TOOLTIP": "Add Poll"
+        "ADD_SECTION_TOOLTIP": "Poll"
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Enter quote...",
         "QUOTEE_PLACEHOLDER": "Who said it?",
         "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more...",
-        "ADD_SECTION_TOOLTIP": "Add Quote"
+        "ADD_SECTION_TOOLTIP": "Quote"
     },
     "SUMMARY": {
         "ADD_ROW": "Add row",
@@ -309,7 +309,7 @@
         "NO_EFFECT": "None",
         "FADE_EFFECT": "Fade In",
         "TITLE_PLACEHOLDER": "Title",
-        "ADD_SECTION_TOOLTIP": "Add Summary Card"
+        "ADD_SECTION_TOOLTIP": "Summary Card"
     },
     "VIDEO_CREATOR": {
         "PLAY": "PLAY",
@@ -427,7 +427,7 @@
                 "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
             }
         },
-        "ADD_SECTION_TOOLTIP": "Create a video",
+        "ADD_SECTION_TOOLTIP": "Video Creator",
         "ERROR_OCCURRED_HEADER": "Error Occurred",
         "OK": "OK",
         "MISSING_CONTENT": "Please enter content first",
@@ -488,11 +488,11 @@
             "MUTE_SWITCH_LABEL": "Autoplay on mute",
             "CLOSE_SETTINGS": "Back to Edit"
         },
-        "ADD_SECTION_TOOLTIP": "Add Video Player"
+        "ADD_SECTION_TOOLTIP": "Video Player"
     },
     "DELETE_SECTION_BTN": "Delete",
     "FLIP_CARD": {
-        "ADD_SECTION_TOOLTIP": "Add Flip Card"
+        "ADD_SECTION_TOOLTIP": "Flip Card"
     },
     "QUIZ": {
         "DONE": "Done",
@@ -626,7 +626,7 @@
                 "PLACEHOLDER": "Enter text..."
             }
         },
-        "ADD_SECTION_TOOLTIP": "Add Trivia",
+        "ADD_SECTION_TOOLTIP": "Trivia",
         "MODES": {
             "TRIVIA": "Trivia Mode",
             "TRIVIA_DESCRIPTION": "Knowledge test",
