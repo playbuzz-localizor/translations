@@ -84,7 +84,7 @@
             "TEXT_3_LABEL": "Use Convo to create a list or timeline of events. Simply upload a number or date as the image for each “participant”."
         },
         "EMBED": {
-            "TITLE_LABEL": "Import media from the web.",
+            "TITLE_LABEL": "Import media from the web",
             "TEXT_1_LABEL": "Embed Google Maps to share specific locations.",
             "TEXT_2_LABEL": "Include any video from Vimeo or YouTube.",
             "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
@@ -250,7 +250,7 @@
     },
     "EMBED": {
         "DESCRIPTION_PLACEHOLDER": "Description",
-        "ADD_SECTION_TOOLTIP": "Import from the web"
+        "ADD_SECTION_TOOLTIP": "From the web"
     },
     "IMAGE": {
         "CAPTION": "Image",
