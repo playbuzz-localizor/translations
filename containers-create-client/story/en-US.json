@@ -202,7 +202,7 @@
         "ADD_BUBBLE_TOOLTIP": "Add Bubble",
         "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
         "DELETE_MESSAGE": "Are you sure?",
-        "ADD_SECTION_TOOLTIP": "Add Convo"
+        "ADD_SECTION_TOOLTIP": "Convo"
     },
     "CREATE_MODULES": {
         "TEXT_EDITOR": {
@@ -241,7 +241,7 @@
         "BUTTON_TEXT": "Enter text...",
         "LINK_PLACEHOLDER": "Enter link...",
         "TEST_LINK_TOOLTIP": "Test link",
-        "ADD_SECTION_TOOLTIP": "Add CTA",
+        "ADD_SECTION_TOOLTIP": "CTA",
         "APPLE_LINK_PLACEHOLDER": "iOS link (optional)",
         "ANDROID_LINK_PLACEHOLDER": "Android link (optional)",
         "WEB_LINK_TOOLTIP": "Universal",
