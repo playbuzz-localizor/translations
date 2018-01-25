@@ -1,5 +1,6 @@
 {
     "MP": {
+        "AUDIO_CONTROL": "Use original audio",
         "OEMBED_ERROR": "Sorry, could not load this item. please try again.",
         "FLIP_CARD": {
             "FRONT_BUT": "FRONT",
