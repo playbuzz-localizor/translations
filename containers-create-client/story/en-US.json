@@ -482,7 +482,7 @@
         "PRESETS": {
             "CUSTOM_PRESET": "Custom preset",
             "PRESET_NAME": "Preset name",
-            "RANDOM": "Random",
+            "RANDOM": "Randomize appearance",
             "SAVE_PRESET": "Save preset",
             "ADD_PRESET": "Add preset",
             "CHANNEL": "Channel",
