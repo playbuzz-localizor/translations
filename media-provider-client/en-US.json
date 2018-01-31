@@ -1,6 +1,5 @@
 {
     "MP": {
-        "AUDIO_CONTROL": "Use original audio",
         "OEMBED_ERROR": "Sorry, could not load this item. please try again.",
         "FLIP_CARD": {
             "FRONT_BUT": "FRONT",
@@ -68,7 +67,7 @@
                 "RESULTS_COUNT_LABEL": "results"
             },
             "SEARCH": {
-                "SEARCH_PLACEHOLDER": "Search...",
+                "SEARCH_PLACEHOLDER": "Search or paste a link...",
                 "LOAD_MORE_BUT": "Load more"
             },
             "IMPORT": {
@@ -80,11 +79,11 @@
                 "LINK_PAGE_TITLE": "Import from the web"
             },
             "CREDIT_PLACEHOLDER": "Type image credits...",
-            "CANCEL_BTN": "Cancel",
             "DONE_EDIT_BUT": "Done",
             "VIDEO_CREDIT_PLACEHOLDER": "Type video credits...",
             "RETURN_BUTTON": "Return",
-            "CROP_IMAGE_TITLE": "CROP IMAGE"
+            "CROP_IMAGE_TITLE": "CROP IMAGE",
+            "CANCEL_BTN": "Cancel"
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Edit",
@@ -116,19 +115,19 @@
             "COLOR_LABEL": "Text Color",
             "BACKGROUND_COLOR_LABEL": "Background Color",
             "TEXT_PLACEHOLDER": "Enter text...",
-            "TEXT_PLACEHOLDER": "Enter text...",
             "FONT_REGULAR": "Regular",
             "FONT_NARROW": "Narrow",
             "FONT_SERIF": "Serif"
         },
-        "STICKERS_LABEL": "Stickers",
-        "COLORS_LABEL": "Colors:",
-        "EMOJI_LABEL": "Emoji",
         "INTRO": {
             "NEW_LABEL": "NEW!",
             "TITLE": "Wait, there's more!",
             "TEXT": "Add style and context to your image with text, stickers, and doodles. ",
             "GOT_IT": "Got It!"
-        }
+        },
+        "STICKERS_LABEL": "Stickers",
+        "COLORS_LABEL": "Colors:",
+        "EMOJI_LABEL": "Emoji",
+        "AUDIO_CONTROL": "Use original audio"
     }
 }
