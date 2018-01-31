@@ -478,6 +478,16 @@
             "TEXT": "Text",
             "ADDITIONAL": "Additional",
             "PRESETS": "Presets"
+        },
+        "PRESETS": {
+            "CUSTOM_PRESET": "Custom preset",
+            "PRESET_NAME": "Preset name",
+            "RANDOM": "Randomize appearance",
+            "SAVE_PRESET": "Save preset",
+            "ADD_PRESET": "Add preset",
+            "CHANNEL": "Channel",
+            "SAVE_BUTTON":   "Save",
+            "CANCEL_BUTTON": "Cancel"
         }
     },
     "VIDEO_PLAYER": {
