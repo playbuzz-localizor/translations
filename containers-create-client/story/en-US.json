@@ -36,7 +36,7 @@
         },
         "ABOUT": {
             "TITLE": "What is Story?",
-            "DESCRIPTION": "Story is the first-ever article creator that enables editorial teams to break their narratives into engaging particles and deliver an interactive, visually-stunning journey to readers.",
+            "DESCRIPTION": "Story is the first-ever article creator that enables editorial teams to break their narratives into engaging elements and deliver an interactive, visually-stunning journey to readers.",
             "STEP_1": "Write your Story",
             "STEP_2": "Publish!",
             "STEP_3": "Share or instantly embed to your site",
@@ -482,11 +482,11 @@
         "PRESETS": {
             "CUSTOM_PRESET": "Custom preset",
             "PRESET_NAME": "Preset name",
-            "RANDOM": "Randomize appearance",
+            "RANDOM": "Random",
             "SAVE_PRESET": "Save preset",
             "ADD_PRESET": "Add preset",
             "CHANNEL": "Channel",
-            "SAVE_BUTTON":   "Save",
+            "SAVE_BUTTON": "Save",
             "CANCEL_BUTTON": "Cancel"
         }
     },
@@ -651,15 +651,6 @@
             "GOT_IT": "Got it."
         }
     },
-    "MEDIA": {
-        "BTN_INTRO_BUBBLE": {
-            "NEW": "NEW!",
-            "TITLE": "Images, Videos & Social Media",
-            "DESC": "All-in-one solution for all your media needs - Upload, search and paste media links.",
-            "SHOW_ME": "Show me",
-            "GOT_IT": "Got it."
-        }      
-    },
     "PREVIEW": {
         "DESKTOP": "Desktop",
         "TABLET": "Tablet",
@@ -674,5 +665,14 @@
         "SECTIONS_LOBBY_SUBTITLE_TEMPLATE": "start from a template",
         "ADD_HEADER": "Add header",
         "ADD_MORE_STORY": "You're in the zone. Keep going!"
+    },
+    "MEDIA": {
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Media Merge! 📣",
+            "DESC": "Search, upload, or paste links to find the perfect video, image GIF and social media post.",
+            "SHOW_ME": "Show me",
+            "GOT_IT": "Got it."
+        }
     }
 }
