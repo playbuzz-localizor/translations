@@ -78,6 +78,7 @@
                 "SUBMIT_BUT": "Go",
                 "LINK_PAGE_TITLE": "Import from the web"
             },
+            "LINK_SOURCE_TITLE": "We support these media URLs:",
             "CREDIT_PLACEHOLDER": "Type image credits...",
             "DONE_EDIT_BUT": "Done",
             "VIDEO_CREDIT_PLACEHOLDER": "Type video credits...",

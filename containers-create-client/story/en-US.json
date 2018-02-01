@@ -651,6 +651,15 @@
             "GOT_IT": "Got it."
         }
     },
+    "MEDIA": {
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Images, Videos & Social Media",
+            "DESC": "All-in-one solution for all your media needs - Upload, search and paste media links.",
+            "SHOW_ME": "Show me",
+            "GOT_IT": "Got it."
+        }      
+    },
     "PREVIEW": {
         "DESKTOP": "Desktop",
         "TABLET": "Tablet",
