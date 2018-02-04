@@ -673,6 +673,7 @@
             "DESC": "Search, upload, or paste links to find the perfect video, image GIF and social media post.",
             "SHOW_ME": "Show me",
             "GOT_IT": "Got it."
-        }
+        },
+        "ADD_SECTION_TOOLTIP": "Media"
     }
 }
