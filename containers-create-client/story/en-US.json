@@ -89,18 +89,6 @@
             "TEXT_2_LABEL": "Create the perfect “before and after” experience.",
             "TEXT_3_LABEL": "Warn readers about graphic content or spoilers."
         },
-        "MEDIA": {
-            "TITLE_LABEL": "Search, upload, or paste links to find the perfect video, image GIF and social media post.",
-            "TEXT_1_LABEL": "Blur images to add mystery and hide graphic content or spoilers.",
-            "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
-            "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not.",
-            "TEXT_4_LABEL": "Embed Google Maps to share specific locations.",
-            "TEXT_5_LABEL": "Include any video from Vimeo or YouTube.",
-            "TEXT_6_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
-            "TEXT_7_LABEL": "Embed Instagram posts to make your content more visually stunning.",
-            "TEXT_8_LABEL": "Use any video on Vimeo to make your article more interesting.",
-            "TEXT_9_LABEL": "Use any video on Youtube to make your article more interesting."
-        },
         "PARAGRAPH": {
             "TITLE_LABEL": "Use text to form the base for your article.",
             "TEXT_1_LABEL": "Highlight the most important parts.",
@@ -149,6 +137,18 @@
             "TEXT_3_LABEL": "Give readers feedback and further insights. ",
             "TEXT_4_LABEL": "Give readers feedback and further.",
             "TITLE_LABEL": "Challenge your audience."
+        },
+        "MEDIA": {
+            "TITLE_LABEL": "Search, upload, or paste links to add the perfect videos, images, GIFs and social media posts.",
+            "TEXT_1_LABEL": "Blur images to add mystery and hide graphic content or spoilers.",
+            "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
+            "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not.",
+            "TEXT_4_LABEL": "Embed Google Maps to share specific locations.",
+            "TEXT_5_LABEL": "Include any video from Vimeo or YouTube.",
+            "TEXT_6_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
+            "TEXT_7_LABEL": "Embed Instagram posts to make your content more visually stunning.",
+            "TEXT_8_LABEL": "Use any video on Vimeo to make your article more interesting.",
+            "TEXT_9_LABEL": "Use any video on Youtube to make your article more interesting."
         }
     },
     "TEMPLATES": {
@@ -663,10 +663,10 @@
     "MEDIA": {
         "BTN_INTRO_BUBBLE": {
             "NEW": "NEW!",
-            "TITLE": "Media Merge! 📣",
-            "DESC": "Search, upload, or paste links to find the perfect video, image GIF and social media post.",
+            "TITLE": "Insert All Media Here!👇",
+            "DESC": "Search, upload, or paste links to add the perfect videos, images, GIFs and social media posts.",
             "SHOW_ME": "Show me",
-            "GOT_IT": "Got it."
+            "GOT_IT": "Got It"
         },
         "ADD_SECTION_TOOLTIP": "Media"
     }
