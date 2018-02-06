@@ -24,7 +24,7 @@
         "MODAL": {
             "RESULT_ERROR": "Ops! Não foi possível fazer o upload",
             "ADD_TITLE": "Adicionar mídia",
-            "EDIT_IMAGE_TITLE": "Edit Image",
+            "EDIT_IMAGE_TITLE": "Editar imagem",
             "EDIT_VIDEO_TITLE": "Editar vídeo",
             "MENU": {
                 "SEARCH_GROUP_TITLE": "PROCURAR",
@@ -82,7 +82,8 @@
             "DONE_EDIT_BUT": "Feito",
             "VIDEO_CREDIT_PLACEHOLDER": "Escreva os créditos do vídeo...",
             "RETURN_BUTTON": "Voltar",
-            "CROP_IMAGE_TITLE": "Cortar imagem"
+            "CROP_IMAGE_TITLE": "Cortar imagem",
+            "CANCEL_BTN": "Cancelar"
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Editar",
@@ -113,16 +114,20 @@
             "ADD_LABEL": "Adicionar texto",
             "COLOR_LABEL": "Cor do texto",
             "BACKGROUND_COLOR_LABEL": "Cor do fundo",
-            "TEXT_PLACEHOLDER": "Escreva o texto..."
-        },
-        "STICKERS": {
-            "TITLE": "Adesivos"
+            "TEXT_PLACEHOLDER": "Escreva o texto...",
+            "FONT_REGULAR": "Normal",
+            "FONT_NARROW": "Itálico",
+            "FONT_SERIF": "Serifa"
         },
         "INTRO": {
             "NEW_LABEL": "NOVO!",
             "TITLE": "Espere, tem mais!",
             "TEXT": "Acrescente estilo e contexto à sua imagem com texto, adesivos e desenhos.",
             "GOT_IT": "Entendi!"
-        }
+        },
+        "STICKERS_LABEL": "Adesivos",
+        "COLORS_LABEL": "Cores:",
+        "EMOJI_LABEL": "Emoji",
+        "AUDIO_CONTROL": "Usar áudio original"
     }
 }

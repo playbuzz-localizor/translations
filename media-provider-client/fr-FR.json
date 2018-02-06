@@ -127,6 +127,7 @@
         },
         "STICKERS_LABEL": "Stickers",
         "COLORS_LABEL": "Couleurs:",
-        "EMOJI_LABEL": "Emoji"
+        "EMOJI_LABEL": "Emoji",
+        "AUDIO_CONTROL": "Utiliser le son original "
     }
 }

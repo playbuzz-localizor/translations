@@ -36,7 +36,7 @@
         },
         "ABOUT": {
             "TITLE": "What is Story?",
-            "DESCRIPTION": "Story is the first-ever article creator that enables editorial teams to break their narratives into engaging particles and deliver an interactive, visually-stunning journey to readers.",
+            "DESCRIPTION": "Story is the first-ever article creator that enables editorial teams to break their narratives into engaging elements and deliver an interactive, visually-stunning journey to readers.",
             "STEP_1": "Write your Story",
             "STEP_2": "Publish!",
             "STEP_3": "Share or instantly embed to your site",
@@ -155,6 +155,18 @@
             "TEXT_3_LABEL": "Give readers feedback and further insights. ",
             "TEXT_4_LABEL": "Give readers feedback and further.",
             "TITLE_LABEL": "Challenge your audience."
+        },
+        "MEDIA": {
+            "TITLE_LABEL": "Search, upload, or paste links to add the perfect videos, images, GIFs and social media posts.",
+            "TEXT_1_LABEL": "Blur images to add mystery and hide graphic content or spoilers.",
+            "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
+            "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not.",
+            "TEXT_4_LABEL": "Embed Google Maps to share specific locations.",
+            "TEXT_5_LABEL": "Include any video from Vimeo or YouTube.",
+            "TEXT_6_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
+            "TEXT_7_LABEL": "Embed Instagram posts to make your content more visually stunning.",
+            "TEXT_8_LABEL": "Use any video on Vimeo to make your article more interesting.",
+            "TEXT_9_LABEL": "Use any video on Youtube to make your article more interesting."
         }
     },
     "TEMPLATES": {
@@ -427,7 +439,7 @@
                 "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
             }
         },
-        "ADD_SECTION_TOOLTIP": "Video Creator",
+        "ADD_SECTION_TOOLTIP": "Playbuzz Video",
         "ERROR_OCCURRED_HEADER": "Error Occurred",
         "OK": "OK",
         "MISSING_CONTENT": "Please enter content first",
@@ -482,11 +494,11 @@
         "PRESETS": {
             "CUSTOM_PRESET": "Custom preset",
             "PRESET_NAME": "Preset name",
-            "RANDOM": "Randomize appearance",
+            "RANDOM": "Random",
             "SAVE_PRESET": "Save preset",
             "ADD_PRESET": "Add preset",
             "CHANNEL": "Channel",
-            "SAVE_BUTTON":   "Save",
+            "SAVE_BUTTON": "Save",
             "CANCEL_BUTTON": "Cancel"
         }
     },
@@ -665,5 +677,15 @@
         "SECTIONS_LOBBY_SUBTITLE_TEMPLATE": "start from a template",
         "ADD_HEADER": "Add header",
         "ADD_MORE_STORY": "You're in the zone. Keep going!"
+    },
+    "MEDIA": {
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Insert All Media Here!👇",
+            "DESC": "Search, upload, or paste links to add the perfect videos, images, GIFs and social media posts.",
+            "SHOW_ME": "Show me",
+            "GOT_IT": "Got It"
+        },
+        "ADD_SECTION_TOOLTIP": "Media"
     }
 }

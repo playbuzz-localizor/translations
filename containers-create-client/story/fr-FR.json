@@ -83,24 +83,11 @@
             "TEXT_2_LABEL": "Choisissez le template Convo que vous souhaitez. Par exemple, ici le template \"conversation messenger iOS\".",
             "TEXT_3_LABEL": "Utilisez Convo pour créer une liste ou la timeline d'un évènement. Téléchargez simplement des numéros ou des dates en photo de profil de chaque \"participant\"."
         },
-        "EMBED": {
-            "TITLE_LABEL": "Importer des contenus depuis internet",
-            "TEXT_1_LABEL": "Insérer un plan Google Maps et indiquer une localisation précise à vos lecteurs.",
-            "TEXT_2_LABEL": "Insérer n'importe quelle vidéo depuis Vimeo dans votre article.",
-            "TEXT_3_LABEL": "Insérer des posts Twitter pour rendre votre contenu plus vivant.",
-            "TEXT_4_LABEL": "Insérer des posts Instagram pour plus d'impact visuel dans votre contenu."
-        },
         "FLIP_CARD": {
             "TITLE_LABEL": "Surprenez vos lecteurs en affichant des images ou du texte qui se retournent par un simple clic.",
             "TEXT_1_LABEL": "TEXT_1_LABEL",
             "TEXT_2_LABEL": "Utilisez les Flip Card pour révéler quelque chose de surprenant, distrayant ou choquant à vos lecteurs. Une bonne manière d'exploiter les Flip Card est aussi la confrontation avant/après.",
             "TEXT_3_LABEL": "Utilisez les Flip Card pour filtrer ce que les lecteurs peuvent voir. Donnez leur le choix, par exemple, d'accéder ou non à des contenus réservés aux adultes."
-        },
-        "IMAGE": {
-            "TITLE_LABEL": "Ajouter des images impactantes et rendez l'effet de surprise encore plus grand grâce à l'effet de flou ou de zoom.",
-            "TEXT_1_LABEL": "Surprenez vos lecteurs en floutant une image. Le fait de devoir cliquer sur l'image pour la faire apparaître offre une expérience intéractive et engageante à votre lecteur.",
-            "TEXT_2_LABEL": "Attirer l'attention de vos lecteurs sur un point précis d'une image grâce à l'effet de zoom.",
-            "TEXT_3_LABEL": "Utilisez l'effet de flou sur vos images pour donner le choix à vos lecteurs de dévoiler ou non les contenus visuels."
         },
         "PARAGRAPH": {
             "TITLE_LABEL": "Utilisez la fonction texte pour structurer votre Story.",
@@ -137,11 +124,6 @@
             "TEXT_5_LABEL": "Chaque diapositive dans le template Facts possède une large zone de texte par dessus l'image de fond.",
             "TEXT_6_LABEL": "Utilisez le template Swift pour créer une vidéo plus rapide avec une diapositive d'introduction annonçant visuellement les prochaines diapositives de la vidéo."
         },
-        "VIDEO_PLAYER": {
-            "TITLE_LABEL": "Enrichissez votre Story avec des vidéos.",
-            "TEXT_1_LABEL": "Ajoutez n'importe quelle vidéo Vimeo pour rendre votre article plus intéressant.",
-            "TEXT_2_LABEL": "Ajoutez n'importe quelle vidéo Youtube pour rendre votre article plus intéressant."
-        },
         "QUIZ": {
             "TEXT_1_LABEL": "Éclairez les lecteurs sur ce qui les intéressent le plus - eux-mêmes. ",
             "TEXT_2_LABEL": "Choisissez une palette de couleur pour votre test de personnalité.",
@@ -155,6 +137,18 @@
             "TEXT_3_LABEL": "Donner à vos lecteurs des informations supplémentaires",
             "TEXT_4_LABEL": "Donner à vos lecteurs des informations supplémentaires",
             "TITLE_LABEL": "Défiez vos lecteurs !"
+        },
+        "MEDIA": {
+            "TITLE_LABEL": "Rechercher, télécharger, copier des liens à ajouter à vos créations vidéos, images, GIFS et posts.",
+            "TEXT_1_LABEL": "Flouter des images pour rajouter une touche de mystère, ou cacher des spoilers.",
+            "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
+            "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not.",
+            "TEXT_4_LABEL": "Embed Google Maps to share specific locations.",
+            "TEXT_5_LABEL": "Include any video from Vimeo or YouTube.",
+            "TEXT_6_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
+            "TEXT_7_LABEL": "Embed Instagram posts to make your content more visually stunning.",
+            "TEXT_8_LABEL": "Use any video on Vimeo to make your article more interesting.",
+            "TEXT_9_LABEL": "Use any video on Youtube to make your article more interesting."
         }
     },
     "TEMPLATES": {
@@ -478,6 +472,16 @@
             "TEXT": "Texte",
             "ADDITIONAL": "Transition",
             "PRESETS": "Pré-selection"
+        },
+        "PRESETS": {
+            "CUSTOM_PRESET": "Template personnalisé",
+            "PRESET_NAME": "Nom du Template ",
+            "RANDOM": "Aléatoire",
+            "SAVE_PRESET": "Sauvegarder un Template",
+            "ADD_PRESET": "Ajouter un Template",
+            "CHANNEL": "Compte",
+            "SAVE_BUTTON": "Sauvegarder",
+            "CANCEL_BUTTON": "Annuler"
         }
     },
     "VIDEO_PLAYER": {
@@ -655,5 +659,15 @@
         "SECTIONS_LOBBY_SUBTITLE_TEMPLATE": "utilisez un Template",
         "ADD_HEADER": "Ajouter l'en-tête",
         "ADD_MORE_STORY": "Ne vous arrêtez pas en si bon chemin !"
+    },
+    "MEDIA": {
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NOUVEAU !",
+            "TITLE": "Insérer tous les médias ici !👇",
+            "DESC": "Rechercher, télécharger, copier des liens à ajouter à vos créations vidéos, images, GIFS et posts.",
+            "SHOW_ME": "Montrez moi !",
+            "GOT_IT": "Compris"
+        },
+        "ADD_SECTION_TOOLTIP": "Média"
     }
 }
