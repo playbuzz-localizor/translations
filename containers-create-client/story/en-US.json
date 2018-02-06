@@ -83,11 +83,24 @@
             "TEXT_2_LABEL": "Use the Convo template that looks and feels like iOS messenger.",
             "TEXT_3_LABEL": "Use Convo to create a list or timeline of events. Simply upload a number or date as the image for each “participant”."
         },
+        "EMBED": {
+            "TITLE_LABEL": "Import media from the web",
+            "TEXT_1_LABEL": "Embed Google Maps to share specific locations.",
+            "TEXT_2_LABEL": "Include any video from Vimeo or YouTube.",
+            "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
+            "TEXT_4_LABEL": "Embed Instagram posts to make your content more visually stunning."
+        },
         "FLIP_CARD": {
             "TITLE_LABEL": "Invite readers to click and reveal the other side.",
             "TEXT_1_LABEL": "",
             "TEXT_2_LABEL": "Create the perfect “before and after” experience.",
             "TEXT_3_LABEL": "Warn readers about graphic content or spoilers."
+        },
+        "IMAGE": {
+            "TITLE_LABEL": "Add eye-catching visuals and effects.",
+            "TEXT_1_LABEL": "Blur images to add mystery and hide graphic content or spoilers.",
+            "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
+            "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not."
         },
         "PARAGRAPH": {
             "TITLE_LABEL": "Use text to form the base for your article.",
@@ -123,6 +136,11 @@
             "TEXT_4_LABEL": "Use the Facts template to list facts about something important to your readers.",
             "TEXT_5_LABEL": "Each slide in a Facts video has large text over a background image.",
             "TEXT_6_LABEL": "Use the Swift template to create a quicker video with a an intro screen that automatically pulls visuals from all of your video’s slides."
+        },
+        "VIDEO_PLAYER": {
+            "TITLE_LABEL": "Enrich your article with videos.",
+            "TEXT_1_LABEL": "Use any video on Vimeo to make your article more interesting.",
+            "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
         },
         "QUIZ": {
             "TEXT_1_LABEL": "Give readers insights on what they care about most - themselves. ",
