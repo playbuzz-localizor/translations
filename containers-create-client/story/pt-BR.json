@@ -65,20 +65,15 @@
             "LOGGED_OUT": "Por favor, faça login novamente",
             "BLOCKED": "O seu usuário está bloqueado"
         },
-        "PREVIEW_BUT_PENDING": "Preparando..."
+        "PREVIEW_BUT_PENDING": "Preparando...",
+        "UNSAVED_DRAFT": "Rascunho não salvo"
     },
     "DESCRIPTION_PLACEHOLDER": "Descrição",
-    "SECTIONS_LOBBY_TITLE": "Conte a sua história",
-    "STORY_TITLE_PLACEHOLDER": "Título do Story",
     "DELETE_SECTION_MESSAGE": "Tem certeza de que quer apagar isso?",
     "MODAL_LANGUAGE": {
         "NEW_LABEL": "NOVO",
         "TITLE": "Selecione seu idioma preferido para criação",
         "DONE_BUT": "Pronto"
-    },
-    "PREVIEW_MODAL": {
-        "TITLE": "Preview",
-        "CLOSE_BUT": "Fechar"
     },
     "ONBOARDING": {
         "GALLERY_OPEN_LABEL": "Confira exemplos",
@@ -88,24 +83,11 @@
             "TEXT_2_LABEL": "Use o template Convo que lembra o messenger do iOS.",
             "TEXT_3_LABEL": "Use Convo para criar uma lista ou cronograma de eventos. Basta colocar um número ou uma data como imagem para cada \"participante\"."
         },
-        "EMBED": {
-            "TITLE_LABEL": "Importe mídia da web.",
-            "TEXT_1_LABEL": "Incorpore mapas do Google para mostrar aos seus leitores um local específico.",
-            "TEXT_2_LABEL": "Inclua qualquer vídeo do Vimeo no seu artigo.",
-            "TEXT_3_LABEL": "Incorpore postagens no Twitter para tornar o seu conteúdo mais interessante e envolvente.",
-            "TEXT_4_LABEL": "Insira postagens do Instagram para tornar o seu conteúdo visualmente deslumbrante."
-        },
         "FLIP_CARD": {
             "TITLE_LABEL": "Surpreenda seus leitores exibindo imagens e cartões de texto que eles podem clicar para revelar o outro lado.",
             "TEXT_1_LABEL": "",
             "TEXT_2_LABEL": "Use os cartões que viram para revelar algo aos seus leitores. Surpreenda, choque e entretenha! Isso também é ótimo para comparações \"antes e depois\"!",
             "TEXT_3_LABEL": "Use os cartões que viram para filtrar o que seus leitores veem. Forneça-lhes a opção para decidir se eles querem ver conteúdo adulto ou não. "
-        },
-        "IMAGE": {
-            "TITLE_LABEL": "Adicione imagens incríveis e valorize ainda mais o aspecto visual com efeito desfocado ou zoom",
-            "TEXT_1_LABEL": "Surpreenda os seus leitores desfocando uma imagem. Instigá-los a clicar para revelar a imagem cria uma experiência interativa e engajadora com o conteúdo!",
-            "TEXT_2_LABEL": "Atraia a atenção de seus leitores para o ponto focal de uma imagem usando o filtro Zoom.",
-            "TEXT_3_LABEL": "Use o efeito de desfoque para dar aos leitores a opção de decidir se querem ver o conteúdo gráfico ou não."
         },
         "PARAGRAPH": {
             "TITLE_LABEL": "Use texto para formar a base da sua história.",
@@ -142,10 +124,31 @@
             "TEXT_5_LABEL": "Cada slide em um vídeo de Fatos tem texto maior sobre uma imagem de plano de fundo.",
             "TEXT_6_LABEL": "Use o modelo Swift para criar um vídeo mais rápido com uma tela de introdução que puxa automaticamente os recursos visuais de todos os slides do seu vídeo."
         },
-        "VIDEO_PLAYER": {
-            "TITLE_LABEL": "Enriqueça sua história com vídeos.",
-            "TEXT_1_LABEL": "Use qualquer vídeo no Vimeo para tornar o seu artigo mais interessante.",
-            "TEXT_2_LABEL": "Use qualquer vídeo no YouTube para tornar o seu artigo mais interessante."
+        "QUIZ": {
+            "TEXT_1_LABEL": "Dê insights aos usuários sobre aquilo que eles mais gostam – eles mesmos.",
+            "TEXT_2_LABEL": "Escolha uma paleta de cores para o seu quiz.",
+            "TEXT_3_LABEL": "Inclua vídeos e GIFs.",
+            "TEXT_4_LABEL": "",
+            "TITLE_LABEL": "Leve para o lado pessoal, sim."
+        },
+        "TRIVIA": {
+            "TEXT_1_LABEL": "Inclua vídeos e GIFs.",
+            "TEXT_2_LABEL": "Inclua um \"call to action.",
+            "TEXT_3_LABEL": "Ofereça feedback e insights aos usuários. ",
+            "TEXT_4_LABEL": "Ofereça feedback e mais aos usuários.",
+            "TITLE_LABEL": "Desafie o seu público."
+        },
+        "MEDIA": {
+            "TITLE_LABEL": "Pesquise, faça upload ou cole links para adicionar vídeos, imagens, GIFs e posts das redes sociais perfeitos.",
+            "TEXT_1_LABEL": "Desfoque imagens para criar mistério, além de ocultar conteúdos gráficos ou spoilers.",
+            "TEXT_2_LABEL": "Acrescente movimento à sua imagem com o efeito de zoom.",
+            "TEXT_3_LABEL": "Use o efeito de desfoque para que os leitores escolham se querem visualizar o conteúdo ou não.",
+            "TEXT_4_LABEL": "Embede Google Maps para mostrar localizações específicas.",
+            "TEXT_5_LABEL": "Inclua qualquer vídeo do Vimeo ou YouTube.",
+            "TEXT_6_LABEL": "Embede posts do Twitter para tornar o seu conteúdo mais interessante e engajador.",
+            "TEXT_7_LABEL": "Embede posts do Instagram para deixar seu conteúdo visualmente impactante.",
+            "TEXT_8_LABEL": "Use qualquer vídeo do Vimeo para deixar seu artigo mais interessante. ",
+            "TEXT_9_LABEL": "Use qualquer vídeo do YouTube para deixar seu artigo mais interessante. "
         }
     },
     "TEMPLATES": {
@@ -217,8 +220,12 @@
                 "NONE": "Normal",
                 "NUMBER": "Lista numerada",
                 "BULLET": "Lista em tópicos",
-                "RANK": "Lista interativa"
-            }
+                "RANK": "Lista interativa",
+                "DOWN": "Voto negativo"
+            },
+            "ENABLE_DOWN_VOTE": "Permitir voto negativo",
+            "DISABLE_DOWN_VOTE": "Desativar voto negativo",
+            "DISABLE_VOTING_SWITCH": "Encerrar votação"
         }
     },
     "CTA": {
@@ -310,7 +317,8 @@
             "MUTE_SWITCH_LABEL": "Iniciar a reprodução sem som",
             "LOGO_LABEL": "Logo personalizado",
             "CLOSE_SETTINGS": "Voltar para editar",
-            "LOGO_DESCRIPTION": "Carregue o seu próprio logo para aumentar seu brand awareness"
+            "LOGO_DESCRIPTION": "Carregue o seu próprio logo para aumentar seu brand awareness",
+            "ENABLE_LOGO_ACROSS_VIDEO": "Exibir logo ao longo do vídeo"
         },
         "PREVIEW_BUT": "Preview do vídeo",
         "NOT_SUPPORTED_LABEL": "Não suportado",
@@ -413,7 +421,68 @@
                 "FACT_REQUIRED_VALIDATION_MSG": "É necessário inserir um fato"
             }
         },
-        "ADD_SECTION_TOOLTIP": "Criar um vídeo"
+        "ADD_SECTION_TOOLTIP": "Criar um vídeo",
+        "ERROR_OCCURRED_HEADER": "Ocorreu um erro",
+        "OK": "OK",
+        "MISSING_CONTENT": "Por favor, insira primeiro o conteúdo",
+        "CATEGORIES_NAMES": {
+            "MAGICAL": "Mágica",
+            "LISTS": "Lista",
+            "COMPARISON": "Comparação"
+        },
+        "TOOLTIPS": {
+            "LAYOUT_SELECTION": "Escolha do layout",
+            "FONT": "Fonte",
+            "ADD_ITEM": "Adicionar item",
+            "PATTERN": "Textura",
+            "MUSIC": "Música",
+            "COLOR": "Cor",
+            "SETTINGS": "Configurações",
+            "BACKGROUND_OPTIONS": "Opções de fundo",
+            "NONE": "Nenhum.",
+            "SOLID": "Sólido",
+            "SEMI_TRANSPARENT": "Semitransparente",
+            "TEXT_BACKGROUND_BLOCKS": "Fundo das caixas de texto",
+            "BLUR": "Desfoque",
+            "SQUARE": "Quadrado",
+            "ROUND": "Redondo",
+            "SKEW": "Assimétrico",
+            "DIAMOND": "Diamante",
+            "COLOR_THEME": "Cor",
+            "SCENE_DURATION": "Duração da cena"
+        },
+        "AUTO_DURATION": "Duração automática",
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NOVO!",
+            "TITLE": "Criação de vídeos – reinventada!",
+            "DESC": "Confira a nossa ferramenta de vídeos baseada em Inteligência Artificial.",
+            "DECLINE": "Talvez depois",
+            "ACCEPT": "Quero ver"
+        },
+        "SECTION_INTRO_BUBBLE": {
+            "NEW": "NOVO!",
+            "TITLE": "Conteúdo inteligente merece vídeo inteligente!",
+            "DESC": "Adicione o seu conteúdo e clique sobre \"otimização e preview\" para o nosso algoritmo de IA selecionar o melhor layout.",
+            "DECLINE": "Entendi!",
+            "ACCEPT": "Saiba mais"
+        },
+        "COLORS": {
+            "CANCEL_BUTTON": "Cancelar",
+            "BACKGROUND": "Fundo",
+            "TEXT": "Texto",
+            "ADDITIONAL": "Extra",
+            "PRESETS": "Predefinidas"
+        },
+        "PRESETS": {
+            "CUSTOM_PRESET": "Pré-configuração customizada",
+            "PRESET_NAME": "Nome da pré-configuração",
+            "RANDOM": "Aleatório",
+            "SAVE_PRESET": "Salvar pré-configuração",
+            "ADD_PRESET": "Adicionar pré-configuração",
+            "CHANNEL": "Canal",
+            "SAVE_BUTTON": "Salvar",
+            "CANCEL_BUTTON": "Cancelar"
+        }
     },
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Descrição",
@@ -470,7 +539,10 @@
                 "Sem associação",
                 "Neutro",
                 "Forte associação"
-            ]
+            ],
+            "ASSOCIATE_DESC": "Escolha quais resultados estão associados com esta alternativa ",
+            "MISSING_RESULTS": "Você precisa adicionar resultados antes",
+            "ASSOCIATE_PLURAL": "Associações"
         },
         "REMOVE_ITEM": {
             "TITLE": "Você tem certeza?",
@@ -488,6 +560,114 @@
                 "TOOLTIP": "Continuar",
                 "PLACEHOLDER": "Inserir texto..."
             }
+        },
+        "ADD_SECTION_TOOLTIP": "Adicionar quiz"
+    },
+    "MP_CUSTOM_TEMPLATE": {
+        "EDIT_IMAGE_TITLE": "Editar imagem",
+        "CROP_IMAGE_TITLE": "Cortar imagem",
+        "EDIT_VIDEO_TITLE": "Editar vídeo",
+        "NEW_LABEL": "NOVO!"
+    },
+    "RESTORE_ITEM": {
+        "TITLE": "A gente cuida do seu conteúdo!",
+        "DESCRIPTION": "Reparamos que você fez alterações no seu item depois da última publicação. Você gostaria de recuperar essas mudanças?",
+        "RESTORE_BUTTON": "Recuperar em nova aba",
+        "CANCEL_BUTTON": "Não, obrigado"
+    },
+    "DUPLICATE_SECTION_BTN": "Duplicar",
+    "TRIVIA": {
+        "DONE": "Feito",
+        "INTRODUCTIONS": {
+            "RESULTS": "Campeão ou azarão? Adicione os resultados finais da sua trivia.",
+            "QUESTIONS": "Adicione a sua primeira pergunta. Aposto que será uma boa..."
+        },
+        "QUESTIONS": {
+            "TITLE": "Perguntas",
+            "TITLE_SINGLE": "Pergunta",
+            "ADD": "Adicionar pergunta",
+            "ADD_ANOTHER": "Adicionar outra pergunta",
+            "PLACEHOLDER": "Escreva sua pergunta aqui...",
+            "CHANGE_STAGE": "Adicionar pergunta"
+        },
+        "FEEDBACK": {
+            "TITLE": "Feedback",
+            "PLACEHOLDER": "Quer acrescentar algo?"
+        },
+        "RESULTS": {
+            "TITLE": "Pontuação final",
+            "TITLE_SINGLE": "Pontuação",
+            "ADD": "Adicionar resultados",
+            "ADD_ANOTHER": "Adicionar outro resultado",
+            "PLACEHOLDER": "Fale como eles se saíram...",
+            "DESC_PLACEHOLDER": "Fale um pouco mais...",
+            "CHANGE_STAGE": "Adicionar resultados"
+        },
+        "ANSWERS": {
+            "TITLE": "Resposta",
+            "ADD": "Adicionar resposta",
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Clássico",
+                "GRID": "Grid"
+            },
+            "MISSING_RESULTS": "Você precisa adicionar resultados primeiro!",
+            "CORRECT_BUTTON": "Certo"
+        },
+        "REMOVE_ITEM": {
+            "TITLE": "Você tem certeza?",
+            "DELETE_BUTTON_TEXT": "Apagar",
+            "TOOLTIP": "Apagar"
+        },
+        "RESULT_ACTIONS": {
+            "CTA": {
+                "ADD": "Adicionar \"call to action\"",
+                "TOOLTIP": "Call-to-action",
+                "PLACEHOLDER": "Adicionar texto..."
+            },
+            "CONTINUE": {
+                "ADD": "Mensagem de \"call to action\"",
+                "TOOLTIP": "Continuar",
+                "PLACEHOLDER": "Adicionar texto..."
+            }
+        },
+        "ADD_SECTION_TOOLTIP": "Trivia",
+        "MODES": {
+            "TRIVIA": "Modo Trivia",
+            "TRIVIA_DESCRIPTION": "Teste de conhecimento",
+            "CHECKLIST": "Modo +1",
+            "CHECKLIST_DESCRIPTION": "Contagem de pontos"
+        },
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NOVO!",
+            "TITLE": "Qual monumento é o mais alto?",
+            "DESC": "A nossa nova trivia vai levar o seu conteúdo às alturas!",
+            "SHOW_ME": "Quero ver",
+            "GOT_IT": "Entendi."
         }
+    },
+    "PREVIEW": {
+        "DESKTOP": "Desktop",
+        "TABLET": "Tablet",
+        "MOBILE": "Mobile",
+        "EMBED": "Pegar código de embed",
+        "DRAFT_EMBED": "🤓  Ainda não – antes, publique o seu rascunho!"
+    },
+    "CREATOR": {
+        "TITLE_PLACEHOLDER": "Título do Story",
+        "SECTIONS_LOBBY_TITLE": "Vamos começar!",
+        "SECTIONS_LOBBY_SUBTITLE": "Escolha um dos elementos abaixo ou",
+        "SECTIONS_LOBBY_SUBTITLE_TEMPLATE": "comece a criar a partir de um template",
+        "ADD_HEADER": "Adicionar topo",
+        "ADD_MORE_STORY": "Você está pura inspiração. Continue assim!"
+    },
+    "MEDIA": {
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NOVO!",
+            "TITLE": "Insira todos os arquivos de mídia aqui! 👇",
+            "DESC": "Pesquise, faça upload ou cole links diretos para adicionar vídeos, imagens, GIFs e posts das redes sociais perfeitos.",
+            "SHOW_ME": "Quero ver",
+            "GOT_IT": "Entendi"
+        },
+        "ADD_SECTION_TOOLTIP": "Mídia"
     }
 }
