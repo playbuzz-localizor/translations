@@ -66,7 +66,8 @@
             "BLOCKED": "Your user is blocked"
         },
         "PREVIEW_BUT_PENDING": "Preparing...",
-        "UNSAVED_DRAFT": "Unsaved draft"
+        "UNSAVED_DRAFT": "Unsaved draft",
+        "EMBED": "Embed"
     },
     "DESCRIPTION_PLACEHOLDER": "Description",
     "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
@@ -666,9 +667,7 @@
     "PREVIEW": {
         "DESKTOP": "Desktop",
         "TABLET": "Tablet",
-        "MOBILE": "Mobile",
-        "EMBED": "Grab embed code",
-        "DRAFT_EMBED": "🤓  Not yet - first publish your draft!"
+        "MOBILE": "Mobile"
     },
     "CREATOR": {
         "TITLE_PLACEHOLDER": "Story title",
