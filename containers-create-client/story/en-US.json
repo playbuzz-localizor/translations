@@ -686,5 +686,17 @@
             "GOT_IT": "Got It"
         },
         "ADD_SECTION_TOOLTIP": "Media"
+    },
+    "STORY_EMBED": {
+        "COPY_CODE": "Copy code",
+        "COPIED": "Copied!",
+        "ADVANCED_SETTINGS": "Advanced Settings",
+        "SHOW_INFO_TITLE": "Display item information",
+        "SHOW_INFO_DESCRIPTION": "Show item cover, title, description and creator.",
+        "SHOW_SHARE_TITLE": "Display share buttons",
+        "SHOW_SHARE_DESCRIPTION": "Shares will link to your page.",
+        "COPY_LINK": "Copy link",
+        "ITEM_ANALYTICS": "Item Analytics",
+        "VIEW_ITEM": "View item"
     }
 }
