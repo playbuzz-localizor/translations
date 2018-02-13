@@ -66,7 +66,8 @@
             "BLOCKED": "Your user is blocked"
         },
         "PREVIEW_BUT_PENDING": "Preparing...",
-        "UNSAVED_DRAFT": "Unsaved draft"
+        "UNSAVED_DRAFT": "Unsaved draft",
+        "EMBED": "Embed"
     },
     "DESCRIPTION_PLACEHOLDER": "Description",
     "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
@@ -666,9 +667,7 @@
     "PREVIEW": {
         "DESKTOP": "Desktop",
         "TABLET": "Tablet",
-        "MOBILE": "Mobile",
-        "EMBED": "Grab embed code",
-        "DRAFT_EMBED": "🤓  Not yet - first publish your draft!"
+        "MOBILE": "Mobile"
     },
     "CREATOR": {
         "TITLE_PLACEHOLDER": "Story title",
@@ -687,5 +686,17 @@
             "GOT_IT": "Got It"
         },
         "ADD_SECTION_TOOLTIP": "Media"
+    },
+    "STORY_EMBED": {
+        "COPY_CODE": "Copy code",
+        "COPIED": "Copied!",
+        "ADVANCED_SETTINGS": "Advanced Settings",
+        "SHOW_INFO_TITLE": "Display item information",
+        "SHOW_INFO_DESCRIPTION": "Show item cover, title, description and creator.",
+        "SHOW_SHARE_TITLE": "Display share buttons",
+        "SHOW_SHARE_DESCRIPTION": "Shares will link to your page.",
+        "COPY_LINK": "Copy link",
+        "ITEM_ANALYTICS": "Item Analytics",
+        "VIEW_ITEM": "View item"
     }
 }
