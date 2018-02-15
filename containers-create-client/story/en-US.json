@@ -706,5 +706,9 @@
         "COPY_LINK": "Copy link",
         "ITEM_ANALYTICS": "Item Analytics",
         "VIEW_ITEM": "View item"
+    },
+    "PUBLISH": {
+        "HEADER": "Your story has been published!",
+        "ONLY_ME": "Only you can see this item."
     }
 }
