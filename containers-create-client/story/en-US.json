@@ -685,7 +685,15 @@
             "SHOW_ME": "Show me",
             "GOT_IT": "Got It"
         },
-        "ADD_SECTION_TOOLTIP": "Media"
+        "ADD_SECTION_TOOLTIP": "Media",
+        "BATCH_UPLOAD": {
+            "INTRO": {
+                "NEW": "NEW!",
+                "HEADER": "Upload multiple files at once!",
+                "DESCRIPTION": "Now you can upload all your files to your story in a single, effortless way.",
+                "GOT_IT": "Got it!"
+            }
+        }
     },
     "STORY_EMBED": {
         "COPY_CODE": "Copy code",
