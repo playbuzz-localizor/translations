@@ -709,7 +709,8 @@
         "VIEW_ITEM": "View item"
     },
     "PUBLISH": {
-        "HEADER": "Your story has been published!",
+        "HEADER": "Published!",
+        "SUB_HEADER": "Now, take your story anywhere.",
         "ONLY_ME": "Only you can see this item."
     }
 }
