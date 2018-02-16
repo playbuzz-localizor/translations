@@ -693,6 +693,9 @@
                 "DESCRIPTION": "Now you can upload all your files to your story in a single, effortless way.",
                 "GOT_IT": "Got it!"
             }
+        },
+        "SETTINGS": {
+            "MUTE_SWITCH_LABEL": "Autoplay on mute"
         }
     },
     "STORY_EMBED": {
