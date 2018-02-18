@@ -680,7 +680,7 @@
     "MEDIA": {
         "BTN_INTRO_BUBBLE": {
             "NEW": "NEW!",
-            "TITLE": "Insert All Media Here!👇",
+            "TITLE": "Insert all media here!👇",
             "DESC": "Search, upload, or paste links to add the perfect videos, images, GIFs and social media posts.",
             "SHOW_ME": "Show me",
             "GOT_IT": "Got It"
@@ -699,18 +699,18 @@
         "COPY_CODE": "Copy Code",
         "COPIED": "Copied!",
         "ADVANCED_SETTINGS": "Advanced Settings",
-        "SHOW_INFO_TITLE": "Display item details",
-        "SHOW_INFO_DESCRIPTION": "Show item's cover image, title, description, and author.",
+        "SHOW_INFO_TITLE": "Display story details",
+        "SHOW_INFO_DESCRIPTION": "Show story's cover image, title, description, and author.",
         "SHOW_SHARE_TITLE": "Display share buttons",
         "SHOW_SHARE_DESCRIPTION": "Shares will link to your domain.",
         "COPY_LINK": "Copy Link",
         "ITEM_ANALYTICS": "Track Performance",
-        "VIEW_ITEM": "See How It Looks"
+        "VIEW_ITEM": "View Story"
     },
     "PUBLISH": {
         "HEADER": "Published!",
         "ONLY_ME": "Only you can see this item.",
         "SUB_HEADER": "Now, take your story anywhere."
     },
-    "DRAG_AND_DROP_SECTION_BTN": "Drag to Reorder"
+    "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder"
 }
