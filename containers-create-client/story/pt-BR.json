@@ -66,7 +66,8 @@
             "BLOCKED": "O seu usuário está bloqueado"
         },
         "PREVIEW_BUT_PENDING": "Preparando...",
-        "UNSAVED_DRAFT": "Rascunho não salvo"
+        "UNSAVED_DRAFT": "Rascunho não salvo",
+        "EMBED": "Embed"
     },
     "DESCRIPTION_PLACEHOLDER": "Descrição",
     "DELETE_SECTION_MESSAGE": "Tem certeza de que quer apagar isso?",
@@ -149,6 +150,24 @@
             "TEXT_7_LABEL": "Embede posts do Instagram para deixar seu conteúdo visualmente impactante.",
             "TEXT_8_LABEL": "Use qualquer vídeo do Vimeo para deixar seu artigo mais interessante. ",
             "TEXT_9_LABEL": "Use qualquer vídeo do YouTube para deixar seu artigo mais interessante. "
+        },
+        "EMBED": {
+            "TITLE_LABEL": "Importar mídia da web",
+            "TEXT_1_LABEL": "Use embeds do Google Maps para compartilhar localizações específicas.",
+            "TEXT_2_LABEL": "Adicione qualquer vídeo do Vimeo ou do YouTube.",
+            "TEXT_3_LABEL": "Inclua posts do Twitter para tornar o seu conteúdo mais interessante e engajador.",
+            "TEXT_4_LABEL": "Inclua posts do Twitter para tornar o seu conteúdo mais interessante e engajador."
+        },
+        "IMAGE": {
+            "TITLE_LABEL": "Acrescente efeitos visuais que prendem a atenção do usuário.",
+            "TEXT_1_LABEL": "Desfoque imagens para adicionar mistério ou ocultar conteúdos específicos, como spoilers.",
+            "TEXT_2_LABEL": "Adicione movimento à sua imagem com o efeito de zoom. ",
+            "TEXT_3_LABEL": "Use o efeito de desfoque para permitir que os usuários decidam se querem ver o conteúdo gráfico ou não. "
+        },
+        "VIDEO_PLAYER": {
+            "TITLE_LABEL": "Turbine o seu conteúdo com vídeos. ",
+            "TEXT_1_LABEL": "Use qualquer vídeo do Vimeo para tornar seu artigo mais interessante.",
+            "TEXT_2_LABEL": "Use qualquer vídeo do YouTube para tornar seu artigo mais interessante."
         }
     },
     "TEMPLATES": {
@@ -648,9 +667,7 @@
     "PREVIEW": {
         "DESKTOP": "Desktop",
         "TABLET": "Tablet",
-        "MOBILE": "Mobile",
-        "EMBED": "Pegar código de embed",
-        "DRAFT_EMBED": "🤓  Ainda não – antes, publique o seu rascunho!"
+        "MOBILE": "Mobile"
     },
     "CREATOR": {
         "TITLE_PLACEHOLDER": "Título do Story",
@@ -668,6 +685,35 @@
             "SHOW_ME": "Quero ver",
             "GOT_IT": "Entendi"
         },
-        "ADD_SECTION_TOOLTIP": "Mídia"
-    }
+        "ADD_SECTION_TOOLTIP": "Mídia",
+        "BATCH_UPLOAD": {
+            "INTRO": {
+                "NEW": "NOVO!",
+                "HEADER": "Faça upload de vários arquivos ao mesmo tempo!",
+                "DESCRIPTION": "Agora, você pode carregar todos os arquivos de mídia no seu conteúdo de forma mais fácil.",
+                "GOT_IT": "Entendi!"
+            }
+        },
+        "SETTINGS": {
+            "MUTE_SWITCH_LABEL": "Reprodução automática sem som"
+        }
+    },
+    "STORY_EMBED": {
+        "COPY_CODE": "Copiar código",
+        "COPIED": "Copiado!",
+        "ADVANCED_SETTINGS": "Configurações avançadas",
+        "SHOW_INFO_TITLE": "Exibir informações do conteúdo",
+        "SHOW_INFO_DESCRIPTION": "Mostrar imagem de topo, título, subtítulo e autor do Story.",
+        "SHOW_SHARE_TITLE": "Exibir botões de compartilhamento",
+        "SHOW_SHARE_DESCRIPTION": "Os compartilhamentos levarão para o seu site.",
+        "COPY_LINK": "Copiar link",
+        "ITEM_ANALYTICS": "Acompanhar performance",
+        "VIEW_ITEM": "Visualizar Story"
+    },
+    "PUBLISH": {
+        "HEADER": "Publicado!",
+        "ONLY_ME": "Só você consegue ver este conteúdo.",
+        "SUB_HEADER": "Agora, leve a sua história para onde quiser."
+    },
+    "DRAG_AND_DROP_SECTION_BTN": "Arraste para reordenar"
 }
