@@ -228,7 +228,11 @@
             "GOOD_INDICATION": "GOOD",
             "NORMAL_INDICATION": "O.K",
             "BAD_INDICATION": "LITTLE TOO LONG",
-            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read"
+            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read",
+            "SIZE_SMALL": "Small",
+            "SIZE_NORMAL": "Normal",
+            "SIZE_LARGE": "Large",
+            "SIZE_HUGE": "Huge"
         },
         "SECTION_TITLE_PLACEHOLDER": "Title",
         "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
