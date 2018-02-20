@@ -46,7 +46,7 @@
         "QUESTIONS_LEFT": "Questions left",
         "BACK_LINK": "What did I miss?",
         "SHARE": {
-            "I_GOT": "I got:"
+            "I_GOT": "I got: {{correct}} of {{questions}}!"
         }
     }
 }

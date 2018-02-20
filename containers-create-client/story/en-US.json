@@ -66,7 +66,8 @@
             "BLOCKED": "Your user is blocked"
         },
         "PREVIEW_BUT_PENDING": "Preparing...",
-        "UNSAVED_DRAFT": "Unsaved draft"
+        "UNSAVED_DRAFT": "Unsaved draft",
+        "EMBED": "Embed"
     },
     "DESCRIPTION_PLACEHOLDER": "Description",
     "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
@@ -83,24 +84,11 @@
             "TEXT_2_LABEL": "Use the Convo template that looks and feels like iOS messenger.",
             "TEXT_3_LABEL": "Use Convo to create a list or timeline of events. Simply upload a number or date as the image for each “participant”."
         },
-        "EMBED": {
-            "TITLE_LABEL": "Import media from the web",
-            "TEXT_1_LABEL": "Embed Google Maps to share specific locations.",
-            "TEXT_2_LABEL": "Include any video from Vimeo or YouTube.",
-            "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
-            "TEXT_4_LABEL": "Embed Instagram posts to make your content more visually stunning."
-        },
         "FLIP_CARD": {
             "TITLE_LABEL": "Invite readers to click and reveal the other side.",
             "TEXT_1_LABEL": "",
             "TEXT_2_LABEL": "Create the perfect “before and after” experience.",
             "TEXT_3_LABEL": "Warn readers about graphic content or spoilers."
-        },
-        "IMAGE": {
-            "TITLE_LABEL": "Add eye-catching visuals and effects.",
-            "TEXT_1_LABEL": "Blur images to add mystery and hide graphic content or spoilers.",
-            "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
-            "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not."
         },
         "PARAGRAPH": {
             "TITLE_LABEL": "Use text to form the base for your article.",
@@ -137,11 +125,6 @@
             "TEXT_5_LABEL": "Each slide in a Facts video has large text over a background image.",
             "TEXT_6_LABEL": "Use the Swift template to create a quicker video with a an intro screen that automatically pulls visuals from all of your video’s slides."
         },
-        "VIDEO_PLAYER": {
-            "TITLE_LABEL": "Enrich your article with videos.",
-            "TEXT_1_LABEL": "Use any video on Vimeo to make your article more interesting.",
-            "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
-        },
         "QUIZ": {
             "TEXT_1_LABEL": "Give readers insights on what they care about most - themselves. ",
             "TEXT_2_LABEL": "Choose a color-palette for your Personality Quiz.",
@@ -167,6 +150,24 @@
             "TEXT_7_LABEL": "Embed Instagram posts to make your content more visually stunning.",
             "TEXT_8_LABEL": "Use any video on Vimeo to make your article more interesting.",
             "TEXT_9_LABEL": "Use any video on Youtube to make your article more interesting."
+        },
+        "EMBED": {
+            "TITLE_LABEL": "Import media from the web",
+            "TEXT_1_LABEL": "Embed Google Maps to share specific locations.",
+            "TEXT_2_LABEL": "Include any video from Vimeo or YouTube.",
+            "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
+            "TEXT_4_LABEL": "Embed Instagram posts to make your content more visually stunning."
+        },
+        "IMAGE": {
+            "TITLE_LABEL": "Add eye-catching visuals and effects.",
+            "TEXT_1_LABEL": "Blur images to add mystery and hide graphic content or spoilers.",
+            "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
+            "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not."
+        },
+        "VIDEO_PLAYER": {
+            "TITLE_LABEL": "Enrich your article with videos.",
+            "TEXT_1_LABEL": "Use any video on Vimeo to make your article more interesting.",
+            "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
         }
     },
     "TEMPLATES": {
@@ -666,9 +667,7 @@
     "PREVIEW": {
         "DESKTOP": "Desktop",
         "TABLET": "Tablet",
-        "MOBILE": "Mobile",
-        "EMBED": "Grab embed code",
-        "DRAFT_EMBED": "🤓  Not yet - first publish your draft!"
+        "MOBILE": "Mobile"
     },
     "CREATOR": {
         "TITLE_PLACEHOLDER": "Story title",
@@ -681,11 +680,40 @@
     "MEDIA": {
         "BTN_INTRO_BUBBLE": {
             "NEW": "NEW!",
-            "TITLE": "Insert All Media Here!👇",
+            "TITLE": "Insert all media here!👇",
             "DESC": "Search, upload, or paste links to add the perfect videos, images, GIFs and social media posts.",
             "SHOW_ME": "Show me",
             "GOT_IT": "Got It"
         },
-        "ADD_SECTION_TOOLTIP": "Media"
-    }
+        "ADD_SECTION_TOOLTIP": "Media",
+        "BATCH_UPLOAD": {
+            "INTRO": {
+                "NEW": "NEW!",
+                "HEADER": "Upload multiple files at once!",
+                "DESCRIPTION": "Now you can upload all your files to your story in a single, effortless way.",
+                "GOT_IT": "Got it!"
+            }
+        },
+        "SETTINGS": {
+            "MUTE_SWITCH_LABEL": "Autoplay on mute"
+        }
+    },
+    "STORY_EMBED": {
+        "COPY_CODE": "Copy Code",
+        "COPIED": "Copied!",
+        "ADVANCED_SETTINGS": "Advanced Settings",
+        "SHOW_INFO_TITLE": "Display story details",
+        "SHOW_INFO_DESCRIPTION": "Show story's cover image, title, description, and author.",
+        "SHOW_SHARE_TITLE": "Display share buttons",
+        "SHOW_SHARE_DESCRIPTION": "Shares will link to your domain.",
+        "COPY_LINK": "Copy Link",
+        "ITEM_ANALYTICS": "Track Performance",
+        "VIEW_ITEM": "View Story"
+    },
+    "PUBLISH": {
+        "HEADER": "Published!",
+        "ONLY_ME": "Only you can see this item.",
+        "SUB_HEADER": "Now, take your story anywhere."
+    },
+    "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder"
 }
