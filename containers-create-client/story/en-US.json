@@ -696,6 +696,11 @@
                 "HEADER": "Upload multiple files at once!",
                 "DESCRIPTION": "Now you can upload all your files to your story in a single, effortless way.",
                 "GOT_IT": "Got it!"
+            },
+            "ORGANIZER": {
+                "TITLE": "Insert as..",
+                "DRAG_TO_UPLOAD": "Drop your files to upload",
+                "DRAG_TO_REORDER": "Drag to reorder"
             }
         },
         "SETTINGS": {
@@ -719,5 +724,8 @@
         "ONLY_ME": "Only you can see this item.",
         "SUB_HEADER": "Now, take your story anywhere."
     },
-    "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder"
+    "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder",
+    "BATCH_UPLOAD": {
+
+    }
 }
