@@ -705,7 +705,8 @@
             "ORGANIZER": {
                 "TITLE": "Insert as..",
                 "DRAG_TO_UPLOAD": "Drop your files to upload",
-                "DRAG_TO_REORDER": "Drag to reorder"
+                "DRAG_TO_REORDER": "Drag to reorder",
+                "INSERT": "Insert"
             }
         },
         "SETTINGS": {
