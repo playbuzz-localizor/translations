@@ -729,8 +729,5 @@
         "ONLY_ME": "Only you can see this item.",
         "SUB_HEADER": "Now, take your story anywhere."
     },
-    "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder",
-    "BATCH_UPLOAD": {
-
-    }
+    "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder"
 }
