@@ -240,7 +240,7 @@
             "ENABLE_VOTING_SWITCH": "Enable voting",
             "VOTE": "Vote",
             "TYPE": {
-                "NONE": "Normal",
+                "NONE": "Standalone",
                 "NUMBER": "Numbered List",
                 "BULLET": "Bulleted List",
                 "RANK": "Interactive List",
@@ -681,9 +681,9 @@
         "ADD_HEADER": "Add header",
         "ADD_MORE_STORY": "You're in the zone. Keep going!",
         "MEDIA_DROP_ABTEST": {
-            "ADD_SECTIONS_DROP_MESSAGE": "Drop your media to upload",
-            "SECTIONS_LOBBY_TITLE": "Upload / drop files",
-            "SECTIONS_LOBBY_SUBTITLE": "or select one of the elements"
+            "ADD_SECTIONS_DROP_MESSAGE": "Got media? Drop files anywhere to upload.",
+            "SECTIONS_LOBBY_TITLE": "Got media? Drop to upload",
+            "SECTIONS_LOBBY_SUBTITLE": "or select one of the elements to get started."
         }
     },
     "MEDIA": {
@@ -698,9 +698,9 @@
         "BATCH_UPLOAD": {
             "INTRO": {
                 "NEW": "NEW!",
-                "HEADER": "Upload multiple files at once!",
-                "DESCRIPTION": "Now you can upload all your files to your story in a single, effortless way.",
-                "GOT_IT": "Got it!"
+                "HEADER": "Yummm!",
+                "DESCRIPTION": "You can now upload all of your media files at the same time, in one effortless stroke.",
+                "GOT_IT": "Got It"
             },
             "ORGANIZER": {
                 "TITLE": "Insert as..",
