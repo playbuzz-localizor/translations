@@ -63,7 +63,8 @@
             "SAVE_FAILED": "Failed to Save",
             "COVER_UNSUPPORTED_FORMAT": "Cover photo failed to upload. Try another file!",
             "LOGGED_OUT": "Please re-login",
-            "BLOCKED": "Your user is blocked"
+            "BLOCKED": "Your user is blocked",
+            "DIFFERENT_CHANNEL": "You don't have permissions to edit this item"
         },
         "PREVIEW_BUT_PENDING": "Preparing...",
         "UNSAVED_DRAFT": "Unsaved draft",
