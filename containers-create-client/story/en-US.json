@@ -233,6 +233,7 @@
             "SIZE_SMALL": "Small",
             "SIZE_NORMAL": "Normal",
             "SIZE_LARGE": "Large",
+            "SIZE_TITLE": "Title",
             "SIZE_HUGE": "Huge"
         },
         "SECTION_TITLE_PLACEHOLDER": "Title",
