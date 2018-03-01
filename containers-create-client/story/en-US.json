@@ -662,6 +662,12 @@
             "CHECKLIST": "+1 Mode",
             "CHECKLIST_DESCRIPTION": "Points tally"
         },
+        "TYPES": {
+            "OPEN": "Open trivia",
+            "OPEN_DESCRIPTION": "Includes feedback",
+            "CLOSED": "Closed trivia",
+            "CLOSED_DESCRIPTION": "Doesn't include feedback"
+        },
         "BTN_INTRO_BUBBLE": {
             "NEW": "NEW!",
             "TITLE": "Which monument is the tallest?",
