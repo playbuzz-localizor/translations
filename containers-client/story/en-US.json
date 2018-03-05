@@ -45,6 +45,7 @@
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Questions left",
         "BACK_LINK": "What did I miss?",
+        "CALCULATING": "The trivia will continue right after this ad...",
         "SHARE": {
             "I_GOT": "I got: {{correct}} of {{questions}}!"
         }
