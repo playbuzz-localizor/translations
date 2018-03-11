@@ -343,7 +343,10 @@
             "LOGO_LABEL": "Custom Logo",
             "CLOSE_SETTINGS": "Back to Edit",
             "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness",
-            "ENABLE_LOGO_ACROSS_VIDEO": "Show logo during video"
+            "ENABLE_LOGO_ACROSS_VIDEO": "Show logo during video",
+            "TEMPLATE": "Template",
+            "ASPECT_RATIO": "Aspect Ratio",
+            "DEFINE_BY_DEVICE": "Defined by device (desktop/mobile)"
         },
         "PREVIEW_BUT": "Preview Video",
         "NOT_SUPPORTED_LABEL": "Not Supported",
