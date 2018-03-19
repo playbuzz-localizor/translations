@@ -30,7 +30,8 @@
                 "SEARCH_GROUP_TITLE": "SEARCH",
                 "IMPORT_GROUP_TITLE": "IMPORT",
                 "FILE_LABEL": "Upload",
-                "LINK_LABEL": "From the Web"
+                "LINK_LABEL": "From the Web",
+                "RECENTS_TITLE": "Recents"
             },
             "GETTY": {
                 "LOGIN_DESC_FIRST_ROW": "Search Playbuzz’s Getty Images library or",
