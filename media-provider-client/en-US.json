@@ -71,6 +71,9 @@
                 "SEARCH_PLACEHOLDER": "Search or paste a link...",
                 "LOAD_MORE_BUT": "Load more"
             },
+            "RECENT": {
+                "EMPTY_LABEL": "All you recently used media will appear here for later reuse"
+            },
             "IMPORT": {
                 "UPLOAD_LINK": "Upload",
                 "DROP_FILE_TITLE": "or drop a file",
