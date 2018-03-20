@@ -86,7 +86,7 @@
             "CROP_IMAGE_TITLE": "CROP IMAGE",
             "CANCEL_BTN": "Cancel",
             "RECENT": {
-                "EMPTY_LABEL": "All you recently used media will appear here for later reuse",
+                "EMPTY_LABEL": "But your first step is adding an image ...",
                 "EMPTY_LABEL_TITLE": "\"Kid, you'll move mountains!\""
             }
         },
