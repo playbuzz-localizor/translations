@@ -72,7 +72,8 @@
                 "LOAD_MORE_BUT": "Load more"
             },
             "RECENT": {
-                "EMPTY_LABEL": "All your recently used media will appear here for later reuse"
+                "EMPTY_LABEL_TITLE": "\"Kid, you'll move mountains!\"",
+                "EMPTY_LABEL": "But your first step is adding an image (or a video)..."
             },
             "IMPORT": {
                 "UPLOAD_LINK": "Upload",
