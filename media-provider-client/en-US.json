@@ -71,24 +71,24 @@
                 "SEARCH_PLACEHOLDER": "Search or paste a link...",
                 "LOAD_MORE_BUT": "Load more"
             },
-            "RECENT": {
-                "EMPTY_LABEL_TITLE": "\"Kid, you'll move mountains!\"",
-                "EMPTY_LABEL": "But your first step is adding an image (or a video)..."
-            },
             "IMPORT": {
                 "UPLOAD_LINK": "Upload",
                 "DROP_FILE_TITLE": "or drop a file",
                 "LINK_PLACEHOLDER": "Got a direct media link?",
                 "INFO_LABEL": "Media recommendations",
                 "SUBMIT_BUT": "Go",
-                "LINK_PAGE_TITLE": "We are very supportive :)"
+                "LINK_PAGE_TITLE": "From the web"
             },
             "CREDIT_PLACEHOLDER": "Type image credits...",
             "DONE_EDIT_BUT": "Done",
             "VIDEO_CREDIT_PLACEHOLDER": "Type video credits...",
             "RETURN_BUTTON": "Return",
             "CROP_IMAGE_TITLE": "CROP IMAGE",
-            "CANCEL_BTN": "Cancel"
+            "CANCEL_BTN": "Cancel",
+            "RECENT": {
+                "EMPTY_LABEL": "All you recently used media will appear here for later reuse",
+                "EMPTY_LABEL_TITLE": "\"Kid, you'll move mountains!\""
+            }
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Edit",
