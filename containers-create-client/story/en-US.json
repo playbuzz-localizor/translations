@@ -233,8 +233,8 @@
             "SIZE_SMALL": "Small",
             "SIZE_NORMAL": "Normal",
             "SIZE_LARGE": "Large",
-            "SIZE_TITLE": "Title",
-            "SIZE_HUGE": "Huge"
+            "SIZE_HUGE": "Huge",
+            "SIZE_TITLE": "Title"
         },
         "SECTION_TITLE_PLACEHOLDER": "Title",
         "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
@@ -665,18 +665,18 @@
             "CHECKLIST": "+1 Mode",
             "CHECKLIST_DESCRIPTION": "Points tally"
         },
-        "LAYOUTS": {
-            "OPEN": "Open trivia",
-            "OPEN_DESCRIPTION": "Includes feedback",
-            "CLOSE": "Closed trivia",
-            "CLOSE_DESCRIPTION": "Doesn't include feedback"
-        },
         "BTN_INTRO_BUBBLE": {
             "NEW": "NEW!",
             "TITLE": "Which monument is the tallest?",
             "DESC": "Our new trivia will take your content to new heights!",
             "SHOW_ME": "Show me",
             "GOT_IT": "Got it."
+        },
+        "LAYOUTS": {
+            "OPEN": "List Layout",
+            "OPEN_DESCRIPTION": "All questions shown",
+            "CLOSE": "Slideshow Layout",
+            "CLOSE_DESCRIPTION": "Questions shown one by one"
         }
     },
     "PREVIEW": {
