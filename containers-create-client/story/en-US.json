@@ -349,9 +349,12 @@
             "ASPECT_RATIO": "Aspect Ratio",
             "DEFINE_BY_DEVICE": "Defined by device (desktop/mobile)"
         },
+        "PREVIEW_VIDEO": {
+            "FULL_VIDEO": "Preview full video",
+            "FROM_CURRENT_SCENE": "Preview from current scene"
+        },
         "PREVIEW_BUT": "Preview Video",
         "NOT_SUPPORTED_LABEL": "Not Supported",
-        "PREVIEW_CURRENT_POSITION": "Preview from current scene",
         "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly.",
         "REMOVE_SCENE": {
             "TITLE": "Are you sure ?",
