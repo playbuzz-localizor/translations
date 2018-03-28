@@ -282,8 +282,8 @@
     },
     "TIP": {
         "SECURITY": {
-            "PRO_TIP": "Pro tip! ",
-            "ENABLE_CAPTCHA": "For added security, enable the Captcha feature in ",
+            "PRO_TIP": "Pro tip!",
+            "ENABLE_CAPTCHA": "For added security, enable the Captcha feature in",
             "SETTINGS": "settings"
         }
     },
