@@ -280,6 +280,13 @@
         "EDITOR_PLACEHOLDER": "Paragraph",
         "ADD_SECTION_TOOLTIP": "Text"
     },
+    "TIP": {
+        "SECURITY": {
+            "PRO_TIP": "Pro tip! ",
+            "ENABLE_CAPTCHA": "For added security, enable the Captcha feature in ",
+            "SETTINGS": "settings"
+        }
+    },
     "POLL": {
         "BACKGROUND_TEMPLATE_TOOLTIP": "Background image",
         "COVER_TEMPLATE_TOOLTIP": "Cover image",
