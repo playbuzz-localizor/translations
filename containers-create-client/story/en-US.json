@@ -246,7 +246,8 @@
                 "NUMBER": "Numbered List",
                 "BULLET": "Bulleted List",
                 "RANK": "Interactive List",
-                "DOWN": "Down Vote"
+                "DOWN": "Down Vote",
+                "VIDEO": "Video"
             },
             "ENABLE_DOWN_VOTE": "Enable downvoting",
             "DISABLE_DOWN_VOTE": "Disable downvoting",
@@ -347,6 +348,10 @@
             "TEMPLATE": "Template",
             "ASPECT_RATIO": "Aspect Ratio",
             "DEFINE_BY_DEVICE": "Defined by device (desktop/mobile)"
+        },
+        "PREVIEW_VIDEO": {
+            "FULL_VIDEO": "Preview full video",
+            "FROM_CURRENT_SCENE": "Preview from current scene"
         },
         "PREVIEW_BUT": "Preview Video",
         "NOT_SUPPORTED_LABEL": "Not Supported",
@@ -510,6 +515,12 @@
             "CHANNEL": "Channel",
             "SAVE_BUTTON": "Save",
             "CANCEL_BUTTON": "Cancel"
+        },
+        "BATCH_UPLOAD": {
+            "ORGANIZER": {
+                "MARK": "Mark",
+                "UNMARK": "Unmark"
+            }
         }
     },
     "VIDEO_PLAYER": {
