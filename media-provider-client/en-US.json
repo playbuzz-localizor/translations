@@ -126,10 +126,10 @@
         },
         "INTRO": {
             "NEW_LABEL": "NEW!",
-            "TITLE": "Check, please!",
+            "TITLE": "👉 Check, please!",
             "TEXT": "Search, insert and organize all of your story's media at once.",
-            "TEXT_2": "Thank us later",
-            "GOT_IT": "Check It Out"
+            "GOT_IT": "Got It!",
+            "TEXT_2": "Thank us later."
         },
         "STICKERS_LABEL": "Stickers",
         "COLORS_LABEL": "Colors:",
@@ -137,4 +137,3 @@
         "AUDIO_CONTROL": "Use original audio"
     }
 }
-
