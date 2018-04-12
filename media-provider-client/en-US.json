@@ -86,6 +86,8 @@
             "CROP_IMAGE_TITLE": "CROP IMAGE",
             "CANCEL_BTN": "Cancel",
             "RECENT": {
+                "ALL": "ALL",
+                "VIDEO_CREATIONS": "Video Creations",
                 "EMPTY_LABEL": "But your first step is adding an image ...",
                 "EMPTY_LABEL_TITLE": "\"Kid, you'll move mountains!\""
             }
