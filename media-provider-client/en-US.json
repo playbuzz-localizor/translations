@@ -127,8 +127,9 @@
         "INTRO": {
             "NEW_LABEL": "NEW!",
             "TITLE": "Check, please!",
-            "TEXT": "Add and organize all your media at once. Thank us later.",
-            "GOT_IT": "Got It!"
+            "TEXT": "Search, insert and organize all of your story's media at once.",
+            "TEXT_2": "Thank us later",
+            "GOT_IT": "Check It Out"
         },
         "STICKERS_LABEL": "Stickers",
         "COLORS_LABEL": "Colors:",
@@ -136,3 +137,4 @@
         "AUDIO_CONTROL": "Use original audio"
     }
 }
+
