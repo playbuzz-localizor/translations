@@ -280,13 +280,6 @@
         "EDITOR_PLACEHOLDER": "Paragraph",
         "ADD_SECTION_TOOLTIP": "Text"
     },
-    "TIP": {
-        "SECURITY": {
-            "PRO_TIP": "Pro tip!",
-            "ENABLE_CAPTCHA": "For added security, enable the Captcha feature in",
-            "SETTINGS": "settings"
-        }
-    },
     "POLL": {
         "BACKGROUND_TEMPLATE_TOOLTIP": "Background image",
         "COVER_TEMPLATE_TOOLTIP": "Cover image",
@@ -314,7 +307,7 @@
             },
             "ALLOW_REVOTES_SWITCH": "Readers can re-vote daily",
             "HIDE_RESULTS_SWITCH": "Hide poll results",
-            "SECURED_SWITCH": "Enable secure poll",
+            "SECURED_SWITCH": "Enable Google reCAPTCHA",
             "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save."
         },
         "CLASSIC_LAYOUT_TOOLTIP": "Classic bar results",
@@ -355,10 +348,6 @@
             "TEMPLATE": "Template",
             "ASPECT_RATIO": "Aspect Ratio",
             "DEFINE_BY_DEVICE": "Defined by device (desktop/mobile)"
-        },
-        "PREVIEW_VIDEO": {
-            "FULL_VIDEO": "Preview full video",
-            "FROM_CURRENT_SCENE": "Preview from current scene"
         },
         "PREVIEW_BUT": "Preview Video",
         "NOT_SUPPORTED_LABEL": "Not Supported",
@@ -528,6 +517,10 @@
                 "MARK": "Mark",
                 "UNMARK": "Unmark"
             }
+        },
+        "PREVIEW_VIDEO": {
+            "FULL_VIDEO": "Preview full video",
+            "FROM_CURRENT_SCENE": "Preview from current scene"
         }
     },
     "VIDEO_PLAYER": {
@@ -756,5 +749,12 @@
         "ONLY_ME": "Only you can see this item.",
         "SUB_HEADER": "Now, take your story anywhere."
     },
-    "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder"
+    "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder",
+    "TIP": {
+        "SECURITY": {
+            "PRO_TIP": "🤖Pro tip!",
+            "ENABLE_CAPTCHA": "For added security, enable Google's reCAPTCHA feature in",
+            "SETTINGS": "Settings"
+        }
+    }
 }
