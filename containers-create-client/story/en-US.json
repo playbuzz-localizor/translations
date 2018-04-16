@@ -752,7 +752,7 @@
     "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder",
     "TIP": {
         "SECURITY": {
-            "PRO_TIP": "🤖Pro tip!",
+            "PRO_TIP": "🤖 Pro tip!",
             "ENABLE_CAPTCHA": "For added security, enable Google's reCAPTCHA feature in",
             "SETTINGS": "Settings"
         }
