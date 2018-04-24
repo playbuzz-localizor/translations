@@ -86,10 +86,10 @@
             "CROP_IMAGE_TITLE": "CROP IMAGE",
             "CANCEL_BTN": "Cancel",
             "RECENT": {
-                "ALL": "ALL",
-                "VIDEO_CREATIONS": "Video Creations",
                 "EMPTY_LABEL": "But your first step is adding an image ...",
-                "EMPTY_LABEL_TITLE": "\"Kid, you'll move mountains!\""
+                "EMPTY_LABEL_TITLE": "\"Kid, you'll move mountains!\"",
+                "ALL": "ALL",
+                "VIDEO_CREATIONS": "Video Creations"
             }
         },
         "POPOVER_MENU": {
@@ -130,7 +130,7 @@
             "NEW_LABEL": "NEW!",
             "TITLE": "👉 Check, please!",
             "TEXT": "Search, insert and organize all of your story's media at once.",
-            "GOT_IT": "Got It!",
+            "GOT_IT": "Check It Out",
             "TEXT_2": "Thank us later."
         },
         "STICKERS_LABEL": "Stickers",
