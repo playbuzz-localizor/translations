@@ -397,7 +397,8 @@
             "EPIC": "Epic",
             "UPLOAD": "Upload music",
             "ADD_MUSIC": "Add music",
-            "MY_MUSIC": "My Music"
+            "MY_MUSIC": "My Music",
+            "UPLOADING": "Uploading music..."
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classic",
