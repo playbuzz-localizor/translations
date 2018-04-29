@@ -396,7 +396,8 @@
             "HIGH_ENERGY": "High Energy",
             "EPIC": "Epic",
             "UPLOAD": "Upload music",
-            "ADD_MUSIC": "Add music"
+            "ADD_MUSIC": "Add music",
+            "MY_MUSIC": "My Music"
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classic",
