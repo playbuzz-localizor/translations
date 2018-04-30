@@ -400,6 +400,11 @@
             "MY_MUSIC": "My Music",
             "UPLOADING": "Uploading music..."
         },
+        "FONT_LABEL": {
+            "UPLOAD": "Upload font",
+            "UPLOADING": "Uploading font...",
+            "ADD_FONT": "Add font"
+        },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classic",
             "VS": "VS.",
