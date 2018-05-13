@@ -15,14 +15,14 @@
             "LANGUAGE_CHECKBOX_LABEL": "Enable translation to other languages",
             "SPONSORED_TITLE": "Sponsored Content",
             "SPONSORED_CHECKBOX_LABEL": "This is a sponsored Story",
-            "AD_SETTINGS_TITLE": "Ad Settings",
-            "AD_SETTINGS_CHECKBOX_LABEL": "Do not show ads on this item",
             "TOOLTIP": "Visibility: {{viewPermission}}",
             "VIEW_PERMISSIONS_DROPDOWN": {
                 "PUBLIC": "Public (recommended)",
                 "ONLY_ME": "Only Me",
                 "ONLY_DIRECT_LINK": "Direct Link Only"
-            }
+            },
+            "AD_SETTINGS_TITLE": "Ad Settings",
+            "AD_SETTINGS_CHECKBOX_LABEL": "Do not show ads on this item"
         },
         "TAGS": {
             "TITLE": "Tags",
@@ -400,11 +400,6 @@
             "MY_MUSIC": "My Music",
             "UPLOADING": "Uploading music..."
         },
-        "FONT_LABEL": {
-            "UPLOAD": "Upload font",
-            "UPLOADING": "Uploading font...",
-            "ADD_FONT": "Add font"
-        },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classic",
             "VS": "VS.",
@@ -473,7 +468,7 @@
         "TOOLTIPS": {
             "LAYOUT_SELECTION": "Layout Selection",
             "FONT": "Font",
-            "ADD_ITEM": "Add Item",
+            "ADD_ITEM": "Add Scene",
             "PATTERN": "Pattern",
             "MUSIC": "Music",
             "COLOR": "Color",
@@ -532,6 +527,11 @@
         "PREVIEW_VIDEO": {
             "FULL_VIDEO": "Preview full video",
             "FROM_CURRENT_SCENE": "Preview from current scene"
+        },
+        "FONT_LABEL": {
+            "UPLOAD": "Upload font",
+            "UPLOADING": "Uploading font...",
+            "ADD_FONT": "Add font"
         }
     },
     "VIDEO_PLAYER": {

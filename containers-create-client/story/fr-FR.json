@@ -20,7 +20,9 @@
                 "PUBLIC": "Public (recommandé)",
                 "ONLY_ME": "Uniquement moi",
                 "ONLY_DIRECT_LINK": "Lien privé uniquement"
-            }
+            },
+            "AD_SETTINGS_TITLE": "Ajouter un paramètre",
+            "AD_SETTINGS_CHECKBOX_LABEL": "Ne pas activer la pub sur cet item"
         },
         "TAGS": {
             "TITLE": "Mots clés",
@@ -63,10 +65,12 @@
             "SAVE_FAILED": "Echec de l'enregistrement",
             "COVER_UNSUPPORTED_FORMAT": "Échec du chargement de la photo de couverture. Essayez un autre fichier.",
             "LOGGED_OUT": "Merci de vous reconnecter",
-            "BLOCKED": "Votre compte utilisateur est bloqué"
+            "BLOCKED": "Votre compte utilisateur est bloqué",
+            "DIFFERENT_CHANNEL": "Vous ne pouvez pas éditer cet item"
         },
         "PREVIEW_BUT_PENDING": "Recherche...",
-        "UNSAVED_DRAFT": "Brouillon non sauvegardé"
+        "UNSAVED_DRAFT": "Brouillon non sauvegardé",
+        "EMBED": "Embed"
     },
     "DESCRIPTION_PLACEHOLDER": "Description",
     "DELETE_SECTION_MESSAGE": "Êtes-vous sûr(e) ?",
@@ -141,14 +145,32 @@
         "MEDIA": {
             "TITLE_LABEL": "Rechercher, télécharger, copier des liens à ajouter à vos créations vidéos, images, GIFS et posts.",
             "TEXT_1_LABEL": "Flouter des images pour rajouter une touche de mystère, ou cacher des spoilers.",
-            "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
-            "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not.",
-            "TEXT_4_LABEL": "Embed Google Maps to share specific locations.",
-            "TEXT_5_LABEL": "Include any video from Vimeo or YouTube.",
-            "TEXT_6_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
-            "TEXT_7_LABEL": "Embed Instagram posts to make your content more visually stunning.",
-            "TEXT_8_LABEL": "Use any video on Vimeo to make your article more interesting.",
-            "TEXT_9_LABEL": "Use any video on Youtube to make your article more interesting."
+            "TEXT_2_LABEL": "Ajouter du mouvement à votre image avec l'effet zoomant.",
+            "TEXT_3_LABEL": "Utiliser l'effet \"flou\" et laissez vos lecteurs décider s'ils veulent voir le contenu ou non.",
+            "TEXT_4_LABEL": "Intégrer Google Maps pour partager une localisation particulière.",
+            "TEXT_5_LABEL": "Inclure des vidéos Vimeo ou Youtube.",
+            "TEXT_6_LABEL": "Intégrer des Tweets pour rendre votre contenu plus intéressant et engageant.",
+            "TEXT_7_LABEL": "intégrer des posts Instagram pour rendre votre contenu encore plus saisissant.",
+            "TEXT_8_LABEL": "Utiliser n'importe quelle vidéo Vimeo pour rendre votre article plus intéressant.",
+            "TEXT_9_LABEL": "Utiliser n'importe quelle vidéo Youtube pour rendre votre article plus intéressant."
+        },
+        "EMBED": {
+            "TITLE_LABEL": "Importer un média du web.",
+            "TEXT_1_LABEL": "Intégrer Google Maps pour partager une localisation particulière.",
+            "TEXT_2_LABEL": "Ajouter des vidéos Vimeo ou Youtube.",
+            "TEXT_3_LABEL": "Intégrer des Tweets pour rendre votre contenu plus intéressant et engageant.",
+            "TEXT_4_LABEL": "Intégrer des posts Instagram pour rendre votre contenu plus intéressant et engageant."
+        },
+        "IMAGE": {
+            "TITLE_LABEL": "Ajouter des effets et des visuels bluffants.",
+            "TEXT_1_LABEL": "Flouter vos images pour rajouter du mystère et cacher des contenus graphiques ou des spoilers.",
+            "TEXT_2_LABEL": "Ajouter du mouvement à votre image grâce à un effet zoomant.",
+            "TEXT_3_LABEL": "Utiliser l'effet \"flou\" et laissez vos lecteurs décider s'ils veulent voir le contenu ou non."
+        },
+        "VIDEO_PLAYER": {
+            "TITLE_LABEL": "Enrichisser votre article avec des vidéos.",
+            "TEXT_1_LABEL": "Utiliser n'importe quelle vidéo Vimeo pour rendre votre article encore plus intéressant.",
+            "TEXT_2_LABEL": "Utiliser n'importe quelle vidéo Youtube pour rendre votre article encore plus intéressant."
         }
     },
     "TEMPLATES": {
@@ -209,7 +231,12 @@
             "GOOD_INDICATION": "BIEN",
             "NORMAL_INDICATION": "O.K",
             "BAD_INDICATION": "UN PEU TROP LONG",
-            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. de lecture"
+            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. de lecture",
+            "SIZE_SMALL": "Petit",
+            "SIZE_NORMAL": "Normal",
+            "SIZE_LARGE": "Grand",
+            "SIZE_HUGE": "Enorme",
+            "SIZE_TITLE": "Titre"
         },
         "SECTION_TITLE_PLACEHOLDER": "Titre",
         "NOT_SAVED_ERR_MESSAGE": "Les dernières modifications n'ont pas été sauvegardées. Êtes-vous sûr(e) de vouloir quitter ?",
@@ -221,7 +248,8 @@
                 "NUMBER": "Numérotation",
                 "BULLET": "Puces",
                 "RANK": "Liste dynamique (vote)",
-                "DOWN": "Vote négatif"
+                "DOWN": "Vote négatif",
+                "VIDEO": "Vidéo"
             },
             "ENABLE_DOWN_VOTE": "Autoriser le vote négatif",
             "DISABLE_DOWN_VOTE": "Désactiver le vote négatif",
@@ -318,7 +346,10 @@
             "LOGO_LABEL": "Personnaliser le logo",
             "CLOSE_SETTINGS": "Retour à l'édition",
             "LOGO_DESCRIPTION": "Téléchargez votre propre logo qui apparaîtra en fin de vidéo.",
-            "ENABLE_LOGO_ACROSS_VIDEO": "Présence du logo pendant la vidéo"
+            "ENABLE_LOGO_ACROSS_VIDEO": "Présence du logo pendant la vidéo",
+            "TEMPLATE": "Template",
+            "ASPECT_RATIO": "Format",
+            "DEFINE_BY_DEVICE": "Par device (Desktop/mobile)"
         },
         "PREVIEW_BUT": "Générer la vidéo",
         "NOT_SUPPORTED_LABEL": "Non pris en charge",
@@ -363,7 +394,11 @@
             "POSITIVE_AND_UPBEAT": "Positive & Upbeat",
             "ACOUSTIC": "Acoustique",
             "HIGH_ENERGY": "High Energy",
-            "EPIC": "Héroïque"
+            "EPIC": "Héroïque",
+            "UPLOAD": "Télécharger une musique",
+            "ADD_MUSIC": "Ajouter une musique",
+            "MY_MUSIC": "Mes musiques",
+            "UPLOADING": "Chargement de la musique"
         },
         "TEMPLATE_NAME": {
             "CLASSIC": "Classique",
@@ -482,6 +517,21 @@
             "CHANNEL": "Compte",
             "SAVE_BUTTON": "Sauvegarder",
             "CANCEL_BUTTON": "Annuler"
+        },
+        "BATCH_UPLOAD": {
+            "ORGANIZER": {
+                "MARK": "Mark",
+                "UNMARK": "Unmark"
+            }
+        },
+        "PREVIEW_VIDEO": {
+            "FULL_VIDEO": "Aperçu de la vidéo complète",
+            "FROM_CURRENT_SCENE": "Aperçu depuis cette slide"
+        },
+        "FONT_LABEL": {
+            "UPLOAD": "Télécharger une police",
+            "UPLOADING": "Chargement de la police",
+            "ADD_FONT": "Ajouter une police"
         }
     },
     "VIDEO_PLAYER": {
@@ -571,7 +621,7 @@
     },
     "RESTORE_ITEM": {
         "TITLE": "On a assuré vos arrières ! 🤖",
-        "DESCRIPTION": "Nous avons remarqué que des modifications ont été faites après la dernière publication de l'item. Voulez-vous restaurer les changements ?",
+        "DESCRIPTION": "Nous avons remarqué que des modifications ont été faites après la dernière publication de l'item. Voulez-vous les restaurer ?",
         "RESTORE_BUTTON": "Restaurer dans un nouvel onglet",
         "CANCEL_BUTTON": "Non merci!"
     },
@@ -643,14 +693,18 @@
             "DESC": "Améliorez votre engagement grâce au nouveau Trivia",
             "SHOW_ME": "Montrez-moi",
             "GOT_IT": "J'ai compris."
+        },
+        "LAYOUTS": {
+            "OPEN": "Format Liste",
+            "OPEN_DESCRIPTION": "Toutes les questions dévoilées",
+            "CLOSE": "Format Slide",
+            "CLOSE_DESCRIPTION": "Les questions apparaissent l'une après l'autre"
         }
     },
     "PREVIEW": {
         "DESKTOP": "Ordinateur",
         "TABLET": "Tablette",
-        "MOBILE": "Mobile",
-        "EMBED": "Copier le code Embed",
-        "DRAFT_EMBED": "🤓  Oups - vous devez d'abord publier votre contenu !"
+        "MOBILE": "Mobile"
     },
     "CREATOR": {
         "TITLE_PLACEHOLDER": "Titre de la Story",
@@ -658,7 +712,8 @@
         "SECTIONS_LOBBY_SUBTITLE": "Choisissez un des éléments ci-dessous ou",
         "SECTIONS_LOBBY_SUBTITLE_TEMPLATE": "utilisez un Template",
         "ADD_HEADER": "Ajouter l'en-tête",
-        "ADD_MORE_STORY": "Ne vous arrêtez pas en si bon chemin !"
+        "ADD_MORE_STORY": "Ne vous arrêtez pas en si bon chemin !",
+        "MEDIA_DROP_MESSAGE": "Vous avez des média? Déposer les ici !"
     },
     "MEDIA": {
         "BTN_INTRO_BUBBLE": {
@@ -668,6 +723,49 @@
             "SHOW_ME": "Montrez moi !",
             "GOT_IT": "Compris"
         },
-        "ADD_SECTION_TOOLTIP": "Média"
+        "ADD_SECTION_TOOLTIP": "Média",
+        "BATCH_UPLOAD": {
+            "INTRO": {
+                "NEW": "NOUVEAUTÉ !",
+                "HEADER": "Télécharger plusieurs documents d'un seul coup.",
+                "DESCRIPTION": "Vous pouvez désormais télécharger tous vos documents pour votre Story d'un seul coup.",
+                "GOT_IT": "Compris !",
+                "SEE_IT": "See it in action"
+            },
+            "ORGANIZER": {
+                "TITLE": "Inséré en tant que ",
+                "DRAG_TO_UPLOAD": "Déposer vos média ici",
+                "DRAG_TO_REORDER": "Tirer pour réorganiser",
+                "INSERT": "Insérer"
+            }
+        },
+        "SETTINGS": {
+            "MUTE_SWITCH_LABEL": "Autoplay muet"
+        }
+    },
+    "STORY_EMBED": {
+        "COPY_CODE": "Copier le code",
+        "COPIED": "Copié !",
+        "ADVANCED_SETTINGS": "Paramètres avancés",
+        "SHOW_INFO_TITLE": "Afficher les détails de votre Story.",
+        "SHOW_INFO_DESCRIPTION": "Afficher l'image de couverture, le titre, la description et l'auteur de votre Story.",
+        "SHOW_SHARE_TITLE": "Afficher les boutons de partage.",
+        "SHOW_SHARE_DESCRIPTION": "Les partages seront reliés à votre domaine.",
+        "COPY_LINK": "Copier le lien",
+        "ITEM_ANALYTICS": "Suivez la performance de vos items.",
+        "VIEW_ITEM": "Voir la Story"
+    },
+    "PUBLISH": {
+        "HEADER": "Publié !",
+        "ONLY_ME": "Seulement vous pouvez voir cet item.",
+        "SUB_HEADER": "Désormais, emmenez votre Story où vous voulez."
+    },
+    "DRAG_AND_DROP_SECTION_BTN": "Rester appuyé puis déplacer",
+    "TIP": {
+        "SECURITY": {
+            "PRO_TIP": "🤖Conseil !",
+            "ENABLE_CAPTCHA": "Pour renforcer la sécurité, autoriser reCAPTCHA de Google à apparaitre",
+            "SETTINGS": "Paramètres"
+        }
     }
 }
