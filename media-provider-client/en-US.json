@@ -69,7 +69,8 @@
             },
             "SEARCH": {
                 "SEARCH_PLACEHOLDER": "Search or paste a link...",
-                "LOAD_MORE_BUT": "Load more"
+                "LOAD_MORE_BUT": "Load more",
+                "SERVER_ERROR": "is under quick maintenance to improve its service and will be back shortly"
             },
             "IMPORT": {
                 "UPLOAD_LINK": "Upload",
