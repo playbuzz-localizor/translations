@@ -69,7 +69,8 @@
             },
             "SEARCH": {
                 "SEARCH_PLACEHOLDER": "Search or paste a link...",
-                "LOAD_MORE_BUT": "Load more"
+                "LOAD_MORE_BUT": "Load more",
+                "SERVER_ERROR": "didn't pick up the call. Try calling back shortly."
             },
             "IMPORT": {
                 "UPLOAD_LINK": "Upload",
@@ -88,7 +89,7 @@
             "RECENT": {
                 "EMPTY_LABEL": "But your first step is adding an image ...",
                 "EMPTY_LABEL_TITLE": "\"Kid, you'll move mountains!\"",
-                "ALL": "All",
+                "ALL": "ALL",
                 "VIDEO_CREATIONS": "Video Creations"
             }
         },
