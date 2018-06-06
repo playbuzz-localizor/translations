@@ -171,6 +171,22 @@
             "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
         }
     },
+    "START_SCREEN": {
+        "TITLE": "What shall we create today?",
+        "NAV": {
+            "FEATURED": "FEATURED",
+            "TEMPLATES": "MY TEMPLATES"
+        },
+        "FEATURED": {
+            "NEW": "New",
+            "QUIZ": "Personality Quiz",
+            "TRIVIA": "Triva",
+            "POLL": "Poll",
+            "LIST": "List",
+            "CONVO": "Convo",
+            "RANKED": "Ranked List"
+        }
+    },
     "TEMPLATES": {
         "START_NEW": "Start a New Item",
         "UPDATED": "Recently updated",
