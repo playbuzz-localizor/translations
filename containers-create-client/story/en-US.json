@@ -179,12 +179,14 @@
         },
         "FEATURED": {
             "NEW": "New",
+            "FLIP": "Flip Cards",
             "QUIZ": "Personality Quiz",
             "TRIVIA": "Triva",
             "POLL": "Poll",
             "LIST": "List",
             "CONVO": "Convo",
-            "RANKED": "Ranked List"
+            "RANKED_LIST": "Ranked List",
+            "VIDEO": "Video"
         }
     },
     "TEMPLATES": {
