@@ -24,7 +24,9 @@
         "PERMISSION_REQUIRED_LINK": "Por que precisamos disso?",
         "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Saiba mais sobre crossposting",
         "MCD_LABEL": "Embedar vídeo",
-        "COPY_CODE_BUTTON": "Copiar código"
+        "COPY_CODE_BUTTON": "Copiar código",
+        "SHARE": "Compartilhar",
+        "REPLAY": "Replay"
     },
     "Vote": "Vote:",
     "POLL": {
@@ -39,5 +41,13 @@
             "I_GOT": "Eu tirei"
         }
     },
-    "Click to Flip": "clique para revelar"
+    "Click to Flip": "clique para revelar",
+    "TRIVIA_PLAY": {
+        "QUESTIONS_LEFT": "Perguntas restantes",
+        "BACK_LINK": "O que eu deixei passar?",
+        "SHARE": {
+            "I_GOT": "Eu tirei:"
+        },
+        "CALCULATING": "The trivia will continue right after this ad..."
+    }
 }

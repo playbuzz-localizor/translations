@@ -24,14 +24,16 @@
         "PERMISSION_REQUIRED_LINK": "Why do we need this?",
         "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Learn more about Crossposting",
         "MCD_LABEL": "Embed video unit",
-        "COPY_CODE_BUTTON": "Copy code"
+        "COPY_CODE_BUTTON": "Copy code",
+        "SHARE": "Share",
+        "REPLAY": "Replay"
     },
     "Vote": "Stemme",
     "POLL": {
         "SHARE_POLL": "I voted {{answer}}. {{question}}"
     },
     "QUIZ_PLAY": {
-        "START": "Let's Start",
+        "START": "Lad os begynde!",
         "SHARE_RESULT": "SHARE YOUR RESULT",
         "READ_MORE": "READ MORE",
         "CALCULATING": "Calculating Results...",
@@ -39,5 +41,13 @@
             "I_GOT": "I got:"
         }
     },
-    "Click to Flip": "klik for at afsløre"
+    "Click to Flip": "klik for at afsløre",
+    "TRIVIA_PLAY": {
+        "QUESTIONS_LEFT": "Questions left",
+        "BACK_LINK": "What did I miss?",
+        "SHARE": {
+            "I_GOT": "I got:"
+        },
+        "CALCULATING": "The trivia will continue right after this ad..."
+    }
 }
