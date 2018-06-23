@@ -198,7 +198,8 @@
             "DESC_1": "For a quick start,",
             "DESC_2": "drop all your media here",
             "OR": "OR",
-            "SIGN_IN": "Sign In"
+            "SIGN_IN": "Sign In",
+            "SEARCH": "Search media"
         }
     },
     "TEMPLATES": {
