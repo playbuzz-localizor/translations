@@ -14,17 +14,19 @@
         "MANAGE_PAGE": "Seite managen",
         "COPY_LINK": "Link kopieren",
         "UPLOADED_TO_FACEBOOK_BUTTON": "FB page manager schicken",
-        "FACEBOOK_INTRO_LABLE": "You can post your video to your Facebook page. Clicking this button won't post your video, it will only notify your page Admin that it is available for posting.",
+        "FACEBOOK_INTRO_LABLE": "Sie können Ihr Video direkt auf Ihrer Facebook-Seite posten. Wenn Sie auf diesen Button klicken, wird Ihr Video noch nicht auf Facebook gepostet. Es wird nur der Seiten-Administrator benachrichtigt, dass Ihr Video für ein Posting zur Verfügung steht.",
         "ERROR_OCCURRED_HEADER": "Fehler aufgetreten",
         "UNEXPECTED_ERROR_OCCURRED": "Ein unerwarteter Fehler ist aufgetreten, bitte versuche es später erneut. ",
         "GO": "Los",
         "FACEBOOK_PAGE_MISSING_HEADER": "Fast geschafft",
-        "FACEBOOK_PAGE_IS_NOT_VALID": "A valid Facebook Page hasn't been linked to this channel,",
+        "FACEBOOK_PAGE_IS_NOT_VALID": "Es wurde keine gültige Facebook-Seite mit diesem Channel verlinkt.",
         "PERMISSION_REQUIRED_HEADER": "Crosspost nicht möglich",
         "PERMISSION_REQUIRED_LINK": "Warum benötigen wir das?",
         "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Erfahre mehr über Crossposting",
         "MCD_LABEL": "Video einbetten",
-        "COPY_CODE_BUTTON": "Code kopieren"
+        "COPY_CODE_BUTTON": "Code kopieren",
+        "SHARE": "Teilen",
+        "REPLAY": "Wiederholen"
     },
     "Vote": "Abstimmen",
     "POLL": {
@@ -39,5 +41,13 @@
             "I_GOT": "Mein Ergebnis:"
         }
     },
-    "Click to Flip": "klicken und entdecken!"
+    "Click to Flip": "klicken und entdecken!",
+    "TRIVIA_PLAY": {
+        "QUESTIONS_LEFT": "Fragen noch",
+        "BACK_LINK": "Was habe ich verpasst?",
+        "SHARE": {
+            "I_GOT": "Mein Ergebnis:"
+        },
+        "CALCULATING": "Mit dem Trivia geht es direkt nach dieser Anzeige weiter..."
+    }
 }

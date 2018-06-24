@@ -1,43 +1,53 @@
 {
     "Votes": "Голоса",
-    "Created By": "Создан",
+    "Created By": "Создан...",
     "On": "в",
     "Sponsored": "Реклама",
     "Thanks for your vote!": "Спасибо за ваш голос!",
     "Read more on": "Читать дальше",
     "VIDEO_CREATOR": {
-        "UPLOADING_LABEL": "Uploading",
-        "UPLOAD_TO_FACEBOOK_PAGE_LABEL": "Upload to Facebook Page",
+        "UPLOADING_LABEL": "Загрузить",
+        "UPLOAD_TO_FACEBOOK_PAGE_LABEL": "Загрузить из Facebook",
         "OK": "OK",
-        "CANCEL": "Cancel",
-        "PERMISSION_REQUIRED_1": "We do not have permission to crosspost to Facebook.",
-        "MANAGE_PAGE": "Manage Page",
-        "COPY_LINK": "COPY LINK",
-        "UPLOADED_TO_FACEBOOK_BUTTON": "Sent to FB page manager",
-        "FACEBOOK_INTRO_LABLE": "You can post your video to your Facebook page. Clicking this button won't post your video, it will only notify your page Admin that it is available for posting.",
-        "ERROR_OCCURRED_HEADER": "Error Occurred",
-        "UNEXPECTED_ERROR_OCCURRED": "An unexpected error occurred, please try again later.",
-        "GO": "GO",
-        "FACEBOOK_PAGE_MISSING_HEADER": "Almost there",
-        "FACEBOOK_PAGE_IS_NOT_VALID": "A valid Facebook Page hasn't been linked to this channel,",
-        "PERMISSION_REQUIRED_HEADER": "Cannot Crosspost",
-        "PERMISSION_REQUIRED_LINK": "Why do we need this?",
-        "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Learn more about Crossposting",
-        "MCD_LABEL": "Embed video unit",
-        "COPY_CODE_BUTTON": "Copy code"
+        "CANCEL": "Отмена",
+        "PERMISSION_REQUIRED_1": "У вас нет доступа к Crosspost в Facebook",
+        "MANAGE_PAGE": "Организовать страницу",
+        "COPY_LINK": "Cкопировать ссылку",
+        "UPLOADED_TO_FACEBOOK_BUTTON": "Отправить в FB manager",
+        "FACEBOOK_INTRO_LABLE": "Вы можете опубликовать видео на вашей странице в Facebook. Нажатие кнопки не осуществит загрузку, но отправит оповещение вашему админу, что видео доступно для публикации.",
+        "ERROR_OCCURRED_HEADER": "Ошибка...",
+        "UNEXPECTED_ERROR_OCCURRED": "Ошибка, попробуйте позже",
+        "GO": "ВПЕРЕД!",
+        "FACEBOOK_PAGE_MISSING_HEADER": "ПОЧТИ ГОТОВО!",
+        "FACEBOOK_PAGE_IS_NOT_VALID": "Страница Facebook не привязана к вашему аккаунту",
+        "PERMISSION_REQUIRED_HEADER": "Crosspost недоступен",
+        "PERMISSION_REQUIRED_LINK": "Зачем нам это нужно?",
+        "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Узнайте больше о Crossposting",
+        "MCD_LABEL": "Загрузить видео юнит",
+        "COPY_CODE_BUTTON": "Скопировать код",
+        "SHARE": "Поделиться",
+        "REPLAY": "Проиграть"
     },
-    "Vote": "голосовать",
+    "Vote": "Голосовать",
     "POLL": {
-        "SHARE_POLL": "I voted {{answer}}. {{question}}"
+        "SHARE_POLL": "Я проголосовал {{ответ}}. {{вопрос}}"
     },
     "QUIZ_PLAY": {
-        "START": "Let's Start",
-        "SHARE_RESULT": "SHARE YOUR RESULT",
-        "READ_MORE": "READ MORE",
-        "CALCULATING": "Calculating Results...",
+        "START": "Начнем?!",
+        "SHARE_RESULT": "Поделитесь вашим результатом",
+        "READ_MORE": "Узнайте больше",
+        "CALCULATING": "Подсчет результатов....",
         "SHARE": {
-            "I_GOT": "I got:"
+            "I_GOT": "Я получил...."
         }
     },
-    "Click to Flip": "нажмите  чтобы узнать"
+    "Click to Flip": "Нажмите,  чтобы узнать",
+    "TRIVIA_PLAY": {
+        "QUESTIONS_LEFT": "Вопросы влево",
+        "BACK_LINK": "Что я упустил?",
+        "SHARE": {
+            "I_GOT": "У меня получилось:"
+        },
+        "CALCULATING": "Trivia продолжиться сразу после рекламы..."
+    }
 }

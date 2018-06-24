@@ -30,7 +30,8 @@
                 "SEARCH_GROUP_TITLE": "RECHERCHER",
                 "IMPORT_GROUP_TITLE": "IMPORTER",
                 "FILE_LABEL": "Mes fichiers",
-                "LINK_LABEL": "Depuis Internet"
+                "LINK_LABEL": "Depuis Internet",
+                "RECENTS_TITLE": "Récents"
             },
             "GETTY": {
                 "LOGIN_DESC_FIRST_ROW": "Rechercher dans la bibliothèque Getty Images de Playbuzz ou",
@@ -83,7 +84,13 @@
             "VIDEO_CREDIT_PLACEHOLDER": "Crédits vidéo...",
             "RETURN_BUTTON": "Retour",
             "CROP_IMAGE_TITLE": "Recadrer",
-            "CANCEL_BTN": "Annuler"
+            "CANCEL_BTN": "Annuler",
+            "RECENT": {
+                "EMPTY_LABEL": "Commencer par ajouter une image... ",
+                "EMPTY_LABEL_TITLE": "\"Kid, you'll move mountains!\"",
+                "ALL": "Tout",
+                "VIDEO_CREATIONS": "Créations vidéo"
+            }
         },
         "POPOVER_MENU": {
             "EDIT_LABEL": "Éditer",
@@ -123,7 +130,8 @@
             "NEW_LABEL": "NOUVEAU!",
             "TITLE": "Attendez, il y a du nouveau!",
             "TEXT": "Vous pouvez maintenant dessiner, ajouter du texte et des stickers sur vos images. ",
-            "GOT_IT": "Compris!"
+            "GOT_IT": "Compris!",
+            "TEXT_2": "Facile !"
         },
         "STICKERS_LABEL": "Stickers",
         "COLORS_LABEL": "Couleurs:",

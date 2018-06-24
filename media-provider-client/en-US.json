@@ -69,7 +69,8 @@
             },
             "SEARCH": {
                 "SEARCH_PLACEHOLDER": "Search or paste a link...",
-                "LOAD_MORE_BUT": "Load more"
+                "LOAD_MORE_BUT": "Load more",
+                "SERVER_ERROR": "didn't pick up the call. Try calling back shortly."
             },
             "IMPORT": {
                 "UPLOAD_LINK": "Upload",
@@ -87,7 +88,9 @@
             "CANCEL_BTN": "Cancel",
             "RECENT": {
                 "EMPTY_LABEL": "But your first step is adding an image ...",
-                "EMPTY_LABEL_TITLE": "\"Kid, you'll move mountains!\""
+                "EMPTY_LABEL_TITLE": "\"Kid, you'll move mountains!\"",
+                "ALL": "ALL",
+                "VIDEO_CREATIONS": "Video Creations"
             }
         },
         "POPOVER_MENU": {
@@ -126,9 +129,10 @@
         },
         "INTRO": {
             "NEW_LABEL": "NEW!",
-            "TITLE": "Wait, there's more!",
-            "TEXT": "Add style and context to your image with text, stickers, and doodles. ",
-            "GOT_IT": "Got It!"
+            "TITLE": "👉 Check, please!",
+            "TEXT": "Search, insert and organize all of your story's media at once.",
+            "GOT_IT": "Check It Out",
+            "TEXT_2": "Thank us later."
         },
         "STICKERS_LABEL": "Stickers",
         "COLORS_LABEL": "Colors:",
