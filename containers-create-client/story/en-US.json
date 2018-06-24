@@ -176,11 +176,11 @@
     "START_SCREEN": {
         "TITLE": "What shall we create today?",
         "NAV": {
-            "FEATURED": "FEATURED",
+            "FEATURED": "NEW",
             "TEMPLATES": "MY TEMPLATES"
         },
         "FEATURED": {
-            "NEW": "New",
+            "NEW": "Start from scratch",
             "FLIP": "Flip Cards",
             "QUIZ": "Personality Quiz",
             "TRIVIA": "Trivia",
@@ -197,10 +197,10 @@
             "SIGN_IN": "Sign In"
         },
         "MEDIA": {
-            "DESC_1": "For a quick start,",
-            "DESC_2": "drop all your media here",
+            "TITLE": "Working on a list or a video?",
+            "DESC_1": "Drop your images and videos",
+            "DESC_2": "to get started",
             "OR": "OR",
-            "SIGN_IN": "Sign In",
             "SEARCH": "Search media"
         }
     },
