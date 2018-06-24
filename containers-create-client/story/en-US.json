@@ -180,6 +180,7 @@
             "TEMPLATES": "MY TEMPLATES"
         },
         "FEATURED": {
+            "CREATE": "Create",
             "NEW": "Start from scratch",
             "FLIP": "Flip Cards",
             "QUIZ": "Personality Quiz",
@@ -200,7 +201,7 @@
             "TITLE": "Working on a list or a video?",
             "DESC_1": "Drop your images and videos",
             "DESC_2": "to get started",
-            "OR": "OR",
+            "OR": "Or",
             "SEARCH": "Search media"
         }
     },
