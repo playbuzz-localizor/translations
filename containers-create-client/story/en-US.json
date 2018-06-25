@@ -198,6 +198,7 @@
             "SIGN_IN": "Sign In"
         },
         "MEDIA": {
+            "DROP_TITLE": "Drop your files to upload",
             "TITLE": "Working on a list or a video?",
             "DESC_1": "Drop your images and videos",
             "DESC_2": "to get started",
