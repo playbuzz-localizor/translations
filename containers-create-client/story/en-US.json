@@ -173,53 +173,6 @@
             "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
         }
     },
-    "START_SCREEN": {
-        "TITLE": "What shall we create today?",
-        "NAV": {
-            "FEATURED": "NEW",
-            "TEMPLATES": "MY TEMPLATES"
-        },
-        "FEATURED": {
-            "CREATE": "Create",
-            "NEW": "Start from scratch",
-            "FLIP": "Flip Cards",
-            "FLIP_TITLE": "Title",
-            "FLIP_DESC": "Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text",
-            "QUIZ": "Personality Quiz",
-            "QUIZ_TITLE": "Title",
-            "QUIZ_DESC": "Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text",
-            "TRIVIA": "Trivia",
-            "POLL": "Poll",
-            "POLL_TITLE": "Title",
-            "POLL_DESC": "Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text",
-            "LIST": "List",
-            "LIST_TITLE": "Title",
-            "LIST_DESC": "Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text",
-            "CONVO": "Convo",
-            "CONVO_TITLE": "Title",
-            "CONVO_DESC": "Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text",
-            "RANKED_LIST": "Ranked List",
-            "RANKED_LIST_TITLE": "Title",
-            "RANKED_LIST_DESC": "Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text",
-            "VIDEO": "Video",
-            "VIDEO_TITLE": "Title",
-            "VIDEO_DESC": "Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text"
-        },
-        "JOIN_US": {
-            "DESC_1": "Tell your best stories",
-            "DESC_2": "with Playbuzz",
-            "SIGN_UP": "Join Playbuzz",
-            "SIGN_IN": "Sign In"
-        },
-        "MEDIA": {
-            "DROP_TITLE": "Drop your files to upload",
-            "TITLE": "Working on a list or a video?",
-            "DESC_1": "Drop your images and videos",
-            "DESC_2": "to get started",
-            "OR": "Or",
-            "SEARCH": "Search media"
-        }
-    },
     "TEMPLATES": {
         "START_NEW": "Start a New Item",
         "UPDATED": "Recently updated",
@@ -237,13 +190,13 @@
         "INCLUDES": "INCLUDES",
         "DELETE": "Delete",
         "DELETE_FROM_LIST": "Are you sure you want to delete this template?",
-        "CREATING_IN_PLAYBUZZ": "You have no templates",
+        "CREATING_IN_PLAYBUZZ": "Save stories as a Template to reuse over & over! ",
         "CREATING_IN_PLAYBUZZ_2": "Creating has never been easier...",
         "CREATING_IN_PLAYBUZZ_2_DESC": "Start telling your story from a ready made template or create your own.",
         "CREATING_IN_PLAYBUZZ_DESC_1": "To create a template, simply create a new item and choose",
         "CREATING_IN_PLAYBUZZ_DESC_2": "> Add To Templates",
         "START_HERE": "Start here",
-        "NO_TEMPLATES_FOUND": "No templates found",
+        "NO_TEMPLATES_FOUND": "I couldn’t find templates under this name",
         "CREATE_A_TEMPLATE": "Create a template",
         "GOT_IT": "Got it.",
         "FEATURED": "Featured",
@@ -814,6 +767,53 @@
             "PRO_TIP": "🤖 Pro tip!",
             "ENABLE_CAPTCHA": "For added security, enable Google's reCAPTCHA feature in",
             "SETTINGS": "Settings"
+        }
+    },
+    "START_SCREEN": {
+        "TITLE": "So...what’s your story?",
+        "NAV": {
+            "FEATURED": "NEW",
+            "TEMPLATES": "MY TEMPLATES"
+        },
+        "FEATURED": {
+            "CREATE": "Create",
+            "NEW": "Start From Scratch",
+            "FLIP": "Flip Card",
+            "FLIP_TITLE": "Flip Card",
+            "FLIP_DESC": "Build suspense with the allure of a big reveal that readers have to click to discover. ",
+            "QUIZ": "Personality Quiz",
+            "QUIZ_TITLE": "Personality Quiz",
+            "QUIZ_DESC": "Make any story personal by letting readers discover something new about themselves.  ",
+            "TRIVIA": "Trivia",
+            "POLL": "Poll",
+            "POLL_TITLE": "Poll",
+            "POLL_DESC": "Everyone has an opinion! Ask a question to cast your readers’ votes.",
+            "LIST": "List",
+            "LIST_TITLE": "List",
+            "LIST_DESC": "Make any story digestible with an elevated take on the classic internet listicle. ",
+            "CONVO": "Convo",
+            "CONVO_TITLE": "Convo",
+            "CONVO_DESC": "Conversations presented in a way that everyone can relate to: text messages. ",
+            "RANKED_LIST": "Ranked List",
+            "RANKED_LIST_TITLE": "Ranked List",
+            "RANKED_LIST_DESC": "Let them have their say! This interactive list rearranges itself as readers take control. ",
+            "VIDEO": "Video",
+            "VIDEO_TITLE": "Video",
+            "VIDEO_DESC": "Readers love videos, so create them in just minutes! No experience or team required. \n"
+        },
+        "JOIN_US": {
+            "DESC_1": "Make every story your best one yet",
+            "DESC_2": "with Playbuzz",
+            "SIGN_UP": "Create with Playbuzz ",
+            "SIGN_IN": "Log In"
+        },
+        "MEDIA": {
+            "DROP_TITLE": "Drop your media files here or search our free library. ",
+            "TITLE": "Quick Start:\n",
+            "DESC_1": "Drop your images and videos",
+            "DESC_2": "to get started",
+            "OR": "Or",
+            "SEARCH": "Search media"
         }
     }
 }
