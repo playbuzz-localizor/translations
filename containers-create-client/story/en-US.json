@@ -785,6 +785,8 @@
             "QUIZ_TITLE": "Personality Quiz",
             "QUIZ_DESC": "Make any story personal by letting readers discover something new about themselves.  ",
             "TRIVIA": "Trivia",
+            "TRIVIA_TITLE": "Trivia",
+            "TRIVIA_DESC": "Trivia is perfect",
             "POLL": "Poll",
             "POLL_TITLE": "Poll",
             "POLL_DESC": "Everyone has an opinion! Ask a question to cast your readers’ votes.",
