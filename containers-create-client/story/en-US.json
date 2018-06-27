@@ -777,7 +777,7 @@
         },
         "FEATURED": {
             "CREATE": "Create",
-            "NEW": "Start From Scratch",
+            "NEW": "New Story",
             "FLIP": "Flip Card",
             "FLIP_TITLE": "Flip Card",
             "FLIP_DESC": "Build suspense with the allure of a big reveal that readers have to click to discover. ",
@@ -805,8 +805,8 @@
         },
         "JOIN_US": {
             "DESC_1": "Make every story your best one yet",
-            "DESC_2": "with Playbuzz",
-            "SIGN_UP": "Create with Playbuzz ",
+            "DESC_2": "\n",
+            "SIGN_UP": "Create with Playbuzz",
             "SIGN_IN": "Log In"
         },
         "MEDIA": {
