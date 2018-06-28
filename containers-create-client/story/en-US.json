@@ -810,12 +810,12 @@
             "DESC_2": "best one yet"
         },
         "MEDIA": {
-            "DROP_TITLE": "Drop your media files here or search our free library.",
+            "DROP_TITLE": "Drop your media files here",
             "TITLE": "Quick Start:\n",
-            "DESC_1": "Drop your media files here or",
-            "DESC_2": "search our free library.",
+            "DESC_1": "Drop your media files here",
+            "DESC_2": "   ",
             "OR": "Or",
-            "SEARCH": "Search media"
+            "SEARCH": "Search our free library"
         }
     }
 }
