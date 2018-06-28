@@ -796,10 +796,10 @@
             "CONVO_DESC": "Conversations presented in a way that everyone can relate to: text messages. ",
             "RANKED_LIST": "Ranked List",
             "RANKED_LIST_TITLE": "Ranked List",
-            "RANKED_LIST_DESC": "Let them have their say! This interactive list rearranges itself as readers take control. ",
+            "RANKED_LIST_DESC": "Let them have their say! This interactive list rearranges itself as readers take control.",
             "VIDEO": "Video",
             "VIDEO_TITLE": "Video",
-            "VIDEO_DESC": "Readers love videos, so create them in just minutes! No experience or team required. \n",
+            "VIDEO_DESC": "Readers love videos, so create them in just minutes! No experience or team required.",
             "TRIVIA_TITLE": "Trivia",
             "TRIVIA_DESC": "Stimulate readers' curiosity by asking them questions to test their knowledge."
         },
@@ -812,8 +812,8 @@
         "MEDIA": {
             "DROP_TITLE": "Drop your media files here or search our free library.",
             "TITLE": "Quick Start:\n",
-            "DESC_1": "Drop your images and videos",
-            "DESC_2": "to get started",
+            "DESC_1": "Drop your media files here or",
+            "DESC_2": "search our free library.",
             "OR": "Or",
             "SEARCH": "Search media"
         }
