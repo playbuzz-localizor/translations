@@ -783,7 +783,7 @@
             "FLIP_DESC": "Build suspense with the allure of a big reveal that readers have to click to discover. ",
             "QUIZ": "Personality Quiz",
             "QUIZ_TITLE": "Personality Quiz",
-            "QUIZ_DESC": "Make any story personal by letting readers discover something new about themselves. ",
+            "QUIZ_DESC": "Make any story personal by enticing readers with the satisfaction of self-discovery.",
             "TRIVIA": "Trivia",
             "POLL": "Poll",
             "POLL_TITLE": "Poll",
@@ -801,16 +801,16 @@
             "VIDEO_TITLE": "Video",
             "VIDEO_DESC": "Readers love videos, so create them in just minutes! No experience or team required. \n",
             "TRIVIA_TITLE": "Trivia",
-            "TRIVIA_DESC": "Keep readers on their toes by testing their knowledge. "
+            "TRIVIA_DESC": "Stimulate readers' curiosity by asking them questions to test their knowledge."
         },
         "JOIN_US": {
-            "DESC_1": "Make every story your",
-            "DESC_2": "best one yet",
+            "DESC_1": "Make every story your best one yet",
             "SIGN_UP": "Create with Playbuzz",
-            "SIGN_IN": "Log In"
+            "SIGN_IN": "Log In",
+            "DESC_2": "best one yet"
         },
         "MEDIA": {
-            "DROP_TITLE": "Drop your media files here or search our free library. ",
+            "DROP_TITLE": "Drop your media files here or search our free library.",
             "TITLE": "Quick Start:\n",
             "DESC_1": "Drop your images and videos",
             "DESC_2": "to get started",
