@@ -804,7 +804,8 @@
             "TRIVIA_DESC": "Keep readers on their toes by testing their knowledge. "
         },
         "JOIN_US": {
-            "DESC_1": "Make every story your best one yet",
+            "DESC_1": "Make every story your",
+            "DESC_2": "best one yet",
             "SIGN_UP": "Create with Playbuzz",
             "SIGN_IN": "Log In"
         },
