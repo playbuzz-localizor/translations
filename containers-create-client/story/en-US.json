@@ -770,7 +770,7 @@
         }
     },
     "START_SCREEN": {
-        "TITLE": "So...what’s your story?",
+        "TITLE": "What’s your story?",
         "NAV": {
             "FEATURED": "NEW",
             "TEMPLATES": "MY TEMPLATES"
@@ -796,12 +796,12 @@
             "CONVO_DESC": "Conversations presented in a way that everyone can relate to: text messages. ",
             "RANKED_LIST": "Ranked List",
             "RANKED_LIST_TITLE": "Ranked List",
-            "RANKED_LIST_DESC": "Let them have their say! This interactive list rearranges itself as readers take control.",
+            "RANKED_LIST_DESC": "Let them have their say! This interactive list rearranges itself as readers' votes take control.",
             "VIDEO": "Video",
             "VIDEO_TITLE": "Video",
             "VIDEO_DESC": "Readers love videos, so create them in just minutes! No experience or team required.",
             "TRIVIA_TITLE": "Trivia",
-            "TRIVIA_DESC": "Stimulate readers' curiosity by asking them questions to test their knowledge."
+            "TRIVIA_DESC": "Give readers a challenge by asking questions to test their knowledge."
         },
         "JOIN_US": {
             "DESC_1": "Make every story your best one yet",
