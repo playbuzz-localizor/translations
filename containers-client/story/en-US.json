@@ -9,8 +9,6 @@
         "UPLOADING_LABEL": "Uploading",
         "UPLOAD_TO_FACEBOOK_PAGE_LABEL": "Upload to Facebook Page",
         "OK": "OK",
-        "SHARE": "Share",
-        "REPLAY": "Replay",
         "CANCEL": "Cancel",
         "PERMISSION_REQUIRED_1": "We do not have permission to crosspost to Facebook.",
         "MANAGE_PAGE": "Manage Page",
@@ -26,7 +24,9 @@
         "PERMISSION_REQUIRED_LINK": "Why do we need this?",
         "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Learn more about Crossposting",
         "MCD_LABEL": "Embed video unit",
-        "COPY_CODE_BUTTON": "Copy code"
+        "COPY_CODE_BUTTON": "Copy code",
+        "SHARE": "Share",
+        "REPLAY": "Replay"
     },
     "Vote": "Vote",
     "POLL": {
@@ -45,9 +45,9 @@
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Questions left",
         "BACK_LINK": "What did I miss?",
-        "CALCULATING": "The trivia will continue right after this ad...",
         "SHARE": {
-            "I_GOT": "I got: {{correct}} of {{questions}}!"
-        }
+            "I_GOT": "I got:"
+        },
+        "CALCULATING": "The trivia will continue right after this ad..."
     }
 }

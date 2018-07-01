@@ -190,7 +190,7 @@
         "INCLUDES": "INCLUDES",
         "DELETE": "Delete",
         "DELETE_FROM_LIST": "Are you sure you want to delete this template?",
-        "CREATING_IN_PLAYBUZZ": "Creating in Playbuzz just became easier!",
+        "CREATING_IN_PLAYBUZZ": "Save stories as a Template to reuse over & over! ",
         "CREATING_IN_PLAYBUZZ_2": "Creating has never been easier...",
         "CREATING_IN_PLAYBUZZ_2_DESC": "Start telling your story from a ready made template or create your own.",
         "CREATING_IN_PLAYBUZZ_DESC_1": "To create a template, simply create a new item and choose",
@@ -210,7 +210,8 @@
         "NEWS": "News",
         "FOOD": "Food",
         "WORKING_ON_TEMPLATE": "Working on template:",
-        "VIDEO": "Video"
+        "VIDEO": "Video",
+        "ALL_CHANNELS": "All Channels"
     },
     "CONVO": {
         "PARTICIPANT_PLACEHOLDER": "Participant",
@@ -766,6 +767,55 @@
             "PRO_TIP": "🤖 Pro tip!",
             "ENABLE_CAPTCHA": "For added security, enable Google's reCAPTCHA feature in",
             "SETTINGS": "Settings"
+        }
+    },
+    "START_SCREEN": {
+        "TITLE": "What’s your story?",
+        "NAV": {
+            "FEATURED": "NEW",
+            "TEMPLATES": "MY TEMPLATES"
+        },
+        "FEATURED": {
+            "CREATE": "Create",
+            "NEW": "New Story",
+            "FLIP": "Flip Card",
+            "FLIP_TITLE": "Flip Card",
+            "FLIP_DESC": "Build suspense with the allure of a big reveal that readers have to click to discover. ",
+            "QUIZ": "Personality Quiz",
+            "QUIZ_TITLE": "Personality Quiz",
+            "QUIZ_DESC": "Make any story personal by enticing readers with the satisfaction of self-discovery.",
+            "TRIVIA": "Trivia",
+            "POLL": "Poll",
+            "POLL_TITLE": "Poll",
+            "POLL_DESC": "Everyone has an opinion! Ask a question to cast your readers’ votes.",
+            "LIST": "List",
+            "LIST_TITLE": "List",
+            "LIST_DESC": "Make any story digestible with an elevated take on the classic internet listicle. ",
+            "CONVO": "Convo",
+            "CONVO_TITLE": "Convo",
+            "CONVO_DESC": "Conversations presented in a way that everyone can relate to: text messages. ",
+            "RANKED_LIST": "Ranked List",
+            "RANKED_LIST_TITLE": "Ranked List",
+            "RANKED_LIST_DESC": "Let them have their say! This interactive list rearranges itself as readers' votes take control.",
+            "VIDEO": "Video",
+            "VIDEO_TITLE": "Video",
+            "VIDEO_DESC": "Readers love videos, so create them in just minutes! No experience or team required.",
+            "TRIVIA_TITLE": "Trivia",
+            "TRIVIA_DESC": "Give readers a challenge by asking questions to test their knowledge."
+        },
+        "JOIN_US": {
+            "DESC_1": "Make every story your",
+            "SIGN_UP": "Create with Playbuzz",
+            "SIGN_IN": "Log In",
+            "DESC_2": "best one yet"
+        },
+        "MEDIA": {
+            "DROP_TITLE": "Drop your media files here",
+            "TITLE": "Quick Start:\n",
+            "DESC_1": "Drop your media files here",
+            "DESC_2": "   ",
+            "OR": "Or",
+            "SEARCH": "Search our free library"
         }
     }
 }
