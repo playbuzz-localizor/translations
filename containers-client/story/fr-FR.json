@@ -46,7 +46,7 @@
         "QUESTIONS_LEFT": "Question(s) restante(s)",
         "BACK_LINK": "Qu'est ce que j'ai raté ?",
         "SHARE": {
-            "I_GOT": "J'ai obtenu"
+            "I_GOT": "J'ai obtenu: {{correct}}/{{questions}}"
         },
         "CALCULATING": "Le quiz continue juste après la pub..."
     }

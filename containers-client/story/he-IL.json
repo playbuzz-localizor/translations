@@ -24,7 +24,9 @@
         "PERMISSION_REQUIRED_LINK": "Why do we need this?",
         "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Learn more about Crossposting",
         "MCD_LABEL": "Embed video unit",
-        "COPY_CODE_BUTTON": "Copy code"
+        "COPY_CODE_BUTTON": "Copy code",
+        "SHARE": "Share",
+        "REPLAY": "Replay"
     },
     "Vote": "הצביעו",
     "POLL": {
@@ -43,6 +45,9 @@
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "שאלות וסיימנו",
         "BACK_LINK": "מה פספסתי?",
-        "SHARE": "{{correct}} מ {{questions}}!  {{title}}"
+        "SHARE": {
+            "I_GOT": "קיבלתי: {{correct}}/{{questions}}"
+        },
+        "CALCULATING": "The trivia will continue right after this ad..."
     }
 }
