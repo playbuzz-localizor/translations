@@ -46,7 +46,7 @@
         "QUESTIONS_LEFT": "Perguntas restantes",
         "BACK_LINK": "O que eu deixei passar?",
         "SHARE": {
-            "I_GOT": "Eu tirei:"
+            "I_GOT": "Eu tirei: {{correct}}/{{questions}}"
         },
         "CALCULATING": "The trivia will continue right after this ad..."
     }
