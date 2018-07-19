@@ -3,7 +3,7 @@
     "Created By": "Creado por",
     "On": "Elegir",
     "Sponsored": "Patrocinado",
-    "Thanks for your vote!": "¡Gracias por votar!",
+    "Thanks for your vote!": "¡Gracias por tu voto!",
     "Read more on": "Más información acerca:",
     "VIDEO_CREATOR": {
         "UPLOADING_LABEL": "Cargando",
@@ -46,7 +46,7 @@
         "QUESTIONS_LEFT": "Questions left",
         "BACK_LINK": "What did I miss?",
         "SHARE": {
-            "I_GOT": "I got:"
+            "I_GOT": "{{correct}}/{{questions}}"
         },
         "CALCULATING": "The trivia will continue right after this ad..."
     }
