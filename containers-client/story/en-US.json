@@ -30,7 +30,8 @@
     },
     "Vote": "Vote",
     "POLL": {
-        "SHARE_POLL": "I voted {{answer}}. {{question}}"
+        "SHARE_POLL": "I voted {{answer}}. {{question}}",
+        "SHARE_RESULT": "SHARE THIS POLL"
     },
     "QUIZ_PLAY": {
         "START": "Let's Start",
@@ -44,6 +45,7 @@
     "Click to Flip": "Click to Flip",
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Questions left",
+        "SHARE_RESULT": "SHARE YOUR RESULT",
         "BACK_LINK": "What did I miss?",
         "SHARE": {
             "I_GOT": "I got: {{correct}}/{{questions}}"
