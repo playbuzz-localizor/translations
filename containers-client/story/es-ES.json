@@ -19,7 +19,7 @@
         "UNEXPECTED_ERROR_OCCURRED": "Ha ocurrido un error inesperado, por favor vuelva a intentarlo más tarde",
         "GO": "GO",
         "FACEBOOK_PAGE_MISSING_HEADER": "Almost there",
-        "FACEBOOK_PAGE_IS_NOT_VALID": "A valid Facebook Page hasn't been linked to this channel.",
+        "FACEBOOK_PAGE_IS_NOT_VALID": "A valid Facebook Page hasn't been linked to this channel,",
         "PERMISSION_REQUIRED_HEADER": "Cannot Crosspost",
         "PERMISSION_REQUIRED_LINK": "¿Porque lo necesitamos?",
         "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Aprenda más sobre Crosspoting",
@@ -30,7 +30,8 @@
     },
     "Vote": "Vota:  ",
     "POLL": {
-        "SHARE_POLL": "Yo voté {{answer}}. {{question}}"
+        "SHARE_POLL": "Yo voté {{answer}}. {{question}}",
+        "SHARE_RESULT": "SHARE THIS POLL"
     },
     "QUIZ_PLAY": {
         "START": "¡Empezar!",
@@ -48,6 +49,7 @@
         "SHARE": {
             "I_GOT": "{{correct}}/{{questions}}"
         },
-        "CALCULATING": "The trivia will continue right after this ad..."
+        "CALCULATING": "The trivia will continue right after this ad...",
+        "SHARE_RESULT": "SHARE YOUR RESULT"
     }
 }
