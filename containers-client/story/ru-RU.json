@@ -19,7 +19,7 @@
         "UNEXPECTED_ERROR_OCCURRED": "Ошибка, попробуйте позже",
         "GO": "ВПЕРЕД!",
         "FACEBOOK_PAGE_MISSING_HEADER": "ПОЧТИ ГОТОВО!",
-        "FACEBOOK_PAGE_IS_NOT_VALID": "Страница Facebook не привязана к вашему аккаунту",
+        "FACEBOOK_PAGE_IS_NOT_VALID": "Страница Facebook не привязана к вашему аккаунту.",
         "PERMISSION_REQUIRED_HEADER": "Crosspost недоступен",
         "PERMISSION_REQUIRED_LINK": "Зачем нам это нужно?",
         "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Узнайте больше о Crossposting",
