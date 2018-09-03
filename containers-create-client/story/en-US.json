@@ -343,7 +343,7 @@
         "SETTINGS": {
             "TITLE": "Settings",
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
-            "MUTE_SWITCH_LABEL": "Autoplay on mute",
+            "MUTE_SWITCH_LABEL": "Autoplay",
             "LOGO_LABEL": "Custom Logo",
             "CLOSE_SETTINGS": "Back to Edit",
             "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness",
@@ -540,7 +540,7 @@
         "SETTINGS": {
             "TITLE": "Settings",
             "AUTOPLAY_SWITCH_LABEL": "Autoplay",
-            "MUTE_SWITCH_LABEL": "Autoplay on mute",
+            "MUTE_SWITCH_LABEL": "Autoplay",
             "CLOSE_SETTINGS": "Back to Edit"
         },
         "ADD_SECTION_TOOLTIP": "Video Player"
@@ -741,7 +741,7 @@
             }
         },
         "SETTINGS": {
-            "MUTE_SWITCH_LABEL": "Autoplay on mute"
+            "MUTE_SWITCH_LABEL": "Autoplay"
         }
     },
     "STORY_EMBED": {
