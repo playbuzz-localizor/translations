@@ -41,7 +41,8 @@
         "Create": "Create"
     },
     "DoNotWorry": "Don't worry. We don't spam.",
-    "NextQuiz": "Next Quiz...",
+    "NextQuiz": "Next Quiz",
+    "NextQuizDot": "Next Quiz...",
     "Follow": "Follow",
     "Tags": "Tags",
     "ActionType": "Action Type",
