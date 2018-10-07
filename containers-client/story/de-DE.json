@@ -3,7 +3,7 @@
     "Created By": "Autor",
     "On": "auf",
     "Sponsored": "SPONSORED",
-    "Thanks for your vote!": "Danke für's Abstimmen!",
+    "Thanks for your vote!": "Danke fürs Abstimmen.",
     "Read more on": "Mehr lesen",
     "VIDEO_CREATOR": {
         "UPLOADING_LABEL": "hochladen",
@@ -30,7 +30,8 @@
     },
     "Vote": "Abstimmen",
     "POLL": {
-        "SHARE_POLL": "Ich habe abgestimmt:"
+        "SHARE_POLL": "Ich habe abgestimmt:",
+        "SHARE_RESULT": "SHARE THIS POLL"
     },
     "QUIZ_PLAY": {
         "START": "Los geht's",
@@ -48,6 +49,7 @@
         "SHARE": {
             "I_GOT": "Mein Ergebnis: {{correct}}/{{questions}}"
         },
-        "CALCULATING": "Mit dem Trivia geht es direkt nach dieser Anzeige weiter..."
+        "CALCULATING": "Mit dem Trivia geht es direkt nach dieser Anzeige weiter...",
+        "SHARE_RESULT": "SHARE YOUR RESULT"
     }
 }
