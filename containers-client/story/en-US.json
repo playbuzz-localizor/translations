@@ -55,6 +55,6 @@
     "CHECKLIST_PLAY": {
         "DONE": "Done!",
         "ANSWERS_LIMIT": "Select up to {{answersLimit}} answers",
-        "NO_RESULTS_TEXT": "You have been answered ${{answered}} out of ${{numOfAnswers}}"
+        "NO_RESULTS_TEXT": "You have been answered {{answered}} out of {{numOfAnswers}}"
     }
 }
