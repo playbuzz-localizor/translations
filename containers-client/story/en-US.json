@@ -55,6 +55,7 @@
     "CHECKLIST_PLAY": {
         "DONE": "Done",
         "ANSWERS_LIMIT": "Select {answersLimit} answers",
-        "NO_RESULTS_TEXT": "You checked ${answered} of ${numOfAnswers}"
+        "NO_RESULTS_TEXT": "You checked ${answered} of ${numOfAnswers}",
+        "HINT_TEXT": "You can select more!"
     }
 }
