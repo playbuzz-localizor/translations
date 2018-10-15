@@ -19,7 +19,7 @@
         "UNEXPECTED_ERROR_OCCURRED": "An unexpected error occurred, please try again later.",
         "GO": "GO",
         "FACEBOOK_PAGE_MISSING_HEADER": "Almost there",
-        "FACEBOOK_PAGE_IS_NOT_VALID": "A valid Facebook Page hasn't been linked to this channel.",
+        "FACEBOOK_PAGE_IS_NOT_VALID": "A valid Facebook Page hasn't been linked to this channel,",
         "PERMISSION_REQUIRED_HEADER": "Cannot Crosspost",
         "PERMISSION_REQUIRED_LINK": "Why do we need this?",
         "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Learn more about Crossposting",
@@ -45,16 +45,16 @@
     "Click to Flip": "Click to Flip",
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Questions left",
-        "SHARE_RESULT": "SHARE YOUR RESULT",
         "BACK_LINK": "What did I miss?",
         "SHARE": {
             "I_GOT": "I got: {{correct}}/{{questions}}"
         },
-        "CALCULATING": "The trivia will continue right after this ad..."
+        "CALCULATING": "The trivia will continue right after this ad...",
+        "SHARE_RESULT": "SHARE YOUR RESULT"
     },
     "CHECKLIST_PLAY": {
-        "DONE": "Done!",
-        "ANSWERS_LIMIT": "Select up to {{answersLimit}} answers",
-        "NO_RESULTS_TEXT": "You have been answered {{answered}} out of {{numOfAnswers}}"
+        "DONE": "Done",
+        "ANSWERS_LIMIT": "Select {answersLimit} answers",
+        "NO_RESULTS_TEXT": "You checked ${answered} of ${numOfAnswers}"
     }
 }
