@@ -171,6 +171,11 @@
             "TITLE_LABEL": "Enrich your article with videos.",
             "TEXT_1_LABEL": "Use any video on Vimeo to make your article more interesting.",
             "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
+        },
+        "CHECKLIST": {
+            "TITLE_LABEL": "Enrich your article with checklist.",
+            "TEXT_1_LABEL": "Use checklist to make your article more interesting.",
+            "TEXT_2_LABEL": "Use checklist to make your article more interesting."
         }
     },
     "TEMPLATES": {
@@ -817,5 +822,15 @@
             "OR": "Or",
             "SEARCH": "Search our free library"
         }
+    },
+    "CHECKLIST": {
+        "LETS_GET_STARTED": "What's the outcome? <br> Tell your audience what their selections say about them.",
+        "ASK_QUESTION": "Ask A Question",
+        "NUN_OF_VOTES": "Users can select up to",
+        "ANSWERS": "answers",
+        "ENTER_ANSWER": "Enter answer",
+        "ADD_ANSWER": "Add Answer",
+        "MATCH_RESULTS": "Match Results",
+        "MATCH_SELECTION_TITLE": "Which result will this selection give them?"
     }
 }
