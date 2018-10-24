@@ -46,5 +46,10 @@
     "NextQuiz": "Next Quiz",
     "NextQuizDot": "Next Quiz...",
     "Follow": "Follow",
-    "Tags": "Tags"
+    "Tags": "Tags",
+    "SignUp": "Sign Up",
+    "EmailPlaceholder": "Email Address",
+    "SubsciptionDesciption": "Get our daily email with a new quiz each day",
+    "SubscribeTo": "SIGN UP TO",
+    "SubscribeBtn": "SUBSCRIBE"
 }
