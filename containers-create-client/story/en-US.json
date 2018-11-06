@@ -274,7 +274,10 @@
         "ANDROID_LINK_PLACEHOLDER": "Android link (optional)",
         "WEB_LINK_TOOLTIP": "Universal",
         "APPLE_LINK_TOOLTIP": "iOS",
-        "ANDROID_LINK_TOOLTIP": "Android"
+        "ANDROID_LINK_TOOLTIP": "Android",
+        "PHONE": "Phone",
+        "PHONE_PLACEHOLDER": "Enter phone",
+        "MOBILE_DISABLED": "Mobile URLs are disabled when using a telephone link"
     },
     "EMBED": {
         "DESCRIPTION_PLACEHOLDER": "Description",
