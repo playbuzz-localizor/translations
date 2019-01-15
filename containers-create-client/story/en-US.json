@@ -754,6 +754,7 @@
     },
     "STORY_EMBED": {
         "COPY_CODE": "Copy Code",
+        "COPY": "Copy",
         "COPIED": "Copied!",
         "ADVANCED_SETTINGS": "Advanced Settings",
         "SHOW_INFO_TITLE": "Display story details",
