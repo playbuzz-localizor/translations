@@ -864,6 +864,9 @@
         "3RD_PARTY_SERVICE": "3rd Party Services",
         "MOAT": "Moat",
         "CANCEL": "Cancel",
-        "DONE": "Done"
+        "DONE": "Done",
+        "EMBED_CODE": "Embed code",
+        "CREATIVE_NAME": "Creative name",
+        "CREATIVE_ID": "Creative ID"
     }
 }
