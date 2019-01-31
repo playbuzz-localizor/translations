@@ -875,7 +875,7 @@
         "FIELDS": {
             "EMAIL": {
                 "LABEL": "Email",
-                "PLACEHOLDER": "Example: john@gmail.com"
+                "PLACEHOLDER": "Example: user@email.com"
             }
         },
         "VALIDATIONS": {
