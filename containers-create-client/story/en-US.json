@@ -869,5 +869,18 @@
         "EMBED_CODE": "Embed code",
         "CREATIVE_NAME": "Creative name",
         "CREATIVE_ID": "Creative ID"
+    },
+    "LEAD_FORM": {
+        "FORM_TITLE": "Title",
+        "FIELDS": {
+            "EMAIL": {
+                "LABEL": "Email",
+                "PLACEHOLDER": "Example: john@gmail.com"
+            }
+        },
+        "VALIDATIONS": {
+            "REQUIRED": "Required",
+        },
+        "SUBMIT": "Submit"
     }
 }
