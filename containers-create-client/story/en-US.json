@@ -879,7 +879,7 @@
             }
         },
         "VALIDATIONS": {
-            "REQUIRED": "Required",
+            "REQUIRED": "Required"
         },
         "SUBMIT": "Submit"
     }
