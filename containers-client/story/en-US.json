@@ -58,5 +58,18 @@
         "ANSWERS_LIMIT": "Select {{answersLimit}} answers",
         "NO_RESULTS_TEXT": "You checked {{answered}} of {{numOfAnswers}}",
         "HINT_TEXT": "👍"
+    },
+    "LEAD_FORM_PLAY": {
+        "FORM_TITLE": "Title",
+        "FIELDS": {
+            "EMAIL": {
+                "LABEL": "Email",
+                "PLACEHOLDER": "Example: user@email.com"
+            }
+        },
+        "VALIDATIONS": {
+            "REQUIRED": "Required"
+        },
+        "SUBMIT": "Submit"
     }
 }
