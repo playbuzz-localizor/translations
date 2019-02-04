@@ -881,6 +881,7 @@
         "VALIDATIONS": {
             "REQUIRED": "Required"
         },
-        "SUBMIT": "Submit"
+        "SUBMIT": "Submit",
+        "ADD": "Add"
     }
 }
