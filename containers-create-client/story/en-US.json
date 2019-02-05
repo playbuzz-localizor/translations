@@ -873,9 +873,26 @@
     "LEAD_FORM": {
         "FORM_TITLE": "Title",
         "FIELDS": {
+            "FULL_NAME": {
+                "TITLE": "Full name"
+            },
             "EMAIL": {
                 "LABEL": "Email",
+                "TITLE": "Email",
                 "PLACEHOLDER": "Example: user@email.com"
+            },
+            "PHONE": {
+                "TITLE": "Phone"
+            },
+            "TEXT_AREA": {
+                "TITLE": "Text area"
+            },
+            "CHECKBOX": {
+                "TITLE": "Checkbox"
+            },
+            "RECAPTCHA": {
+                "TITLE": "reCAPTCHA",
+                "PLACEHOLDER": "I'm not a robot"
             }
         },
         "VALIDATIONS": {
