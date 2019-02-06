@@ -894,6 +894,9 @@
                 "LABEL": "reCAPTCHA",
                 "TITLE": "reCAPTCHA",
                 "PLACEHOLDER": "I'm not a robot"
+            },
+            "DISCLAIMER_CONSENT": {
+                "LABEL": "Disclaimer consent"
             }
         },
         "VALIDATIONS": {
