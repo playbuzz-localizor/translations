@@ -891,6 +891,7 @@
                 "TITLE": "Checkbox"
             },
             "RECAPTCHA": {
+                "LABEL": "reCAPTCHA",
                 "TITLE": "reCAPTCHA",
                 "PLACEHOLDER": "I'm not a robot"
             }
