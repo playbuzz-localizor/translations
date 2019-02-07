@@ -873,14 +873,36 @@
     "LEAD_FORM": {
         "FORM_TITLE": "Title",
         "FIELDS": {
+            "FULL_NAME": {
+                "TITLE": "Full name"
+            },
             "EMAIL": {
                 "LABEL": "Email",
+                "TITLE": "Email",
                 "PLACEHOLDER": "Example: user@email.com"
+            },
+            "PHONE": {
+                "TITLE": "Phone"
+            },
+            "TEXT_AREA": {
+                "TITLE": "Text area"
+            },
+            "CHECKBOX": {
+                "TITLE": "Checkbox"
+            },
+            "RECAPTCHA": {
+                "LABEL": "reCAPTCHA",
+                "TITLE": "reCAPTCHA",
+                "PLACEHOLDER": "I'm not a robot"
+            },
+            "DISCLAIMER_CONSENT": {
+                "LABEL": "Disclaimer consent"
             }
         },
         "VALIDATIONS": {
             "REQUIRED": "Required"
         },
-        "SUBMIT": "Submit"
+        "SUBMIT": "Submit",
+        "ADD": "Add"
     }
 }
