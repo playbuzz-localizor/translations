@@ -68,7 +68,12 @@
                 "LABEL": "Email",
                 "PLACEHOLDER": "Example: user@email.com",
                 "VALIDATION_ERROR": "Please enter a valid email address."
-            }
+            },
+            "FULLNAME": {
+                "LABEL": "What's your name?",
+                "PLACEHOLDER": "Full name",
+                "VALIDATION_ERROR": "Please enter a valid full name."
+          }
         },
         "VALIDATIONS": {
             "REQUIRED": "Required"
