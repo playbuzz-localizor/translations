@@ -77,12 +77,17 @@
             "COMMENTS": {
               "LABEL": "Any comments?",
               "PLACEHOLDER": "Comments",
-              "VALIDATION_ERROR": "Please enter a comments text"
+              "VALIDATION_ERROR": "Please enter a comments text."
             },
             "CHECKBOX": {
               "LABEL": "Checkbox",
               "PLACEHOLDER": "",
               "VALIDATION_ERROR": "Please check this box"
+            },
+            "PHONE": {
+              "LABEL": "You number, please?",
+              "PLACEHOLDER": "Example: 972542229012",
+              "VALIDATION_ERROR": "Please enter a valid phone number."
             }
         },
         "VALIDATIONS": {
