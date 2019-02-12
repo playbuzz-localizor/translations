@@ -82,7 +82,7 @@
             "CHECKBOX": {
               "LABEL": "Checkbox",
               "PLACEHOLDER": "",
-              "VALIDATION_ERROR": ""
+              "VALIDATION_ERROR": "Please check this box"
             }
         },
         "VALIDATIONS": {
