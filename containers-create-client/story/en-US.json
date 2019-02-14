@@ -879,7 +879,7 @@
             "DESCRIPTION": "The whole form is visible from the start"
           },
           "STEP_BY_STEP": {
-            "TITLE": "Step by Step Form",
+            "TITLE": "Step by step form",
             "DESCRIPTION": "Each form element is revealed after completing its preceding input"
           }
         },
