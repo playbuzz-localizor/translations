@@ -873,8 +873,10 @@
     "LEAD_FORM": {
         "FORM_TITLE": "Title",
         "FIELDS": {
-            "FULL_NAME": {
-                "TITLE": "Full name"
+            "FULLNAME": {
+                "TITLE": "Full name",
+                "LABEL": "Full name",
+                "PLACEHOLDER": "Enter full name"
             },
             "EMAIL": {
                 "LABEL": "Email",
@@ -882,13 +884,19 @@
                 "PLACEHOLDER": "Example: user@email.com"
             },
             "PHONE": {
-                "TITLE": "Phone"
+                "TITLE": "Phone",
+                "LABEL": "Phone",
+                "PLACEHOLDER": "Phone number"
             },
-            "TEXT_AREA": {
-                "TITLE": "Text area"
+            "COMMENTS": {
+                "TITLE": "Text area",
+                "LABEL": "Comments",
+                "PLACEHOLDER": "You can leave comments here"
             },
             "CHECKBOX": {
-                "TITLE": "Checkbox"
+                "TITLE": "Checkbox",
+                "LABEL": "Checkbox",
+                "PLACEHOLDER": "Check me"
             },
             "RECAPTCHA": {
                 "LABEL": "reCAPTCHA",
