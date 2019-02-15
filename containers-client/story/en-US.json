@@ -81,7 +81,7 @@
             },
             "CHECKBOX": {
               "LABEL": "Checkbox",
-              "PLACEHOLDER": "",
+              "PLACEHOLDER": "Check me",
               "VALIDATION_ERROR": "Please check this box"
             },
             "PHONE": {
