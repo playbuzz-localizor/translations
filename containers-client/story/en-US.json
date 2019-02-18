@@ -66,16 +66,16 @@
         "FIELDS": {
             "EMAIL": {
                 "LABEL": "Email",
-                "PLACEHOLDER": "Example: user@email.com",
+                "PLACEHOLDER": "Example: user@domain.com",
                 "VALIDATION_ERROR": "Please enter a valid email address."
             },
             "FULLNAME": {
-                "LABEL": "What's your name?",
-                "PLACEHOLDER": "Full name",
+                "LABEL": "Name",
+                "PLACEHOLDER": "Name",
                 "VALIDATION_ERROR": "Please enter a valid full name."
             },
             "COMMENTS": {
-              "LABEL": "Any comments?",
+              "LABEL": "Comments",
               "PLACEHOLDER": "Comments",
               "VALIDATION_ERROR": "Please enter a comments text."
             },
@@ -85,8 +85,8 @@
               "VALIDATION_ERROR": "Please check this box"
             },
             "PHONE": {
-              "LABEL": "Your number, please?",
-              "PLACEHOLDER": "Example: 972542229012",
+              "LABEL": "Phone",
+              "PLACEHOLDER": "Example: 0123456789",
               "VALIDATION_ERROR": "Please enter a valid phone number."
             }
         },
