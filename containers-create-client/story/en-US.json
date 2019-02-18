@@ -871,6 +871,7 @@
         "CREATIVE_ID": "Creative ID"
     },
     "LEAD_FORM": {
+        "ADD_SECTION_TOOLTIP": "Add Form",
         "FORM_TITLE": "Title",
         "BEHAVIOR": "Behavior",
         "TYPE": {
