@@ -906,7 +906,7 @@
             "COMMENTS": {
                 "TITLE": "Text area",
                 "LABEL": "Comments",
-                "PLACEHOLDER": "You can leave comments here"
+                "PLACEHOLDER": "Comments"
             },
             "CHECKBOX": {
                 "TITLE": "Checkbox",
