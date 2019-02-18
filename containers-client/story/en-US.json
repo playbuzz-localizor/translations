@@ -68,11 +68,32 @@
                 "LABEL": "Email",
                 "PLACEHOLDER": "Example: user@email.com",
                 "VALIDATION_ERROR": "Please enter a valid email address."
+            },
+            "FULLNAME": {
+                "LABEL": "What's your name?",
+                "PLACEHOLDER": "Full name",
+                "VALIDATION_ERROR": "Please enter a valid full name."
+            },
+            "COMMENTS": {
+              "LABEL": "Any comments?",
+              "PLACEHOLDER": "Comments",
+              "VALIDATION_ERROR": "Please enter a comments text."
+            },
+            "CHECKBOX": {
+              "LABEL": "Checkbox",
+              "PLACEHOLDER": "Check me",
+              "VALIDATION_ERROR": "Please check this box"
+            },
+            "PHONE": {
+              "LABEL": "Your number, please?",
+              "PLACEHOLDER": "Example: 972542229012",
+              "VALIDATION_ERROR": "Please enter a valid phone number."
             }
         },
         "VALIDATIONS": {
             "REQUIRED": "Required"
         },
-        "SUBMIT": "Submit"
+        "SUBMIT": "Submit",
+        "NEXT": "Next"
     }
 }

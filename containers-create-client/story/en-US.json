@@ -874,10 +874,24 @@
         "CREATIVE_ID": "Creative ID"
     },
     "LEAD_FORM": {
+        "ADD_SECTION_TOOLTIP": "Add Form",
         "FORM_TITLE": "Title",
+        "BEHAVIOR": "Behavior",
+        "TYPE": {
+          "CLASSIC": {
+            "TITLE": "Classic form",
+            "DESCRIPTION": "The whole form is visible from the start"
+          },
+          "STEP_BY_STEP": {
+            "TITLE": "Step by step form",
+            "DESCRIPTION": "Each form element is revealed after completing its preceding input"
+          }
+        },
         "FIELDS": {
-            "FULL_NAME": {
-                "TITLE": "Full name"
+            "FULLNAME": {
+                "TITLE": "Full name",
+                "LABEL": "Full name",
+                "PLACEHOLDER": "Enter full name"
             },
             "EMAIL": {
                 "LABEL": "Email",
@@ -885,13 +899,19 @@
                 "PLACEHOLDER": "Example: user@email.com"
             },
             "PHONE": {
-                "TITLE": "Phone"
+                "TITLE": "Phone",
+                "LABEL": "Phone",
+                "PLACEHOLDER": "Phone number"
             },
-            "TEXT_AREA": {
-                "TITLE": "Text area"
+            "COMMENTS": {
+                "TITLE": "Text area",
+                "LABEL": "Comments",
+                "PLACEHOLDER": "You can leave comments here"
             },
             "CHECKBOX": {
-                "TITLE": "Checkbox"
+                "TITLE": "Checkbox",
+                "LABEL": "Checkbox",
+                "PLACEHOLDER": "Check me"
             },
             "RECAPTCHA": {
                 "LABEL": "reCAPTCHA",
