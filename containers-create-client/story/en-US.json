@@ -610,14 +610,17 @@
         },
         "RESULT_ACTIONS": {
             "CTA": {
-                "ADD": "Add Call to Action",
+                "ADD": "Add CTA",
                 "TOOLTIP": "Call-to-action",
                 "PLACEHOLDER": "Enter text..."
             },
             "CONTINUE": {
-                "ADD": "Call To Action Message",
+                "ADD": "Add Message",
                 "TOOLTIP": "Continue",
                 "PLACEHOLDER": "Enter text..."
+            },
+            "FORM": {
+                "ADD": "Add Form"
             }
         },
         "ADD_SECTION_TOOLTIP": "Personality Quiz"
