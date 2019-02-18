@@ -887,18 +887,18 @@
         "FIELDS": {
             "FULLNAME": {
                 "TITLE": "Full name",
-                "LABEL": "Full name",
-                "PLACEHOLDER": "Enter full name"
+                "LABEL": "Name",
+                "PLACEHOLDER": "Name"
             },
             "EMAIL": {
-                "LABEL": "Email",
                 "TITLE": "Email",
-                "PLACEHOLDER": "Example: user@email.com"
+                "LABEL": "Email",
+                "PLACEHOLDER": "Example: user@domain.com"
             },
             "PHONE": {
                 "TITLE": "Phone",
                 "LABEL": "Phone",
-                "PLACEHOLDER": "Phone number"
+                "PLACEHOLDER": "Example: 0123456789"
             },
             "COMMENTS": {
                 "TITLE": "Text area",
@@ -908,7 +908,7 @@
             "CHECKBOX": {
                 "TITLE": "Checkbox",
                 "LABEL": "Checkbox",
-                "PLACEHOLDER": "Check me"
+                "PLACEHOLDER": "Checkbox text"
             },
             "RECAPTCHA": {
                 "LABEL": "reCAPTCHA",
