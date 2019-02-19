@@ -610,14 +610,17 @@
         },
         "RESULT_ACTIONS": {
             "CTA": {
-                "ADD": "Add Call to Action",
+                "ADD": "Add CTA",
                 "TOOLTIP": "Call-to-action",
                 "PLACEHOLDER": "Enter text..."
             },
             "CONTINUE": {
-                "ADD": "Call To Action Message",
+                "ADD": "Add Message",
                 "TOOLTIP": "Continue",
                 "PLACEHOLDER": "Enter text..."
+            },
+            "FORM": {
+                "ADD": "Add Form"
             }
         },
         "ADD_SECTION_TOOLTIP": "Personality Quiz"
@@ -869,5 +872,60 @@
         "EMBED_CODE": "Embed code",
         "CREATIVE_NAME": "Creative name",
         "CREATIVE_ID": "Creative ID"
+    },
+    "LEAD_FORM": {
+        "ADD_SECTION_TOOLTIP": "Add Form",
+        "FORM_TITLE": "Title",
+        "BEHAVIOR": "Behavior",
+        "TYPE": {
+          "CLASSIC": {
+            "TITLE": "Classic form",
+            "DESCRIPTION": "The whole form is visible from the start"
+          },
+          "STEP_BY_STEP": {
+            "TITLE": "Step by step form",
+            "DESCRIPTION": "Each form element is revealed after completing its preceding input"
+          }
+        },
+        "FIELDS": {
+            "FULLNAME": {
+                "TITLE": "Full name",
+                "LABEL": "Name",
+                "PLACEHOLDER": "Name"
+            },
+            "EMAIL": {
+                "TITLE": "Email",
+                "LABEL": "Email",
+                "PLACEHOLDER": "Example: user@domain.com"
+            },
+            "PHONE": {
+                "TITLE": "Phone",
+                "LABEL": "Phone",
+                "PLACEHOLDER": "Example: 0123456789"
+            },
+            "COMMENTS": {
+                "TITLE": "Text area",
+                "LABEL": "Comments",
+                "PLACEHOLDER": "Comments"
+            },
+            "CHECKBOX": {
+                "TITLE": "Checkbox",
+                "LABEL": "Checkbox",
+                "PLACEHOLDER": "Checkbox text"
+            },
+            "RECAPTCHA": {
+                "LABEL": "reCAPTCHA",
+                "TITLE": "reCAPTCHA",
+                "PLACEHOLDER": "I'm not a robot"
+            },
+            "DISCLAIMER_CONSENT": {
+                "LABEL": "User consent"
+            }
+        },
+        "VALIDATIONS": {
+            "REQUIRED": "Required"
+        },
+        "SUBMIT": "Submit",
+        "ADD": "Add"
     }
 }

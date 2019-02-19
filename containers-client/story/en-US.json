@@ -58,5 +58,42 @@
         "ANSWERS_LIMIT": "Select {{answersLimit}} answers",
         "NO_RESULTS_TEXT": "You checked {{answered}} of {{numOfAnswers}}",
         "HINT_TEXT": "👍"
+    },
+    "LEAD_FORM_PLAY": {
+        "FORM_TITLE": "Title",
+        "REQUIRED_ERROR": "Please fill in this required information",
+        "ERROR_MESSAGE": "Some details in the form are missing",
+        "FIELDS": {
+            "EMAIL": {
+                "LABEL": "Email",
+                "PLACEHOLDER": "Example: user@domain.com",
+                "VALIDATION_ERROR": "Please enter a valid email address."
+            },
+            "FULLNAME": {
+                "LABEL": "Name",
+                "PLACEHOLDER": "Name",
+                "VALIDATION_ERROR": "Please enter a valid full name."
+            },
+            "COMMENTS": {
+              "LABEL": "Comments",
+              "PLACEHOLDER": "Comments",
+              "VALIDATION_ERROR": "Please enter a comments text."
+            },
+            "CHECKBOX": {
+              "LABEL": "Checkbox",
+              "PLACEHOLDER": "Checkbox text",
+              "VALIDATION_ERROR": "Please check this box"
+            },
+            "PHONE": {
+              "LABEL": "Phone",
+              "PLACEHOLDER": "Example: 0123456789",
+              "VALIDATION_ERROR": "Please enter a valid phone number."
+            }
+        },
+        "VALIDATIONS": {
+            "REQUIRED": "Required"
+        },
+        "SUBMIT": "Submit",
+        "NEXT": "Next"
     }
 }
