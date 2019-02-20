@@ -889,7 +889,7 @@
         },
         "FIELDS": {
             "FULLNAME": {
-                "TITLE": "Full name",
+                "TITLE": "Name",
                 "LABEL": "Name",
                 "PLACEHOLDER": "Name"
             },
@@ -904,7 +904,7 @@
                 "PLACEHOLDER": "Example: 0123456789"
             },
             "COMMENTS": {
-                "TITLE": "Text area",
+                "TITLE": "Comments",
                 "LABEL": "Comments",
                 "PLACEHOLDER": "Comments"
             },
