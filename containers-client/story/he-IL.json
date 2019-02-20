@@ -19,7 +19,7 @@
         "UNEXPECTED_ERROR_OCCURRED": "An unexpected error occurred, please try again later.",
         "GO": "GO",
         "FACEBOOK_PAGE_MISSING_HEADER": "Almost there",
-        "FACEBOOK_PAGE_IS_NOT_VALID": "A valid Facebook Page hasn't been linked to this channel.",
+        "FACEBOOK_PAGE_IS_NOT_VALID": "A valid Facebook Page hasn't been linked to this channel,",
         "PERMISSION_REQUIRED_HEADER": "Cannot Crosspost",
         "PERMISSION_REQUIRED_LINK": "Why do we need this?",
         "LEARN_MORE_ABOUT_CROSSPOSTING_LINK": "Learn more about Crossposting",
@@ -30,7 +30,8 @@
     },
     "Vote": "הצביעו",
     "POLL": {
-        "SHARE_POLL": "אני הצבעתי: {{answer}} .{{question}}"
+        "SHARE_POLL": "אני הצבעתי: {{answer}} .{{question}}",
+        "SHARE_RESULT": "SHARE THIS POLL"
     },
     "QUIZ_PLAY": {
         "START": "התחילו כאן",
@@ -39,7 +40,8 @@
         "CALCULATING": "מחשב תוצאה...",
         "SHARE": {
             "I_GOT": "קיבלתי:"
-        }
+        },
+        "CONTINUE": "המשך"
     },
     "Click to Flip": "לחצו וגלו",
     "TRIVIA_PLAY": {
@@ -48,6 +50,50 @@
         "SHARE": {
             "I_GOT": "קיבלתי: {{correct}}/{{questions}}"
         },
-        "CALCULATING": "The trivia will continue right after this ad..."
+        "CALCULATING": "The trivia will continue right after this ad...",
+        "SHARE_RESULT": "SHARE YOUR RESULT"
+    },
+    "CHECKLIST_PLAY": {
+        "DONE": "Done",
+        "ANSWERS_LIMIT": "Select {answersLimit} answers",
+        "NO_RESULTS_TEXT": "You checked ${answered} of ${numOfAnswers}",
+        "HINT_TEXT": "👍"
+    },
+    "LEAD_FORM_PLAY": {
+        "FORM_TITLE": "כותרת",
+        "REQUIRED_ERROR": "אנא מלאו את הפרטים החסרים",
+        "ERROR_MESSAGE": "אנא מלאו את הפרטים החסרים",
+        "FIELDS": {
+            "EMAIL": {
+                "LABEL": "כתובת אימייל",
+                "PLACEHOLDER": "דוגמא: user@domain.com",
+                "VALIDATION_ERROR": "אנא הזינו כתובת אימייל תקינה"
+            },
+            "FULLNAME": {
+                "LABEL": "שם",
+                "PLACEHOLDER": "שם",
+                "VALIDATION_ERROR": "אנא הזינו שם"
+            },
+            "COMMENTS": {
+                "LABEL": "הערות",
+                "PLACEHOLDER": "הערות",
+                "VALIDATION_ERROR": "אנא מלאו את ההערות"
+            },
+            "CHECKBOX": {
+                "LABEL": "תיבת סימון",
+                "PLACEHOLDER": "מלל תיבת סימון",
+                "VALIDATION_ERROR": "אנא בחרו את תיבת הסימון"
+            },
+            "PHONE": {
+                "LABEL": "מספר טלפון",
+                "PLACEHOLDER": "דוגמא: 0123456789",
+                "VALIDATION_ERROR": "אנא מלאו את מספר הטלפון"
+            }
+        },
+        "VALIDATIONS": {
+            "REQUIRED": "שדה חובה"
+        },
+        "SUBMIT": "שלח",
+        "NEXT": "הבא"
     }
 }
