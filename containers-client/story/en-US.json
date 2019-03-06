@@ -94,6 +94,9 @@
             "REQUIRED": "Required"
         },
         "SUBMIT": "Submit",
+        "SUBMIT_SUCCESS": {
+            "DEFAULT_MESSAGE": "Thanks, your details we're successfully sent!"
+        },
         "NEXT": "Next"
     }
 }
