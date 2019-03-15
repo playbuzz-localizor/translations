@@ -610,12 +610,12 @@
         },
         "RESULT_ACTIONS": {
             "CTA": {
-                "ADD": "Add CTA",
+                "ADD": "Add Call to Action",
                 "TOOLTIP": "Call-to-action",
                 "PLACEHOLDER": "Enter text..."
             },
             "CONTINUE": {
-                "ADD": "Add Message",
+                "ADD": "Call To Action Message",
                 "TOOLTIP": "Continue",
                 "PLACEHOLDER": "Enter text..."
             },
@@ -757,7 +757,6 @@
     },
     "STORY_EMBED": {
         "COPY_CODE": "Copy Code",
-        "COPY": "Copy",
         "COPIED": "Copied!",
         "ADVANCED_SETTINGS": "Advanced Settings",
         "SHOW_INFO_TITLE": "Display story details",
@@ -766,7 +765,8 @@
         "SHOW_SHARE_DESCRIPTION": "Shares will link to your domain.",
         "COPY_LINK": "Copy Link",
         "ITEM_ANALYTICS": "Track Performance",
-        "VIEW_ITEM": "View Story"
+        "VIEW_ITEM": "View Story",
+        "COPY": "Copy"
     },
     "PUBLISH": {
         "HEADER": "Published!",
@@ -878,18 +878,18 @@
         "FORM_TITLE": "Title",
         "BEHAVIOR": "Behavior",
         "TYPE": {
-          "CLASSIC": {
-            "TITLE": "Classic form",
-            "DESCRIPTION": "The whole form is visible from the start"
-          },
-          "STEP_BY_STEP": {
-            "TITLE": "Step by step form",
-            "DESCRIPTION": "Each form element is revealed after completing its preceding input"
-          }
+            "CLASSIC": {
+                "TITLE": "Classic form",
+                "DESCRIPTION": "The whole form is visible from the start"
+            },
+            "STEP_BY_STEP": {
+                "TITLE": "Step by step form",
+                "DESCRIPTION": "Each form element is revealed after completing its preceding input"
+            }
         },
         "FIELDS": {
             "FULLNAME": {
-                "TITLE": "Name",
+                "TITLE": "Full name",
                 "LABEL": "Name",
                 "PLACEHOLDER": "Name"
             },
@@ -904,7 +904,7 @@
                 "PLACEHOLDER": "Example: 0123456789"
             },
             "COMMENTS": {
-                "TITLE": "Comments",
+                "TITLE": "Text area",
                 "LABEL": "Comments",
                 "PLACEHOLDER": "Comments"
             },
@@ -926,10 +926,10 @@
             "REQUIRED": "Required"
         },
         "SUBMIT": "Submit",
+        "ADD": "Add",
         "SUBMIT_SUCCESS": {
             "DEFAULT_MESSAGE": "Thanks, your details we're successfully sent!",
             "PLACEHOLDER": "Enter form success message"
-        },
-        "ADD": "Add"
+        }
     }
 }
