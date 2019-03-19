@@ -334,7 +334,8 @@
         },
         "RESULTS": {
             "ADD_CTA": "Add CTA",
-            "BUTTON_MARGIN": "Button margin"
+            "BUTTON_MARGIN": "Button margin",
+            "PLACEHOLDER": "Your result here..."
         }
     },
     "QUOTE": {
