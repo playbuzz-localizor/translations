@@ -325,7 +325,17 @@
         "GRID_LAYOUT_TOOLTIP": "Round results images",
         "DELETE_OPTION_BUT": "Delete option",
         "SQUARE_LAYOUT_TOOLTIP": "Square results images",
-        "ADD_SECTION_TOOLTIP": "Poll"
+        "ADD_SECTION_TOOLTIP": "Poll",
+        "MATCH_RESULT": "Match result",
+        "MATCHED": "Matched",
+        "STAGES": {
+            "QUESTION": "Question",
+            "RESULTS": "Resuts"
+        },
+        "RESULTS": {
+            "ADD_CTA": "Add CTA",
+            "BUTTON_MARGIN": "Button margin",
+        }
     },
     "QUOTE": {
         "TEXT_PLACEHOLDER": "Enter quote...",
