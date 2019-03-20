@@ -317,7 +317,7 @@
                 "DESCRIPTION_PLACEHOLDER": "Enter description..."
             },
             "ALLOW_REVOTES_SWITCH": "Readers can re-vote daily",
-            "HIDE_RESULTS_SWITCH": "Hide poll results",
+            "HIDE_RESULTS_SWITCH": "Hide user results",
             "SECURED_SWITCH": "Enable Google reCAPTCHA",
             "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save."
         },
@@ -330,7 +330,7 @@
         "MATCHED": "Matched",
         "STAGES": {
             "QUESTION": "Question",
-            "RESULTS": "Resuts"
+            "RESULTS": "Results"
         },
         "RESULTS": {
             "ADD_CTA": "Add CTA",
