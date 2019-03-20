@@ -94,6 +94,9 @@
             "REQUIRED": "שדה חובה"
         },
         "SUBMIT": "שלח",
-        "NEXT": "הבא"
+        "NEXT": "הבא",
+        "SUBMIT_SUCCESS": {
+            "DEFAULT_MESSAGE": "תודה רבה. הפרטים שלך נשלחו בהצלחה!"
+        }
     }
 }
