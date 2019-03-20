@@ -940,7 +940,7 @@
         "SUBMIT": "Submit",
         "ADD": "Add",
         "SUBMIT_SUCCESS": {
-            "DEFAULT_MESSAGE": "Thanks, your details we're successfully sent!",
+            "DEFAULT_MESSAGE": "Thanks, your details were successfully sent!",
             "PLACEHOLDER": "Enter form success message"
         }
     }
