@@ -336,7 +336,8 @@
             "ADD_CTA": "Add CTA",
             "TITLE_SINGLE": "Result",
             "BUTTON_MARGIN": "Button margin",
-            "PLACEHOLDER": "Your result here..."
+            "PLACEHOLDER": "Your result here...",
+            "DESC_PLACEHOLDER": "Description"
         }
     },
     "QUOTE": {
