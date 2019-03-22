@@ -335,6 +335,8 @@
         "RESULTS": {
             "ADD_CTA": "Add CTA",
             "TITLE_SINGLE": "Result",
+            "ADD_RESULTS_HINT": "Add results and match them with answers.",
+            "ADD_RESULTS": "Add results",
             "BUTTON_MARGIN": "Button margin",
             "PLACEHOLDER": "Your result here...",
             "DESC_PLACEHOLDER": "Description"
