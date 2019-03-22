@@ -319,7 +319,8 @@
             "ALLOW_REVOTES_SWITCH": "Readers can re-vote daily",
             "HIDE_RESULTS_SWITCH": "Hide user results",
             "SECURED_SWITCH": "Enable Google reCAPTCHA",
-            "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save."
+            "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save.",
+            "FULL_HEIGHT_RESULTS": "Stretch result background"
         },
         "CLASSIC_LAYOUT_TOOLTIP": "Classic bar results",
         "GRID_LAYOUT_TOOLTIP": "Round results images",
