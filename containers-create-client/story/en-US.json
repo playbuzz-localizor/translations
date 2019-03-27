@@ -322,24 +322,24 @@
             "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save.",
             "FULL_HEIGHT_RESULTS": "Stretch result background"
         },
-        "CLASSIC_LAYOUT_TOOLTIP": "Classic bar results",
-        "GRID_LAYOUT_TOOLTIP": "Round results images",
+        "CLASSIC_LAYOUT_TOOLTIP": "Classic bar answers",
+        "GRID_LAYOUT_TOOLTIP": "Round bar answers",
         "DELETE_OPTION_BUT": "Delete option",
-        "SQUARE_LAYOUT_TOOLTIP": "Square results images",
+        "SQUARE_LAYOUT_TOOLTIP": "Square bar answers",
         "ADD_SECTION_TOOLTIP": "Poll",
-        "MATCH_RESULT": "Match result",
-        "MATCHED": "Matched",
+        "MATCH_RESULT": "Connect end card",
+        "MATCHED": "Connected",
         "STAGES": {
             "QUESTION": "Question",
-            "RESULTS": "Results"
+            "RESULTS": "End cards"
         },
         "RESULTS": {
             "ADD_CTA": "Add CTA",
-            "TITLE_SINGLE": "Result",
-            "ADD_RESULTS_HINT": "Add results and match them with answers.",
-            "ADD_RESULTS": "Add results",
+            "TITLE_SINGLE": "End card",
+            "ADD_RESULTS_HINT": "Add an end card and connect to each relevant option.",
+            "ADD_RESULTS": "Add end card",
             "BUTTON_MARGIN": "Button margin",
-            "PLACEHOLDER": "Your result here...",
+            "PLACEHOLDER": "Enter end card text...",
             "DESC_PLACEHOLDER": "Description"
         }
     },
