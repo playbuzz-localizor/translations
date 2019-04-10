@@ -45,14 +45,14 @@
     "DoNotWorry": "Don't worry. We don't spam.",
     "NextQuiz": "Next Quiz",
     "NextQuizDot": "Next Quiz...",
-    "NextQuizIn": "Next Quiz in",
     "Follow": "Follow",
     "Tags": "Tags",
     "SignUp": "Sign Up",
-    "EmailPlaceholder": "Enter your email",
-    "SubscriptionDescription": "Get our email newsletter with the best quiz every week!",
+    "EmailPlaceholder": "Email Address",
     "SubscribeTo": "SIGN UP TO",
     "SubscribeBtn": "SUBSCRIBE",
+    "SubscriptionDescription": "Join our email list and receive super fun quizzes!",
+    "NextQuizIn": "Next Quiz in",
     "Trending": "Trending",
     "MostPopular": "Most Popular"
 }
