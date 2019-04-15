@@ -297,7 +297,7 @@
         "CLASSIC_TEMPLATE_TOOLTIP": "Classic results",
         "GRID_TEMPLATE_TOOLTIP": "Grid results ",
         "SETTINGS_TOOLTIP": "Poll settings",
-        "TITLE_PLACEHOLDER": "Question",
+        "TITLE_PLACEHOLDER": "Your question here...",
         "OPTION_PLACEHOLDER": "Option {{index}}",
         "ADD_OPTION_BUT": "Add option",
         "SETTINGS": {
@@ -793,8 +793,7 @@
     "TIP": {
         "SECURITY": {
             "PRO_TIP": "🤖 Pro tip!",
-            "ENABLE_CAPTCHA": "For added security, enable Google's reCAPTCHA feature in",
-            "SETTINGS": "Settings"
+            "ENABLE_CAPTCHA": "For added security, enable Google's reCAPTCHA feature in Settings"
         }
     },
     "START_SCREEN": {
