@@ -887,7 +887,9 @@
         "DONE": "Done",
         "EMBED_CODE": "Embed code",
         "CREATIVE_NAME": "Creative name",
-        "CREATIVE_ID": "Creative ID"
+        "CREATIVE_ID": "Creative ID",
+        "TRANSITION": "Transition",
+        "ADD_TRANSITION_BEFORE_RESULT": "Add a screen between the question and the result"
     },
     "LEAD_FORM": {
         "ADD_SECTION_TOOLTIP": "Add Form",
