@@ -29,7 +29,11 @@
             "DESCRIPTION": "Make your Story more discoverable using tags",
             "TOOLTIP": "Tags",
             "NEW_TAG_PLACEHOLDER": "Enter your own tags",
-            "NEW_TAG_DESCRIPTION": "Seperated by comma"
+            "NEW_TAG_DESCRIPTION": "Seperated by comma",
+            "META_TITLE_TITLE": "Title Tag",
+            "META_TITLE_PLACEHOLDER": "Title that will be displayed on search engine results pages",
+            "META_DESCRIPTION_TITLE": "Description Metadata",
+            "META_DESCRIPTION_PLACEHOLDER": "Brief summary that will be displayed on search engine results pages"
         },
         "SOCIAL": {
             "TITLE": "Social appearance",
