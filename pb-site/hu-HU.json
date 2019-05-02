@@ -38,12 +38,21 @@
         "Online Terms": "Online Terms",
         "Trust": "Trust",
         "Contact": "Contact",
-        "Create": "Create"
+        "Create": "Create",
+        "LogIn": "Log In"
     },
     "ShareOnFb": "Share on Facebook",
     "DoNotWorry": "Don't worry. We don't spam.",
     "NextQuiz": "Next Quiz",
     "NextQuizDot": "Next Quiz...",
     "Follow": "Follow",
-    "Tags": "Tags"
+    "Tags": "Tags",
+    "SignUp": "Sign Up",
+    "EmailPlaceholder": "Email Address",
+    "SubscribeTo": "SIGN UP TO",
+    "SubscribeBtn": "SUBSCRIBE",
+    "SubscriptionDescription": "Join our email list and receive super fun quizzes!",
+    "NextQuizIn": "Next Quiz in",
+    "Trending": "TRENDING",
+    "MostPopular": "MOST POPULAR"
 }
