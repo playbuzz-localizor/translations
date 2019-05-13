@@ -88,6 +88,11 @@
               "LABEL": "Phone",
               "PLACEHOLDER": "Example: 0123456789",
               "VALIDATION_ERROR": "Please enter a valid phone number."
+            },
+            "DROPDOWN": {
+                "LABEL": "Dropdown",
+                "PLACEHOLDER": "Dropdown",
+                "VALIDATION_ERROR": "Please select an option"
             }
         },
         "VALIDATIONS": {
