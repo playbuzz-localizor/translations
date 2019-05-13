@@ -933,6 +933,11 @@
                 "LABEL": "Checkbox",
                 "PLACEHOLDER": "Checkbox text"
             },
+            "DROPDOWN": {
+                "TITLE": "Dropdown",
+                "Label": "Dropdown",
+                "PLACEHOLDER": "Option {{index}}"
+            },
             "RECAPTCHA": {
                 "LABEL": "reCAPTCHA",
                 "TITLE": "reCAPTCHA",
