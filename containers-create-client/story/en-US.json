@@ -937,7 +937,7 @@
             },
             "DROPDOWN": {
                 "TITLE": "Dropdown",
-                "Label": "Dropdown",
+                "LABEL": "Dropdown",
                 "PLACEHOLDER": "Option {{index}}"
             },
             "RECAPTCHA": {
