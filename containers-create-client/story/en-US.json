@@ -857,7 +857,6 @@
         "ENTER_ANSWER": "Enter answer",
         "ADD_ANSWER": "Add Answer",
         "MATCH_RESULTS": "Match Results",
-        "MATCH_SELECTION_TITLE": "Which result will this selection give them?",
         "ADD_RESULTS": "Add Results"
     },
     "EXPERIENCE": {
@@ -938,7 +937,8 @@
             "DROPDOWN": {
                 "TITLE": "Dropdown",
                 "LABEL": "Dropdown",
-                "PLACEHOLDER": "Option {{index}}"
+                "PLACEHOLDER": "Choose an option",
+                "OPTION_PLACEHOLDER": "Option {{index}}"
             },
             "RECAPTCHA": {
                 "LABEL": "reCAPTCHA",
