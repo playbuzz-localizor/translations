@@ -91,7 +91,7 @@
             },
             "DROPDOWN": {
                 "LABEL": "Dropdown",
-                "PLACEHOLDER": "Dropdown",
+                "PLACEHOLDER": "Choose an option",
                 "VALIDATION_ERROR": "Please select an option"
             }
         },
