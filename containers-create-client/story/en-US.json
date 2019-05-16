@@ -884,7 +884,7 @@
         "LOGO_PLACEHOLDER": "Upload logo",
         "LOGO_LINK_LABEL": "Logo hyperlink",
         "LOGO_LINK_PLACEHOLDER": "Logo hyperlink",
-        "UPLOAD_TIP": "Please upload a PNG/JPG file, up to width: 160px or height: 60px",
+        "UPLOAD_TIP": "Please upload a PNG file, up to width: 160px or height: 60px",
         "3RD_PARTY_SERVICE": "3rd Party Services",
         "MOAT": "Moat",
         "CANCEL": "Cancel",
