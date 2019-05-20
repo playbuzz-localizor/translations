@@ -938,7 +938,7 @@
             "DROPDOWN": {
                 "TITLE": "Dropdown",
                 "LABEL": "Type the question here...",
-                "PLACEHOLDER": "Option {{index}}",
+                "PLACEHOLDER": "Option {{ index }}",
                 "ADD_OPTION_HINT": "Press 'ENTER' to add another option"
             },
             "RECAPTCHA": {
