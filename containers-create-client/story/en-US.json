@@ -884,14 +884,16 @@
         "LOGO_PLACEHOLDER": "Upload logo",
         "LOGO_LINK_LABEL": "Logo hyperlink",
         "LOGO_LINK_PLACEHOLDER": "Logo hyperlink",
-        "UPLOAD_TIP": "Please upload a PNG/JPG file, up to width: 160px or height: 60px",
+        "UPLOAD_TIP": "Please upload a PNG file, up to width: 160px or height: 60px",
         "3RD_PARTY_SERVICE": "3rd Party Services",
         "MOAT": "Moat",
         "CANCEL": "Cancel",
         "DONE": "Done",
         "EMBED_CODE": "Embed code",
         "CREATIVE_NAME": "Creative name",
-        "CREATIVE_ID": "Creative ID"
+        "CREATIVE_ID": "Creative ID",
+        "TRANSITION": "Transition",
+        "ADD_TRANSITION_BEFORE_RESULT": "Add a screen between the question and the result"
     },
     "LEAD_FORM": {
         "ADD_SECTION_TOOLTIP": "Add Form",
@@ -932,6 +934,12 @@
                 "TITLE": "Checkbox",
                 "LABEL": "Checkbox",
                 "PLACEHOLDER": "Checkbox text"
+            },
+            "DROPDOWN": {
+                "TITLE": "Dropdown",
+                "LABEL": "Type the question here...",
+                "PLACEHOLDER": "Option {{ index }}",
+                "ADD_OPTION_HINT": "Press 'ENTER' to add another option"
             },
             "RECAPTCHA": {
                 "LABEL": "reCAPTCHA",
