@@ -61,40 +61,45 @@
     },
     "LEAD_FORM_PLAY": {
         "FORM_TITLE": "Title",
-        "REQUIRED_ERROR": "Please fill in this required information",
-        "ERROR_MESSAGE": "Some details in the form are missing",
+        "REQUIRED_ERROR": "Kérlek töltsd ki a szükséges adatokat",
+        "ERROR_MESSAGE": "Valami hiányzik!",
         "FIELDS": {
             "EMAIL": {
                 "LABEL": "Email",
-                "PLACEHOLDER": "Example: user@domain.com",
-                "VALIDATION_ERROR": "Please enter a valid email address."
+                "PLACEHOLDER": "Példa: user@domain.com",
+                "VALIDATION_ERROR": "Add meg az email címed"
             },
             "FULLNAME": {
                 "LABEL": "Name",
                 "PLACEHOLDER": "Name",
-                "VALIDATION_ERROR": "Please enter a valid full name."
+                "VALIDATION_ERROR": "Add meg a teljes neved"
             },
             "COMMENTS": {
                 "LABEL": "Comments",
                 "PLACEHOLDER": "Comments",
-                "VALIDATION_ERROR": "Please enter a comments text."
+                "VALIDATION_ERROR": "Írd ide a megjegyzésed"
             },
             "CHECKBOX": {
                 "LABEL": "Checkbox",
                 "PLACEHOLDER": "Checkbox text",
-                "VALIDATION_ERROR": "Please check this box"
+                "VALIDATION_ERROR": "Ez pipáld ki!"
             },
             "PHONE": {
                 "LABEL": "Phone",
                 "PLACEHOLDER": "Example: 0123456789",
-                "VALIDATION_ERROR": "Please enter a valid phone number."
+                "VALIDATION_ERROR": "Add meg a telefonszámod"
+            },
+            "DROPDOWN": {
+                "LABEL": "Dropdown",
+                "PLACEHOLDER": "Please choose an option",
+                "VALIDATION_ERROR": "Please select an option"
             }
         },
         "VALIDATIONS": {
             "REQUIRED": "Required"
         },
         "SUBMIT": "Submit",
-        "NEXT": "Next",
+        "NEXT": "Következő",
         "SUBMIT_SUCCESS": {
             "DEFAULT_MESSAGE": "Thanks, your details we're successfully sent!"
         }

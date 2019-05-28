@@ -38,10 +38,10 @@
         "SHARE_RESULT": "SHARE YOUR RESULT",
         "READ_MORE": "READ MORE",
         "CALCULATING": "Calculating Results...",
-        "CONTINUE":"Continue",
         "SHARE": {
             "I_GOT": "I got:"
-        }
+        },
+        "CONTINUE": "Continue"
     },
     "Click to Flip": "Click to Flip",
     "TRIVIA_PLAY": {
@@ -55,8 +55,8 @@
     },
     "CHECKLIST_PLAY": {
         "DONE": "Done",
-        "ANSWERS_LIMIT": "Select {{answersLimit}} answers",
-        "NO_RESULTS_TEXT": "You checked {{answered}} of {{numOfAnswers}}",
+        "ANSWERS_LIMIT": "Select {answersLimit} answers",
+        "NO_RESULTS_TEXT": "You checked ${answered} of ${numOfAnswers}",
         "HINT_TEXT": "👍"
     },
     "LEAD_FORM_PLAY": {
@@ -67,31 +67,31 @@
             "EMAIL": {
                 "LABEL": "Email",
                 "PLACEHOLDER": "Example: user@domain.com",
-                "VALIDATION_ERROR": "Please enter a valid email address."
+                "VALIDATION_ERROR": "Please enter a valid email address"
             },
             "FULLNAME": {
                 "LABEL": "Name",
                 "PLACEHOLDER": "Name",
-                "VALIDATION_ERROR": "Please enter a valid name."
+                "VALIDATION_ERROR": "Please enter a valid full name"
             },
             "COMMENTS": {
-              "LABEL": "Comments",
-              "PLACEHOLDER": "Comments",
-              "VALIDATION_ERROR": "Please enter a comments text."
+                "LABEL": "Comments",
+                "PLACEHOLDER": "Comments",
+                "VALIDATION_ERROR": "Please enter a comments text"
             },
             "CHECKBOX": {
-              "LABEL": "Checkbox",
-              "PLACEHOLDER": "Checkbox text",
-              "VALIDATION_ERROR": "Please check this box"
+                "LABEL": "Checkbox",
+                "PLACEHOLDER": "Checkbox text",
+                "VALIDATION_ERROR": "Please check this box"
             },
             "PHONE": {
-              "LABEL": "Phone",
-              "PLACEHOLDER": "Example: 0123456789",
-              "VALIDATION_ERROR": "Please enter a valid phone number."
+                "LABEL": "Phone",
+                "PLACEHOLDER": "Example: 0123456789",
+                "VALIDATION_ERROR": "Please enter a valid phone number"
             },
             "DROPDOWN": {
                 "LABEL": "Dropdown",
-                "PLACEHOLDER": "Choose an option",
+                "PLACEHOLDER": "Please choose an option",
                 "VALIDATION_ERROR": "Please select an option"
             }
         },
@@ -99,9 +99,9 @@
             "REQUIRED": "Required"
         },
         "SUBMIT": "Submit",
+        "NEXT": "Next",
         "SUBMIT_SUCCESS": {
-            "DEFAULT_MESSAGE": "Thanks, your details were successfully sent!"
-        },
-        "NEXT": "Next"
+            "DEFAULT_MESSAGE": "Thanks, your details we're successfully sent!"
+        }
     }
 }
