@@ -1,20 +1,27 @@
 {
     "LEFT_PANE": {
         "MAP": {
-            "TITLE": "Map",
+            "TITLE": "Items",
             "EMPTY_TITLE": "Get Started!",
-            "EMPTY_DESCRIPTION": "Create and arrange your Story\n",
-            "TOOLTIP": "Map",
+            "EMPTY_DESCRIPTION": "Create and arrange your Item\n",
+            "TOOLTIP": "Items",
+            "MINIMUM_READ_TIME_LABEL": "min. read"
+        },
+        "TEMPLATE": {
+            "TITLE": "Start your next items faster",
+            "EMPTY_TITLE": "\n",
+            "EMPTY_DESCRIPTION": "\n",
+            "TOOLTIP": "Templates",
             "MINIMUM_READ_TIME_LABEL": "min. read"
         },
         "VISIBILITY": {
             "TITLE": "Visibility",
-            "DESCRIPTION": "Who can view your Story",
-            "LANGUAGE_TITLE": "Language",
-            "LANGUAGE_DESCRIPTION": "Select Story Language\n",
+            "DESCRIPTION": "Who can view your Item",
+            "LANGUAGE_TITLE": "Languages",
+            "LANGUAGE_DESCRIPTION": "Item Viewer Language\n",
             "LANGUAGE_CHECKBOX_LABEL": "Enable translation to other languages",
             "SPONSORED_TITLE": "Sponsored Content",
-            "SPONSORED_CHECKBOX_LABEL": "This is a sponsored Story",
+            "SPONSORED_CHECKBOX_LABEL": "This is a sponsored item",
             "TOOLTIP": "Visibility: {{viewPermission}}",
             "VIEW_PERMISSIONS_DROPDOWN": {
                 "PUBLIC": "Public (recommended)",
@@ -26,7 +33,7 @@
         },
         "TAGS": {
             "TITLE": "Tags",
-            "DESCRIPTION": "Make your Story more discoverable using tags",
+            "DESCRIPTION": "Make your item more discoverable with Tags",
             "TOOLTIP": "Tags",
             "NEW_TAG_PLACEHOLDER": "Enter your own tags",
             "NEW_TAG_DESCRIPTION": "Seperated by comma",
@@ -37,18 +44,18 @@
         },
         "SOCIAL": {
             "TITLE": "Social appearance",
-            "DESCRIPTION": "How your Story will appear on social networks",
+            "DESCRIPTION": "How your item will appear on social networks",
             "TOOLTIP": "Social appearance"
         },
         "ABOUT": {
-            "TITLE": "What is Story?",
-            "DESCRIPTION": "Story is the first-ever article creator that enables editorial teams to break their narratives into engaging elements and deliver an interactive, visually-stunning journey to readers.",
-            "STEP_1": "Write your Story",
+            "TITLE": "What is an item?",
+            "DESCRIPTION": "Item is the first-ever article creator that enables editorial teams to break their narratives into engaging particles and deliver an interactive, visually-stunning journey to readers.",
+            "STEP_1": "Create your item",
             "STEP_2": "Publish!",
             "STEP_3": "Share or instantly embed to your site",
             "STEP_4": "Done",
-            "QUESTIONS_TITLE": "Any questions?",
-            "QUESTIONS_DESCRIPTION": "Visit our academy.",
+            "QUESTIONS_TITLE": "Have Any Questions?",
+            "QUESTIONS_DESCRIPTION": "We're here",
             "TOOLTIP": "About"
         }
     },
