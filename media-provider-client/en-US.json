@@ -15,7 +15,8 @@
             "RATIO_ALERT": "Changing your image ratio will delete existing images.",
             "RATIO_ALERT_CONFIRMATION": "Are you sure you want to continue?",
             "OK_BTN": "OK",
-            "CANCEL_BTN": "CANCEL"
+            "CANCEL_BTN": "CANCEL",
+            "ADD_CTA": "Add CTA"
         },
         "TEXT_CARD": {
             "TEXT_PLACEHOLDER": "Write something inspiring...",
