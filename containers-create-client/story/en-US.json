@@ -621,6 +621,14 @@
         "CHECKLIST": {
             "TITLE": "How to create the best checklist",
             "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "CTA": {
+            "TITLE": "How to create the best cta",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "LEAD_FORM": {
+            "TITLE": "How to create the best lead form",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
         }
     },
     "DELETE_SECTION_BTN": "Delete",
