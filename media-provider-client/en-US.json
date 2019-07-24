@@ -156,6 +156,6 @@
         "PHONE": "Phone",
         "PHONE_PLACEHOLDER": "Enter phone",
         "MOBILE_DISABLED": "Mobile URLs are disabled when using a telephone link",
-        "BUTTON_MARGIN": "Button margin",
+        "BUTTON_MARGIN": "Button margin"
     }
 }
