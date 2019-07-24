@@ -573,6 +573,56 @@
         },
         "ADD_SECTION_TOOLTIP": "Video Player"
     },
+    "HELPER_SECTION_BTN": {
+        "GALLERY_OPEN": {
+            "TITLE": "How to create the best gallery",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "CONVO": {
+            "TITLE": "How to create the best convo",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "FLIP_CARD": {
+            "TITLE": "How to create the best flip card",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "PARAGRAPH": {
+            "TITLE": "How to create the best paragraph",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "POLL": {
+            "TITLE": "How to create the best poll",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "QUOTE": {
+            "TITLE": "How to create the best quote",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "SUMMARY": {
+            "TITLE": "How to create the best summary",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "VIDEO_CREATOR": {
+            "TITLE": "How to create the best video",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "QUIZ": {
+            "TITLE": "How to create the best quiz",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "TRIVIA": {
+            "TITLE": "How to create the best trivia",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "MEDIA": {
+            "TITLE": "How to create the best media",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "CHECKLIST": {
+            "TITLE": "How to create the best checklist",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        }
+    },
     "DELETE_SECTION_BTN": "Delete",
     "FLIP_CARD": {
         "ADD_SECTION_TOOLTIP": "Flip Card"
