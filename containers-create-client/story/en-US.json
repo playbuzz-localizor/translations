@@ -22,7 +22,7 @@
             "LANGUAGE_CHECKBOX_LABEL": "Enable translation to other languages",
             "SPONSORED_TITLE": "Sponsored Content",
             "SPONSORED_CHECKBOX_LABEL": "This is a sponsored item",
-            "TOOLTIP": "Visibility: {{viewPermission}}",
+            "TOOLTIP": "Visibility",
             "VIEW_PERMISSIONS_DROPDOWN": {
                 "PUBLIC": "Public (recommended)",
                 "ONLY_ME": "Only Me",
