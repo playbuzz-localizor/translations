@@ -580,6 +580,60 @@
         },
         "ADD_SECTION_TOOLTIP": "Video Player"
     },
+    "HELPER_POPOVER": {
+        "CONVO": {
+            "TITLE": "How to create the best convo",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "FLIP_CARD": {
+            "TITLE": "How to create the best flip card",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "PARAGRAPH": {
+            "TITLE": "How to create the best paragraph",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "POLL": {
+            "TITLE": "How to create the best poll",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "QUOTE": {
+            "TITLE": "How to create the best quote",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "SUMMARY": {
+            "TITLE": "How to create the best summary",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "VIDEO_CREATOR": {
+            "TITLE": "How to create the best video",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "QUIZ": {
+            "TITLE": "How to create the best quiz",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "TRIVIA": {
+            "TITLE": "How to create the best trivia",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "MEDIA": {
+            "TITLE": "How to create the best media",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "CHECKLIST": {
+            "TITLE": "How to create the best checklist",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "CALL_TO_ACTION": {
+            "TITLE": "How to create the best cta",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        },
+        "LEAD_FORM": {
+            "TITLE": "How to create the best lead form",
+            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+        }
+    },
     "DELETE_SECTION_BTN": "Delete",
     "FLIP_CARD": {
         "ADD_SECTION_TOOLTIP": "Flip Card"
@@ -750,7 +804,7 @@
         "SECTIONS_LOBBY_TITLE": "Let's get started!",
         "SECTIONS_LOBBY_SUBTITLE": "Choose one of the elements below or",
         "SECTIONS_LOBBY_SUBTITLE_TEMPLATE": "start from a template",
-        "ADD_HEADER": "Add header",
+        "ADD_HEADER": "Give a title & add Cover photo",
         "ADD_MORE_STORY": "You're in the zone. Keep going!",
         "MEDIA_DROP_MESSAGE": "Got media? Drop files anywhere to upload."
     },
