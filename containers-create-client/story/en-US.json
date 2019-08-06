@@ -8,7 +8,7 @@
             "MINIMUM_READ_TIME_LABEL": "min. read"
         },
         "TEMPLATE": {
-            "TITLE": "Start your next items faster",
+            "TITLE": "Start faster",
             "EMPTY_TITLE": "\n",
             "EMPTY_DESCRIPTION": "\n",
             "TOOLTIP": "Templates",
@@ -32,7 +32,7 @@
             "AD_SETTINGS_CHECKBOX_LABEL": "Do not show ads on this item"
         },
         "TAGS": {
-            "TITLE": "Tags",
+            "TITLE": "Tag",
             "DESCRIPTION": "Make your item more discoverable with Tags",
             "TOOLTIP": "Tags",
             "NEW_TAG_PLACEHOLDER": "Enter your own tags",
@@ -48,15 +48,15 @@
             "TOOLTIP": "Social appearance"
         },
         "ABOUT": {
-            "TITLE": "What is an item?",
-            "DESCRIPTION": "Item is the first-ever article creator that enables editorial teams to break their narratives into engaging particles and deliver an interactive, visually-stunning journey to readers.",
-            "STEP_1": "Create your item",
-            "STEP_2": "Publish!",
+            "TITLE": "What is the Playbuzz Platform?",
+            "DESCRIPTION": "The Playbuzz Platform is the first-ever article creator that enables users to break their narratives into engaging experiences and deliver an interactive, visually-stunning journey to readers.\nWhat do I do now?",
+            "STEP_1": "Create your article with content experiences",
+            "STEP_2": "Publish",
             "STEP_3": "Share or instantly embed to your site",
-            "STEP_4": "Done",
-            "QUESTIONS_TITLE": "Have Any Questions?",
-            "QUESTIONS_DESCRIPTION": "We're here",
-            "TOOLTIP": "About"
+            "STEP_4": "Done!",
+            "QUESTIONS_TITLE": "Any questions?",
+            "QUESTIONS_DESCRIPTION": "We're here for you",
+            "TOOLTIP": "Info"
         }
     },
     "ACTION_PANE": {
@@ -582,44 +582,44 @@
     },
     "HELPER_POPOVER": {
         "CONVO": {
-            "TITLE": "How to create the best convo",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Let readers watch the conversation unfold before their eyes",
+            "MESSAGE": "A great way to bring users information in the format they're most used to: text messages. Tip: Add images and names for each speaker to bring the text to life."
         },
         "FLIP_CARD": {
-            "TITLE": "How to create the best flip card",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Give them something to click about",
+            "MESSAGE": "Use suspense to tempt readers to click to the 'back' side of your flip card. Tip: Add text to tease what they can expect to see after they click."
         },
         "PARAGRAPH": {
             "TITLE": "How to create the best paragraph",
             "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
         },
         "POLL": {
-            "TITLE": "How to create the best poll",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Ask users what they think",
+            "MESSAGE": "Give readers an active role in your article by asking them a question. Keep in mind: people love engaging with polls to see how their opinions compare to others."
         },
         "QUOTE": {
-            "TITLE": "How to create the best quote",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Make your content more effective with a quote",
+            "MESSAGE": "Highlight key parts of your text to make sure your readers don't forget it. Tip: Add a background photo or gif to make your quote shine."
         },
         "SUMMARY": {
-            "TITLE": "How to create the best summary",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Break it down for readers",
+            "MESSAGE": "Summary Cards help to condense ideas and articles into something readers can understand at a glance. Tip: this experience is great for recipes."
         },
         "VIDEO_CREATOR": {
-            "TITLE": "How to create the best video",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Easily create engaging videos",
+            "MESSAGE": "Start with the key points you want to include in your video, building the story and adding visuals as you go. Tip: Combining video with interactivity (like polls) can boost dwell time!"
         },
         "QUIZ": {
-            "TITLE": "How to create the best quiz",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Give readers an experience that's all about them",
+            "MESSAGE": "Turn your results into something you'd want to read about yourself – if readers like what you tell them, they'll be back for more! Tip: Using images for quiz answers creates an even more engaging user experience."
         },
         "TRIVIA": {
-            "TITLE": "How to create the best trivia",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Put your readers to the test",
+            "MESSAGE": "Trivia questions compel users to engage more deeply. Tip: don't start or end with your hardest question – you don't want users to think it's too hard or leave them feeling discouraged! [note: don't love 'staring' – kind of zombielike]"
         },
         "MEDIA": {
-            "TITLE": "How to create the best media",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Make your content stand out with visuals",
+            "MESSAGE": "Adding photos, gifs, or embeds is a great way to breathe life into a story and help to engage users. Tip: You can make your photos interactive with our blur tool"
         },
         "CHECKLIST": {
             "TITLE": "How to create the best checklist",
