@@ -288,7 +288,8 @@
         "ANDROID_LINK_TOOLTIP": "Android",
         "PHONE": "Phone",
         "PHONE_PLACEHOLDER": "Enter phone",
-        "MOBILE_DISABLED": "Mobile URLs are disabled when using a telephone link"
+        "MOBILE_DISABLED": "Mobile URLs are disabled when using a telephone link",
+        "BUTTON_MARGIN": "Button margin"
     },
     "EMBED": {
         "DESCRIPTION_PLACEHOLDER": "Description",
