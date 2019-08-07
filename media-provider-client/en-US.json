@@ -15,7 +15,8 @@
             "RATIO_ALERT": "Changing your image ratio will delete existing images.",
             "RATIO_ALERT_CONFIRMATION": "Are you sure you want to continue?",
             "OK_BTN": "OK",
-            "CANCEL_BTN": "CANCEL"
+            "CANCEL_BTN": "CANCEL",
+            "ADD_CTA": "Add CTA"
         },
         "TEXT_CARD": {
             "TEXT_PLACEHOLDER": "Write something inspiring...",
@@ -138,5 +139,23 @@
         "COLORS_LABEL": "Colors:",
         "EMOJI_LABEL": "Emoji",
         "AUDIO_CONTROL": "Use original audio"
+    },
+    "CTA": {
+        "NO_EFFECT": "None",
+        "PULSE_EFFECT": "Pulse",
+        "FLOATING_EFFECT": "Floating",
+        "BUTTON_TEXT": "Enter text...",
+        "LINK_PLACEHOLDER": "Enter link...",
+        "TEST_LINK_TOOLTIP": "Test link",
+        "ADD_SECTION_TOOLTIP": "CTA",
+        "APPLE_LINK_PLACEHOLDER": "iOS link (optional)",
+        "ANDROID_LINK_PLACEHOLDER": "Android link (optional)",
+        "WEB_LINK_TOOLTIP": "Universal",
+        "APPLE_LINK_TOOLTIP": "iOS",
+        "ANDROID_LINK_TOOLTIP": "Android",
+        "PHONE": "Phone",
+        "PHONE_PLACEHOLDER": "Enter phone",
+        "MOBILE_DISABLED": "Mobile URLs are disabled when using a telephone link",
+        "BUTTON_MARGIN": "Button margin"
     }
 }
