@@ -11,7 +11,7 @@
             "TITLE": "Start faster",
             "EMPTY_TITLE": "\n",
             "EMPTY_DESCRIPTION": "\n",
-            "TOOLTIP": "Templates",
+            "TOOLTIP": "Start faster",
             "MINIMUM_READ_TIME_LABEL": "min. read"
         },
         "VISIBILITY": {
@@ -34,7 +34,7 @@
         "TAGS": {
             "TITLE": "Tag",
             "DESCRIPTION": "Make your item more discoverable with Tags",
-            "TOOLTIP": "Tags",
+            "TOOLTIP": "Tag",
             "NEW_TAG_PLACEHOLDER": "Enter your own tags",
             "NEW_TAG_DESCRIPTION": "Seperated by comma",
             "META_TITLE_TITLE": "Title Tag",
@@ -43,9 +43,9 @@
             "META_DESCRIPTION_PLACEHOLDER": "Brief summary that will be displayed on search engine results pages"
         },
         "SOCIAL": {
-            "TITLE": "Social appearance",
+            "TITLE": "Social",
             "DESCRIPTION": "How your item will appear on social networks",
-            "TOOLTIP": "Social appearance"
+            "TOOLTIP": "Social"
         },
         "ABOUT": {
             "TITLE": "What is the Playbuzz Platform?",
