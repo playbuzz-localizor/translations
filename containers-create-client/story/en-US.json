@@ -591,8 +591,8 @@
             "MESSAGE": "Use suspense to tempt readers to click to the 'back' side of your flip card. Tip: Add text to tease what they can expect to see after they click."
         },
         "PARAGRAPH": {
-            "TITLE": "How to create the best paragraph",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "The classic storytelling tool",
+            "MESSAGE": "Paragraph is great for connecting other \"experiences\" and providing more context for readers. Tip: Use our text highlighter to make your copy stand out even more — it even drags across the words in real-time as users scroll to them!"
         },
         "POLL": {
             "TITLE": "Ask users what they think",
@@ -623,16 +623,16 @@
             "MESSAGE": "Adding photos, gifs, or embeds is a great way to breathe life into a story and help to engage users. Tip: You can make your photos interactive with our blur tool"
         },
         "CHECKLIST": {
-            "TITLE": "How to create the best checklist",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Users identify all their interests? Check",
+            "MESSAGE": "Give users an experience that’s all about them by asking a question and having them select all the answers that apply to them. Based on their answers, you can give each one a personalized result that really feels unique to their interests. Tip: Use visuals to keep users engaged longer — it’s much harder to overlook an image when checking things off!"
         },
         "CALL_TO_ACTION": {
-            "TITLE": "How to create the best cta",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Lead people to exactly where you want them",
+            "MESSAGE": "Use CTA buttons instead of — or in addition to! — hyperlinks in your story for a much more visual (and effective) way of leading users to a desired destination. Tip: Add an animation to your CTA button — like Pulse or Float — to make it even harder for readers to resist!"
         },
         "LEAD_FORM": {
-            "TITLE": "How to create the best lead form",
-            "MESSAGE": "Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy"
+            "TITLE": "Find out who your audience is",
+            "MESSAGE": "You can customize the lead form to gather the information you really need from readers — name, email, phone number, favorite color, birthday, etc. Tip: Add a lead form to the end of a quiz — you’ll see their answers to every question along with their details, for a more robust user profile!"
         }
     },
     "DELETE_SECTION_BTN": "Delete",
