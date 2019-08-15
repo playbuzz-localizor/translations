@@ -802,10 +802,9 @@
     },
     "CREATOR": {
         "TITLE_PLACEHOLDER": "Story title",
-        "SECTIONS_LOBBY_TITLE": "Let's get started!",
-        "SECTIONS_LOBBY_SUBTITLE": "Choose one of the elements below or",
-        "SECTIONS_LOBBY_SUBTITLE_TEMPLATE": "start from a template",
-        "ADD_HEADER": "Add a title & cover photo",
+        "SECTIONS_LOBBY_TITLE": "Let's get the show on the road!",
+        "SECTIONS_LOBBY_SUBTITLE": "Choose one of the elements below or drop your files anywhere to upload",
+        "ADD_HEADER": "Add a title and a Cover photo",
         "ADD_MORE_STORY": "You're in the zone. Keep going!",
         "MEDIA_DROP_MESSAGE": "Got media? Drop files anywhere to upload."
     },
