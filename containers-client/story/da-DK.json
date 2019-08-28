@@ -41,6 +41,10 @@
             "I_GOT": "I got:"
         }
     },
+    "FLIP_CARD_PLAY": {
+        "CLICK": "klik for at afsløre",
+        "TAP": "Tap to Flip"
+    },
     "Click to Flip": "klik for at afsløre",
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Questions left",

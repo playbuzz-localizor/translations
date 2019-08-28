@@ -41,6 +41,10 @@
             "I_GOT": "J'ai obtenu"
         }
     },
+    "FLIP_CARD_PLAY": {
+        "CLICK": "Cliquez pour dévoiler",
+        "TAP": "Tap to Flip"
+    },
     "Click to Flip": "Cliquez pour dévoiler",
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Question(s) restante(s)",

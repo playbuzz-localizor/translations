@@ -41,6 +41,10 @@
             "I_GOT": "Eu tirei"
         }
     },
+    "FLIP_CARD_PLAY": {
+        "CLICK": "clique para revelar",
+        "TAP": "Tap to Flip"
+    },
     "Click to Flip": "clique para revelar",
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Perguntas restantes",

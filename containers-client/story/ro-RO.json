@@ -43,6 +43,10 @@
         },
         "CONTINUE": "Continue"
     },
+    "FLIP_CARD_PLAY": {
+        "CLICK": "clic pentru a descoperi",
+        "TAP": "Tap to Flip"
+    },
     "Click to Flip": "clic pentru a descoperi",
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Questions left",

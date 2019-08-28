@@ -39,5 +39,9 @@
             "I_GOT": "I got:"
         }
     },
+    "FLIP_CARD_PLAY": {
+        "CLICK": "açığa çıkarmak için tıkla",
+        "TAP": "Tap to Flip"
+    },
     "Click to Flip": "açığa çıkarmak için tıkla"
 }

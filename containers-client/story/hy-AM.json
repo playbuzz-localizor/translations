@@ -39,5 +39,9 @@
             "I_GOT": "I got:"
         }
     },
+    "FLIP_CARD_PLAY": {
+        "CLICK": "սեղմեք՝ բացահայտելու համար",
+        "TAP": "Tap to Flip"
+    },
     "Click to Flip": "սեղմեք՝ բացահայտելու համար"
 }

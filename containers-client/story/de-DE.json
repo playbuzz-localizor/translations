@@ -42,6 +42,10 @@
             "I_GOT": "Mein Ergebnis:"
         }
     },
+    "FLIP_CARD_PLAY": {
+        "CLICK": "klicken und entdecken!",
+        "TAP": "Tap to Flip"
+    },
     "Click to Flip": "klicken und entdecken!",
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Fragen noch",
