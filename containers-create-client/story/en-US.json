@@ -1023,5 +1023,34 @@
             "DEFAULT_MESSAGE": "Thanks, your details were successfully sent!",
             "PLACEHOLDER": "Enter form success message"
         }
+    },
+    "CREATOR_VIEWER": {
+        "BREADCRUMBS": {
+            "CHOOSE": "Choose",
+            "EDIT": "Edit",
+            "PREVIEW": "Preview",
+            "COMPLETE": "Complete",
+            "SAVE": "Save",
+            "NEXT": "Next",
+            "UNSAVED": "Unsaved",
+            "RECENTLY_SAVED": "Item was saved to your Items page",
+            "SAVED": "Saved"
+        },
+        "LOADERS": {
+            "FETCHING": "Loading item...",
+            "SAVING": "Saving...",
+            "PUBLISHING": "Publishing..."
+        },
+        "EMPTY_ITEM": {
+            "TITLE": "Soooo empty here",
+            "MESSAGE": "Design your item first and then come back here to preview your amazing creation",
+            "CTA": "Go back to edit"
+        },
+        "CHOOSE": {
+            "MY_TEMPLATES": "My Templates",
+            "EMPTY_TEMPLATE_NAME": "CHOOSE YOUR OWN EXPERIENCE",
+            "EMPTY_TEMPLATE_TITLE": "Start From Scratch",
+            "TEMPLATE_BUTTON": "Select"
+        }
     }
 }
