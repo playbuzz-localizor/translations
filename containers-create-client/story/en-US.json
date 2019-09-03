@@ -839,26 +839,20 @@
   "STORY_EMBED": {
     "COPY_CODE": "Copy Code",
     "COPIED": "Copied!",
-    "ADVANCED_SETTINGS": "customize embed settings",
+    "ADVANCED_SETTINGS": "Advanced Settings",
     "SHOW_INFO_TITLE": "Display story details",
     "SHOW_INFO_DESCRIPTION": "Show story's cover image, title description, and author.",
     "SHOW_SHARE_TITLE": "Display share buttons",
     "SHOW_SHARE_DESCRIPTION": "Shares will link to your domain.",
-    "COPY_LINK": "Copy URL",
+    "COPY_LINK": "Copy Link",
     "ITEM_ANALYTICS": "Track Performance",
     "VIEW_ITEM": "View Story",
-    "COPY": "Copy",
-    "TOOLTIP": {
-      "HEADER": "Embed code was changed",
-      "MESSAGE": "Changing these settings affect the embed code",
-      "COPY_NEW_CODE": "Copy new code"
-    }
+    "COPY": "Copy"
   },
   "PUBLISH": {
-    "HEADER": "You're almost there",
+    "HEADER": "Published!",
     "ONLY_ME": "Only you can see this item.",
-    "SUB_HEADER": "Your item is live on the web, now spread it to the world!",
-    "EMBED_CODE": "Embed it on your website:"
+    "SUB_HEADER": "Now, take your story anywhere."
   },
   "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder",
   "TIP": {
