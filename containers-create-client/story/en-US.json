@@ -1057,6 +1057,22 @@
       "EMPTY_TEMPLATE_NAME": "CHOOSE YOUR OWN EXPERIENCE",
       "EMPTY_TEMPLATE_TITLE": "Start From Scratch",
       "TEMPLATE_BUTTON": "Select"
+    },
+    "COMPLETE": {
+      "COPY_CODE": "Copy Code",
+      "COPIED": "Copied!",
+      "ADVANCED_SETTINGS": "customize embed settings",
+      "SHOW_INFO_TITLE": "Display story details",
+      "SHOW_INFO_DESCRIPTION": "Show story's cover image, title description, and author.",
+      "SHOW_SHARE_TITLE": "Display share buttons",
+      "SHOW_SHARE_DESCRIPTION": "Shares will link to your domain.",
+      "COPY_LINK": "Copy URL",
+      "TOOLTIP_HEADER": "Embed code was changed",
+      "TOOLTIP_MESSAGE": "Changing these settings affect the embed code",
+      "COPY_NEW_CODE": "Copy new code",
+      "HEADER": "You're almost there",
+      "SUB_HEADER": "Your item is live on the web, now spread it to the world!",
+      "EMBED_CODE": "Embed it on your website:"
     }
   }
 }
