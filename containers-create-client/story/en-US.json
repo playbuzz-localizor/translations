@@ -841,7 +841,7 @@
     "COPIED": "Copied!",
     "ADVANCED_SETTINGS": "Advanced Settings",
     "SHOW_INFO_TITLE": "Display story details",
-    "SHOW_INFO_DESCRIPTION": "Show story's cover image, title description, and author.",
+    "SHOW_INFO_DESCRIPTION": "Show story's cover image, title, description, and author.",
     "SHOW_SHARE_TITLE": "Display share buttons",
     "SHOW_SHARE_DESCRIPTION": "Shares will link to your domain.",
     "COPY_LINK": "Copy Link",
