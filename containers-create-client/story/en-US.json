@@ -803,10 +803,16 @@
   "CREATOR": {
     "TITLE_PLACEHOLDER": "Story title",
     "SECTIONS_LOBBY_TITLE": "Let's get the show on the road!",
-    "SECTIONS_LOBBY_SUBTITLE": "Choose one of the elements below or drop your files anywhere to upload",
+    "SECTIONS_LOBBY_SUBTITLE": "Choose one of the experiences below or drop your files anywhere to upload",
     "ADD_HEADER": "Add a title and a Cover photo",
     "ADD_MORE_STORY": "You're in the zone. Keep going!",
-    "MEDIA_DROP_MESSAGE": "Got media? Drop files anywhere to upload."
+    "MEDIA_DROP_MESSAGE": "Got media? Drop files anywhere to upload.",
+    "INTERACTIVE_SECTION_HEADER": "Interactive Experiences",
+    "INTERACTIVE_SECTION_DESCRIPTION": "Invite users to engage, giving them an active role in the experience.",
+    "CONTENT_SECTION_HEADER": "Content Experiences",
+    "CONTENT_SECTION_DESCRIPTION": "Allow users to enjoy texts and videos in new forms and styles.",
+    "PERFORMANCE_SECTION_HEADER": "Performance Experiences",
+    "PERFORMANCE_SECTION_DESCRIPTION": ""
   },
   "MEDIA": {
     "BTN_INTRO_BUBBLE": {
@@ -874,25 +880,25 @@
       "FLIP_TITLE": "Flip To Reveal The Answer",
       "FLIP_DESC": "Create suspense with the allure of a big reveal that users have to click to discover.",
       "QUIZ": "Personality Quiz",
-      "QUIZ_TITLE": "What Your Answer Says About You?",
-      "QUIZ_DESC": "Make it personal by enticing users with the satisfaction of self discovery.",
+      "QUIZ_TITLE": "What Do Your Answers Say About You?",
+      "QUIZ_DESC": "Give users an experience that’s all about them through personalized results based on their preferences.",
       "POLL": "Poll",
-      "POLL_TITLE": "Hot Or Not Poll",
+      "POLL_TITLE": "See What Readers Think",
       "POLL_DESC": "Everybody has an opinion! Ask a question to cast your users' votes.",
       "LIST": "List",
-      "LIST_TITLE": "List Your Top 10 Places",
-      "LIST_DESC": "Make any story digestible with an elevated take on the classic internet listicle.",
+      "LIST_TITLE": "Let’s Get Listicle",
+      "LIST_DESC": "Put an elevated spin on an internet classic.",
       "CONVO": "Convo",
-      "CONVO_TITLE": "Conversation piece",
-      "CONVO_DESC": "Conversations presented in a way that everyone can relate to: Text messages.",
+      "CONVO_TITLE": "Your text, in text messages",
+      "CONVO_DESC": "Conversations presented in a way that everyone can relate to.",
       "RANKED_LIST": "Ranked List",
-      "RANKED_LIST_TITLE": "Interactive Ranked List",
+      "RANKED_LIST_TITLE": "Upvote Your Favorites",
       "RANKED_LIST_DESC": "Let them have their say! This interactive list rearranges itself as users' votes take control.",
       "VIDEO": "Video",
       "VIDEO_TITLE": "Promotional Video",
       "VIDEO_DESC": "Users love videos, so create them in just minutes! No experience or team required.",
       "TRIVIA": "Trivia",
-      "TRIVIA_TITLE": "General Knowledge Trivia",
+      "TRIVIA_TITLE": "Put People To The Test",
       "TRIVIA_DESC": "Give users a challenge by asking questions to test their knowledge.",
       "LEAD_FORM": "Lead Form",
       "LEAD_FORM_TITLE": "Lead generation form",
@@ -1029,7 +1035,7 @@
       "CHOOSE": "Choose",
       "EDIT": "Edit",
       "PREVIEW": "Preview",
-      "COMPLETE": "Complete",
+      "COMPLETE": "Embed/URL",
       "SAVE": "Save",
       "NEXT": "Next",
       "UNSAVED": "Unsaved",
@@ -1042,14 +1048,14 @@
       "PUBLISHING": "Publishing..."
     },
     "EMPTY_ITEM": {
-      "TITLE": "Soooo empty here",
-      "MESSAGE": "Design your item first and then come back here to preview your amazing creation",
+      "TITLE": "There's nothing to preview yet!",
+      "MESSAGE": "Craft your item first, then come back to preview your amazing creation",
       "CTA": "Go back to edit"
     },
     "CHOOSE": {
       "MY_TEMPLATES": "My Templates",
-      "EMPTY_TEMPLATE_NAME": "CHOOSE YOUR OWN EXPERIENCE",
-      "EMPTY_TEMPLATE_TITLE": "Start From Scratch",
+      "EMPTY_TEMPLATE_NAME": "Start from scratch",
+      "EMPTY_TEMPLATE_TITLE": "Choose your own experience",
       "TEMPLATE_BUTTON": "Select"
     },
     "COMPLETE": {
@@ -1064,9 +1070,41 @@
       "TOOLTIP_HEADER": "Embed code was changed",
       "TOOLTIP_MESSAGE": "Changing these settings affect the embed code",
       "COPY_NEW_CODE": "Copy new code",
-      "HEADER": "You're almost there",
-      "SUB_HEADER": "Your item is live on the web, now spread it to the world!",
+      "HEADER": "Ready to go?",
+      "SUB_HEADER": "Congrats! Here’s everything you need to start engaging your audience:",
       "EMBED_CODE": "Embed it on your website:"
+    },
+    "POPUPS": {
+      "UNSAVED": {
+        "TITLE": "Oh wait, You have some unsaved changes",
+        "MESSAGE": "Leaving this page without saving will cause your amazing changes to be discarded and that's a shame. What would you like to do?",
+        "DISCARD": "Discard changes",
+        "SAVE_CONTINUE": "Save and continue"
+      },
+      "OUTDATED": {
+        "TITLE": "Are you sure?",
+        "MESSAGE": "You are not working on the latest version of the item (is it open on another tab?) Would you like to save anyway?",
+        "SAVE_CONTINUE": "Ok",
+        "CANCEL": "Cancel"
+      },
+      "CHANNELS": {
+        "TITLE": "One more thing...",
+        "MESSAGE": "Where should we save this item?",
+        "CANCEL": "Cancel",
+        "SUBMIT": "Choose"
+      },
+      "IMPROVE": {
+        "TITLE": "New! Creation steps",
+        "MESSAGE": "We improved our creation experience, so you can focus on delivering your best stories!",
+        "CTA": "Got it"
+      },
+      "LOCALE": {
+        "TITLE": "Are you sure this is in",
+        "MESSAGE_FIRST": "It looks like you wrote this in",
+        "MESSAGE_SECOND": "but you've labeled it as",
+        "DETECTED_CTA": "Label this item as",
+        "ORIGINAL_CTA": "Leave it as"
+      }
     }
   }
 }
