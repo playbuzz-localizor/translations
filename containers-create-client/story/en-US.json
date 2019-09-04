@@ -1040,7 +1040,8 @@
       "NEXT": "Next",
       "UNSAVED": "Unsaved",
       "RECENTLY_SAVED": "Item was saved to your Items page",
-      "SAVED": "Saved"
+      "SAVED": "Saved",
+      "SECONDS_AGO": "a few seconds ago"
     },
     "LOADERS": {
       "FETCHING": "Loading item...",
