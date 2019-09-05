@@ -1083,10 +1083,10 @@
         "SAVE_CONTINUE": "Save and continue"
       },
       "OUTDATED": {
-        "TITLE": "Are you sure?",
-        "MESSAGE": "You are not working on the latest version of the item (is it open on another tab?) Would you like to save anyway?",
-        "SAVE_CONTINUE": "Ok",
-        "CANCEL": "Cancel"
+        "TITLE": "This might also be open in another computer...",
+        "MESSAGE": "You are not working on the latest version of this item. Would you like to save it anyway?",
+        "SAVE_CONTINUE": "Save this version",
+        "CANCEL": "Discard changes"
       },
       "CHANNELS": {
         "TITLE": "One more thing...",
