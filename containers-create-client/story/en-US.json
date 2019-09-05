@@ -881,7 +881,7 @@
       "FLIP_DESC": "Create suspense with the allure of a big reveal that users have to click to discover.",
       "QUIZ": "Personality Quiz",
       "QUIZ_TITLE": "What Do Your Answers Say About You?",
-      "QUIZ_DESC": "Give users an experience that’s all about them through personalized results based on their preferences.",
+      "QUIZ_DESC": "Give users an experience that’s all about them.",
       "POLL": "Poll",
       "POLL_TITLE": "See What Readers Think",
       "POLL_DESC": "Everybody has an opinion! Ask a question to cast your users' votes.",
@@ -889,7 +889,7 @@
       "LIST_TITLE": "Let’s Get Listicle",
       "LIST_DESC": "Put an elevated spin on an internet classic.",
       "CONVO": "Convo",
-      "CONVO_TITLE": "Your text, in text messages",
+      "CONVO_TITLE": "Your Text, In Text Messages",
       "CONVO_DESC": "Conversations presented in a way that everyone can relate to.",
       "RANKED_LIST": "Ranked List",
       "RANKED_LIST_TITLE": "Upvote Your Favorites",
@@ -1055,7 +1055,7 @@
     },
     "CHOOSE": {
       "MY_TEMPLATES": "My Templates",
-      "EMPTY_TEMPLATE_NAME": "Start from scratch",
+      "EMPTY_TEMPLATE_NAME": "START FROM SCRATCH",
       "EMPTY_TEMPLATE_TITLE": "Choose your own experience",
       "TEMPLATE_BUTTON": "Select"
     },
