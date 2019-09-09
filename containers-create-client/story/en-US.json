@@ -1105,6 +1105,11 @@
         "MESSAGE_SECOND": "but you've labeled it as",
         "DETECTED_CTA": "Label this item as",
         "ORIGINAL_CTA": "Leave it as"
+      },
+      "INACTIVE": {
+        "TITLE": "Before you publish",
+        "MESSAGE": "please verify your email: ",
+        "CTA": "Ok"
       }
     }
   }
