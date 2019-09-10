@@ -39,5 +39,8 @@
             "I_GOT": "I got:"
         }
     },
-    "Click to Flip": "klikněte pro odkrytí"
+    "FLIP_CARD_PLAY": {
+        "CLICK": "klikněte pro odkrytí",
+        "TAP": "Tap to Flip"
+    }
 }

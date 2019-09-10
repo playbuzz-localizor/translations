@@ -39,5 +39,8 @@
             "I_GOT": "I got:"
         }
     },
-    "Click to Flip": "klikk for å se"
+    "FLIP_CARD_PLAY": {
+        "CLICK": "klikk for å se",
+        "TAP": "Tap to Flip"
+    }
 }
