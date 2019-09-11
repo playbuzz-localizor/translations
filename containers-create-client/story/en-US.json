@@ -1115,6 +1115,12 @@
         "TITLE": "Before you save",
         "MESSAGE": "looks like you have logged out, login and try again",
         "CTA": "Go to login"
+      },
+      "FETCH_FAILED": {
+        "TITLE": "Failed to load item",
+        "MESSAGE": "this item might not be yours or it doesn't exists",
+        "CANCEL_CTA": "Go to your items",
+        "CONTINUE_CTA": "Create new item"
       }
     }
   }
