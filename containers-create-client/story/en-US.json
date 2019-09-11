@@ -1110,6 +1110,11 @@
         "TITLE": "Before you publish",
         "MESSAGE": "please verify your email: ",
         "CTA": "Ok"
+      },
+      "LOGGED_OUT": {
+        "TITLE": "Before you save",
+        "MESSAGE": "looks like you have logged out, login and try again",
+        "CTA": "Go to login"
       }
     }
   }
