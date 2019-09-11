@@ -43,7 +43,10 @@
         },
         "CONTINUE": "המשך"
     },
-    "Click to Flip": "לחצו וגלו",
+    "FLIP_CARD_PLAY": {
+        "CLICK": "לחצו וגלו",
+        "TAP": "Tap to Flip"
+    },
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "שאלות וסיימנו",
         "BACK_LINK": "מה פספסתי?",

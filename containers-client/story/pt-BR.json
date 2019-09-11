@@ -41,7 +41,10 @@
             "I_GOT": "Eu tirei"
         }
     },
-    "Click to Flip": "clique para revelar",
+    "FLIP_CARD_PLAY": {
+        "CLICK": "clique para revelar",
+        "TAP": "Tap to Flip"
+    },
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Perguntas restantes",
         "BACK_LINK": "O que eu deixei passar?",

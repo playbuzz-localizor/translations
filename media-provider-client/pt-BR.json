@@ -15,7 +15,8 @@
             "RATIO_ALERT": "Alterar as proporções da imagem eliminará as mídias já existentes",
             "RATIO_ALERT_CONFIRMATION": "Você tem certeza de que quer continuar?",
             "OK_BTN": "OK",
-            "CANCEL_BTN": "CANCELAR"
+            "CANCEL_BTN": "CANCELAR",
+            "CLICK": "clique para revelar"
         },
         "TEXT_CARD": {
             "TEXT_PLACEHOLDER": "Escreva algo inspirador...",

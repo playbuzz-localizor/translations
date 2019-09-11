@@ -10,7 +10,8 @@
             "BACK_TITLE": "Задняя карточка",
             "MEDIA_TOOLTIP": "Выбрать медиа-файл",
             "TEXT_TOOLTIP": "Текстовая карточка",
-            "IMAGE_CAPTION_PLACEHOLDER": "Добавить подпись..."
+            "IMAGE_CAPTION_PLACEHOLDER": "Добавить подпись...",
+            "CLICK": "Нажмите,  чтобы узнать"
         },
         "TEXT_CARD": {
             "TEXT_PLACEHOLDER": "Напишите что-нибудь вдохновляющее...",
