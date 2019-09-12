@@ -41,7 +41,10 @@
             "I_GOT": "Я получил...."
         }
     },
-    "Click to Flip": "Нажмите,  чтобы узнать",
+    "FLIP_CARD_PLAY": {
+        "CLICK": "Нажмите,  чтобы узнать",
+        "TAP": "Tap to Flip"
+    },
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Пропущено вопросов",
         "BACK_LINK": "Что я упустил?",

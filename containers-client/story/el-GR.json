@@ -43,7 +43,10 @@
         },
         "CONTINUE": "Continue"
     },
-    "Click to Flip": "Κάνε κλικ για να αποκαλυφθεί",
+    "FLIP_CARD_PLAY": {
+        "CLICK": "Κάνε κλικ για να αποκαλυφθεί",
+        "TAP": "Tap to Flip"
+    },
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Questions left",
         "BACK_LINK": "What did I miss?",

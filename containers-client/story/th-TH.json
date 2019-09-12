@@ -39,5 +39,8 @@
             "I_GOT": "I got:"
         }
     },
-    "Click to Flip": "Click to Flip"
+    "FLIP_CARD_PLAY": {
+        "CLICK": "Click to Flip",
+        "TAP": "Tap to Flip"
+    }
 }

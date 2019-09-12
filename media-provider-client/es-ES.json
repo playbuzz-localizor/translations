@@ -15,7 +15,8 @@
             "RATIO_ALERT": "Cambiar la relación de imagen eliminará las imágenes existentes.",
             "RATIO_ALERT_CONFIRMATION": "Are you sure you want to continue?",
             "OK_BTN": "OK",
-            "CANCEL_BTN": "CANCEL"
+            "CANCEL_BTN": "CANCEL",
+            "CLICK": "Haz clic para descubrir"
         },
         "TEXT_CARD": {
             "TEXT_PLACEHOLDER": "Escribe algo inspirador...",

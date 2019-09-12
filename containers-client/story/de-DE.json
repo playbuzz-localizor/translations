@@ -42,7 +42,10 @@
             "I_GOT": "Mein Ergebnis:"
         }
     },
-    "Click to Flip": "klicken und entdecken!",
+    "FLIP_CARD_PLAY": {
+        "CLICK": "klicken und entdecken!",
+        "TAP": "Tap to Flip"
+    },
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Fragen noch",
         "BACK_LINK": "Was habe ich verpasst?",

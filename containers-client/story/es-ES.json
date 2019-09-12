@@ -42,7 +42,10 @@
             "I_GOT": "He recibido"
         }
     },
-    "Click to Flip": "Haz clic para descubrir\n",
+    "FLIP_CARD_PLAY": {
+        "CLICK": "Haz clic para descubrir\n",
+        "TAP": "Tap to Flip"
+    },
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Questions left",
         "BACK_LINK": "What did I miss?",

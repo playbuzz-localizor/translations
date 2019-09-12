@@ -43,7 +43,10 @@
         },
         "CONTINUE": "Continue"
     },
-    "Click to Flip": "انقر لتكشف",
+    "FLIP_CARD_PLAY": {
+        "CLICK": "انقر لتكشف",
+        "TAP": "Tap to Flip"
+    },
     "TRIVIA_PLAY": {
         "QUESTIONS_LEFT": "Questions left",
         "BACK_LINK": "What did I miss?",
