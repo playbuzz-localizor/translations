@@ -8,14 +8,14 @@
       "MINIMUM_READ_TIME_LABEL": "min. read"
     },
     "TEMPLATE": {
-      "TITLE": "Start faster",
+      "TITLE": "Quickly create your next article",
       "EMPTY_TITLE": "\n",
       "EMPTY_DESCRIPTION": "\n",
       "TOOLTIP": "Start faster",
       "MINIMUM_READ_TIME_LABEL": "min. read"
     },
     "VISIBILITY": {
-      "TITLE": "Visibility",
+      "TITLE": "Visible to:",
       "DESCRIPTION": "Who can view your Item",
       "LANGUAGE_TITLE": "Languages",
       "LANGUAGE_DESCRIPTION": "Item Viewer Language\n",
@@ -32,7 +32,7 @@
       "AD_SETTINGS_CHECKBOX_LABEL": "Do not show ads on this item"
     },
     "TAGS": {
-      "TITLE": "Tag",
+      "TITLE": "Tags",
       "DESCRIPTION": "Make your item more discoverable with Tags",
       "TOOLTIP": "Tag",
       "NEW_TAG_PLACEHOLDER": "Enter your own tags",
@@ -43,18 +43,19 @@
       "META_DESCRIPTION_PLACEHOLDER": "Brief summary that will be displayed on search engine results pages"
     },
     "SOCIAL": {
-      "TITLE": "Social",
+      "TITLE": "Social Appearance",
       "DESCRIPTION": "How your item will appear on social networks",
       "TOOLTIP": "Social"
     },
     "ABOUT": {
       "TITLE": "What is the Playbuzz Platform?",
-      "DESCRIPTION": "The Playbuzz Platform is the first-ever article creator that enables users to break their narratives into engaging experiences and deliver an interactive, visually-stunning journey to readers.\nWhat do I do now?",
+      "DESCRIPTION": "The Playbuzz Platform is the first-ever article creator that enables users to break their narratives into engaging experiences and deliver an interactive, visually-stunning journey to readers.",
+      "SUBTITLE": "What do I do now?",
       "STEP_1": "Create your article with content experiences",
       "STEP_2": "Publish",
       "STEP_3": "Share or instantly embed to your site",
       "STEP_4": "Done!",
-      "QUESTIONS_TITLE": "Any questions?",
+      "QUESTIONS_TITLE": "Any Questions?",
       "QUESTIONS_DESCRIPTION": "We're here for you",
       "TOOLTIP": "Info"
     }
@@ -196,10 +197,10 @@
     "NEW": "New",
     "NEW_FROM_TEMPLATE": "New From Template",
     "DUPLICATE": "Duplicate",
-    "ADD_A_TEMPLATE": "Add To Templates",
+    "ADD_A_TEMPLATE": "Save as templates",
     "ADDED_A_TEMPLATE": "Added!",
     "ADDING": "Adding...",
-    "ADDING_DISABLED": "To duplicate or to add a template, save your draft",
+    "ADDING_DISABLED": "Before you duplicate or add a template, make sure you save what you're currently working on. ",
     "SOMETHING_WENT_WRONG": "Something went wrong",
     "PLEASE_TRY_AGAIN": "please try again",
     "CREATE": "Create",
