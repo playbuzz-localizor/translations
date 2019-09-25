@@ -28,7 +28,7 @@
             "VIEW_PERMISSIONS_DROPDOWN": {
                 "PUBLIC": "Public (recommended)",
                 "ONLY_ME": "Only Me",
-                "ONLY_DIRECT_LINK": "Direct Link Only"
+                "ONLY_DIRECT_LINK": "Anyone with this link"
             },
             "CREATOR_LANGUAGE_TITLE": "Language ",
             "CREATOR_EDIT_BUTTON": "bbb"

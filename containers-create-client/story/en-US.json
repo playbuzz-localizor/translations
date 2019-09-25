@@ -26,7 +26,7 @@
       "VIEW_PERMISSIONS_DROPDOWN": {
         "PUBLIC": "Public (recommended)",
         "ONLY_ME": "Only Me",
-        "ONLY_DIRECT_LINK": "Direct Link Only"
+        "ONLY_DIRECT_LINK": "Anyone with this link"
       },
       "AD_SETTINGS_TITLE": "Ad Settings",
       "AD_SETTINGS_CHECKBOX_LABEL": "Do not show ads on this item"
@@ -197,7 +197,7 @@
     "NEW": "New",
     "NEW_FROM_TEMPLATE": "New From Template",
     "DUPLICATE": "Duplicate",
-    "ADD_A_TEMPLATE": "Save as templates",
+    "ADD_A_TEMPLATE": "Save as template",
     "ADDED_A_TEMPLATE": "Added!",
     "ADDING": "Adding...",
     "ADDING_DISABLED": "Before you duplicate or add a template, make sure you save what you're currently working on. ",
