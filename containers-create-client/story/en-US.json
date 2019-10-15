@@ -929,7 +929,8 @@
     "ADD_ANSWER": "Add Answer",
     "MATCH_RESULTS": "Match Results",
     "MATCH_SELECTION_TITLE": "Which result will this selection give them?",
-    "ADD_RESULTS": "Add Results"
+    "ADD_RESULTS": "Add Results",
+    "ADD_SECTION_TOOLTIP": "Checklist"
   },
   "EXPERIENCE": {
     "SETUP_BUTTON": "Setup",
@@ -967,7 +968,7 @@
     "ADD_TRANSITION_BEFORE_RESULT": "Add a screen between the question and the result"
   },
   "LEAD_FORM": {
-    "ADD_SECTION_TOOLTIP": "Add Form",
+    "ADD_SECTION_TOOLTIP": "Form",
     "FORM_TITLE": "Title",
     "BEHAVIOR": "Behavior",
     "TYPE": {
