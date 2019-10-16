@@ -1037,7 +1037,10 @@
       "CHOOSE": "Choose",
       "EDIT": "Edit",
       "PREVIEW": "Preview",
-      "COMPLETE": "Embed/URL",
+      "COMPLETE": {
+        "PUBLISHED": "Embed/URL",
+        "DRAFT": "Complete"
+      },
       "SAVE": "Save",
       "NEXT": "Next",
       "UNSAVED": "Unsaved",
