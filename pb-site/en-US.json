@@ -41,6 +41,10 @@
         "Create": "Create",
         "LogIn": "Log In"
     },
+    "Rebranding": {
+        "FirstSentence": "Our creation platform has moved!",
+        "SecondSentence": "To create the content you love visit"
+    },
     "ShareOnFb": "Share on Facebook",
     "DoNotWorry": "Don't worry. We don't spam.",
     "NextQuiz": "Next Quiz",
