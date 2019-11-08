@@ -1079,7 +1079,8 @@
       "COPY_NEW_CODE": "Copy new code",
       "HEADER": "Ready to go?",
       "SUB_HEADER": "Congrats! Here’s everything you need to start engaging your audience:",
-      "EMBED_CODE": "Embed it on your website:"
+      "EMBED_CODE": "Embed it on your website:",
+      "COPIED_TO_CLIPBOARD": "Copied to clipboard"
     },
     "POPUPS": {
       "UNSAVED": {
