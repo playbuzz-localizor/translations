@@ -106,20 +106,5 @@
             "USER_INTENTS": "Communicate with my team internally, Improve my SEO, Educate readers, Engage audiences, Research, Supercharge segmentation, Discover insights, Convert sales, Other"
         },
         "LOADER": "We’re getting everything ready for you"
-    },
-    "MY": {
-        "WELCOME": {
-            "HEADER": "Welcome to your experience library!",
-            "DESCRIPTION": "Here you can manage, view, edit and analyze all your EX.CO powered content",
-            "CTA": "Get Started"
-        },
-        "EMPTY": {
-            "HEADER": "It’s a little lonely in here",
-            "DESCRIPTION": "Create your first item and engage your audience",
-            "CTA": "Start creating"
-        },
-        "EMBED": {
-            "HEADER": "Embed your experience in your website"
-        }
     }
 }
