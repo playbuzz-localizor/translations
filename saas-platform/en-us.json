@@ -1,7 +1,4 @@
 {
-    "NAVBAR": {
-
-    },
     "BILLING": {
         "SETTINGS": {
             "HEADER": "Settings",
@@ -103,6 +100,8 @@
         },
         "FORM": {
             "HEADER": "First things first, tell us a little about yourself",
+            "COMPANY_TYPES": "Publisher, Advertising Agency, Banking, Communications, Education, Entertainment, Environmental, Fashion, Finance, Food, Government, Healthcare, Hospitality, Insurance, Media, Not For Profit, Recreation, Retail, Technology, Transportation, Other",
+            "ROLES": "Director, VP / C-level, Project Owner, Team leader, Team member, Freelancer",
             "USER_INTENTS": "Communicate with my team internally, Improve my SEO, Educate readers, Engage audiences, Research, Supercharge segmentation, Discover insights, Convert sales, Other"
         },
         "LOADER": "We’re getting everything ready for you"
