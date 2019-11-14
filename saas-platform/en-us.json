@@ -85,6 +85,12 @@
             "CTA_CANCEL": "View your items",
             "CTA_CONTINUE": "Choose a plan"
         },
+        "SUBSCRIPTION_CANCELED": {
+            "HEADER": "Oh no, your subscription is canceled",
+            "DESCRIPTION": "Take a look at the packages to find out how you can keep discovering more great insights.",
+            "CTA_CANCEL": "View your items",
+            "CTA_CONTINUE": "Choose a plan"
+        },
         "TWO_DAYS_LEFT": {
             "HEADER": "Two days left!",
             "DESCRIPTION": "Have you tried creating all of the experiences available to you? Try something new today",
