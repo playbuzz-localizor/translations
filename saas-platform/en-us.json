@@ -79,14 +79,9 @@
             "CTA_CANCEL": "Later",
             "CTA_CONTINUE": "Upgrade plan"
         },
-        "TRIAL_OVER": {
-            "HEADER": "Oh no, your trial is over",
-            "DESCRIPTION": "Take a look at the packages to find out how you can keep discovering more great insights.",
-            "CTA_CANCEL": "View your items",
-            "CTA_CONTINUE": "Choose a plan"
-        },
-        "SUBSCRIPTION_CANCELED": {
-            "HEADER": "Oh no, your subscription is canceled",
+        "SUBSCRIPTION_ENDED": {
+            "HEADER_TRIAL": "Oh no, your trial is over",
+            "HEADER_SUBSCRIPTION": "Oh no, your subscription is canceled",
             "DESCRIPTION": "Take a look at the packages to find out how you can keep discovering more great insights.",
             "CTA_CANCEL": "View your items",
             "CTA_CONTINUE": "Choose a plan"
