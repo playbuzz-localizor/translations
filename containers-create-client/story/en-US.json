@@ -1060,10 +1060,13 @@
       "CTA": "Go back to edit"
     },
     "CHOOSE": {
-      "MY_TEMPLATES": "My Templates",
+      "TEMPLATES_HEADERS": "Suggested experiences",
+      "MY_TEMPLATES_HEADERS": "My template library",
       "EMPTY_TEMPLATE_NAME": "Start from scratch",
       "EMPTY_TEMPLATE_TITLE": "Choose your own experience",
-      "TEMPLATE_BUTTON": "Select"
+      "TEMPLATE_BUTTON": "Select",
+      "HEADER": "Which experience would you like to create?",
+      "CTA_NEW": "Build my own"
     },
     "COMPLETE": {
       "COPY_CODE": "Copy Code",
@@ -1077,21 +1080,21 @@
       "TOOLTIP_HEADER": "Embed code was changed",
       "TOOLTIP_MESSAGE": "Changing these settings affect the embed code",
       "COPY_NEW_CODE": "Copy new code",
-      "HEADER": "Ready to go?",
-      "SUB_HEADER": "Congrats! Here’s everything you need to start engaging your audience:",
+      "HEADER": "That’s one nice looking experience",
+      "SUB_HEADER": "Now, share it with the world!",
       "EMBED_CODE": "Embed it on your website:",
       "COPIED_TO_CLIPBOARD": "Copied to clipboard"
     },
     "POPUPS": {
       "UNSAVED": {
-        "TITLE": "Oh wait, You have some unsaved changes",
-        "MESSAGE": "Leaving this page without saving will cause your amazing changes to be discarded and that's a shame. What would you like to do?",
-        "DISCARD": "Discard changes",
+        "TITLE": "Uh oh, some of your changes haven’t been saved",
+        "MESSAGE": "If you leave the page now, they won’t be there next time you edit your content",
+        "DISCARD": "That’s ok",
         "SAVE_CONTINUE": "Save and continue"
       },
       "OUTDATED": {
-        "TITLE": "This might also be open in another computer...",
-        "MESSAGE": "You are not working on the latest version of this item. Would you like to save it anyway?",
+        "TITLE": "You’re not working on the most recent version of this content",
+        "MESSAGE": "Another version might be open in another computer, would you like to save it anyway?",
         "SAVE_CONTINUE": "Save this version",
         "CANCEL": "Discard changes"
       },
