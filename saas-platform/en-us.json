@@ -1,0 +1,125 @@
+{
+    "NAVBAR": {
+
+    },
+    "BILLING": {
+        "SETTINGS": {
+            "HEADER": "Settings",
+            "DESCRIPTION": "Tell us the important stuff"
+        },
+        "TEAMS": {
+            "HEADER": "Settings",
+            "DESCRIPTION": "Add your team, make it a party",
+            "INVITED": {
+                "HEADER": "{0} has invited you to join the {1} team on EX.CO",
+                "DESCRIPTION": "The sooner you accept, the sooner you can start creating great interactive experiences for your readers",
+                "CTA": "Accept invitation"
+            },
+            "ADD_TEAMMATE": {
+                "HEADER": "Add a teammate to your account",
+                "CTA_CANCEL": "Cancel",
+                "CTA_CONTINUE": "Send invitation"
+            },
+            "REMOVE_TEAMMATE": {
+                "HEADER": "Are you sure?",
+                "DESCRIPTION": "Removing {0} from your team will mean she can no longer edit content created by your team",
+                "CTA_CANCEL": "Cancel",
+                "CTA_CONTINUE": "Remove"
+            }
+        },
+        "PAYMENT_SUCCESSFUL": {
+            "HEADER": "Welcome!",
+            "DESCRIPTION_ACTIVE": "Your subscription is now active and we’ll send you an invoice shortly at {0}",
+            "DESCRIPTION_TRIAL": "Your will be charged at the end of your trial and receive an invoice at {0}",
+            "CTA_INVOICES": "Go to invoices",
+            "CTA_CREATE": "Start Creating"
+        },
+        "CANCELED": {
+            "HEADER": "We’ve cancelled your account for you",
+            "DESCRIPTION": "But don’t worry, we’ll be here if you want to resubscribe in the future.",
+            "DESCRIPTION_2": "We’d love to hear how we can do more. If you’d like to give us feedback, take our two-minute survey below.",
+            "CTA": "Take the survey"
+        },
+        "BILLING": {
+            "HEADER": "Billing & Membership",
+            "SUB_HEADER": "View or edit your subscription preferences",
+            "TRIAL_DESCRIPTION": "Your account has {0} days remaining on the Pro Trial, discover more about the plans for when the trial ends.",
+            "TRIAL_OVER_DESCRIPTION": "You’ve finished your trial, select a plan to continue accessing all the great features you’ve been using.",
+            "CTA": "Choose a plan"
+        },
+        "PAYMENT": {
+            "HEADER": "You’re moments away from getting access to all the Pro plan features",
+            "LOADER": "...we’re just putting the finishing touches on your subscription..."
+        },
+        "INVOICES": {
+            "HEADER": "Charges and Invoices",
+            "SUB_HEADER": "keep track of your subscription payments",
+            "DESCRIPTION_EMPTY": "Your invoices will appear here once you’ve been charged for a paid plan."
+        }
+    },
+    "ANALYTICS": {
+        "EMPTY_PAGE": {
+            "HEADER": "It’s a little quiet in here",
+            "DESCRIPTION": "Once you’ve started creating, here’s where you’ll find all the interesting data from your published experiences.",
+            "CTA": "Publish your first experience"
+        },
+        "PUBLISHED_TOOLTIP": "The total number of EX.CO experiences published during the selected date range"
+    },
+    "LOGIN": {
+        "REBRANDING_SIDEBAR": {
+            "HEADER": "We’re now EX.CO!",
+            "DESCRIPTION": "But don’t worry, you can still access all of your articles and analytics using your existing login credentials."
+        },
+        "SIDEBAR": {
+            "HEADER": "Sign up for your free EX.CO trial and get access to:",
+            "CHECKMARKS": "The EX.CO interactive experience creator, Commercial lead forms and CTA buttons, Thousands of pictures and videos on Getty, Your own enhanced analytics dashboard, Video creation tools, And so much more"
+        }
+    },
+    "DIALOGS": {
+        "UPGRADE": {
+            "HEADER": "You discovered an Enterprise feature!",
+            "DESCRIPTION": "Take a look at the plans to see which other features you could get access to.",
+            "CTA_CANCEL": "Later",
+            "CTA_CONTINUE": "Upgrade plan"
+        },
+        "TRIAL_OVER": {
+            "HEADER": "Oh no, your trial is over",
+            "DESCRIPTION": "Take a look at the packages to find out how you can keep discovering more great insights.",
+            "CTA_CANCEL": "View your items",
+            "CTA_CONTINUE": "Choose a plan"
+        },
+        "TWO_DAYS_LEFT": {
+            "HEADER": "Two days left!",
+            "DESCRIPTION": "Have you tried creating all of the experiences available to you? Try something new today",
+            "CTA_CANCEL": "View your items",
+            "CTA_CONTINUE": "Choose a plan"
+        }
+    },
+    "JOIN_SAAS": {
+        "INTRO": {
+            "HEADER": "We’re upgrading!",
+            "DESCRIPTION": "We’re excited to share the updated EX.CO platform with you, all the same great storytelling tools you love, optimized for your commercial KPIs. Also, because you’re an existing customer (and we think you’re great)",
+            "CTA": "Next"
+        },
+        "FORM": {
+            "HEADER": "First things first, tell us a little about yourself",
+            "USER_INTENTS": "Communicate with my team internally, Improve my SEO, Educate readers, Engage audiences, Research, Supercharge segmentation, Discover insights, Convert sales, Other"
+        },
+        "LOADER": "We’re getting everything ready for you"
+    },
+    "MY": {
+        "WELCOME": {
+            "HEADER": "Welcome to your experience library!",
+            "DESCRIPTION": "Here you can manage, view, edit and analyze all your EX.CO powered content",
+            "CTA": "Get Started"
+        },
+        "EMPTY": {
+            "HEADER": "It’s a little lonely in here",
+            "DESCRIPTION": "Create your first item and engage your audience",
+            "CTA": "Start creating"
+        },
+        "EMBED": {
+            "HEADER": "Embed your experience in your website"
+        }
+    }
+}
