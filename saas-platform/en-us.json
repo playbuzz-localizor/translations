@@ -60,7 +60,12 @@
             "DESCRIPTION": "Once you’ve started creating, here’s where you’ll find all the interesting data from your published experiences.",
             "CTA": "Publish your first experience"
         },
-        "PUBLISHED_TOOLTIP": "The total number of EX.CO experiences published during the selected date range"
+        "TOOLTIPS": {
+            "PUBLISHED": "The total number of EX.CO experiences published during the selected date range",
+            "ITEM_LOADS": "The total number of times the EX.CO experiences was loaded during the selected date range",
+            "AVG_TIME_ON_PAGE": "The average time spent with the EX.CO experience during the selected date range",
+            "ENGAGEMENTS": "The total number of times users dwell time was 15 seconds or the users interacted with the experience"
+        }
     },
     "LOGIN": {
         "REBRANDING_SIDEBAR": {
