@@ -60,7 +60,12 @@
             "DESCRIPTION": "Once you’ve started creating, here’s where you’ll find all the interesting data from your published experiences.",
             "CTA": "Publish your first experience"
         },
-        "PUBLISHED_TOOLTIP": "The total number of EX.CO experiences published during the selected date range"
+        "TOOLTIPS": {
+            "PUBLISHED": "The total number of EX.CO experiences published during the selected date range",
+            "ITEM_LOADS": "The total number of times the EX.CO experiences was loaded during the selected date range",
+            "AVG_TIME_ON_PAGE": "The average time spent with the EX.CO experience during the selected date range",
+            "ENGAGEMENTS": "The total number of times users dwell time was 15 seconds or the users interacted with the experience"
+        }
     },
     "LOGIN": {
         "REBRANDING_SIDEBAR": {
@@ -79,8 +84,9 @@
             "CTA_CANCEL": "Later",
             "CTA_CONTINUE": "Upgrade plan"
         },
-        "TRIAL_OVER": {
-            "HEADER": "Oh no, your trial is over",
+        "SUBSCRIPTION_ENDED": {
+            "HEADER_TRIAL": "Oh no, your trial is over",
+            "HEADER_SUBSCRIPTION": "Oh no, your subscription is canceled",
             "DESCRIPTION": "Take a look at the packages to find out how you can keep discovering more great insights.",
             "CTA_CANCEL": "View your items",
             "CTA_CONTINUE": "Choose a plan"
@@ -88,13 +94,6 @@
         "TWO_DAYS_LEFT": {
             "HEADER": "Two days left!",
             "DESCRIPTION": "Have you tried creating all of the experiences available to you? Try something new today",
-            "CTA_CANCEL": "View your items",
-            "CTA_CONTINUE": "Choose a plan"
-        },
-        "SUBSCRIPTION_ENDED": {
-            "HEADER_TRIAL": "Oh no, your trial is over",
-            "HEADER_SUBSCRIPTION": "Oh no, your subscription is canceled",
-            "DESCRIPTION": "Take a look at the packages to find out how you can keep discovering more great insights.",
             "CTA_CANCEL": "View your items",
             "CTA_CONTINUE": "Choose a plan"
         }
@@ -112,20 +111,5 @@
             "ROLES": "Director, VP / C-level, Project Owner, Team leader, Team member, Freelancer"
         },
         "LOADER": "We’re getting everything ready for you"
-    },
-    "MY": {
-        "WELCOME": {
-            "HEADER": "Welcome to your experience library!",
-            "DESCRIPTION": "Here you can manage, view, edit and analyze all your EX.CO powered content",
-            "CTA": "Get Started"
-        },
-        "EMPTY": {
-            "HEADER": "It’s a little lonely in here",
-            "DESCRIPTION": "Create your first item and engage your audience",
-            "CTA": "Start creating"
-        },
-        "EMBED": {
-            "HEADER": "Embed your experience in your website"
-        }
     }
 }
