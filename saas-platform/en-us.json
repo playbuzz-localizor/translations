@@ -60,12 +60,7 @@
             "DESCRIPTION": "Once you’ve started creating, here’s where you’ll find all the interesting data from your published experiences.",
             "CTA": "Publish your first experience"
         },
-        "TOOLTIPS": {
-            "PUBLISHED": "The total number of EX.CO experiences published during the selected date range",
-            "ITEM_LOADS": "The total number of times the EX.CO experiences was loaded during the selected date range",
-            "AVG_TIME_ON_PAGE": "The average time spent with the EX.CO experience during the selected date range",
-            "ENGAGEMENTS": "The total number of times users dwell time was 15 seconds or the users interacted with the experience"
-        }
+        "PUBLISHED_TOOLTIP": "The total number of EX.CO experiences published during the selected date range"
     },
     "LOGIN": {
         "REBRANDING_SIDEBAR": {
@@ -84,9 +79,8 @@
             "CTA_CANCEL": "Later",
             "CTA_CONTINUE": "Upgrade plan"
         },
-        "SUBSCRIPTION_ENDED": {
-            "HEADER_TRIAL": "Oh no, your trial is over",
-            "HEADER_SUBSCRIPTION": "Oh no, your subscription is canceled",
+        "TRIAL_OVER": {
+            "HEADER": "Oh no, your trial is over",
             "DESCRIPTION": "Take a look at the packages to find out how you can keep discovering more great insights.",
             "CTA_CANCEL": "View your items",
             "CTA_CONTINUE": "Choose a plan"
@@ -96,20 +90,42 @@
             "DESCRIPTION": "Have you tried creating all of the experiences available to you? Try something new today",
             "CTA_CANCEL": "View your items",
             "CTA_CONTINUE": "Choose a plan"
+        },
+        "SUBSCRIPTION_ENDED": {
+            "HEADER_TRIAL": "Oh no, your trial is over",
+            "HEADER_SUBSCRIPTION": "Oh no, your subscription is canceled",
+            "DESCRIPTION": "Take a look at the packages to find out how you can keep discovering more great insights.",
+            "CTA_CANCEL": "View your items",
+            "CTA_CONTINUE": "Choose a plan"
         }
     },
     "JOIN_SAAS": {
         "INTRO": {
             "HEADER": "We’re upgrading!",
-            "DESCRIPTION": "We’re excited to share the updated EX.CO platform with you, all the same great storytelling tools you love, optimized for your commercial KPIs. Also, because you’re an existing customer (and we think you’re great)",
+            "DESCRIPTION": "Hey there! Meet our updated platform - all the content tools you love, optimized for your commercial goals and enhanced with new features. Because you’ve been with us for a while, your account will be in free trial mode until we reach out with more details (or you can feel free to contact us!).\nThe EX.CO (formerly Playbuzz) team",
             "CTA": "Next"
         },
         "FORM": {
             "HEADER": "First things first, tell us a little about yourself",
+            "USER_INTENTS": "Communicate with my team internally, Improve my SEO, Educate readers, Engage audiences, Research, Supercharge segmentation, Discover insights, Convert sales, Other",
             "COMPANY_TYPES": "Publisher, Advertising Agency, Banking, Communications, Education, Entertainment, Environmental, Fashion, Finance, Food, Government, Healthcare, Hospitality, Insurance, Media, Not For Profit, Recreation, Retail, Technology, Transportation, Other",
-            "ROLES": "Director, VP / C-level, Project Owner, Team leader, Team member, Freelancer",
-            "USER_INTENTS": "Communicate with my team internally, Improve my SEO, Educate readers, Engage audiences, Research, Supercharge segmentation, Discover insights, Convert sales, Other"
+            "ROLES": "Director, VP / C-level, Project Owner, Team leader, Team member, Freelancer"
         },
         "LOADER": "We’re getting everything ready for you"
+    },
+    "MY": {
+        "WELCOME": {
+            "HEADER": "Welcome to your experience library!",
+            "DESCRIPTION": "Here you can manage, view, edit and analyze all your EX.CO powered content",
+            "CTA": "Get Started"
+        },
+        "EMPTY": {
+            "HEADER": "It’s a little lonely in here",
+            "DESCRIPTION": "Create your first item and engage your audience",
+            "CTA": "Start creating"
+        },
+        "EMBED": {
+            "HEADER": "Embed your experience in your website"
+        }
     }
 }
