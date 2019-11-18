@@ -43,7 +43,8 @@
     },
     "Rebranding": {
         "FirstSentence": "Our creation platform has moved!",
-        "SecondSentence": "To create new content, as well as access your existing content, visit us at"
+        "SecondSentence": "To create new content, as well as access your existing content, visit us at",
+        "SecondSentence_mobile": "find it on"
     },
     "ShareOnFb": "Share on Facebook",
     "DoNotWorry": "Don't worry. We don't spam.",
