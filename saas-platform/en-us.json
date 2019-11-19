@@ -40,7 +40,7 @@
         "BILLING": {
             "HEADER": "Billing & Membership",
             "SUB_HEADER": "View or edit your subscription preferences",
-            "TRIAL_DESCRIPTION": "Your account is on the Pro Trial, discover more about the plans for when the trial ends.",
+            "TRIAL_DESCRIPTION": "Your account has {0} days remaining on the Pro Trial, discover more about the plans for when the trial ends.",
             "TRIAL_OVER_DESCRIPTION": "You’ve finished your trial, select a plan to continue accessing all the great features you’ve been using.",
             "CTA": "Choose a plan"
         },
@@ -101,7 +101,7 @@
     "JOIN_SAAS": {
         "INTRO": {
             "HEADER": "We’re upgrading!",
-            "DESCRIPTION": "Hey there! Meet our updated platform - all the content tools you love, optimized for your commercial goals and enhanced with new features. Because you’ve been with us for a while, your account will be in free trial mode until we reach out with more details (or you can feel free to contact us!).\nThe EX.CO (formerly Playbuzz) team",
+            "DESCRIPTION": "Hey there partner! Meet our updated platform - all the content tools you love, optimized for your commercial goals and enhanced with new features. Because you’ve been with us for a while, your account will be in free trial mode until we reach out with more details (or you can contact us!)",
             "CTA": "Next"
         },
         "FORM": {
