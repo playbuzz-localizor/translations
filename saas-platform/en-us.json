@@ -40,7 +40,7 @@
         "BILLING": {
             "HEADER": "Billing & Membership",
             "SUB_HEADER": "View or edit your subscription preferences",
-            "TRIAL_DESCRIPTION": "Your account has {0} days remaining on the Pro Trial, discover more about the plans for when the trial ends.",
+            "TRIAL_DESCRIPTION": "Your account is on the Pro Trial, discover more about the plans for when the trial ends.",
             "TRIAL_OVER_DESCRIPTION": "You’ve finished your trial, select a plan to continue accessing all the great features you’ve been using.",
             "CTA": "Choose a plan"
         },
