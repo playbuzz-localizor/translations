@@ -1,1136 +1,1136 @@
 {
-  "LEFT_PANE": {
-    "MAP": {
-      "TITLE": "Article",
-      "EMPTY_TITLE": "Get Started!",
-      "EMPTY_DESCRIPTION": "Create and arrange your Item\n",
-      "TOOLTIP": "Items",
-      "MINIMUM_READ_TIME_LABEL": "min. read"
+    "LEFT_PANE": {
+        "MAP": {
+            "TITLE": "Article",
+            "EMPTY_TITLE": "Get Started!",
+            "EMPTY_DESCRIPTION": "Create and arrange your Item\n",
+            "TOOLTIP": "Items",
+            "MINIMUM_READ_TIME_LABEL": "min. read"
+        },
+        "VISIBILITY": {
+            "TITLE": "Visible to:",
+            "DESCRIPTION": "Who can view your Item",
+            "LANGUAGE_TITLE": "Languages",
+            "LANGUAGE_DESCRIPTION": "Item Viewer Language\n",
+            "LANGUAGE_CHECKBOX_LABEL": "Enable translation to other languages",
+            "SPONSORED_TITLE": "Sponsored Content",
+            "SPONSORED_CHECKBOX_LABEL": "This is a sponsored item",
+            "TOOLTIP": "Visibility",
+            "VIEW_PERMISSIONS_DROPDOWN": {
+                "PUBLIC": "Public (recommended)",
+                "ONLY_ME": "Only Me",
+                "ONLY_DIRECT_LINK": "Anyone with this link"
+            },
+            "AD_SETTINGS_TITLE": "Ad Settings",
+            "AD_SETTINGS_CHECKBOX_LABEL": "Do not show ads on this item"
+        },
+        "TAGS": {
+            "TITLE": "Tags",
+            "DESCRIPTION": "Make your item more discoverable with Tags",
+            "TOOLTIP": "Tags",
+            "NEW_TAG_PLACEHOLDER": "Enter your own tags...",
+            "NEW_TAG_DESCRIPTION": "Separated by commas",
+            "META_TITLE_TITLE": "Title Tag",
+            "META_TITLE_PLACEHOLDER": "Title that will be displayed in search engine results",
+            "META_DESCRIPTION_TITLE": "Description Metadata",
+            "META_DESCRIPTION_PLACEHOLDER": "Brief summary that will be displayed in search engine results"
+        },
+        "SOCIAL": {
+            "TITLE": "Social Appearance",
+            "DESCRIPTION": "How your item will appear on social networks",
+            "TOOLTIP": "Social"
+        },
+        "ABOUT": {
+            "TITLE": "What is the EX.CO Platform?",
+            "DESCRIPTION": "The EX.CO Platform is the first-ever article creator that enables users to break their narratives into engaging experiences and deliver an interactive, visually-stunning journey to readers.",
+            "STEP_1": "Create your article with content experiences",
+            "STEP_2": "Publish",
+            "STEP_3": "Share or instantly embed to your site",
+            "STEP_4": "Done!",
+            "QUESTIONS_TITLE": "Any Questions?",
+            "QUESTIONS_DESCRIPTION": "We're here for you",
+            "TOOLTIP": "Info",
+            "SUBTITLE": "What do I do now?"
+        },
+        "TEMPLATE": {
+            "TITLE": "Quickly create your next article",
+            "EMPTY_TITLE": "\n",
+            "EMPTY_DESCRIPTION": "\n",
+            "TOOLTIP": "Start faster",
+            "MINIMUM_READ_TIME_LABEL": "min. read"
+        }
     },
-    "TEMPLATE": {
-      "TITLE": "Quickly create your next article",
-      "EMPTY_TITLE": "\n",
-      "EMPTY_DESCRIPTION": "\n",
-      "TOOLTIP": "Start faster",
-      "MINIMUM_READ_TIME_LABEL": "min. read"
+    "ACTION_PANE": {
+        "PUBLISH_BUT": "Publish",
+        "SAVE_BUT": "Save",
+        "ERROR_MESSAGE": "Error",
+        "PUBLISH_BUT_PENDING": "Publishing...",
+        "PREVIEW_BUT": "Preview",
+        "SAVED_NOTIFICATION": "Saved",
+        "VIEW_LINK": "view",
+        "SAVE_BUT_NEW_ITEM": "Save Draft",
+        "SAVE_BUT_PENDING": "Saving...",
+        "ERROR": {
+            "MISSING_REQUIREMENTS": "Some requirements are missing",
+            "SAVING_DISABLED": "Saving is disabled. Please try again in 5 minutes",
+            "OUTDATED": "Item is outdated",
+            "SAVE_FAILED": "Failed to Save",
+            "COVER_UNSUPPORTED_FORMAT": "Cover photo failed to upload. Try another file!",
+            "LOGGED_OUT": "Please re-login",
+            "BLOCKED": "Your user is blocked",
+            "DIFFERENT_CHANNEL": "You don't have permissions to edit this item"
+        },
+        "PREVIEW_BUT_PENDING": "Preparing...",
+        "UNSAVED_DRAFT": "Unsaved draft",
+        "EMBED": "Embed"
     },
-    "VISIBILITY": {
-      "TITLE": "Visible to:",
-      "DESCRIPTION": "Who can view your Item",
-      "LANGUAGE_TITLE": "Languages",
-      "LANGUAGE_DESCRIPTION": "Item Viewer Language\n",
-      "LANGUAGE_CHECKBOX_LABEL": "Enable translation to other languages",
-      "SPONSORED_TITLE": "Sponsored Content",
-      "SPONSORED_CHECKBOX_LABEL": "This is a sponsored item",
-      "TOOLTIP": "Visibility",
-      "VIEW_PERMISSIONS_DROPDOWN": {
-        "PUBLIC": "Public (recommended)",
-        "ONLY_ME": "Only Me",
-        "ONLY_DIRECT_LINK": "Anyone with this link"
-      },
-      "AD_SETTINGS_TITLE": "Ad Settings",
-      "AD_SETTINGS_CHECKBOX_LABEL": "Do not show ads on this item"
-    },
-    "TAGS": {
-      "TITLE": "Tags",
-      "DESCRIPTION": "Make your item more discoverable with Tags",
-      "TOOLTIP": "Tags",
-      "NEW_TAG_PLACEHOLDER": "Enter your own tags...",
-      "NEW_TAG_DESCRIPTION": "Separated by commas",
-      "META_TITLE_TITLE": "Title Tag",
-      "META_TITLE_PLACEHOLDER": "Title that will be displayed in search engine results",
-      "META_DESCRIPTION_TITLE": "Description Metadata",
-      "META_DESCRIPTION_PLACEHOLDER": "Brief summary that will be displayed in search engine results"
-    },
-    "SOCIAL": {
-      "TITLE": "Social Appearance",
-      "DESCRIPTION": "How your item will appear on social networks",
-      "TOOLTIP": "Social"
-    },
-    "ABOUT": {
-      "TITLE": "What is the Playbuzz Platform?",
-      "DESCRIPTION": "The Playbuzz Platform is the first-ever article creator that enables users to break their narratives into engaging experiences and deliver an interactive, visually-stunning journey to readers.",
-      "SUBTITLE": "What do I do now?",
-      "STEP_1": "Create your article with content experiences",
-      "STEP_2": "Publish",
-      "STEP_3": "Share or instantly embed to your site",
-      "STEP_4": "Done!",
-      "QUESTIONS_TITLE": "Any Questions?",
-      "QUESTIONS_DESCRIPTION": "We're here for you",
-      "TOOLTIP": "Info"
-    }
-  },
-  "ACTION_PANE": {
-    "PUBLISH_BUT": "Publish",
-    "SAVE_BUT": "Save",
-    "ERROR_MESSAGE": "Error",
-    "PUBLISH_BUT_PENDING": "Publishing...",
-    "PREVIEW_BUT": "Preview",
-    "SAVED_NOTIFICATION": "Saved",
-    "VIEW_LINK": "view",
-    "SAVE_BUT_NEW_ITEM": "Save Draft",
-    "SAVE_BUT_PENDING": "Saving...",
-    "ERROR": {
-      "MISSING_REQUIREMENTS": "Some requirements are missing",
-      "SAVING_DISABLED": "Saving is disabled. Please try again in 5 minutes",
-      "OUTDATED": "Item is outdated",
-      "SAVE_FAILED": "Failed to Save",
-      "COVER_UNSUPPORTED_FORMAT": "Cover photo failed to upload. Try another file!",
-      "LOGGED_OUT": "Please re-login",
-      "BLOCKED": "Your user is blocked",
-      "DIFFERENT_CHANNEL": "You don't have permissions to edit this item"
-    },
-    "PREVIEW_BUT_PENDING": "Preparing...",
-    "UNSAVED_DRAFT": "Unsaved draft",
-    "EMBED": "Embed"
-  },
-  "DESCRIPTION_PLACEHOLDER": "Description",
-  "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
-  "ADD_SECTION_MESSAGE": "Add another experience to this item",
-  "MODAL_LANGUAGE": {
-    "NEW_LABEL": "NEW",
-    "TITLE": "Select your preferred creation language",
-    "DONE_BUT": "Done"
-  },
-  "ONBOARDING": {
-    "GALLERY_OPEN_LABEL": "See Examples",
-    "CONVO": {
-      "TITLE_LABEL": "Create a dialogue that fits today’s communication habits.",
-      "TEXT_1_LABEL": "Make readers feel as though they are reading someone’s text messages.",
-      "TEXT_2_LABEL": "Use the Convo template that looks and feels like iOS messenger.",
-      "TEXT_3_LABEL": "Use Convo to create a list or timeline of events. Simply upload a number or date as the image for each “participant”."
-    },
-    "FLIP_CARD": {
-      "TITLE_LABEL": "Invite readers to click and reveal the other side.",
-      "TEXT_1_LABEL": "",
-      "TEXT_2_LABEL": "Create the perfect “before and after” experience.",
-      "TEXT_3_LABEL": "Warn readers about graphic content or spoilers."
-    },
-    "PARAGRAPH": {
-      "TITLE_LABEL": "Use text to form the base for your article.",
-      "TEXT_1_LABEL": "Highlight the most important parts.",
-      "TEXT_2_LABEL": "Your reader's’ eye will immediately be drawn to the highlighted text. Make sure to highlight the important parts that they need to read.",
-      "TEXT_3_LABEL": "Include emojis and hyperlinks."
-    },
-    "POLL": {
-      "TITLE_LABEL": "Encourage readers to get involved and share their views. ",
-      "TEXT_1_LABEL": "Use a poll to getting your readers involved. Give them a chance to throw in their 2 cents! For example, asking what they think about something on social media.",
-      "TEXT_2_LABEL": "Display the vote count to show readers how others feel about the topic. ",
-      "TEXT_3_LABEL": "Use a background image and choose the Grid template to create a visually awesome poll that is fun to interact with!",
-      "TEXT_4_LABEL": "Remember to always include a “none of the above” option to give your readers an easy out if none of the options suit them.",
-      "TEXT_5_LABEL": "",
-      "TEXT_6_LABEL": "Add an image to each option."
-    },
-    "QUOTE": {
-      "TITLE_LABEL": "Highlight words of wisdom with a designed quote.",
-      "TEXT_1_LABEL": "Short and sweet; keep your quotes to the point and easy to read.",
-      "TEXT_2_LABEL": "Include the quotee’s image and name to add context."
-    },
-    "SUMMARY": {
-      "TITLE_LABEL": "Get straight to the point.",
-      "TEXT_1_LABEL": "Offer a TL;DR version of your article.",
-      "TEXT_2_LABEL": "Share recipes using the sidebar text box. ",
-      "TEXT_3_LABEL": "There are no wrong answers with our new +1 mode."
-    },
-    "VIDEO_CREATOR": {
-      "TITLE_LABEL": "Incorporate video in a flexible, low-cost manner.",
-      "TEXT_1_LABEL": "Use the classic template to create a video list with GIFs and images.",
-      "TEXT_2_LABEL": "Use the Vs. template to compare and contrast a topic that your readers care about.",
-      "TEXT_3_LABEL": "Every screen in the Vs. template will compare a subtopic under the larger comparison with text, images and GIFs!",
-      "TEXT_4_LABEL": "Use the Facts template to list facts about something important to your readers.",
-      "TEXT_5_LABEL": "Each slide in a Facts video has large text over a background image.",
-      "TEXT_6_LABEL": "Use the Swift template to create a quicker video with a an intro screen that automatically pulls visuals from all of your video’s slides."
-    },
-    "QUIZ": {
-      "TEXT_1_LABEL": "Give readers insights on what they care about most - themselves. ",
-      "TEXT_2_LABEL": "Choose a color-palette for your Personality Quiz.",
-      "TEXT_3_LABEL": "Include videos and GIFs.",
-      "TEXT_4_LABEL": "",
-      "TITLE_LABEL": "Make it personal. "
-    },
-    "TRIVIA": {
-      "TEXT_1_LABEL": "Include videos and GIFs.",
-      "TEXT_2_LABEL": "Include a call to action.",
-      "TEXT_3_LABEL": "Give readers feedback and further insights. ",
-      "TEXT_4_LABEL": "Give readers feedback and further.",
-      "TITLE_LABEL": "Challenge your audience."
-    },
-    "MEDIA": {
-      "TITLE_LABEL": "Search, upload, or paste links to add the perfect videos, images, GIFs and social media posts.",
-      "TEXT_1_LABEL": "Blur images to add mystery and hide graphic content or spoilers.",
-      "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
-      "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not.",
-      "TEXT_4_LABEL": "Embed Google Maps to share specific locations.",
-      "TEXT_5_LABEL": "Include any video from Vimeo or YouTube.",
-      "TEXT_6_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
-      "TEXT_7_LABEL": "Embed Instagram posts to make your content more visually stunning.",
-      "TEXT_8_LABEL": "Use any video on Vimeo to make your article more interesting.",
-      "TEXT_9_LABEL": "Use any video on Youtube to make your article more interesting."
-    },
-    "EMBED": {
-      "TITLE_LABEL": "Import media from the web",
-      "TEXT_1_LABEL": "Embed Google Maps to share specific locations.",
-      "TEXT_2_LABEL": "Include any video from Vimeo or YouTube.",
-      "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
-      "TEXT_4_LABEL": "Embed Instagram posts to make your content more visually stunning."
-    },
-    "IMAGE": {
-      "TITLE_LABEL": "Add eye-catching visuals and effects.",
-      "TEXT_1_LABEL": "Blur images to add mystery and hide graphic content or spoilers.",
-      "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
-      "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not."
-    },
-    "VIDEO_PLAYER": {
-      "TITLE_LABEL": "Enrich your article with videos.",
-      "TEXT_1_LABEL": "Use any video on Vimeo to make your article more interesting.",
-      "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
-    },
-    "CHECKLIST": {
-      "TITLE_LABEL": "Enrich your article with checklist.",
-      "TEXT_1_LABEL": "Use checklist to make your article more interesting.",
-      "TEXT_2_LABEL": "Use checklist to make your article more interesting."
-    }
-  },
-  "TEMPLATES": {
-    "START_NEW": "Start a New Item",
-    "UPDATED": "Recently updated",
-    "TEMPLATE_NAME": "Template name",
-    "NEW": "New",
-    "NEW_FROM_TEMPLATE": "New From Template",
-    "DUPLICATE": "Duplicate",
-    "ADD_A_TEMPLATE": "Save as template",
-    "ADDED_A_TEMPLATE": "Added!",
-    "ADDING": "Adding...",
-    "ADDING_DISABLED": "Before you duplicate or add a template, make sure you save what you're currently working on. ",
-    "SOMETHING_WENT_WRONG": "Something went wrong",
-    "PLEASE_TRY_AGAIN": "please try again",
-    "CREATE": "Create",
-    "INCLUDES": "INCLUDES",
-    "DELETE": "Delete",
-    "DELETE_FROM_LIST": "Are you sure you want to delete this template?",
-    "CREATING_IN_PLAYBUZZ": "Save stories as a Template to reuse over & over! ",
-    "CREATING_IN_PLAYBUZZ_2": "Creating has never been easier...",
-    "CREATING_IN_PLAYBUZZ_2_DESC": "Start telling your story from a ready made template or create your own.",
-    "CREATING_IN_PLAYBUZZ_DESC_1": "To create a template, simply create a new item and choose",
-    "CREATING_IN_PLAYBUZZ_DESC_2": "> Add To Templates",
-    "START_HERE": "Start here",
-    "NO_TEMPLATES_FOUND": "I couldn’t find templates under this name",
-    "CREATE_A_TEMPLATE": "Create a template",
-    "GOT_IT": "Got it.",
-    "FEATURED": "Featured",
-    "TRAVEL": "Travel",
-    "HOLIDAY": "Holiday",
-    "FUN": "Fun",
-    "STYLE": "Style",
-    "MUSIC": "Music",
-    "SPORTS": "Sports",
-    "ENTERTAINMENT": "Entertainment",
-    "NEWS": "News",
-    "FOOD": "Food",
-    "WORKING_ON_TEMPLATE": "You're currently editing a template",
-    "VIDEO": "Video",
-    "ALL_CHANNELS": "All Channels"
-  },
-  "CONVO": {
-    "PARTICIPANT_PLACEHOLDER": "Participant",
-    "BUBBLE_CONTENT_PLACEHOLDER": "Enter text...",
-    "ADD_BUBBLE_TOOLTIP": "Add Bubble",
-    "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
-    "DELETE_MESSAGE": "Are you sure?",
-    "ADD_SECTION_TOOLTIP": "Convo"
-  },
-  "CREATE_MODULES": {
-    "TEXT_EDITOR": {
-      "WORD": "WORD",
-      "WORDS": "WORDS",
-      "GOOD": "GOOD",
-      "NORMAL": "O.K",
-      "BAD": "LITTLE TOO LONG",
-      "BOLD_TOOLTIP": "Bold",
-      "GOOD_INDICATION": "GOOD",
-      "NORMAL_INDICATION": "O.K",
-      "BAD_INDICATION": "LITTLE TOO LONG",
-      "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read",
-      "SIZE_SMALL": "Small",
-      "SIZE_NORMAL": "Normal",
-      "SIZE_LARGE": "Large",
-      "SIZE_HUGE": "Huge",
-      "SIZE_TITLE": "Title"
-    },
-    "SECTION_TITLE_PLACEHOLDER": "Title",
-    "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
-    "LIST": {
-      "ENABLE_VOTING_SWITCH": "Enable voting",
-      "VOTE": "Vote",
-      "TYPE": {
-        "NONE": "Standalone",
-        "NUMBER": "Numbered List",
-        "BULLET": "Bulleted List",
-        "RANK": "Interactive List",
-        "DOWN": "Down Vote",
-        "VIDEO": "Video"
-      },
-      "ENABLE_DOWN_VOTE": "Enable downvoting",
-      "DISABLE_DOWN_VOTE": "Disable downvoting",
-      "DISABLE_VOTING_SWITCH": "Close voting"
-    }
-  },
-  "CTA": {
-    "NO_EFFECT": "None",
-    "PULSE_EFFECT": "Pulse",
-    "FLOATING_EFFECT": "Floating",
-    "BUTTON_TEXT": "Enter text...",
-    "LINK_PLACEHOLDER": "Enter link...",
-    "TEST_LINK_TOOLTIP": "Test link",
-    "ADD_SECTION_TOOLTIP": "CTA",
-    "APPLE_LINK_PLACEHOLDER": "iOS link (optional)",
-    "ANDROID_LINK_PLACEHOLDER": "Android link (optional)",
-    "WEB_LINK_TOOLTIP": "Universal",
-    "APPLE_LINK_TOOLTIP": "iOS",
-    "ANDROID_LINK_TOOLTIP": "Android",
-    "PHONE": "Phone",
-    "PHONE_PLACEHOLDER": "Enter phone",
-    "MOBILE_DISABLED": "Mobile URLs are disabled when using a telephone link",
-    "BUTTON_MARGIN": "Button margin"
-  },
-  "EMBED": {
     "DESCRIPTION_PLACEHOLDER": "Description",
-    "ADD_SECTION_TOOLTIP": "From the web"
-  },
-  "IMAGE": {
-    "CAPTION": "Image",
-    "ADD_SECTION_TOOLTIP": "Image"
-  },
-  "PARAGRAPH": {
-    "EDITOR_PLACEHOLDER": "Paragraph",
-    "ADD_SECTION_TOOLTIP": "Text"
-  },
-  "POLL": {
-    "BACKGROUND_TEMPLATE_TOOLTIP": "Background image",
-    "COVER_TEMPLATE_TOOLTIP": "Cover image",
-    "CLASSIC_TEMPLATE_TOOLTIP": "Classic results",
-    "GRID_TEMPLATE_TOOLTIP": "Grid results ",
-    "SETTINGS_TOOLTIP": "Poll settings",
-    "TITLE_PLACEHOLDER": "Your question here...",
-    "OPTION_PLACEHOLDER": "Option {{index}}",
-    "ADD_OPTION_BUT": "Add option",
-    "SETTINGS": {
-      "TITLE": "POLL SETTINGS",
-      "HERE_LINK": "here",
-      "BACK_BUTTON": "Back to edit",
-      "ENABLE_VOTING_SWITCH": "Enable Voting",
-      "TOTAL_VOTES_SWITCH": "Show Total Votes",
-      "DISPLAY_LOGO_SWITCH": "Display Logo",
-      "DISPLAY_LOGO_DESCRIPTION": "Apply additional customization by adding your logo. Change your display picture",
-      "END_CARD_SWITCH": "End Card",
-      "END_CARD_DESCRIPTION": "Drive more shares and engagement using End Card",
-      "END_CARD": {
-        "TITLE_LABEL": "Title",
-        "TITLE_PLACEHOLDER": "Enter title...",
-        "DESCRIPTION_LABEL": "Description",
-        "DESCRIPTION_PLACEHOLDER": "Enter description..."
-      },
-      "ALLOW_REVOTES_SWITCH": "Readers can re-vote daily",
-      "HIDE_RESULTS_SWITCH": "Hide user results",
-      "SECURED_SWITCH": "Enable Google reCAPTCHA",
-      "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save.",
-      "FULL_HEIGHT_RESULTS": "Stretch result background"
+    "DELETE_SECTION_MESSAGE": "Are you sure you want to delete this?",
+    "MODAL_LANGUAGE": {
+        "NEW_LABEL": "NEW",
+        "TITLE": "Select your preferred creation language",
+        "DONE_BUT": "Done"
     },
-    "CLASSIC_LAYOUT_TOOLTIP": "Classic bar answers",
-    "GRID_LAYOUT_TOOLTIP": "Round bar answers",
-    "DELETE_OPTION_BUT": "Delete option",
-    "SQUARE_LAYOUT_TOOLTIP": "Square bar answers",
-    "ADD_SECTION_TOOLTIP": "Poll",
-    "MATCH_RESULT": "Connect end card",
-    "MATCHED": "Connected",
-    "STAGES": {
-      "QUESTION": "Question",
-      "RESULTS": "End cards"
-    },
-    "RESULTS": {
-      "ADD_CTA": "Add Call to Action",
-      "TITLE_SINGLE": "End card",
-      "ADD_RESULTS_HINT": "Add an end card and connect to each relevant option.",
-      "ADD_RESULTS": "Add end card",
-      "BUTTON_MARGIN": "Button margin",
-      "PLACEHOLDER": "Enter end card text...",
-      "DESC_PLACEHOLDER": "Description"
-    }
-  },
-  "QUOTE": {
-    "TEXT_PLACEHOLDER": "Enter quote...",
-    "QUOTEE_PLACEHOLDER": "Who said it?",
-    "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more...",
-    "ADD_SECTION_TOOLTIP": "Quote"
-  },
-  "SUMMARY": {
-    "ADD_ROW": "Add row",
-    "SUBTITLE_PLACEHOLDER": "Subtitle",
-    "ROW_PLACEHOLDER": "Enter text...",
-    "NO_EFFECT": "None",
-    "FADE_EFFECT": "Fade In",
-    "TITLE_PLACEHOLDER": "Title",
-    "ADD_SECTION_TOOLTIP": "Summary Card"
-  },
-  "VIDEO_CREATOR": {
-    "PLAY": "PLAY",
-    "PAUSE": "PAUSE",
-    "GALLERY_TITLE": "Pick a template",
-    "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
-    "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
-    "SETTINGS": {
-      "TITLE": "Settings",
-      "AUTOPLAY_SWITCH_LABEL": "Autoplay",
-      "MUTE_SWITCH_LABEL": "Autoplay",
-      "LOGO_LABEL": "Custom Logo",
-      "CLOSE_SETTINGS": "Back to Edit",
-      "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness",
-      "ENABLE_LOGO_ACROSS_VIDEO": "Show logo during video",
-      "TEMPLATE": "Template",
-      "ASPECT_RATIO": "Aspect Ratio",
-      "DEFINE_BY_DEVICE": "Defined by device (desktop/mobile)"
-    },
-    "PREVIEW_BUT": "Preview Video",
-    "NOT_SUPPORTED_LABEL": "Not Supported",
-    "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly.",
-    "REMOVE_SCENE": {
-      "TITLE": "Are you sure ?",
-      "DELETE_BUTTON_TEXT": "Delete"
-    },
-    "SCENE_NAME": {
-      "GENERAL": {
-        "INTRO_LABEL": "INTRO",
-        "ENDING_LABEL": "ENDING",
-        "CREDITS_LABEL": "CREDITS"
-      },
-      "CLASSIC": {
-        "ITEM_LABEL": "ITEM"
-      },
-      "FACTS": {
-        "ITEM_LABEL": "FACT"
-      },
-      "SWIFT": {
-        "ITEM_BOTTOM_LABEL": "BOTTOM",
-        "ITEM_TOP_LABEL": "TOP"
-      },
-      "VS": {
-        "ITEM_LABEL": "SUBJECT",
-        "ENDING_LABEL": "CONCLUSION"
-      }
-    },
-    "CHANGE_TEMPLATE_WARNING": {
-      "TITLE": "Different Template Type",
-      "WARNING_MESSAGE": "Content entered might not be displayed in this template",
-      "CANCEL_BUTTON": "Cancel",
-      "CHANGE_BUTTON": "Change Template"
-    },
-    "AUDIO_LABEL": {
-      "NONE": "None",
-      "CINEMATIC": "Cinematic",
-      "CANCEL_BTN": "Cancel",
-      "SELECT_BTN": "Select",
-      "CORPORATE": "Corporate",
-      "POSITIVE_AND_UPBEAT": "Positive & Upbeat",
-      "ACOUSTIC": "Acoustic",
-      "HIGH_ENERGY": "High Energy",
-      "EPIC": "Epic",
-      "UPLOAD": "Upload music",
-      "ADD_MUSIC": "Add music",
-      "MY_MUSIC": "My Music",
-      "UPLOADING": "Uploading music..."
-    },
-    "TEMPLATE_NAME": {
-      "CLASSIC": "Classic",
-      "VS": "VS.",
-      "SWIFT": "Swift",
-      "FACTS": "Facts"
-    },
-    "THEME_NAME_LABEL": {
-      "DEFAULT": "Default",
-      "PLAYBUZZ": "Playbuzz",
-      "SHADES_OF_GRAY": "grey",
-      "PLAYTIME": "playtime",
-      "BACK_TO_SCHOOL": "Back To School",
-      "NEUTRAL_BLUE": "Neutral Blue",
-      "PHAEDRA": "Phaedra",
-      "FIESTA": "Fiesta",
-      "GREENS": "Greens",
-      "BUBBLEGUM": "Bubblegum",
-      "GROUND_CONTROL": "Ground Control",
-      "AMERICA": "America",
-      "BEACH_UMBRELLA": "Beach Umbrella",
-      "BEACH_TIME": "Beach Time",
-      "GOSSIP": "Gossip"
+    "ONBOARDING": {
+        "GALLERY_OPEN_LABEL": "See Examples",
+        "CONVO": {
+            "TITLE_LABEL": "Create a dialogue that fits today’s communication habits.",
+            "TEXT_1_LABEL": "Make readers feel as though they are reading someone’s text messages.",
+            "TEXT_2_LABEL": "Use the Convo template that looks and feels like iOS messenger.",
+            "TEXT_3_LABEL": "Use Convo to create a list or timeline of events. Simply upload a number or date as the image for each “participant”."
+        },
+        "FLIP_CARD": {
+            "TITLE_LABEL": "Invite readers to click and reveal the other side.",
+            "TEXT_1_LABEL": "",
+            "TEXT_2_LABEL": "Create the perfect “before and after” experience.",
+            "TEXT_3_LABEL": "Warn readers about graphic content or spoilers."
+        },
+        "PARAGRAPH": {
+            "TITLE_LABEL": "Use text to form the base for your article.",
+            "TEXT_1_LABEL": "Highlight the most important parts.",
+            "TEXT_2_LABEL": "Your reader's’ eye will immediately be drawn to the highlighted text. Make sure to highlight the important parts that they need to read.",
+            "TEXT_3_LABEL": "Include emojis and hyperlinks."
+        },
+        "POLL": {
+            "TITLE_LABEL": "Encourage readers to get involved and share their views. ",
+            "TEXT_1_LABEL": "Use a poll to getting your readers involved. Give them a chance to throw in their 2 cents! For example, asking what they think about something on social media.",
+            "TEXT_2_LABEL": "Display the vote count to show readers how others feel about the topic. ",
+            "TEXT_3_LABEL": "Use a background image and choose the Grid template to create a visually awesome poll that is fun to interact with!",
+            "TEXT_4_LABEL": "Remember to always include a “none of the above” option to give your readers an easy out if none of the options suit them.",
+            "TEXT_5_LABEL": "",
+            "TEXT_6_LABEL": "Add an image to each option."
+        },
+        "QUOTE": {
+            "TITLE_LABEL": "Highlight words of wisdom with a designed quote.",
+            "TEXT_1_LABEL": "Short and sweet; keep your quotes to the point and easy to read.",
+            "TEXT_2_LABEL": "Include the quotee’s image and name to add context."
+        },
+        "SUMMARY": {
+            "TITLE_LABEL": "Get straight to the point.",
+            "TEXT_1_LABEL": "Offer a TL;DR version of your article.",
+            "TEXT_2_LABEL": "Share recipes using the sidebar text box. ",
+            "TEXT_3_LABEL": "There are no wrong answers with our new +1 mode."
+        },
+        "VIDEO_CREATOR": {
+            "TITLE_LABEL": "Incorporate video in a flexible, low-cost manner.",
+            "TEXT_1_LABEL": "Use the classic template to create a video list with GIFs and images.",
+            "TEXT_2_LABEL": "Use the Vs. template to compare and contrast a topic that your readers care about.",
+            "TEXT_3_LABEL": "Every screen in the Vs. template will compare a subtopic under the larger comparison with text, images and GIFs!",
+            "TEXT_4_LABEL": "Use the Facts template to list facts about something important to your readers.",
+            "TEXT_5_LABEL": "Each slide in a Facts video has large text over a background image.",
+            "TEXT_6_LABEL": "Use the Swift template to create a quicker video with a an intro screen that automatically pulls visuals from all of your video’s slides."
+        },
+        "QUIZ": {
+            "TEXT_1_LABEL": "Give readers insights on what they care about most - themselves. ",
+            "TEXT_2_LABEL": "Choose a color-palette for your Personality Quiz.",
+            "TEXT_3_LABEL": "Include videos and GIFs.",
+            "TEXT_4_LABEL": "",
+            "TITLE_LABEL": "Make it personal. "
+        },
+        "TRIVIA": {
+            "TEXT_1_LABEL": "Include videos and GIFs.",
+            "TEXT_2_LABEL": "Include a call to action.",
+            "TEXT_3_LABEL": "Give readers feedback and further insights. ",
+            "TEXT_4_LABEL": "Give readers feedback and further.",
+            "TITLE_LABEL": "Challenge your audience."
+        },
+        "MEDIA": {
+            "TITLE_LABEL": "Search, upload, or paste links to add the perfect videos, images, GIFs and social media posts.",
+            "TEXT_1_LABEL": "Blur images to add mystery and hide graphic content or spoilers.",
+            "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
+            "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not.",
+            "TEXT_4_LABEL": "Embed Google Maps to share specific locations.",
+            "TEXT_5_LABEL": "Include any video from Vimeo or YouTube.",
+            "TEXT_6_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
+            "TEXT_7_LABEL": "Embed Instagram posts to make your content more visually stunning.",
+            "TEXT_8_LABEL": "Use any video on Vimeo to make your article more interesting.",
+            "TEXT_9_LABEL": "Use any video on Youtube to make your article more interesting."
+        },
+        "EMBED": {
+            "TITLE_LABEL": "Import media from the web",
+            "TEXT_1_LABEL": "Embed Google Maps to share specific locations.",
+            "TEXT_2_LABEL": "Include any video from Vimeo or YouTube.",
+            "TEXT_3_LABEL": "Embed Twitter posts to make your content more interesting and engaging.",
+            "TEXT_4_LABEL": "Embed Instagram posts to make your content more visually stunning."
+        },
+        "IMAGE": {
+            "TITLE_LABEL": "Add eye-catching visuals and effects.",
+            "TEXT_1_LABEL": "Blur images to add mystery and hide graphic content or spoilers.",
+            "TEXT_2_LABEL": "Add movement to your image with the zoom-in effect.",
+            "TEXT_3_LABEL": "Use the blur effect to give readers the choice to decide if they want to see graphic content or not."
+        },
+        "VIDEO_PLAYER": {
+            "TITLE_LABEL": "Enrich your article with videos.",
+            "TEXT_1_LABEL": "Use any video on Vimeo to make your article more interesting.",
+            "TEXT_2_LABEL": "Use any video on Youtube to make your article more interesting."
+        },
+        "CHECKLIST": {
+            "TITLE_LABEL": "Enrich your article with checklist.",
+            "TEXT_1_LABEL": "Use checklist to make your article more interesting.",
+            "TEXT_2_LABEL": "Use checklist to make your article more interesting."
+        }
     },
     "TEMPLATES": {
-      "GENERAL": {
-        "MAIN_TITLE_PLACEHOLDER": "Enter Main Title",
-        "ENTER_TEXT_PLACEHOLDER": "Caption",
-        "CTA_PLACEHOLDER": "End with call to action!",
-        "BACKGROUND_REQUIRED_VALIDATION_MSG": "Background image is required",
-        "TEXT_REQUIRED_VALIDATION_MSG": "Text is required",
-        "TITLE_REQUIRED_VALIDATION_MSG": "Title is required"
-      },
-      "CLASSIC": {
-        "SUB_TITLE_PLACEHOLDER": "Enter subtitle (optional)"
-      },
-      "VS": {
-        "PRE_CTA_PLACEHOLDER": "Preliminary text (optional)",
-        "SIDE_A_PLACEHOLDER": "A",
-        "FEATURE_A_PLACEHOLDER": "Enter text for A",
-        "SIDE_B_PLACEHOLDER": "B",
-        "FEATURE_B_PLACEHOLDER": "Enter text for B",
-        "PREMISE_PLACEHOLDER": "Enter video title",
-        "COMPARISON_PLACEHOLDER": "Comparison",
-        "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "A background image is required",
-        "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "B background image is required",
-        "A_TITLE_REQUIRED_VALIDATION_MSG": "A title is required",
-        "B_TITLE_REQUIRED_VALIDATION_MSG": "B title is required",
-        "PREMISE_REQUIRED_VALIDATION_MSG": "Video title is required",
-        "COMPARISON_REQUIRED_VALIDATION_MSG": "Comparison is required"
-      },
-      "FACTS": {
-        "ENTER_TITLE_PLACEHOLDER": "ENTER TITLE",
-        "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
-        "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
-      }
+        "START_NEW": "Start a New Item",
+        "UPDATED": "Recently updated",
+        "TEMPLATE_NAME": "Template name",
+        "NEW": "New",
+        "NEW_FROM_TEMPLATE": "New From Template",
+        "DUPLICATE": "Duplicate",
+        "ADD_A_TEMPLATE": "Save as template",
+        "ADDED_A_TEMPLATE": "Added!",
+        "ADDING": "Adding...",
+        "ADDING_DISABLED": "Before you duplicate or add a template, make sure you save what you're currently working on. ",
+        "SOMETHING_WENT_WRONG": "Something went wrong",
+        "PLEASE_TRY_AGAIN": "please try again",
+        "CREATE": "Create",
+        "INCLUDES": "INCLUDES",
+        "DELETE": "Delete",
+        "DELETE_FROM_LIST": "Are you sure you want to delete this template?",
+        "CREATING_IN_PLAYBUZZ": "Save stories as a Template to reuse over & over! ",
+        "CREATING_IN_PLAYBUZZ_2": "Creating has never been easier...",
+        "CREATING_IN_PLAYBUZZ_2_DESC": "Choose an item from a ready made template or create your own.",
+        "CREATING_IN_PLAYBUZZ_DESC_1": "To create a template, simply create a new item and choose",
+        "CREATING_IN_PLAYBUZZ_DESC_2": "> Add To Templates",
+        "START_HERE": "Start here",
+        "NO_TEMPLATES_FOUND": "I couldn’t find templates under this name",
+        "CREATE_A_TEMPLATE": "Create a template",
+        "GOT_IT": "Got it.",
+        "FEATURED": "Featured",
+        "TRAVEL": "Travel",
+        "HOLIDAY": "Holiday",
+        "FUN": "Fun",
+        "STYLE": "Style",
+        "MUSIC": "Music",
+        "SPORTS": "Sports",
+        "ENTERTAINMENT": "Entertainment",
+        "NEWS": "News",
+        "FOOD": "Food",
+        "WORKING_ON_TEMPLATE": "You're currently editing a template",
+        "VIDEO": "Video",
+        "ALL_CHANNELS": "All Channels"
     },
-    "ADD_SECTION_TOOLTIP": "Playbuzz Video",
-    "ERROR_OCCURRED_HEADER": "Error Occurred",
-    "OK": "OK",
-    "MISSING_CONTENT": "Please enter content first",
-    "CATEGORIES_NAMES": {
-      "MAGICAL": "Magical",
-      "LISTS": "Lists",
-      "COMPARISON": "Comparison"
-    },
-    "TOOLTIPS": {
-      "LAYOUT_SELECTION": "Layout Selection",
-      "FONT": "Font",
-      "ADD_ITEM": "Add Scene",
-      "PATTERN": "Pattern",
-      "MUSIC": "Music",
-      "COLOR": "Color",
-      "SETTINGS": "Settings",
-      "BACKGROUND_OPTIONS": "Background Options",
-      "NONE": "None",
-      "SOLID": "Solid",
-      "SEMI_TRANSPARENT": "Semi-transparent",
-      "TEXT_BACKGROUND_BLOCKS": "Text Background Blocks",
-      "BLUR": "Blur",
-      "SQUARE": "Square",
-      "ROUND": "Round",
-      "SKEW": "Skew",
-      "DIAMOND": "Diamond",
-      "COLOR_THEME": "Color Theme",
-      "SCENE_DURATION": "Scene duration"
-    },
-    "AUTO_DURATION": "Auto duration",
-    "BTN_INTRO_BUBBLE": {
-      "NEW": "NEW!",
-      "TITLE": "Video creation - reinvented!",
-      "DESC": "Check out our AI-powered video creation tool.",
-      "DECLINE": "Maybe later",
-      "ACCEPT": "Show me"
-    },
-    "SECTION_INTRO_BUBBLE": {
-      "NEW": "NEW!",
-      "TITLE": "Smart content deserves smart video!",
-      "DESC": "Add your content and hit \"optimize & preview \" to let our AI-powered algorithm automatically select the best layout.",
-      "DECLINE": "Got It!",
-      "ACCEPT": "Learn more"
-    },
-    "COLORS": {
-      "CANCEL_BUTTON": "Cancel",
-      "BACKGROUND": "Background",
-      "TEXT": "Text",
-      "ADDITIONAL": "Additional",
-      "PRESETS": "Presets"
-    },
-    "PRESETS": {
-      "CUSTOM_PRESET": "Custom preset",
-      "PRESET_NAME": "Preset name",
-      "RANDOM": "Random",
-      "SAVE_PRESET": "Save preset",
-      "ADD_PRESET": "Add preset",
-      "CHANNEL": "Channel",
-      "SAVE_BUTTON": "Save",
-      "CANCEL_BUTTON": "Cancel"
-    },
-    "BATCH_UPLOAD": {
-      "ORGANIZER": {
-        "MARK": "Mark",
-        "UNMARK": "Unmark"
-      }
-    },
-    "PREVIEW_VIDEO": {
-      "FULL_VIDEO": "Preview full video",
-      "FROM_CURRENT_SCENE": "Preview from current scene"
-    },
-    "FONT_LABEL": {
-      "UPLOAD": "Upload font",
-      "UPLOADING": "Uploading font...",
-      "ADD_FONT": "Add font"
-    }
-  },
-  "VIDEO_PLAYER": {
-    "DESCRIPTION_PLACEHOLDER": "Description",
-    "SETTINGS": {
-      "TITLE": "Settings",
-      "AUTOPLAY_SWITCH_LABEL": "Autoplay",
-      "MUTE_SWITCH_LABEL": "Autoplay",
-      "CLOSE_SETTINGS": "Back to Edit"
-    },
-    "ADD_SECTION_TOOLTIP": "Video Player"
-  },
-  "HELPER_POPOVER": {
     "CONVO": {
-      "TITLE": "Let readers watch the conversation unfold before their eyes",
-      "MESSAGE": "A great way to bring users information in the format they're most used to: text messages. Tip: Add images and names for each speaker to bring the text to life."
+        "PARTICIPANT_PLACEHOLDER": "Participant",
+        "BUBBLE_CONTENT_PLACEHOLDER": "Enter text...",
+        "ADD_BUBBLE_TOOLTIP": "Add Bubble",
+        "ADD_PARTICIPANT_TOOLTIP": "Add Participant",
+        "DELETE_MESSAGE": "Are you sure?",
+        "ADD_SECTION_TOOLTIP": "Convo"
     },
-    "FLIP_CARD": {
-      "TITLE": "Give them something to click about",
-      "MESSAGE": "Use suspense to tempt readers to click to the 'back' side of your flip card. Tip: Add text to tease what they can expect to see after they click."
+    "CREATE_MODULES": {
+        "TEXT_EDITOR": {
+            "WORD": "WORD",
+            "WORDS": "WORDS",
+            "GOOD": "GOOD",
+            "NORMAL": "O.K",
+            "BAD": "LITTLE TOO LONG",
+            "BOLD_TOOLTIP": "Bold",
+            "GOOD_INDICATION": "GOOD",
+            "NORMAL_INDICATION": "O.K",
+            "BAD_INDICATION": "LITTLE TOO LONG",
+            "MINIMUM_READ_TIME_LABEL": "{{readTime}} min. read",
+            "SIZE_SMALL": "Small",
+            "SIZE_NORMAL": "Normal",
+            "SIZE_LARGE": "Large",
+            "SIZE_HUGE": "Huge",
+            "SIZE_TITLE": "Title"
+        },
+        "SECTION_TITLE_PLACEHOLDER": "Title",
+        "NOT_SAVED_ERR_MESSAGE": "You have unsaved changes. Are you sure you want to leave?",
+        "LIST": {
+            "ENABLE_VOTING_SWITCH": "Enable voting",
+            "VOTE": "Vote",
+            "TYPE": {
+                "NONE": "Standalone",
+                "NUMBER": "Numbered List",
+                "BULLET": "Bulleted List",
+                "RANK": "Interactive List",
+                "DOWN": "Down Vote",
+                "VIDEO": "Video"
+            },
+            "ENABLE_DOWN_VOTE": "Enable downvoting",
+            "DISABLE_DOWN_VOTE": "Disable downvoting",
+            "DISABLE_VOTING_SWITCH": "Close voting"
+        }
+    },
+    "CTA": {
+        "NO_EFFECT": "None",
+        "PULSE_EFFECT": "Pulse",
+        "FLOATING_EFFECT": "Floating",
+        "BUTTON_TEXT": "Enter text...",
+        "LINK_PLACEHOLDER": "Enter link...",
+        "TEST_LINK_TOOLTIP": "Test link",
+        "ADD_SECTION_TOOLTIP": "CTA",
+        "APPLE_LINK_PLACEHOLDER": "iOS link (optional)",
+        "ANDROID_LINK_PLACEHOLDER": "Android link (optional)",
+        "WEB_LINK_TOOLTIP": "Universal",
+        "APPLE_LINK_TOOLTIP": "iOS",
+        "ANDROID_LINK_TOOLTIP": "Android",
+        "PHONE": "Phone",
+        "PHONE_PLACEHOLDER": "Enter phone",
+        "MOBILE_DISABLED": "Mobile URLs are disabled when using a telephone link",
+        "BUTTON_MARGIN": "Button margin"
+    },
+    "EMBED": {
+        "DESCRIPTION_PLACEHOLDER": "Description",
+        "ADD_SECTION_TOOLTIP": "From the web"
+    },
+    "IMAGE": {
+        "CAPTION": "Image",
+        "ADD_SECTION_TOOLTIP": "Image"
     },
     "PARAGRAPH": {
-      "TITLE": "The classic storytelling tool",
-      "MESSAGE": "Paragraph is great for connecting other \"experiences\" and providing more context for readers. Tip: Use our text highlighter to make your copy stand out even more — it even drags across the words in real-time as users scroll to them!"
+        "EDITOR_PLACEHOLDER": "Paragraph",
+        "ADD_SECTION_TOOLTIP": "Text"
     },
     "POLL": {
-      "TITLE": "Ask users what they think",
-      "MESSAGE": "Give readers an active role in your article by asking them a question. Keep in mind: people love engaging with polls to see how their opinions compare to others."
+        "BACKGROUND_TEMPLATE_TOOLTIP": "Background image",
+        "COVER_TEMPLATE_TOOLTIP": "Cover image",
+        "CLASSIC_TEMPLATE_TOOLTIP": "Classic results",
+        "GRID_TEMPLATE_TOOLTIP": "Grid results ",
+        "SETTINGS_TOOLTIP": "Poll settings",
+        "TITLE_PLACEHOLDER": "Your question here...",
+        "OPTION_PLACEHOLDER": "Option {{index}}",
+        "ADD_OPTION_BUT": "Add option",
+        "SETTINGS": {
+            "TITLE": "POLL SETTINGS",
+            "HERE_LINK": "here",
+            "BACK_BUTTON": "Back to edit",
+            "ENABLE_VOTING_SWITCH": "Enable Voting",
+            "TOTAL_VOTES_SWITCH": "Show Total Votes",
+            "DISPLAY_LOGO_SWITCH": "Display Logo",
+            "DISPLAY_LOGO_DESCRIPTION": "Apply additional customization by adding your logo. Change your display picture",
+            "END_CARD_SWITCH": "End Card",
+            "END_CARD_DESCRIPTION": "Drive more shares and engagement using End Card",
+            "END_CARD": {
+                "TITLE_LABEL": "Title",
+                "TITLE_PLACEHOLDER": "Enter title...",
+                "DESCRIPTION_LABEL": "Description",
+                "DESCRIPTION_PLACEHOLDER": "Enter description..."
+            },
+            "ALLOW_REVOTES_SWITCH": "Readers can re-vote daily",
+            "HIDE_RESULTS_SWITCH": "Hide user results",
+            "SECURED_SWITCH": "Enable Google reCAPTCHA",
+            "ADDITIONAL_SETTINGS_WARNING": "This change will be visible after you click save.",
+            "FULL_HEIGHT_RESULTS": "Stretch result background"
+        },
+        "CLASSIC_LAYOUT_TOOLTIP": "Classic bar answers",
+        "GRID_LAYOUT_TOOLTIP": "Round bar answers",
+        "DELETE_OPTION_BUT": "Delete option",
+        "SQUARE_LAYOUT_TOOLTIP": "Square bar answers",
+        "ADD_SECTION_TOOLTIP": "Poll",
+        "MATCH_RESULT": "Connect end card",
+        "MATCHED": "Connected",
+        "STAGES": {
+            "QUESTION": "Question",
+            "RESULTS": "End cards"
+        },
+        "RESULTS": {
+            "ADD_CTA": "Add Call to Action",
+            "BUTTON_MARGIN": "Button margin",
+            "PLACEHOLDER": "Enter end card text...",
+            "TITLE_SINGLE": "End card",
+            "DESC_PLACEHOLDER": "Description",
+            "ADD_RESULTS_HINT": "Add an end card and connect to each relevant option.",
+            "ADD_RESULTS": "Add end card"
+        }
     },
     "QUOTE": {
-      "TITLE": "Make your content more effective with a quote",
-      "MESSAGE": "Highlight key parts of your text to make sure your readers don't forget it. Tip: Add a background photo or gif to make your quote shine."
+        "TEXT_PLACEHOLDER": "Enter quote...",
+        "QUOTEE_PLACEHOLDER": "Who said it?",
+        "ADDITIONAL_TEXT_PLACEHOLDER": "Tell us more...",
+        "ADD_SECTION_TOOLTIP": "Quote"
     },
     "SUMMARY": {
-      "TITLE": "Break it down for readers",
-      "MESSAGE": "Summary Cards help to condense ideas and articles into something readers can understand at a glance. Tip: this experience is great for recipes."
+        "ADD_ROW": "Add row",
+        "SUBTITLE_PLACEHOLDER": "Subtitle",
+        "ROW_PLACEHOLDER": "Enter text...",
+        "NO_EFFECT": "None",
+        "FADE_EFFECT": "Fade In",
+        "TITLE_PLACEHOLDER": "Title",
+        "ADD_SECTION_TOOLTIP": "Summary Card"
     },
     "VIDEO_CREATOR": {
-      "TITLE": "Easily create engaging videos",
-      "MESSAGE": "Start with the key points you want to include in your video, building the story and adding visuals as you go. Tip: Combining video with interactivity (like polls) can boost dwell time!"
+        "PLAY": "PLAY",
+        "PAUSE": "PAUSE",
+        "GALLERY_TITLE": "Pick a template",
+        "OPEN_TEMPLATES_GALLERY_BUT": "Change Template",
+        "CLOSE_TEMPLATES_GALLERY_BUT": "Back to Edit",
+        "SETTINGS": {
+            "TITLE": "Settings",
+            "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+            "MUTE_SWITCH_LABEL": "Autoplay",
+            "LOGO_LABEL": "Custom Logo",
+            "CLOSE_SETTINGS": "Back to Edit",
+            "LOGO_DESCRIPTION": "Upload your own logo to make your mark and increase brand awareness",
+            "ENABLE_LOGO_ACROSS_VIDEO": "Show logo during video",
+            "TEMPLATE": "Template",
+            "ASPECT_RATIO": "Aspect Ratio",
+            "DEFINE_BY_DEVICE": "Defined by device (desktop/mobile)"
+        },
+        "PREVIEW_BUT": "Preview Video",
+        "NOT_SUPPORTED_LABEL": "Not Supported",
+        "IE_ERR_MESSAGE": "Preview is not supported in Internet Explorer. Go to Chrome to enjoy the full experience! You can still publish your item in Internet Explorer and your video will be ready shortly.",
+        "REMOVE_SCENE": {
+            "TITLE": "Are you sure ?",
+            "DELETE_BUTTON_TEXT": "Delete"
+        },
+        "SCENE_NAME": {
+            "GENERAL": {
+                "INTRO_LABEL": "INTRO",
+                "ENDING_LABEL": "ENDING",
+                "CREDITS_LABEL": "CREDITS"
+            },
+            "CLASSIC": {
+                "ITEM_LABEL": "ITEM"
+            },
+            "FACTS": {
+                "ITEM_LABEL": "FACT"
+            },
+            "SWIFT": {
+                "ITEM_BOTTOM_LABEL": "BOTTOM",
+                "ITEM_TOP_LABEL": "TOP"
+            },
+            "VS": {
+                "ITEM_LABEL": "SUBJECT",
+                "ENDING_LABEL": "CONCLUSION"
+            }
+        },
+        "CHANGE_TEMPLATE_WARNING": {
+            "TITLE": "Different Template Type",
+            "WARNING_MESSAGE": "Content entered might not be displayed in this template",
+            "CANCEL_BUTTON": "Cancel",
+            "CHANGE_BUTTON": "Change Template"
+        },
+        "AUDIO_LABEL": {
+            "NONE": "None",
+            "CINEMATIC": "Cinematic",
+            "CANCEL_BTN": "Cancel",
+            "SELECT_BTN": "Select",
+            "CORPORATE": "Corporate",
+            "POSITIVE_AND_UPBEAT": "Positive & Upbeat",
+            "ACOUSTIC": "Acoustic",
+            "HIGH_ENERGY": "High Energy",
+            "EPIC": "Epic",
+            "UPLOAD": "Upload music",
+            "ADD_MUSIC": "Add music",
+            "MY_MUSIC": "My Music",
+            "UPLOADING": "Uploading music..."
+        },
+        "TEMPLATE_NAME": {
+            "CLASSIC": "Classic",
+            "VS": "VS.",
+            "SWIFT": "Swift",
+            "FACTS": "Facts"
+        },
+        "THEME_NAME_LABEL": {
+            "DEFAULT": "Default",
+            "PLAYBUZZ": "EX.CO",
+            "SHADES_OF_GRAY": "grey",
+            "PLAYTIME": "playtime",
+            "BACK_TO_SCHOOL": "Back To School",
+            "NEUTRAL_BLUE": "Neutral Blue",
+            "PHAEDRA": "Phaedra",
+            "FIESTA": "Fiesta",
+            "GREENS": "Greens",
+            "BUBBLEGUM": "Bubblegum",
+            "GROUND_CONTROL": "Ground Control",
+            "AMERICA": "America",
+            "BEACH_UMBRELLA": "Beach Umbrella",
+            "BEACH_TIME": "Beach Time",
+            "GOSSIP": "Gossip"
+        },
+        "TEMPLATES": {
+            "GENERAL": {
+                "MAIN_TITLE_PLACEHOLDER": "Enter Main Title",
+                "ENTER_TEXT_PLACEHOLDER": "Caption",
+                "CTA_PLACEHOLDER": "End with call to action!",
+                "BACKGROUND_REQUIRED_VALIDATION_MSG": "Background image is required",
+                "TEXT_REQUIRED_VALIDATION_MSG": "Text is required",
+                "TITLE_REQUIRED_VALIDATION_MSG": "Title is required"
+            },
+            "CLASSIC": {
+                "SUB_TITLE_PLACEHOLDER": "Enter subtitle (optional)"
+            },
+            "VS": {
+                "PRE_CTA_PLACEHOLDER": "Preliminary text (optional)",
+                "SIDE_A_PLACEHOLDER": "A",
+                "FEATURE_A_PLACEHOLDER": "Enter text for A",
+                "SIDE_B_PLACEHOLDER": "B",
+                "FEATURE_B_PLACEHOLDER": "Enter text for B",
+                "PREMISE_PLACEHOLDER": "Enter video title",
+                "COMPARISON_PLACEHOLDER": "Comparison",
+                "A_BACKGROUND_REQUIRED_VALIDATION_MSG": "A background image is required",
+                "B_BACKGROUND_REQUIRED_VALIDATION_MSG": "B background image is required",
+                "A_TITLE_REQUIRED_VALIDATION_MSG": "A title is required",
+                "B_TITLE_REQUIRED_VALIDATION_MSG": "B title is required",
+                "PREMISE_REQUIRED_VALIDATION_MSG": "Video title is required",
+                "COMPARISON_REQUIRED_VALIDATION_MSG": "Comparison is required"
+            },
+            "FACTS": {
+                "ENTER_TITLE_PLACEHOLDER": "ENTER TITLE",
+                "ENTER_FACT_PLACEHOLDER": "ENTER FACT",
+                "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
+            }
+        },
+        "ADD_SECTION_TOOLTIP": "EX.CO Video",
+        "ERROR_OCCURRED_HEADER": "Error Occurred",
+        "OK": "OK",
+        "MISSING_CONTENT": "Please enter content first",
+        "CATEGORIES_NAMES": {
+            "MAGICAL": "Magical",
+            "LISTS": "Lists",
+            "COMPARISON": "Comparison"
+        },
+        "TOOLTIPS": {
+            "LAYOUT_SELECTION": "Layout Selection",
+            "FONT": "Font",
+            "ADD_ITEM": "Add Scene",
+            "PATTERN": "Pattern",
+            "MUSIC": "Music",
+            "COLOR": "Color",
+            "SETTINGS": "Settings",
+            "BACKGROUND_OPTIONS": "Background Options",
+            "NONE": "None",
+            "SOLID": "Solid",
+            "SEMI_TRANSPARENT": "Semi-transparent",
+            "TEXT_BACKGROUND_BLOCKS": "Text Background Blocks",
+            "BLUR": "Blur",
+            "SQUARE": "Square",
+            "ROUND": "Round",
+            "SKEW": "Skew",
+            "DIAMOND": "Diamond",
+            "COLOR_THEME": "Color Theme",
+            "SCENE_DURATION": "Scene duration"
+        },
+        "AUTO_DURATION": "Auto duration",
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Video creation - reinvented!",
+            "DESC": "Check out our AI-powered video creation tool.",
+            "DECLINE": "Maybe later",
+            "ACCEPT": "Show me"
+        },
+        "SECTION_INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Smart content deserves smart video!",
+            "DESC": "Add your content and hit \"optimize & preview \" to let our AI-powered algorithm automatically select the best layout.",
+            "DECLINE": "Got It!",
+            "ACCEPT": "Learn more"
+        },
+        "COLORS": {
+            "CANCEL_BUTTON": "Cancel",
+            "BACKGROUND": "Background",
+            "TEXT": "Text",
+            "ADDITIONAL": "Additional",
+            "PRESETS": "Presets"
+        },
+        "PRESETS": {
+            "CUSTOM_PRESET": "Custom preset",
+            "PRESET_NAME": "Preset name",
+            "RANDOM": "Random",
+            "SAVE_PRESET": "Save preset",
+            "ADD_PRESET": "Add preset",
+            "CHANNEL": "Channel",
+            "SAVE_BUTTON": "Save",
+            "CANCEL_BUTTON": "Cancel"
+        },
+        "BATCH_UPLOAD": {
+            "ORGANIZER": {
+                "MARK": "Mark",
+                "UNMARK": "Unmark"
+            }
+        },
+        "PREVIEW_VIDEO": {
+            "FULL_VIDEO": "Preview full video",
+            "FROM_CURRENT_SCENE": "Preview from current scene"
+        },
+        "FONT_LABEL": {
+            "UPLOAD": "Upload font",
+            "UPLOADING": "Uploading font...",
+            "ADD_FONT": "Add font"
+        }
+    },
+    "VIDEO_PLAYER": {
+        "DESCRIPTION_PLACEHOLDER": "Description",
+        "SETTINGS": {
+            "TITLE": "Settings",
+            "AUTOPLAY_SWITCH_LABEL": "Autoplay",
+            "MUTE_SWITCH_LABEL": "Autoplay",
+            "CLOSE_SETTINGS": "Back to Edit"
+        },
+        "ADD_SECTION_TOOLTIP": "Video Player"
+    },
+    "DELETE_SECTION_BTN": "Delete",
+    "FLIP_CARD": {
+        "ADD_SECTION_TOOLTIP": "Flip Card"
     },
     "QUIZ": {
-      "TITLE": "Give readers an experience that's all about them",
-      "MESSAGE": "Turn your results into something you'd want to read about yourself – if readers like what you tell them, they'll be back for more! Tip: Using images for quiz answers creates an even more engaging user experience."
+        "DONE": "Done",
+        "INTRODUCTIONS": {
+            "RESULTS": "Let's get started!\nAdd your Personality Quiz's end result.",
+            "QUESTIONS": "Now, add questions and match them with your results."
+        },
+        "INTRO": {
+            "TITLE": "Start Screen",
+            "PLACEHOLDER": "Personality Quiz title",
+            "DESC_PLACEHOLDER": "Tell us more...",
+            "CHANGE_STAGE": "Final touches"
+        },
+        "QUESTIONS": {
+            "TITLE": "Questions",
+            "TITLE_SINGLE": "Question",
+            "ADD": "Add question",
+            "ADD_ANOTHER": "Add another question",
+            "PLACEHOLDER": "Write your question here...",
+            "CHANGE_STAGE": "Add question"
+        },
+        "RESULTS": {
+            "TITLE": "Results",
+            "TITLE_SINGLE": "Result",
+            "ADD": "Add results",
+            "ADD_ANOTHER": "Add another result",
+            "PLACEHOLDER": "Your result here...",
+            "DESC_PLACEHOLDER": "Tell us more...",
+            "CHANGE_STAGE": "Add results"
+        },
+        "ANSWERS": {
+            "TITLE": "Answer",
+            "ADD": "Add answer",
+            "ASSOCIATE": "Match results",
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Classic",
+                "GRID": "Grid"
+            },
+            "ASSOCIATION": [
+                "Unrelated",
+                "Neutral",
+                "Highly related"
+            ],
+            "ASSOCIATE_DESC": "Match this answer with one or more of the results below.",
+            "MISSING_RESULTS": "Oops, no results to match here.",
+            "ASSOCIATE_PLURAL": "matched"
+        },
+        "REMOVE_ITEM": {
+            "TITLE": "Are you sure?",
+            "DELETE_BUTTON_TEXT": "Delete",
+            "TOOLTIP": "Delete"
+        },
+        "RESULT_ACTIONS": {
+            "CTA": {
+                "ADD": "Add Call to Action",
+                "TOOLTIP": "Call-to-action",
+                "PLACEHOLDER": "Enter text..."
+            },
+            "CONTINUE": {
+                "ADD": "Call To Action Message",
+                "TOOLTIP": "Continue",
+                "PLACEHOLDER": "Enter text..."
+            },
+            "FORM": {
+                "ADD": "Add Form"
+            }
+        },
+        "ADD_SECTION_TOOLTIP": "Personality Quiz"
     },
+    "MP_CUSTOM_TEMPLATE": {
+        "EDIT_IMAGE_TITLE": "Edit Image",
+        "CROP_IMAGE_TITLE": "Crop Image",
+        "EDIT_VIDEO_TITLE": "Edit Video",
+        "NEW_LABEL": "NEW!"
+    },
+    "RESTORE_ITEM": {
+        "TITLE": "We've got your back(up)! 🤖",
+        "DESCRIPTION": "We noticed that you've made some changes to your item. Would you like to restore them?",
+        "RESTORE_BUTTON": "Restore in new tab",
+        "CANCEL_BUTTON": "No thanks"
+    },
+    "DUPLICATE_SECTION_BTN": "Duplicate",
     "TRIVIA": {
-      "TITLE": "Put your readers to the test",
-      "MESSAGE": "Trivia questions compel users to engage more deeply. Tip: don't start or end with your hardest question – you don't want users to think it's too hard or leave them feeling discouraged! [note: don't love 'staring' – kind of zombielike]"
+        "DONE": "Done",
+        "INTRODUCTIONS": {
+            "RESULTS": "Champ or chump? Add your trivia's final score.",
+            "QUESTIONS": "Add your first question. Bet it's a good one..."
+        },
+        "QUESTIONS": {
+            "TITLE": "Questions",
+            "TITLE_SINGLE": "Question",
+            "ADD": "Add question",
+            "ADD_ANOTHER": "Add another question",
+            "PLACEHOLDER": "Write your question here...",
+            "CHANGE_STAGE": "Add question"
+        },
+        "FEEDBACK": {
+            "TITLE": "Feedback",
+            "PLACEHOLDER": "Anything to add?"
+        },
+        "RESULTS": {
+            "TITLE": "Final score",
+            "TITLE_SINGLE": "Score",
+            "ADD": "Add results",
+            "ADD_ANOTHER": "Add another result",
+            "PLACEHOLDER": "Tell them how they did...",
+            "DESC_PLACEHOLDER": "Tell them a bit more...",
+            "CHANGE_STAGE": "Add results"
+        },
+        "ANSWERS": {
+            "TITLE": "Answer",
+            "ADD": "Add answer",
+            "LAYOUTS_TOOLTIPS": {
+                "CLASSIC": "Classic",
+                "GRID": "Grid"
+            },
+            "MISSING_RESULTS": "You must add results first!",
+            "CORRECT_BUTTON": "Correct"
+        },
+        "REMOVE_ITEM": {
+            "TITLE": "Are you sure?",
+            "DELETE_BUTTON_TEXT": "Delete",
+            "TOOLTIP": "Delete"
+        },
+        "RESULT_ACTIONS": {
+            "CTA": {
+                "ADD": "Add Call to Action",
+                "TOOLTIP": "Call-to-action",
+                "PLACEHOLDER": "Enter text..."
+            },
+            "CONTINUE": {
+                "ADD": "Call To Action message",
+                "TOOLTIP": "Continue",
+                "PLACEHOLDER": "Enter text..."
+            }
+        },
+        "ADD_SECTION_TOOLTIP": "Trivia",
+        "MODES": {
+            "TRIVIA": "Trivia Mode",
+            "TRIVIA_DESCRIPTION": "Knowledge test",
+            "CHECKLIST": "+1 Mode",
+            "CHECKLIST_DESCRIPTION": "Points tally"
+        },
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Which monument is the tallest?",
+            "DESC": "Our new trivia will take your content to new heights!",
+            "SHOW_ME": "Show me",
+            "GOT_IT": "Got it."
+        },
+        "LAYOUTS": {
+            "OPEN": "List Layout",
+            "OPEN_DESCRIPTION": "All questions shown",
+            "CLOSE": "Slideshow Layout",
+            "CLOSE_DESCRIPTION": "Questions shown one by one"
+        }
+    },
+    "PREVIEW": {
+        "DESKTOP": "Desktop",
+        "TABLET": "Tablet",
+        "MOBILE": "Mobile"
+    },
+    "CREATOR": {
+        "TITLE_PLACEHOLDER": "Story title",
+        "SECTIONS_LOBBY_TITLE": "Let’s get this show on the road!",
+        "SECTIONS_LOBBY_SUBTITLE": "Choose one of the experiences below or drop your files anywhere to upload",
+        "ADD_HEADER": "Add a title and a Cover photo",
+        "ADD_MORE_STORY": "You're in the zone. Keep going!",
+        "MEDIA_DROP_MESSAGE": "Got media? Drop files anywhere to upload.",
+        "INTERACTIVE_SECTION_HEADER": "Interactive Experiences",
+        "INTERACTIVE_SECTION_DESCRIPTION": "Invite users to engage, giving them an active role in the experience.",
+        "CONTENT_SECTION_HEADER": "Content Experiences",
+        "CONTENT_SECTION_DESCRIPTION": "Allow users to enjoy texts and videos in new forms and styles.",
+        "PERFORMANCE_SECTION_HEADER": "Performance Experiences",
+        "PERFORMANCE_SECTION_DESCRIPTION": ""
     },
     "MEDIA": {
-      "TITLE": "Make your content stand out with visuals",
-      "MESSAGE": "Adding photos, gifs, or embeds is a great way to breathe life into a story and help to engage users. Tip: You can make your photos interactive with our blur tool"
+        "BTN_INTRO_BUBBLE": {
+            "NEW": "NEW!",
+            "TITLE": "Insert all media here!👇",
+            "DESC": "Search, upload, or paste links to add the perfect videos, images, GIFs and social media posts.",
+            "SHOW_ME": "Show me",
+            "GOT_IT": "Got It"
+        },
+        "ADD_SECTION_TOOLTIP": "Media",
+        "BATCH_UPLOAD": {
+            "INTRO": {
+                "NEW": "NEW!",
+                "HEADER": "Yummm!",
+                "DESCRIPTION": "You can now upload all of your media files at the same time, in one effortless stroke.",
+                "GOT_IT": "Got It",
+                "SEE_IT": "See it in action"
+            },
+            "ORGANIZER": {
+                "TITLE": "Insert as..",
+                "DRAG_TO_UPLOAD": "Drop your files to upload",
+                "DRAG_TO_REORDER": "Drag to reorder",
+                "INSERT": "Insert"
+            }
+        },
+        "SETTINGS": {
+            "MUTE_SWITCH_LABEL": "Autoplay"
+        }
+    },
+    "STORY_EMBED": {
+        "COPY_CODE": "Copy Code",
+        "COPIED": "Copied!",
+        "ADVANCED_SETTINGS": "Advanced Settings",
+        "SHOW_INFO_TITLE": "Display story details",
+        "SHOW_INFO_DESCRIPTION": "Show item's cover image, title, description, and author.",
+        "SHOW_SHARE_TITLE": "Display share buttons",
+        "SHOW_SHARE_DESCRIPTION": "Shares will link to your domain.",
+        "COPY_LINK": "Copy Link",
+        "ITEM_ANALYTICS": "Track Performance",
+        "VIEW_ITEM": "View item",
+        "COPY": "Copy"
+    },
+    "PUBLISH": {
+        "HEADER": "Published!",
+        "ONLY_ME": "Only you can see this item.",
+        "SUB_HEADER": "Now, take your story anywhere."
+    },
+    "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder",
+    "TIP": {
+        "SECURITY": {
+            "PRO_TIP": "🤖 Pro tip!",
+            "ENABLE_CAPTCHA": "For added security, enable Google's reCAPTCHA feature in Settings"
+        }
+    },
+    "START_SCREEN": {
+        "TITLE": "What’s your story?",
+        "NAV": {
+            "FEATURED": "NEW",
+            "TEMPLATES": "MY TEMPLATES"
+        },
+        "FEATURED": {
+            "CREATE": "Create",
+            "NEW": "New Story",
+            "FLIP": "Flip Card",
+            "FLIP_TITLE": "Flip To Reveal The Answer",
+            "FLIP_DESC": "Create suspense with the allure of a big reveal that users have to click to discover.",
+            "QUIZ": "Personality Quiz",
+            "QUIZ_TITLE": "What Do Your Answers Say About You?",
+            "QUIZ_DESC": "Give users an experience that’s all about them.",
+            "TRIVIA": "Trivia",
+            "POLL": "Poll",
+            "POLL_TITLE": "See What Readers Think",
+            "POLL_DESC": "Everybody has an opinion! Ask a question to cast your users' votes.",
+            "LIST": "List",
+            "LIST_TITLE": "Let’s Get Listicle",
+            "LIST_DESC": "Put an elevated spin on an internet classic.",
+            "CONVO": "Convo",
+            "CONVO_TITLE": "Your Text, In Text Messages",
+            "CONVO_DESC": "Conversations presented in a way that everyone can relate to.",
+            "RANKED_LIST": "Ranked List",
+            "RANKED_LIST_TITLE": "Upvote Your Favorites",
+            "RANKED_LIST_DESC": "Let them have their say! This interactive list rearranges itself as users' votes take control.",
+            "VIDEO": "Video",
+            "VIDEO_TITLE": "Promotional Video",
+            "VIDEO_DESC": "Users love videos, so create them in just minutes! No experience or team required.",
+            "TRIVIA_TITLE": "Put People To The Test",
+            "TRIVIA_DESC": "Give users a challenge by asking questions to test their knowledge.",
+            "LEAD_FORM": "Lead Form",
+            "LEAD_FORM_TITLE": "Lead generation form",
+            "LEAD_FORM_DESC": "Get more leads and grow your database with quality leads."
+        },
+        "JOIN_US": {
+            "DESC_1": "Make every story your",
+            "SIGN_UP": "Create with Playbuzz",
+            "SIGN_IN": "Log In",
+            "DESC_2": "best one yet"
+        },
+        "MEDIA": {
+            "DROP_TITLE": "Drop your media files here",
+            "TITLE": "Quick Start:\n",
+            "DESC_1": "Drop your media files here",
+            "DESC_2": "   ",
+            "OR": "Or",
+            "SEARCH": "Search our free library"
+        }
     },
     "CHECKLIST": {
-      "TITLE": "Users identify all their interests? Check",
-      "MESSAGE": "Give users an experience that’s all about them by asking a question and having them select all the answers that apply to them. Based on their answers, you can give each one a personalized result that really feels unique to their interests. Tip: Use visuals to keep users engaged longer — it’s much harder to overlook an image when checking things off!"
+        "LETS_GET_STARTED": "What's the outcome? <br> Tell your audience what their selections say about them.",
+        "ASK_QUESTION": "Ask A Question",
+        "NUN_OF_VOTES": "Users can select up to",
+        "ANSWERS": "answers",
+        "ENTER_ANSWER": "Enter answer",
+        "ADD_ANSWER": "Add Answer",
+        "MATCH_RESULTS": "Match Results",
+        "MATCH_SELECTION_TITLE": "Which result will this selection give them?",
+        "ADD_RESULTS": "Add Results",
+        "ADD_SECTION_TOOLTIP": "Checklist"
     },
-    "CALL_TO_ACTION": {
-      "TITLE": "Lead people to exactly where you want them",
-      "MESSAGE": "Use CTA buttons instead of — or in addition to! — hyperlinks in your story for a much more visual (and effective) way of leading users to a desired destination. Tip: Add an animation to your CTA button — like Pulse or Float — to make it even harder for readers to resist!"
+    "EXPERIENCE": {
+        "SETUP_BUTTON": "Setup",
+        "EMBED_BUTTON": "Embed",
+        "BEFORE_SAVE_EMBED": "Please 'Save/'Publish' your item in order to embed this section",
+        "SPONSORED_TOGGLE": "Sponsored",
+        "SETUP_TAB": "Setup",
+        "PREVIEW_TAB": "Preview",
+        "INFORMATION": "Information",
+        "CREATIVE_NAME_LABEL": "Creative name",
+        "CREATIVE_NAME_PLACEHOLDER": "Creative name",
+        "ADVERTISER_NAME_LABEL": "Advertiser name",
+        "ADVERTISER_NAME_PLACEHOLDER": "Advertiser name",
+        "CAMPAIGN_NAME_LABEL": "Campaign name",
+        "CAMPAIGN_NAME_PLACEHOLDER": "Campaign name",
+        "CATEGORIES_LABEL": "Distribution categories",
+        "CATEGORIES_PLACEHOLDER": "Add category",
+        "SPONSORED_LABEL": "Sponsored label",
+        "TEXT_LABEL": "Text",
+        "POSITION_LABEL": "Position",
+        "LOGO_LABEL": "Logo",
+        "LOGO_PLACEHOLDER": "Upload logo",
+        "LOGO_LINK_LABEL": "Logo hyperlink",
+        "LOGO_LINK_PLACEHOLDER": "Logo hyperlink",
+        "UPLOAD_TIP": "Please upload a PNG file, up to width: 160px or height: 60px",
+        "3RD_PARTY_SERVICE": "3rd Party Services",
+        "MOAT": "Moat",
+        "CANCEL": "Cancel",
+        "DONE": "Done",
+        "EMBED_CODE": "Embed code",
+        "CREATIVE_NAME": "Creative name",
+        "CREATIVE_ID": "Creative ID",
+        "SPONSORED_BY_PLACEHOLDER": "Sponsored by",
+        "TRANSITION": "Transition",
+        "ADD_TRANSITION_BEFORE_RESULT": "Add a screen between the question and the result"
     },
     "LEAD_FORM": {
-      "TITLE": "Find out who your audience is",
-      "MESSAGE": "You can customize the lead form to gather the information you really need from readers — name, email, phone number, favorite color, birthday, etc. Tip: Add a lead form to the end of a quiz — you’ll see their answers to every question along with their details, for a more robust user profile!"
-    }
-  },
-  "DELETE_SECTION_BTN": "Delete",
-  "FLIP_CARD": {
-    "ADD_SECTION_TOOLTIP": "Flip Card"
-  },
-  "QUIZ": {
-    "DONE": "Done",
-    "INTRODUCTIONS": {
-      "RESULTS": "Let's get started!\nAdd your Personality Quiz's end result.",
-      "QUESTIONS": "Now, add questions and match them with your results."
+        "ADD_SECTION_TOOLTIP": "Form",
+        "FORM_TITLE": "Title",
+        "BEHAVIOR": "Behavior",
+        "TYPE": {
+            "CLASSIC": {
+                "TITLE": "Classic form",
+                "DESCRIPTION": "The whole form is visible from the start"
+            },
+            "STEP_BY_STEP": {
+                "TITLE": "Step by step form",
+                "DESCRIPTION": "Each form element is revealed after completing its preceding input"
+            }
+        },
+        "FIELDS": {
+            "FULLNAME": {
+                "TITLE": "Full name",
+                "LABEL": "Name",
+                "PLACEHOLDER": "Name"
+            },
+            "EMAIL": {
+                "TITLE": "Email",
+                "LABEL": "Email",
+                "PLACEHOLDER": "Example: user@domain.com"
+            },
+            "PHONE": {
+                "TITLE": "Phone",
+                "LABEL": "Phone",
+                "PLACEHOLDER": "Example: 0123456789"
+            },
+            "COMMENTS": {
+                "TITLE": "Text area",
+                "LABEL": "Comments",
+                "PLACEHOLDER": "Comments"
+            },
+            "CHECKBOX": {
+                "TITLE": "Checkbox",
+                "LABEL": "Checkbox",
+                "PLACEHOLDER": "Checkbox text"
+            },
+            "RECAPTCHA": {
+                "LABEL": "reCAPTCHA",
+                "TITLE": "reCAPTCHA",
+                "PLACEHOLDER": "I'm not a robot"
+            },
+            "DISCLAIMER_CONSENT": {
+                "LABEL": "User consent"
+            },
+            "DROPDOWN": {
+                "TITLE": "Dropdown",
+                "LABEL": "Type the question here...",
+                "PLACEHOLDER": "Option {{ index }}",
+                "ADD_OPTION_HINT": "Press 'ENTER' to add another option"
+            }
+        },
+        "VALIDATIONS": {
+            "REQUIRED": "Required"
+        },
+        "SUBMIT": "Submit",
+        "ADD": "Add",
+        "SUBMIT_SUCCESS": {
+            "DEFAULT_MESSAGE": "Thanks, your details were successfully sent!",
+            "PLACEHOLDER": "Enter form success message"
+        }
     },
-    "INTRO": {
-      "TITLE": "Start Screen",
-      "PLACEHOLDER": "Personality Quiz title",
-      "DESC_PLACEHOLDER": "Tell us more...",
-      "CHANGE_STAGE": "Final touches"
+    "HELPER_POPOVER": {
+        "CONVO": {
+            "TITLE": "Let readers watch the conversation unfold before their eyes",
+            "MESSAGE": "A great way to bring users information in the format they're most used to: text messages. Tip: Add images and names for each speaker to bring the text to life."
+        },
+        "FLIP_CARD": {
+            "TITLE": "Give them something to click about",
+            "MESSAGE": "Use suspense to tempt readers to click to the 'back' side of your flip card. Tip: Add text to tease what they can expect to see after they click."
+        },
+        "PARAGRAPH": {
+            "TITLE": "The classic storytelling tool",
+            "MESSAGE": "Paragraph is great for connecting other \"experiences\" and providing more context for readers. Tip: Use our text highlighter to make your copy stand out even more — it even drags across the words in real-time as users scroll to them!"
+        },
+        "POLL": {
+            "TITLE": "Ask users what they think",
+            "MESSAGE": "Give readers an active role in your article by asking them a question. Keep in mind: people love engaging with polls to see how their opinions compare to others."
+        },
+        "QUOTE": {
+            "TITLE": "Make your content more effective with a quote",
+            "MESSAGE": "Highlight key parts of your text to make sure your readers don't forget it. Tip: Add a background photo or gif to make your quote shine."
+        },
+        "SUMMARY": {
+            "TITLE": "Break it down for readers",
+            "MESSAGE": "Summary Cards help to condense ideas and articles into something readers can understand at a glance. Tip: this experience is great for recipes."
+        },
+        "VIDEO_CREATOR": {
+            "TITLE": "Easily create engaging videos",
+            "MESSAGE": "Start with the key points you want to include in your video, building the story and adding visuals as you go. Tip: Combining video with interactivity (like polls) can boost dwell time!"
+        },
+        "QUIZ": {
+            "TITLE": "Give readers an experience that's all about them",
+            "MESSAGE": "Turn your results into something you'd want to read about yourself – if readers like what you tell them, they'll be back for more! Tip: Using images for quiz answers creates an even more engaging user experience."
+        },
+        "TRIVIA": {
+            "TITLE": "Put your readers to the test",
+            "MESSAGE": "Trivia questions compel users to engage more deeply. Tip: don't start or end with your hardest question – you don't want users to think it's too hard or leave them feeling discouraged! [note: don't love 'staring' – kind of zombielike]"
+        },
+        "MEDIA": {
+            "TITLE": "Make your content stand out with visuals",
+            "MESSAGE": "Upload media from your desktop or around the web, and crop or edit it directly within the platform. Tip: You can make your images interactive with our blur tool"
+        },
+        "CHECKLIST": {
+            "TITLE": "Users identify all their interests? Check",
+            "MESSAGE": "Give users an experience that’s all about them by asking a question and having them select all the answers that apply to them. Based on their answers, you can give each one a personalized result that really feels unique to their interests. Tip: Use visuals to keep users engaged longer — it’s much harder to overlook an image when checking things off!"
+        },
+        "CALL_TO_ACTION": {
+            "TITLE": "Lead people to exactly where you want them",
+            "MESSAGE": "Use CTA buttons instead of — or in addition to! — hyperlinks in your content for a much more visual (and effective) way of leading users to a desired destination. Tip: Add an animation to your CTA button — like Pulse or Float — to make it even harder for readers to resist!"
+        },
+        "LEAD_FORM": {
+            "TITLE": "Find out who your audience is",
+            "MESSAGE": "You can customize the lead form to gather the information you really need from readers — name, email, phone number, favorite color, birthday, etc. Tip: Add a lead form to the end of a quiz — you’ll see their answers to every question along with their details, for a more robust user profile!"
+        }
     },
-    "QUESTIONS": {
-      "TITLE": "Questions",
-      "TITLE_SINGLE": "Question",
-      "ADD": "Add question",
-      "ADD_ANOTHER": "Add another question",
-      "PLACEHOLDER": "Write your question here...",
-      "CHANGE_STAGE": "Add question"
+    "CREATOR_VIEWER": {
+        "BREADCRUMBS": {
+            "CHOOSE": "Choose",
+            "EDIT": "Edit",
+            "PREVIEW": "Preview",
+            "SAVE": "Save",
+            "NEXT": "Next",
+            "UNSAVED": "Unsaved",
+            "RECENTLY_SAVED": "Item was saved to your Items page",
+            "SAVED": "Saved",
+            "SECONDS_AGO": "a few seconds ago",
+            "COMPLETE": {
+                "PUBLISHED": "Embed/URL",
+                "DRAFT": "Complete"
+            }
+        },
+        "LOADERS": {
+            "FETCHING": "Loading item...",
+            "SAVING": "Saving...",
+            "PUBLISHING": "Publishing..."
+        },
+        "EMPTY_ITEM": {
+            "TITLE": "There's nothing to preview yet!",
+            "MESSAGE": "Craft your item first, then come back to preview your amazing creation",
+            "CTA": "Go back to edit"
+        },
+        "CHOOSE": {
+            "EMPTY_TEMPLATE_NAME": "Start from scratch",
+            "EMPTY_TEMPLATE_TITLE": "Choose your own experience",
+            "TEMPLATE_BUTTON": "Select",
+            "TEMPLATES_HEADERS": "Suggested experiences",
+            "MY_TEMPLATES_HEADERS": "My template library",
+            "HEADER": "Which experience would you like to create?",
+            "CTA_NEW": "Build my own"
+        },
+        "COMPLETE": {
+            "COPY_CODE": "Copy Code",
+            "COPIED": "Copied!",
+            "ADVANCED_SETTINGS": "customize embed settings",
+            "SHOW_INFO_TITLE": "Display item details",
+            "SHOW_INFO_DESCRIPTION": "Show item's cover image, title description, and author.",
+            "SHOW_SHARE_TITLE": "Display share buttons",
+            "SHOW_SHARE_DESCRIPTION": "Shares will link to your domain.",
+            "COPY_LINK": "Copy URL",
+            "TOOLTIP_HEADER": "Embed code was changed",
+            "TOOLTIP_MESSAGE": "Changing these settings affect the embed code",
+            "COPY_NEW_CODE": "Copy new code",
+            "HEADER": "That’s one nice looking experience",
+            "SUB_HEADER": "Now, share it with the world!",
+            "EMBED_CODE": "Embed it on your website:"
+        },
+        "POPUPS": {
+            "UNSAVED": {
+                "TITLE": "Uh oh, some of your changes haven’t been saved",
+                "MESSAGE": "If you leave the page now, they won’t be there next time you edit your content",
+                "DISCARD": "That’s ok",
+                "SAVE_CONTINUE": "Save and continue"
+            },
+            "OUTDATED": {
+                "TITLE": "You’re not working on the most recent version of this content",
+                "MESSAGE": "Another version might be open in another computer, would you like to save it anyway?",
+                "SAVE_CONTINUE": "Save this version",
+                "CANCEL": "Discard changes"
+            },
+            "CHANNELS": {
+                "TITLE": "One more thing...",
+                "MESSAGE": "Where should we save this item?",
+                "CANCEL": "Cancel",
+                "SUBMIT": "Choose"
+            },
+            "IMPROVE": {
+                "TITLE": "New! Creation steps",
+                "MESSAGE": "We've made it easier for you to see where you are in the process",
+                "CTA": "Got it"
+            },
+            "LOCALE": {
+                "TITLE": "Are you sure this is in",
+                "MESSAGE_FIRST": "It looks like you wrote this in",
+                "MESSAGE_SECOND": "but you've labeled it as",
+                "DETECTED_CTA": "Label this item as",
+                "ORIGINAL_CTA": "Leave it as"
+            },
+            "INACTIVE": {
+                "TITLE": "Before you publish",
+                "MESSAGE": "please verify your email: ",
+                "CTA": "Ok"
+            },
+            "LOGGED_OUT": {
+                "TITLE": "Before you save",
+                "MESSAGE": "looks like you have logged out, login and try again",
+                "CTA": "Go to login"
+            },
+            "FETCH_FAILED": {
+                "TITLE": "Failed to load item",
+                "MESSAGE": "this item might not be yours or it doesn't exists",
+                "CANCEL_CTA": "Go to your items",
+                "CONTINUE_CTA": "Create new item"
+            }
+        }
     },
-    "RESULTS": {
-      "TITLE": "Results",
-      "TITLE_SINGLE": "Result",
-      "ADD": "Add results",
-      "ADD_ANOTHER": "Add another result",
-      "PLACEHOLDER": "Your result here...",
-      "DESC_PLACEHOLDER": "Tell us more...",
-      "CHANGE_STAGE": "Add results"
-    },
-    "ANSWERS": {
-      "TITLE": "Answer",
-      "ADD": "Add answer",
-      "ASSOCIATE": "Match results",
-      "LAYOUTS_TOOLTIPS": {
-        "CLASSIC": "Classic",
-        "GRID": "Grid"
-      },
-      "ASSOCIATION": [
-        "Unrelated",
-        "Neutral",
-        "Highly related"
-      ],
-      "ASSOCIATE_DESC": "Match this answer with one or more of the results below.",
-      "MISSING_RESULTS": "Oops, no results to match here.",
-      "ASSOCIATE_PLURAL": "matched"
-    },
-    "REMOVE_ITEM": {
-      "TITLE": "Are you sure?",
-      "DELETE_BUTTON_TEXT": "Delete",
-      "TOOLTIP": "Delete"
-    },
-    "RESULT_ACTIONS": {
-      "CTA": {
-        "ADD": "Add Call to Action",
-        "TOOLTIP": "Call-to-action",
-        "PLACEHOLDER": "Enter text..."
-      },
-      "CONTINUE": {
-        "ADD": "Call To Action Message",
-        "TOOLTIP": "Continue",
-        "PLACEHOLDER": "Enter text..."
-      },
-      "FORM": {
-        "ADD": "Add Form"
-      }
-    },
-    "ADD_SECTION_TOOLTIP": "Personality Quiz"
-  },
-  "MP_CUSTOM_TEMPLATE": {
-    "EDIT_IMAGE_TITLE": "Edit Image",
-    "CROP_IMAGE_TITLE": "Crop Image",
-    "EDIT_VIDEO_TITLE": "Edit Video",
-    "NEW_LABEL": "NEW!"
-  },
-  "RESTORE_ITEM": {
-    "TITLE": "We've got your back(up)! 🤖",
-    "DESCRIPTION": "We noticed that you've made some changes to your item. Would you like to restore them?",
-    "RESTORE_BUTTON": "Restore in new tab",
-    "CANCEL_BUTTON": "No thanks"
-  },
-  "DUPLICATE_SECTION_BTN": "Duplicate",
-  "TRIVIA": {
-    "DONE": "Done",
-    "INTRODUCTIONS": {
-      "RESULTS": "Champ or chump? Add your trivia's final score.",
-      "QUESTIONS": "Add your first question. Bet it's a good one..."
-    },
-    "QUESTIONS": {
-      "TITLE": "Questions",
-      "TITLE_SINGLE": "Question",
-      "ADD": "Add question",
-      "ADD_ANOTHER": "Add another question",
-      "PLACEHOLDER": "Write your question here...",
-      "CHANGE_STAGE": "Add question"
-    },
-    "FEEDBACK": {
-      "TITLE": "Feedback",
-      "PLACEHOLDER": "Anything to add?"
-    },
-    "RESULTS": {
-      "TITLE": "Final score",
-      "TITLE_SINGLE": "Score",
-      "ADD": "Add results",
-      "ADD_ANOTHER": "Add another result",
-      "PLACEHOLDER": "Tell them how they did...",
-      "DESC_PLACEHOLDER": "Tell them a bit more...",
-      "CHANGE_STAGE": "Add results"
-    },
-    "ANSWERS": {
-      "TITLE": "Answer",
-      "ADD": "Add answer",
-      "LAYOUTS_TOOLTIPS": {
-        "CLASSIC": "Classic",
-        "GRID": "Grid"
-      },
-      "MISSING_RESULTS": "You must add results first!",
-      "CORRECT_BUTTON": "Correct"
-    },
-    "REMOVE_ITEM": {
-      "TITLE": "Are you sure?",
-      "DELETE_BUTTON_TEXT": "Delete",
-      "TOOLTIP": "Delete"
-    },
-    "RESULT_ACTIONS": {
-      "CTA": {
-        "ADD": "Add Call to Action",
-        "TOOLTIP": "Call-to-action",
-        "PLACEHOLDER": "Enter text..."
-      },
-      "CONTINUE": {
-        "ADD": "Call To Action message",
-        "TOOLTIP": "Continue",
-        "PLACEHOLDER": "Enter text..."
-      }
-    },
-    "ADD_SECTION_TOOLTIP": "Trivia",
-    "MODES": {
-      "TRIVIA": "Trivia Mode",
-      "TRIVIA_DESCRIPTION": "Knowledge test",
-      "CHECKLIST": "+1 Mode",
-      "CHECKLIST_DESCRIPTION": "Points tally"
-    },
-    "BTN_INTRO_BUBBLE": {
-      "NEW": "NEW!",
-      "TITLE": "Which monument is the tallest?",
-      "DESC": "Our new trivia will take your content to new heights!",
-      "SHOW_ME": "Show me",
-      "GOT_IT": "Got it."
-    },
-    "LAYOUTS": {
-      "OPEN": "List Layout",
-      "OPEN_DESCRIPTION": "All questions shown",
-      "CLOSE": "Slideshow Layout",
-      "CLOSE_DESCRIPTION": "Questions shown one by one"
-    }
-  },
-  "PREVIEW": {
-    "DESKTOP": "Desktop",
-    "TABLET": "Tablet",
-    "MOBILE": "Mobile"
-  },
-  "CREATOR": {
-    "TITLE_PLACEHOLDER": "Story title",
-    "SECTIONS_LOBBY_TITLE": "Let's get the show on the road!",
-    "SECTIONS_LOBBY_SUBTITLE": "Choose one of the experiences below or drop your files anywhere to upload",
-    "ADD_HEADER": "Add a title and a Cover photo",
-    "ADD_MORE_STORY": "You're in the zone. Keep going!",
-    "MEDIA_DROP_MESSAGE": "Got media? Drop files anywhere to upload.",
-    "INTERACTIVE_SECTION_HEADER": "Interactive Experiences",
-    "INTERACTIVE_SECTION_DESCRIPTION": "Invite users to engage, giving them an active role in the experience.",
-    "CONTENT_SECTION_HEADER": "Content Experiences",
-    "CONTENT_SECTION_DESCRIPTION": "Allow users to enjoy texts and videos in new forms and styles.",
-    "PERFORMANCE_SECTION_HEADER": "Performance Experiences",
-    "PERFORMANCE_SECTION_DESCRIPTION": ""
-  },
-  "MEDIA": {
-    "BTN_INTRO_BUBBLE": {
-      "NEW": "NEW!",
-      "TITLE": "Insert all media here!👇",
-      "DESC": "Search, upload, or paste links to add the perfect videos, images, GIFs and social media posts.",
-      "SHOW_ME": "Show me",
-      "GOT_IT": "Got It"
-    },
-    "ADD_SECTION_TOOLTIP": "Media",
-    "BATCH_UPLOAD": {
-      "INTRO": {
-        "NEW": "NEW!",
-        "HEADER": "Yummm!",
-        "DESCRIPTION": "You can now upload all of your media files at the same time, in one effortless stroke.",
-        "GOT_IT": "Got It",
-        "SEE_IT": "See it in action"
-      },
-      "ORGANIZER": {
-        "TITLE": "Insert as..",
-        "DRAG_TO_UPLOAD": "Drop your files to upload",
-        "DRAG_TO_REORDER": "Drag to reorder",
-        "INSERT": "Insert"
-      }
-    },
-    "SETTINGS": {
-      "MUTE_SWITCH_LABEL": "Autoplay"
-    }
-  },
-  "STORY_EMBED": {
-    "COPY_CODE": "Copy Code",
-    "COPIED": "Copied!",
-    "ADVANCED_SETTINGS": "Advanced Settings",
-    "SHOW_INFO_TITLE": "Display story details",
-    "SHOW_INFO_DESCRIPTION": "Show story's cover image, title, description, and author.",
-    "SHOW_SHARE_TITLE": "Display share buttons",
-    "SHOW_SHARE_DESCRIPTION": "Shares will link to your domain.",
-    "COPY_LINK": "Copy Link",
-    "ITEM_ANALYTICS": "Track Performance",
-    "VIEW_ITEM": "View Story",
-    "COPY": "Copy"
-  },
-  "PUBLISH": {
-    "HEADER": "Published!",
-    "ONLY_ME": "Only you can see this item.",
-    "SUB_HEADER": "Now, take your story anywhere."
-  },
-  "DRAG_AND_DROP_SECTION_BTN": "Drag to reorder",
-  "TIP": {
-    "SECURITY": {
-      "PRO_TIP": "🤖 Pro tip!",
-      "ENABLE_CAPTCHA": "For added security, enable Google's reCAPTCHA feature in Settings"
-    }
-  },
-  "START_SCREEN": {
-    "TITLE": "What’s your story?",
-    "NAV": {
-      "FEATURED": "NEW",
-      "TEMPLATES": "MY TEMPLATES"
-    },
-    "FEATURED": {
-      "CREATE": "Create",
-      "NEW": "New Story",
-      "FLIP": "Flip Card",
-      "FLIP_TITLE": "Flip To Reveal The Answer",
-      "FLIP_DESC": "Create suspense with the allure of a big reveal that users have to click to discover.",
-      "QUIZ": "Personality Quiz",
-      "QUIZ_TITLE": "What Do Your Answers Say About You?",
-      "QUIZ_DESC": "Give users an experience that’s all about them.",
-      "POLL": "Poll",
-      "POLL_TITLE": "See What Readers Think",
-      "POLL_DESC": "Everybody has an opinion! Ask a question to cast your users' votes.",
-      "LIST": "List",
-      "LIST_TITLE": "Let’s Get Listicle",
-      "LIST_DESC": "Put an elevated spin on an internet classic.",
-      "CONVO": "Convo",
-      "CONVO_TITLE": "Your Text, In Text Messages",
-      "CONVO_DESC": "Conversations presented in a way that everyone can relate to.",
-      "RANKED_LIST": "Ranked List",
-      "RANKED_LIST_TITLE": "Upvote Your Favorites",
-      "RANKED_LIST_DESC": "Let them have their say! This interactive list rearranges itself as users' votes take control.",
-      "VIDEO": "Video",
-      "VIDEO_TITLE": "Promotional Video",
-      "VIDEO_DESC": "Users love videos, so create them in just minutes! No experience or team required.",
-      "TRIVIA": "Trivia",
-      "TRIVIA_TITLE": "Put People To The Test",
-      "TRIVIA_DESC": "Give users a challenge by asking questions to test their knowledge.",
-      "LEAD_FORM": "Lead Form",
-      "LEAD_FORM_TITLE": "Lead generation form",
-      "LEAD_FORM_DESC": "Get more leads and grow your database with quality leads."
-    },
-    "JOIN_US": {
-      "DESC_1": "Make every story your",
-      "SIGN_UP": "Create with Playbuzz",
-      "SIGN_IN": "Log In",
-      "DESC_2": "best one yet"
-    },
-    "MEDIA": {
-      "DROP_TITLE": "Drop your media files here",
-      "TITLE": "Quick Start:\n",
-      "DESC_1": "Drop your media files here",
-      "DESC_2": "   ",
-      "OR": "Or",
-      "SEARCH": "Search our free library"
-    }
-  },
-  "CHECKLIST": {
-    "LETS_GET_STARTED": "What's the outcome? <br> Tell your audience what their selections say about them.",
-    "ASK_QUESTION": "Ask A Question",
-    "NUN_OF_VOTES": "Users can select up to",
-    "ANSWERS": "answers",
-    "ENTER_ANSWER": "Enter answer",
-    "ADD_ANSWER": "Add Answer",
-    "MATCH_RESULTS": "Match Results",
-    "MATCH_SELECTION_TITLE": "Which result will this selection give them?",
-    "ADD_RESULTS": "Add Results",
-    "ADD_SECTION_TOOLTIP": "Checklist"
-  },
-  "EXPERIENCE": {
-    "SETUP_BUTTON": "Setup",
-    "EMBED_BUTTON": "Embed",
-    "BEFORE_SAVE_EMBED": "Please 'Save/'Publish' your Story in order to embed this section",
-    "SPONSORED_TOGGLE": "Sponsored",
-    "SPONSORED_BY_PLACEHOLDER": "Sponsored by",
-    "SETUP_TAB": "Setup",
-    "PREVIEW_TAB": "Preview",
-    "INFORMATION": "Information",
-    "CREATIVE_NAME_LABEL": "Creative name",
-    "CREATIVE_NAME_PLACEHOLDER": "Creative name",
-    "ADVERTISER_NAME_LABEL": "Advertiser name",
-    "ADVERTISER_NAME_PLACEHOLDER": "Advertiser name",
-    "CAMPAIGN_NAME_LABEL": "Campaign name",
-    "CAMPAIGN_NAME_PLACEHOLDER": "Campaign name",
-    "CATEGORIES_LABEL": "Distribution categories",
-    "CATEGORIES_PLACEHOLDER": "Add category",
-    "SPONSORED_LABEL": "Sponsored label",
-    "TEXT_LABEL": "Text",
-    "POSITION_LABEL": "Position",
-    "LOGO_LABEL": "Logo",
-    "LOGO_PLACEHOLDER": "Upload logo",
-    "LOGO_LINK_LABEL": "Logo hyperlink",
-    "LOGO_LINK_PLACEHOLDER": "Logo hyperlink",
-    "UPLOAD_TIP": "Please upload a PNG file, up to width: 160px or height: 60px",
-    "3RD_PARTY_SERVICE": "3rd Party Services",
-    "MOAT": "Moat",
-    "CANCEL": "Cancel",
-    "DONE": "Done",
-    "EMBED_CODE": "Embed code",
-    "CREATIVE_NAME": "Creative name",
-    "CREATIVE_ID": "Creative ID",
-    "TRANSITION": "Transition",
-    "ADD_TRANSITION_BEFORE_RESULT": "Add a screen between the question and the result"
-  },
-  "LEAD_FORM": {
-    "ADD_SECTION_TOOLTIP": "Form",
-    "FORM_TITLE": "Title",
-    "BEHAVIOR": "Behavior",
-    "TYPE": {
-      "CLASSIC": {
-        "TITLE": "Classic form",
-        "DESCRIPTION": "The whole form is visible from the start"
-      },
-      "STEP_BY_STEP": {
-        "TITLE": "Step by step form",
-        "DESCRIPTION": "Each form element is revealed after completing its preceding input"
-      }
-    },
-    "FIELDS": {
-      "FULLNAME": {
-        "TITLE": "Full name",
-        "LABEL": "Name",
-        "PLACEHOLDER": "Name"
-      },
-      "EMAIL": {
-        "TITLE": "Email",
-        "LABEL": "Email",
-        "PLACEHOLDER": "Example: user@domain.com"
-      },
-      "PHONE": {
-        "TITLE": "Phone",
-        "LABEL": "Phone",
-        "PLACEHOLDER": "Example: 0123456789"
-      },
-      "COMMENTS": {
-        "TITLE": "Text area",
-        "LABEL": "Comments",
-        "PLACEHOLDER": "Comments"
-      },
-      "CHECKBOX": {
-        "TITLE": "Checkbox",
-        "LABEL": "Checkbox",
-        "PLACEHOLDER": "Checkbox text"
-      },
-      "DROPDOWN": {
-        "TITLE": "Dropdown",
-        "LABEL": "Type the question here...",
-        "PLACEHOLDER": "Option {{ index }}",
-        "ADD_OPTION_HINT": "Press 'ENTER' to add another option"
-      },
-      "RECAPTCHA": {
-        "LABEL": "reCAPTCHA",
-        "TITLE": "reCAPTCHA",
-        "PLACEHOLDER": "I'm not a robot"
-      },
-      "DISCLAIMER_CONSENT": {
-        "LABEL": "User consent"
-      }
-    },
-    "VALIDATIONS": {
-      "REQUIRED": "Required"
-    },
-    "SUBMIT": "Submit",
-    "ADD": "Add",
-    "SUBMIT_SUCCESS": {
-      "DEFAULT_MESSAGE": "Thanks, your details were successfully sent!",
-      "PLACEHOLDER": "Enter form success message"
-    }
-  },
-  "CREATOR_VIEWER": {
-    "BREADCRUMBS": {
-      "CHOOSE": "Choose",
-      "EDIT": "Edit",
-      "PREVIEW": "Preview",
-      "COMPLETE": {
-        "PUBLISHED": "Embed/URL",
-        "DRAFT": "Complete"
-      },
-      "SAVE": "Save",
-      "NEXT": "Next",
-      "UNSAVED": "Unsaved",
-      "RECENTLY_SAVED": "Item was saved to your Items page",
-      "SAVED": "Saved",
-      "SECONDS_AGO": "a few seconds ago"
-    },
-    "LOADERS": {
-      "FETCHING": "Loading item...",
-      "SAVING": "Saving...",
-      "PUBLISHING": "Publishing..."
-    },
-    "EMPTY_ITEM": {
-      "TITLE": "There's nothing to preview yet!",
-      "MESSAGE": "Craft your item first, then come back to preview your amazing creation",
-      "CTA": "Go back to edit"
-    },
-    "CHOOSE": {
-      "TEMPLATES_HEADERS": "Suggested experiences",
-      "MY_TEMPLATES_HEADERS": "My template library",
-      "EMPTY_TEMPLATE_NAME": "Start from scratch",
-      "EMPTY_TEMPLATE_TITLE": "Choose your own experience",
-      "TEMPLATE_BUTTON": "Select",
-      "HEADER": "Which experience would you like to create?",
-      "CTA_NEW": "Build my own"
-    },
-    "COMPLETE": {
-      "COPY_CODE": "Copy Code",
-      "COPIED": "Copied!",
-      "ADVANCED_SETTINGS": "customize embed settings",
-      "SHOW_INFO_TITLE": "Display story details",
-      "SHOW_INFO_DESCRIPTION": "Show story's cover image, title description, and author.",
-      "SHOW_SHARE_TITLE": "Display share buttons",
-      "SHOW_SHARE_DESCRIPTION": "Shares will link to your domain.",
-      "COPY_LINK": "Copy URL",
-      "TOOLTIP_HEADER": "Embed code was changed",
-      "TOOLTIP_MESSAGE": "Changing these settings affect the embed code",
-      "COPY_NEW_CODE": "Copy new code",
-      "HEADER": "That’s one nice looking experience",
-      "SUB_HEADER": "Now, share it with the world!",
-      "EMBED_CODE": "Embed it on your website:"
-    },
-    "POPUPS": {
-      "UNSAVED": {
-        "TITLE": "Uh oh, some of your changes haven’t been saved",
-        "MESSAGE": "If you leave the page now, they won’t be there next time you edit your content",
-        "DISCARD": "That’s ok",
-        "SAVE_CONTINUE": "Save and continue"
-      },
-      "OUTDATED": {
-        "TITLE": "You’re not working on the most recent version of this content",
-        "MESSAGE": "Another version might be open in another computer, would you like to save it anyway?",
-        "SAVE_CONTINUE": "Save this version",
-        "CANCEL": "Discard changes"
-      },
-      "CHANNELS": {
-        "TITLE": "One more thing...",
-        "MESSAGE": "Where should we save this item?",
-        "CANCEL": "Cancel",
-        "SUBMIT": "Choose"
-      },
-      "IMPROVE": {
-        "TITLE": "New! Creation steps",
-        "MESSAGE": "We've made it easier for you to see where you are in the process",
-        "CTA": "Got it"
-      },
-      "LOCALE": {
-        "TITLE": "Are you sure this is in",
-        "MESSAGE_FIRST": "It looks like you wrote this in",
-        "MESSAGE_SECOND": "but you've labeled it as",
-        "DETECTED_CTA": "Label this item as",
-        "ORIGINAL_CTA": "Leave it as"
-      },
-      "INACTIVE": {
-        "TITLE": "Before you publish",
-        "MESSAGE": "please verify your email: ",
-        "CTA": "Ok"
-      },
-      "LOGGED_OUT": {
-        "TITLE": "Before you save",
-        "MESSAGE": "looks like you have logged out, login and try again",
-        "CTA": "Go to login"
-      },
-      "FETCH_FAILED": {
-        "TITLE": "Failed to load item",
-        "MESSAGE": "this item might not be yours or it doesn't exists",
-        "CANCEL_CTA": "Go to your items",
-        "CONTINUE_CTA": "Create new item"
-      }
-    }
-  }
+    "ADD_SECTION_MESSAGE": "Add another experience to this item"
 }
