@@ -2,8 +2,7 @@
     "BILLING": {
         "SETTINGS": {
             "HEADER": "Settings",
-            "DESCRIPTION": "Tell us the important stuff",
-            "CTA": "Go to Lucas"
+            "DESCRIPTION": "Tell us the important stuff"
         },
         "TEAMS": {
             "HEADER": "Settings",
