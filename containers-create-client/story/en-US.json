@@ -494,7 +494,8 @@
                 "FACT_REQUIRED_VALIDATION_MSG": "Fact is required"
             }
         },
-        "ADD_SECTION_TOOLTIP": "EX.CO Video",
+        "ADD_SECTION_TOOLTIP": "Video Creator",
+        "CALCULATING": "Making Magic",
         "ERROR_OCCURRED_HEADER": "Error Occurred",
         "OK": "OK",
         "MISSING_CONTENT": "Please enter content first",
