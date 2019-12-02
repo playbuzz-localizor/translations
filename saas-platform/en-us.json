@@ -94,7 +94,9 @@
             "HEADER_TRIAL": "Oh no, your trial is over",
             "HEADER_SUBSCRIPTION": "Oh no, your subscription is canceled",
             "DESCRIPTION": "Take a look at the packages to find out how you can keep discovering more great insights.",
+            "DESCRIPTION_ANALYTICS": "Pick a plan in order to keep viewing detailed analytics",
             "CTA_CANCEL": "View your items",
+            "CTA_CANCEL_ANALYTICS": "View your items",
             "CTA_CONTINUE": "Choose a plan"
         }
     },
