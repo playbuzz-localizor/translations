@@ -495,7 +495,6 @@
             }
         },
         "ADD_SECTION_TOOLTIP": "Video Creator",
-        "CALCULATING": "Making Magic",
         "ERROR_OCCURRED_HEADER": "Error Occurred",
         "OK": "OK",
         "MISSING_CONTENT": "Please enter content first",
@@ -571,7 +570,8 @@
             "UPLOAD": "Upload font",
             "UPLOADING": "Uploading font...",
             "ADD_FONT": "Add font"
-        }
+        },
+        "CALCULATING": "Making Magic"
     },
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Description",
