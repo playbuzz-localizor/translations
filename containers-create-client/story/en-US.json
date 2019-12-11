@@ -495,7 +495,6 @@
             }
         },
         "ADD_SECTION_TOOLTIP": "Video Creator",
-        "CALCULATING": "Making Magic",
         "ERROR_OCCURRED_HEADER": "Error Occurred",
         "OK": "OK",
         "MISSING_CONTENT": "Please enter content first",
@@ -571,7 +570,8 @@
             "UPLOAD": "Upload font",
             "UPLOADING": "Uploading font...",
             "ADD_FONT": "Add font"
-        }
+        },
+        "CALCULATING": "Making Magic"
     },
     "VIDEO_PLAYER": {
         "DESCRIPTION_PLACEHOLDER": "Description",
@@ -1080,7 +1080,7 @@
             "TOOLTIP_HEADER": "Embed code was changed",
             "TOOLTIP_MESSAGE": "Changing these settings affect the embed code",
             "COPY_NEW_CODE": "Copy new code",
-            "HEADER": "That’s one nice looking experience",
+            "HEADER": "That’s one nice looking content",
             "SUB_HEADER": "Now, share it with the world!",
             "EMBED_CODE": "Embed it on your website:"
         },
