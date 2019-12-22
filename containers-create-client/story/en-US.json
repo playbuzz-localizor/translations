@@ -1,7 +1,7 @@
 {
     "LEFT_PANE": {
         "MAP": {
-            "TITLE": "Article",
+            "TITLE": "Item",
             "EMPTY_TITLE": "Get Started!",
             "EMPTY_DESCRIPTION": "Create and arrange your Item\n",
             "TOOLTIP": "Items",
