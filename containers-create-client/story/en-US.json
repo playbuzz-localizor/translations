@@ -749,7 +749,7 @@
         "MOBILE": "Mobile"
     },
     "CREATOR": {
-        "TITLE_PLACEHOLDER": "Story title",
+        "TITLE_PLACEHOLDER": "Item title",
         "SECTIONS_LOBBY_TITLE": "Let’s get this show on the road!",
         "SECTIONS_LOBBY_SUBTITLE": "Choose one of the experiences below or drop your files anywhere to upload",
         "ADD_HEADER": "Add a title and a Cover photo",
