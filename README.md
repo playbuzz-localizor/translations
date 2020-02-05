@@ -1,3 +1,5 @@
+** this repo is deprecated **
+
 # Translations
 playbuzz-localizor is a repository that store all playbuzz platfor translations.
 
